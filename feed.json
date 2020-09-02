@@ -1,0 +1,895 @@
+{
+	"version": "https://jsonfeed.org/version/1",
+	"title": "Greg Moore",
+	"icon": "https://micro.blog/gregmoore/avatar.jpg",
+	"home_page_url": "https://blog.gregmoore.me/",
+	"feed_url": "https://blog.gregmoore.me/feed.json",
+	"items": [
+		
+			{
+				"id": "http://gregmoore.micro.blog/2020/09/01/i-came-to.html",
+				
+				"content_html": "<p>I came to Micro.blog hoping to escape the mindless promotion and perfectionism of Instagram but I didn’t expect it to discover a welcoming, creative, and kind community. <a href=\"https://blog.gregmoore.me/august-photoblogging-challenge\">mbaug Recap</a></p>\n",
+				"content_text": "I came to Micro.blog hoping to escape the mindless promotion and perfectionism of Instagram but I didn’t expect it to discover a welcoming, creative, and kind community. [mbaug Recap] (https://blog.gregmoore.me/august-photoblogging-challenge)\n",
+				"date_published": "2020-09-01T18:47:22-04:00",
+				"url": "https://blog.gregmoore.me/2020/09/01/i-came-to.html"
+			},
+			{
+				"id": "http://gregmoore.micro.blog/2020/09/01/finally-some-sun.html",
+				
+				"content_html": "<p>📷 Finally some sun after two days of non-stop storms. The plants and the birds are out in full color celebration.</p>\n\n<p><img src=\"uploads/2020/ef96fa58b7.jpg\" width=\"600\" height=\"400\" alt=\"corner hedges with blue sky\" /></p>\n",
+				"content_text": "📷 Finally some sun after two days of non-stop storms. The plants and the birds are out in full color celebration.\n\n<img src=\"uploads/2020/ef96fa58b7.jpg\" width=\"600\" height=\"400\" alt=\"corner hedges with blue sky\" />\n",
+				"date_published": "2020-09-01T17:59:41-04:00",
+				"url": "https://blog.gregmoore.me/2020/09/01/finally-some-sun.html",
+				"tags": ["photos"]
+			},
+			{
+				"id": "http://gregmoore.micro.blog/2020/08/31/love-i-have.html",
+				
+				"content_html": "<p>📷 <strong>Love</strong> – I have always loved watching the sunset play off of clouds and I’ll never forget this particular evening. The fading sun was an explosion covering the entire sky and I felt the same feelings of smallness I had when visiting the Grand Canyon for the first time.</p>\n\n<p><img src=\"uploads/2020/2121f97077.jpg\" width=\"600\" height=\"400\" alt=\"sunset cloud streaks\" /></p>\n",
+				"content_text": "📷 **Love** – I have always loved watching the sunset play off of clouds and I’ll never forget this particular evening. The fading sun was an explosion covering the entire sky and I felt the same feelings of smallness I had when visiting the Grand Canyon for the first time.\n\n<img src=\"uploads/2020/2121f97077.jpg\" width=\"600\" height=\"400\" alt=\"sunset cloud streaks\" />\n",
+				"date_published": "2020-08-31T09:29:00-04:00",
+				"url": "https://blog.gregmoore.me/2020/08/31/love-i-have.html",
+				"tags": ["photos","PhotoChallengeAug2020"]
+			},
+			{
+				"id": "http://gregmoore.micro.blog/2020/08/30/discovery-theres-always.html",
+				
+				"content_html": "<p>📷 <strong>Discovery</strong> – There’s always something to discover in the boxes around our home.</p>\n\n<p><img src=\"uploads/2020/8b7305fe29.jpg\" width=\"445\" height=\"600\" alt=\"cat peeking out from inside a wooden box\" /></p>\n",
+				"content_text": "📷 **Discovery** – There’s always something to discover in the boxes around our home.\n\n<img src=\"uploads/2020/8b7305fe29.jpg\" width=\"445\" height=\"600\" alt=\"cat peeking out from inside a wooden box\" />\n",
+				"date_published": "2020-08-30T09:43:00-04:00",
+				"url": "https://blog.gregmoore.me/2020/08/30/discovery-theres-always.html",
+				"tags": ["photos","PhotoChallengeAug2020"]
+			},
+			{
+				"id": "http://gregmoore.micro.blog/2020/08/29/flake.html",
+				
+				"content_html": "<p>📷 <strong>Flake</strong></p>\n\n<p><img src=\"uploads/2020/b57076590e.jpg\" width=\"600\" height=\"600\" alt=\"bare tree in hazy snow\" /></p>\n",
+				"content_text": "📷 **Flake**\n\n<img src=\"uploads/2020/b57076590e.jpg\" width=\"600\" height=\"600\" alt=\"bare tree in hazy snow\" />\n",
+				"date_published": "2020-08-29T09:06:00-04:00",
+				"url": "https://blog.gregmoore.me/2020/08/29/flake.html",
+				"tags": ["photos","PhotoChallengeAug2020"]
+			},
+			{
+				"id": "http://gregmoore.micro.blog/2020/08/28/emotions.html",
+				
+				"content_html": "<p>📷 <strong>Emotions</strong></p>\n\n<p><img src=\"uploads/2020/f0f565c655.jpg\" width=\"448\" height=\"600\" alt=\"rainbow color spectrum\" /></p>\n",
+				"content_text": "📷 **Emotions**\n\n<img src=\"uploads/2020/f0f565c655.jpg\" width=\"448\" height=\"600\" alt=\"rainbow color spectrum\" />\n",
+				"date_published": "2020-08-28T09:19:00-04:00",
+				"url": "https://blog.gregmoore.me/2020/08/28/emotions.html",
+				"tags": ["photos","PhotoChallengeAug2020"]
+			},
+			{
+				"id": "http://gregmoore.micro.blog/2020/08/27/overcome-it-took.html",
+				
+				"content_html": "<p>📷 <strong>Overcome</strong> - It took several days of applying to get my daughter into the jedi academy before she was finally given the chance to overcome the dark side.</p>\n\n<p><img src=\"uploads/2020/fc45871559.jpg\" width=\"600\" height=\"450\" alt=\"Darth Vader battles kid\" /></p>\n",
+				"content_text": "📷 **Overcome** - It took several days of applying to get my daughter into the jedi academy before she was finally given the chance to overcome the dark side.\n\n<img src=\"uploads/2020/fc45871559.jpg\" width=\"600\" height=\"450\" alt=\"Darth Vader battles kid\" />\n",
+				"date_published": "2020-08-27T10:00:00-04:00",
+				"url": "https://blog.gregmoore.me/2020/08/27/overcome-it-took.html",
+				"tags": ["photos","PhotoChallengeAug2020"]
+			},
+			{
+				"id": "http://gregmoore.micro.blog/2020/08/26/hummingbird-friend-visited.html",
+				
+				"content_html": "<p>📷 Hummingbird friend visited us again today. Luckily, my camera was sitting by the window. I just love how, in spite of all our human mess, the animals keep doing their thing.</p>\n\n<p><img src=\"uploads/2020/4887128fce.jpg\" width=\"600\" height=\"400\" alt=\"Hummingbird\" /></p>\n",
+				"content_text": "📷 Hummingbird friend visited us again today. Luckily, my camera was sitting by the window. I just love how, in spite of all our human mess, the animals keep doing their thing. \n\n<img src=\"uploads/2020/4887128fce.jpg\" width=\"600\" height=\"400\" alt=\"Hummingbird\" />\n",
+				"date_published": "2020-08-26T12:58:52-04:00",
+				"url": "https://blog.gregmoore.me/2020/08/26/hummingbird-friend-visited.html",
+				"tags": ["photos"]
+			},
+			{
+				"id": "http://gregmoore.micro.blog/2020/08/26/relentless-florida-storms.html",
+				
+				"content_html": "<p>📷 <strong>Relentless</strong> – Florida storms always include relentless amounts of rain. That’s Disney’s Magic Kingdom castle right in the center.</p>\n\n<p><img src=\"uploads/2020/06c7fadba8.jpg\" width=\"600\" height=\"400\" alt=\"Disney's magic kingdom in a rainstorm\" /></p>\n",
+				"content_text": "📷 **Relentless** – Florida storms always include relentless amounts of rain. That’s Disney’s Magic Kingdom castle right in the center.\n\n<img src=\"uploads/2020/06c7fadba8.jpg\" width=\"600\" height=\"400\" alt=\"Disney's magic kingdom in a rainstorm\" />\n",
+				"date_published": "2020-08-26T00:55:00-04:00",
+				"url": "https://blog.gregmoore.me/2020/08/26/relentless-florida-storms.html",
+				"tags": ["photos","PhotoChallengeAug2020"]
+			},
+			{
+				"id": "http://gregmoore.micro.blog/2020/08/25/hope.html",
+				
+				"content_html": "<p>📷 <strong>Hope</strong></p>\n\n<p><img src=\"uploads/2020/1b909979a7.jpg\" width=\"449\" height=\"600\" alt=\"flower grows out from a wall\" /></p>\n",
+				"content_text": "📷 **Hope**\n\n<img src=\"uploads/2020/1b909979a7.jpg\" width=\"449\" height=\"600\" alt=\"flower grows out from a wall\" />\n",
+				"date_published": "2020-08-25T08:04:00-04:00",
+				"url": "https://blog.gregmoore.me/2020/08/25/hope.html",
+				"tags": ["photos","PhotoChallengeAug2020"]
+			},
+			{
+				"id": "http://gregmoore.micro.blog/2020/08/24/frosty-a-nice.html",
+				
+				"content_html": "<p>📷 <strong>Frosty</strong> – A nice frosty glass of one of my favorite beers.</p>\n\n<p><img src=\"uploads/2020/ee2adeb15a.jpg\" width=\"450\" height=\"600\" alt=\"asahi super dry beer\" /></p>\n",
+				"content_text": "📷 **Frosty** – A nice frosty glass of one of my favorite beers.\n\n<img src=\"uploads/2020/ee2adeb15a.jpg\" width=\"450\" height=\"600\" alt=\"asahi super dry beer\" />\n",
+				"date_published": "2020-08-24T00:23:00-04:00",
+				"url": "https://blog.gregmoore.me/2020/08/24/frosty-a-nice.html",
+				"tags": ["photos","PhotoChallengeAug2020"]
+			},
+			{
+				"id": "http://gregmoore.micro.blog/2020/08/23/graceful-a-great.html",
+				
+				"content_html": "<p>📷 <strong>Graceful</strong> – A great blue heron gracefully fishing in my parents backyard.</p>\n\n<p><img src=\"uploads/2020/89e6fb2aee.jpg\" width=\"600\" height=\"400\" alt=\"great blue heron\" /></p>\n",
+				"content_text": "📷 **Graceful** – A great blue heron gracefully fishing in my parents backyard.\n\n<img src=\"uploads/2020/89e6fb2aee.jpg\" width=\"600\" height=\"400\" alt=\"great blue heron\" />\n",
+				"date_published": "2020-08-23T09:47:00-04:00",
+				"url": "https://blog.gregmoore.me/2020/08/23/graceful-a-great.html",
+				"tags": ["photos","PhotoChallengeAug2020"]
+			},
+			{
+				"id": "http://gregmoore.micro.blog/2020/08/22/home-ive-moved.html",
+				
+				"content_html": "<p>📷 <strong>Home</strong> – I’ve moved far too many times for a building or a location to capture my heart but wherever these two are, I am home.</p>\n\n<p><img src=\"uploads/2020/f0394b2ee6.jpg\" width=\"600\" height=\"450\" alt=\"my family\" /></p>\n",
+				"content_text": "📷 **Home** – I’ve moved far too many times for a building or a location to capture my heart but wherever these two are, I am home. \n\n<img src=\"uploads/2020/f0394b2ee6.jpg\" width=\"600\" height=\"450\" alt=\"my family\" />\n",
+				"date_published": "2020-08-22T00:18:00-04:00",
+				"url": "https://blog.gregmoore.me/2020/08/22/home-ive-moved.html",
+				"tags": ["photos","PhotoChallengeAug2020"]
+			},
+			{
+				"id": "http://gregmoore.micro.blog/2020/08/20/crunch-my-daughter.html",
+				
+				"content_html": "<p>📷 <strong>Crunch</strong> – My daughter was born in a place where snow is something you only see in decorations and movies so it was a big deal when we visited my wife’s hometown and let her crunch through it behind the old elementary school.</p>\n\n<p><img src=\"uploads/2020/71dee209d5.jpg\" width=\"450\" height=\"600\" alt=\"no sledding during school hours\" /></p>\n",
+				"content_text": "📷 **Crunch** – My daughter was born in a place where snow is something you only see in decorations and movies so it was a big deal when we visited my wife’s hometown and let her crunch through it behind the old elementary school.\n\n<img src=\"uploads/2020/71dee209d5.jpg\" width=\"450\" height=\"600\" alt=\"no sledding during school hours\" />\n",
+				"date_published": "2020-08-21T00:12:00-04:00",
+				"url": "https://blog.gregmoore.me/2020/08/20/crunch-my-daughter.html",
+				"tags": ["photos","PhotoChallengeAug2020"]
+			},
+			{
+				"id": "http://gregmoore.micro.blog/2020/08/20/change-raintree-blooms.html",
+				
+				"content_html": "<p>📷 <strong>Change</strong> – Raintree blooms signal the change to winter’s sweet relief in Florida.</p>\n\n<p><img src=\"uploads/2020/cdc02232bd.jpg\" width=\"450\" height=\"600\" alt=\"raintree in bloom\" /></p>\n",
+				"content_text": "📷 **Change** – Raintree blooms signal the change to winter’s sweet relief in Florida.\n\n<img src=\"uploads/2020/cdc02232bd.jpg\" width=\"450\" height=\"600\" alt=\"raintree in bloom\" />\n",
+				"date_published": "2020-08-20T00:12:00-04:00",
+				"url": "https://blog.gregmoore.me/2020/08/20/change-raintree-blooms.html",
+				"tags": ["photos","PhotoChallengeAug2020"]
+			},
+			{
+				"id": "http://gregmoore.micro.blog/2020/08/19/ribbon.html",
+				
+				"content_html": "<p>📷 <strong>Ribbon</strong></p>\n\n<p><img src=\"uploads/2020/de582f95e6.jpg\" width=\"400\" height=\"600\" alt=\"cat playing with ribbon\" /></p>\n",
+				"content_text": "📷 **Ribbon**\n\n<img src=\"uploads/2020/de582f95e6.jpg\" width=\"400\" height=\"600\" alt=\"cat playing with ribbon\" />\n",
+				"date_published": "2020-08-19T08:08:00-04:00",
+				"url": "https://blog.gregmoore.me/2020/08/19/ribbon.html",
+				"tags": ["photos","PhotoChallengeAug2020"]
+			},
+			{
+				"id": "http://gregmoore.micro.blog/2020/08/18/grid-the-grid.html",
+				
+				"content_html": "<p>📷 <strong>Grid</strong> – The grid where models are assembled, computers are repaired, and small leather craft gets done.</p>\n\n<p><img src=\"uploads/2020/4706216786.jpg\" width=\"600\" height=\"450\" alt=\"hobby mat grid with tools\" /></p>\n",
+				"content_text": "📷 **Grid** – The grid where models are assembled, computers are repaired, and small leather craft gets done.\n\n<img src=\"uploads/2020/4706216786.jpg\" width=\"600\" height=\"450\" alt=\"hobby mat grid with tools\" />\n",
+				"date_published": "2020-08-18T08:48:00-04:00",
+				"url": "https://blog.gregmoore.me/2020/08/18/grid-the-grid.html",
+				"tags": ["photos","PhotoChallengeAug2020"]
+			},
+			{
+				"id": "http://gregmoore.micro.blog/2020/08/17/cuddly.html",
+				
+				"content_html": "<p>📷 <strong>Cuddly</strong></p>\n\n<p><img src=\"uploads/2020/79daf5f835.jpg\" width=\"600\" height=\"450\" alt=\"two cats cuddling\" /></p>\n",
+				"content_text": "📷 **Cuddly**\n\n<img src=\"uploads/2020/79daf5f835.jpg\" width=\"600\" height=\"450\" alt=\"two cats cuddling\" />\n",
+				"date_published": "2020-08-17T00:04:00-04:00",
+				"url": "https://blog.gregmoore.me/2020/08/17/cuddly.html",
+				"tags": ["photos","PhotoChallengeAug2020"]
+			},
+			{
+				"id": "http://gregmoore.micro.blog/2020/08/17/good-medicine.html",
+				"title": "Good Medicine",
+				"content_html": "<p>We’re at my parents and everyone is trying their best to make my daughter’s last Sunday of this terrible, no good, very bad summer break as happy as it can be. To be fair, she’s actually trying too but it’s still “Sunday sleepover at the grandparents” and that means her expensive, electronic windows to her friends have been intentionally left at home and she’s feeling their absence.</p>\n\n<p>We know that social media is more real to a 12 year old than the good intentions of her well meaning parents but this time is still some good medicine she needs. Some space to allow everything to slow down just a little. One night to think only her own thoughts. One day with nothing between her and her grandparents. She doesn’t realize how much she will miss this when it’s no longer possible. Miss them when they are no longer here. Miss them like I miss my own grandparents; two gone and the other two so far away that they might as well be.</p>\n\n<p>My grandfather is driving me around Lake Tohopekaliga in his green boat.</p>\n\n<p>My grandmother is laughing at my inability to stop laughing over some joke I found funny.</p>\n\n<p>My grandfather is over-explaining a church mission trip to another country, complete with maps, pictures, and a video.</p>\n\n<p>My grandmother is making me lunch while classical music plays on her radio and explaining how she enjoys the way the program host always begins with, “Hel-oo everyone.”</p>\n\n<p>We don’t choose what remembrances are poignant. Our minds weave love with sense memories so deeply personal that we can’t fully explain why we find them so meaningful. They just are, and that is explanation enough.</p>\n",
+				"content_text": "We’re at my parents and everyone is trying their best to make my daughter’s last Sunday of this terrible, no good, very bad summer break as happy as it can be. To be fair, she’s actually trying too but it’s still “Sunday sleepover at the grandparents” and that means her expensive, electronic windows to her friends have been intentionally left at home and she’s feeling their absence.\n\nWe know that social media is more real to a 12 year old than the good intentions of her well meaning parents but this time is still some good medicine she needs. Some space to allow everything to slow down just a little. One night to think only her own thoughts. One day with nothing between her and her grandparents. She doesn’t realize how much she will miss this when it’s no longer possible. Miss them when they are no longer here. Miss them like I miss my own grandparents; two gone and the other two so far away that they might as well be. \n\nMy grandfather is driving me around Lake Tohopekaliga in his green boat. \n\nMy grandmother is laughing at my inability to stop laughing over some joke I found funny.\n\nMy grandfather is over-explaining a church mission trip to another country, complete with maps, pictures, and a video.\n\nMy grandmother is making me lunch while classical music plays on her radio and explaining how she enjoys the way the program host always begins with, “Hel-oo everyone.”\n\nWe don’t choose what remembrances are poignant. Our minds weave love with sense memories so deeply personal that we can’t fully explain why we find them so meaningful. They just are, and that is explanation enough.\n",
+				"date_published": "2020-08-16T11:55:00-04:00",
+				"url": "https://blog.gregmoore.me/2020/08/17/good-medicine.html",
+				"tags": ["journal"]
+			},
+			{
+				"id": "http://gregmoore.micro.blog/2020/08/16/stationary-i-do.html",
+				
+				"content_html": "<p>📷 <strong>Stationary</strong> – I do not miss this even the slightest</p>\n\n<p><img src=\"uploads/2020/d446e82e3f.jpg\" width=\"450\" height=\"600\" alt=\"stationary traffic\" /></p>\n",
+				"content_text": "📷 **Stationary** – I do not miss this even the slightest\n\n<img src=\"uploads/2020/d446e82e3f.jpg\" width=\"450\" height=\"600\" alt=\"stationary traffic\" />\n",
+				"date_published": "2020-08-16T09:54:00-04:00",
+				"url": "https://blog.gregmoore.me/2020/08/16/stationary-i-do.html",
+				"tags": ["photos","PhotoChallengeAug2020"]
+			},
+			{
+				"id": "http://gregmoore.micro.blog/2020/08/15/silhouette-from-the.html",
+				
+				"content_html": "<p>📷 <strong>Silhouette</strong> – From the pre-Covid times when my family enjoyed dashing out to local breweries.</p>\n\n<p><img src=\"uploads/2020/a099464da9.jpg\" width=\"600\" height=\"489\" alt=\"Silhouette at table\" /></p>\n",
+				"content_text": "📷 **Silhouette** – From the pre-Covid times when my family enjoyed dashing out to local breweries.\n\n<img src=\"uploads/2020/a099464da9.jpg\" width=\"600\" height=\"489\" alt=\"Silhouette at table\" />\n",
+				"date_published": "2020-08-15T08:36:00-04:00",
+				"url": "https://blog.gregmoore.me/2020/08/15/silhouette-from-the.html",
+				"tags": ["photos","PhotoChallengeAug2020"]
+			},
+			{
+				"id": "http://gregmoore.micro.blog/2020/08/13/among-one-of.html",
+				
+				"content_html": "<p>📷 <strong>Among</strong> – One of my shots among the white ibis.</p>\n\n<p><img src=\"uploads/2020/bdbc864f31.jpg\" width=\"600\" height=\"600\" alt=\"white ibis\" /></p>\n",
+				"content_text": "📷 **Among** – One of my shots among the white ibis.\n\n<img src=\"uploads/2020/bdbc864f31.jpg\" width=\"600\" height=\"600\" alt=\"white ibis\" />\n",
+				"date_published": "2020-08-14T01:52:00-04:00",
+				"url": "https://blog.gregmoore.me/2020/08/13/among-one-of.html",
+				"tags": ["photos","PhotoChallengeAug2020"]
+			},
+			{
+				"id": "http://gregmoore.micro.blog/2020/08/13/filter-during-a.html",
+				
+				"content_html": "<p>📷 <strong>Filter</strong> – During a solar eclipse, the light that filtered through the trees became half-moon shaped, mirroring the celestial movements occurring in space.</p>\n\n<p><img src=\"uploads/2020/812fee192e.jpg\" width=\"600\" height=\"599\" alt=\"solar eclipse sun dapples\" /></p>\n",
+				"content_text": "📷 **Filter** – During a solar eclipse, the light that filtered through the trees became half-moon shaped, mirroring the celestial movements occurring in space.\n\n<img src=\"uploads/2020/812fee192e.jpg\" width=\"600\" height=\"599\" alt=\"solar eclipse sun dapples\" />\n",
+				"date_published": "2020-08-13T08:02:00-04:00",
+				"url": "https://blog.gregmoore.me/2020/08/13/filter-during-a.html",
+				"tags": ["photos","PhotoChallengeAug2020"]
+			},
+			{
+				"id": "http://gregmoore.micro.blog/2020/08/12/sound-i-havent.html",
+				
+				"content_html": "<p>📷 <strong>sound</strong> – I haven’t heard the sound of a pay phone in over a decade. That’s why I was so surprised to find this one by the beach in Gulfport, FL earlier this year.</p>\n\n<p><a href=\"https://blog.gregmoore.me/uploads/2020/3aa8f6765f.jpg\"><img src=\"uploads/2020/3aa8f6765f.jpg\" width=\"449\" height=\"600\" alt=\"old pay phone\" /></a></p>\n",
+				"content_text": "📷 **sound** – I haven’t heard the sound of a pay phone in over a decade. That’s why I was so surprised to find this one by the beach in Gulfport, FL earlier this year.\n\n<a href=\"https://blog.gregmoore.me/uploads/2020/3aa8f6765f.jpg\"><img src=\"uploads/2020/3aa8f6765f.jpg\" width=\"449\" height=\"600\" alt=\"old pay phone\" /></a>\n",
+				"date_published": "2020-08-12T07:54:00-04:00",
+				"url": "https://blog.gregmoore.me/2020/08/12/sound-i-havent.html",
+				"tags": ["photos","PhotoChallengeAug2020"]
+			},
+			{
+				"id": "http://gregmoore.micro.blog/2020/08/11/transport.html",
+				
+				"content_html": "<p>📷 <strong>Transport</strong> – Street view of Piccadilly Circus taken while enjoying amazing pastries at Ole &amp; Steen</p>\n\n<p><a href=\"https://blog.gregmoore.me/uploads/2020/80a8c3ea09.jpg\"><img src=\"uploads/2020/80a8c3ea09.jpg\" width=\"400\" height=\"600\" alt=\"London bus\" /></a></p>\n",
+				"content_text": "📷 **Transport** – Street view of Piccadilly Circus taken while enjoying amazing pastries at Ole & Steen\n\n<a href=\"https://blog.gregmoore.me/uploads/2020/80a8c3ea09.jpg\"><img src=\"uploads/2020/80a8c3ea09.jpg\" width=\"400\" height=\"600\" alt=\"London bus\" /></a>\n",
+				"date_published": "2020-08-11T00:13:00-04:00",
+				"url": "https://blog.gregmoore.me/2020/08/11/transport.html",
+				"tags": ["photos","PhotoChallengeAug2020"]
+			},
+			{
+				"id": "http://gregmoore.micro.blog/2020/08/10/micro-monday-i.html",
+				
+				"content_html": "<p>Micro Monday – I highly recommend the beautiful photography of <a href=\"https://micro.blog/pip\">@pip</a></p>\n",
+				"content_text": "Micro Monday – I highly recommend the beautiful photography of [@pip](https://micro.blog/pip)\n",
+				"date_published": "2020-08-10T16:22:45-04:00",
+				"url": "https://blog.gregmoore.me/2020/08/10/micro-monday-i.html"
+			},
+			{
+				"id": "http://gregmoore.micro.blog/2020/08/10/windows.html",
+				
+				"content_html": "<p>📷 <strong>Windows</strong></p>\n\n<p><a href=\"https://blog.gregmoore.me/uploads/2020/bc889ac787.jpg\"><img src=\"uploads/2020/bc889ac787.jpg\" width=\"600\" height=\"400\" alt=\"windows\" /></a></p>\n",
+				"content_text": "📷 **Windows**\n\n<a href=\"https://blog.gregmoore.me/uploads/2020/bc889ac787.jpg\"><img src=\"uploads/2020/bc889ac787.jpg\" width=\"600\" height=\"400\" alt=\"windows\" /></a>\n",
+				"date_published": "2020-08-10T00:02:00-04:00",
+				"url": "https://blog.gregmoore.me/2020/08/10/windows.html",
+				"tags": ["photos","PhotoChallengeAug2020"]
+			},
+			{
+				"id": "http://gregmoore.micro.blog/2020/08/09/black-white.html",
+				
+				"content_html": "<p>📷 <strong>Black &amp; White</strong></p>\n\n<p><a href=\"https://blog.gregmoore.me/uploads/2020/08f7b05f87.jpg\"><img src=\"uploads/2020/08f7b05f87.jpg\" width=\"600\" height=\"450\" alt=\"Tampa, FL\" /></a></p>\n",
+				"content_text": "📷 **Black & White**\n\n<a href=\"https://blog.gregmoore.me/uploads/2020/08f7b05f87.jpg\"><img src=\"uploads/2020/08f7b05f87.jpg\" width=\"600\" height=\"450\" alt=\"Tampa, FL\" /></a>\n",
+				"date_published": "2020-08-09T08:03:00-04:00",
+				"url": "https://blog.gregmoore.me/2020/08/09/black-white.html",
+				"tags": ["photos","PhotoChallengeAug2020"]
+			},
+			{
+				"id": "http://gregmoore.micro.blog/2020/08/08/view-my-favorite.html",
+				
+				"content_html": "<p>📷 <strong>View</strong> – My favorite memory from Shenandoah National Park was when my daughter suddenly got a serious look and asked us to give her a minute alone to just sit and take in the view.</p>\n\n<p><a href=\"https://blog.gregmoore.me/uploads/2020/64c8768acc.jpg\"><img src=\"uploads/2020/64c8768acc.jpg\" width=\"600\" height=\"450\" alt=\"Shenandoah mountains\" /></a></p>\n",
+				"content_text": "📷 **View** – My favorite memory from Shenandoah National Park was when my daughter suddenly got a serious look and asked us to give her a minute alone to just sit and take in the view.\n\n<a href=\"https://blog.gregmoore.me/uploads/2020/64c8768acc.jpg\"><img src=\"uploads/2020/64c8768acc.jpg\" width=\"600\" height=\"450\" alt=\"Shenandoah mountains\" /></a>\n",
+				"date_published": "2020-08-08T08:41:00-04:00",
+				"url": "https://blog.gregmoore.me/2020/08/08/view-my-favorite.html",
+				"tags": ["photos","PhotoChallengeAug2020"]
+			},
+			{
+				"id": "http://gregmoore.micro.blog/2020/08/07/daytripping.html",
+				
+				"content_html": "<p>📷 <strong>Daytripping</strong> – From back when we could do such things.</p>\n\n<p><a href=\"https://blog.gregmoore.me/uploads/2020/52bccc9d18.jpg\"><img src=\"uploads/2020/52bccc9d18.jpg\" width=\"600\" height=\"450\" style=\"height: auto;\" alt=\"Tarpon Springs, Florida\" /></a></p>\n",
+				"content_text": "📷 **Daytripping** – From back when we could do such things.\n\n<a href=\"https://blog.gregmoore.me/uploads/2020/52bccc9d18.jpg\"><img src=\"uploads/2020/52bccc9d18.jpg\" width=\"600\" height=\"450\" style=\"height: auto;\" alt=\"Tarpon Springs, Florida\" /></a>\n",
+				"date_published": "2020-08-07T09:23:00-04:00",
+				"url": "https://blog.gregmoore.me/2020/08/07/daytripping.html",
+				"tags": ["photos","PhotoChallengeAug2020"]
+			},
+			{
+				"id": "http://gregmoore.micro.blog/2020/08/06/bisect.html",
+				
+				"content_html": "<p>📷 <strong>Bisect</strong></p>\n\n<p><a href=\"https://blog.gregmoore.me/uploads/2020/8951e4c9d0.jpg\"><img src=\"uploads/2020/8951e4c9d0.jpg\" width=\"600\" height=\"400\" style=\"height: auto;\" alt=\"bisected street in London, England\" /></a></p>\n",
+				"content_text": "📷 **Bisect**\n\n<a href=\"https://blog.gregmoore.me/uploads/2020/8951e4c9d0.jpg\"><img src=\"uploads/2020/8951e4c9d0.jpg\" width=\"600\" height=\"400\" style=\"height: auto;\" alt=\"bisected street in London, England\" /></a>\n",
+				"date_published": "2020-08-06T07:42:00-04:00",
+				"url": "https://blog.gregmoore.me/2020/08/06/bisect.html",
+				"tags": ["photos","PhotoChallengeAug2020"]
+			},
+			{
+				"id": "http://gregmoore.micro.blog/2020/08/05/flow.html",
+				
+				"content_html": "<p>📷 <strong>Flow</strong></p>\n\n<p><a href=\"https://blog.gregmoore.me/uploads/2020/4f409907c3.jpg\"><img src=\"uploads/2020/4f409907c3.jpg\" width=\"600\" height=\"400\" style=\"height: auto;\" alt=\"koi fish\" /></a></p>\n",
+				"content_text": "📷 **Flow**\n\n<a href=\"https://blog.gregmoore.me/uploads/2020/4f409907c3.jpg\"><img src=\"uploads/2020/4f409907c3.jpg\" width=\"600\" height=\"400\" style=\"height: auto;\" alt=\"koi fish\" /></a>\n",
+				"date_published": "2020-08-05T08:03:00-04:00",
+				"url": "https://blog.gregmoore.me/2020/08/05/flow.html",
+				"tags": ["photos","PhotoChallengeAug2020"]
+			},
+			{
+				"id": "http://gregmoore.micro.blog/2020/08/04/peace.html",
+				
+				"content_html": "<p>📷 <strong>Peace</strong></p>\n\n<p><a href=\"https://blog.gregmoore.me/uploads/2020/e41b82835d.jpg\"><img src=\"uploads/2020/e41b82835d.jpg\" width=\"599\" height=\"600\" style=\"height: auto;\" alt=\"sun setting in pine trees\" /></a></p>\n",
+				"content_text": "📷 **Peace**\n\n<a href=\"https://blog.gregmoore.me/uploads/2020/e41b82835d.jpg\"><img src=\"uploads/2020/e41b82835d.jpg\" width=\"599\" height=\"600\" style=\"height: auto;\" alt=\"sun setting in pine trees\" /></a>\n",
+				"date_published": "2020-08-04T08:50:00-04:00",
+				"url": "https://blog.gregmoore.me/2020/08/04/peace.html",
+				"tags": ["photos","PhotoChallengeAug2020"]
+			},
+			{
+				"id": "http://gregmoore.micro.blog/2020/08/03/bug-as-in.html",
+				
+				"content_html": "<p>📷 <strong>Bug</strong> - As in, “Don’t bug us right now.”</p>\n\n<p><a href=\"https://blog.gregmoore.me/uploads/2020/d16970c624.jpg\"><img src=\"uploads/2020/d16970c624.jpg\" width=\"600\" height=\"400\" alt=\"two cats sleeping\" style=\"height: auto;\" class=\"sunlit_image\" /></a></p>\n",
+				"content_text": "📷 **Bug** - As in, “Don’t bug us right now.”\n\n<a href=\"https://blog.gregmoore.me/uploads/2020/d16970c624.jpg\"><img src=\"uploads/2020/d16970c624.jpg\" width=\"600\" height=\"400\" alt=\"two cats sleeping\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\n",
+				"date_published": "2020-08-03T08:18:00-04:00",
+				"url": "https://blog.gregmoore.me/2020/08/03/bug-as-in.html",
+				"tags": ["photos","PhotoChallengeAug2020"]
+			},
+			{
+				"id": "http://gregmoore.micro.blog/2020/08/02/floating.html",
+				
+				"content_html": "<p>📷 <strong>Floating</strong></p>\n\n<p><a href=\"https://blog.gregmoore.me/uploads/2020/0b41b4213b.jpg\"><img src=\"uploads/2020/0b41b4213b.jpg\" width=\"600\" height=\"600\" alt=\"flower petals floating in water basin\" style=\"height: auto;\" class=\"sunlit_image\" /></a></p>\n",
+				"content_text": "📷 **Floating** \n\n<a href=\"https://blog.gregmoore.me/uploads/2020/0b41b4213b.jpg\"><img src=\"uploads/2020/0b41b4213b.jpg\" width=\"600\" height=\"600\" alt=\"flower petals floating in water basin\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\n",
+				"date_published": "2020-08-02T00:40:00-04:00",
+				"url": "https://blog.gregmoore.me/2020/08/02/floating.html",
+				"tags": ["photos","PhotoChallengeAug2020"]
+			},
+			{
+				"id": "http://gregmoore.micro.blog/2020/08/01/up-mbaug.html",
+				
+				"content_html": "<p>📷 <strong>Up</strong> (Day 1 of the Micro.blog <a href=\"https://micro.welltempered.net/2020/07/23/august-photoblogging-challenge.html\">August Photoblogging Challenge</a>)</p>\n\n<p><a href=\"https://blog.gregmoore.me/uploads/2020/e56ce5b6da.jpg\"><img src=\"uploads/2020/e56ce5b6da.jpg\" width=\"600\" height=\"400\" alt=\"roof peaks at sunset\" style=\"height: auto;\" class=\"sunlit_image\" /></a></p>\n",
+				"content_text": "📷 **Up** (Day 1 of the Micro.blog [August Photoblogging Challenge](https://micro.welltempered.net/2020/07/23/august-photoblogging-challenge.html))\n\n<a href=\"https://blog.gregmoore.me/uploads/2020/e56ce5b6da.jpg\"><img src=\"uploads/2020/e56ce5b6da.jpg\" width=\"600\" height=\"400\" alt=\"roof peaks at sunset\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\n",
+				"date_published": "2020-08-01T15:02:00-04:00",
+				"url": "https://blog.gregmoore.me/2020/08/01/up-mbaug.html",
+				"tags": ["photos","PhotoChallengeAug2020"]
+			},
+			{
+				"id": "http://gregmoore.micro.blog/2020/08/01/today-we-received.html",
+				"title": "Cat Cora’s Recovery: Final Stretch",
+				"content_html": "<p><img src=\"uploads/2020/96bebc65af.jpg\" width=\"600\" height=\"400\" alt=\"\" /></p>\n\n<p>Today we received the follow up call from our vet and learned that, yes, the growths removed from our cat were in fact cancerous. Thankfully, they think they removed them all she has been recovering nicely. I know she’s better because she’s back to doing things that drive me crazy like crying when I dare to close myself in the bathroom without her.</p>\n\n<p>Honestly I’m thankful that she’s done so well because her real “problem” is caring too much and I forgot how much I’d missed that. She follows my daughter everywhere like some cat out of an anime, insists that I’ll never sleep alone, and reminds my wife when it’s time for relaxing on the couch. We do our best to love her back in kind but she’s more attentive than we’ll ever hope to be.</p>\n\n<p>The cancer is likely to return someday but until then, I’m thankful for the time I have with her.</p>\n",
+				"content_text": " <img src=\"uploads/2020/96bebc65af.jpg\" width=\"600\" height=\"400\" alt=\"\" />\n\nToday we received the follow up call from our vet and learned that, yes, the growths removed from our cat were in fact cancerous. Thankfully, they think they removed them all she has been recovering nicely. I know she’s better because she’s back to doing things that drive me crazy like crying when I dare to close myself in the bathroom without her.\n\nHonestly I’m thankful that she’s done so well because her real “problem” is caring too much and I forgot how much I’d missed that. She follows my daughter everywhere like some cat out of an anime, insists that I’ll never sleep alone, and reminds my wife when it’s time for relaxing on the couch. We do our best to love her back in kind but she’s more attentive than we’ll ever hope to be. \n\nThe cancer is likely to return someday but until then, I’m thankful for the time I have with her.\n",
+				"date_published": "2020-08-01T14:57:00-04:00",
+				"url": "https://blog.gregmoore.me/2020/08/01/today-we-received.html",
+				"tags": ["journal"]
+			},
+			{
+				"id": "http://gregmoore.micro.blog/2020/07/27/last-night-was.html",
+				"title": "Cat Cora’s Recovery: First Night",
+				"content_html": "<p><img src=\"uploads/2020/c165e0bdfa.jpg\" width=\"600\" height=\"800\" alt=\"\" /></p>\n\n<p>Last night was akin to having a newborn in the house.</p>\n\n<p>My wife and I decided the easiest way to calm Cora, and keep an eye on her, was to put our Japanese futon mattresses at the foot of the bed and sleep on floor level with her. That turned out to be true but it also meant dealing with her stumbling around the room half the night, scraping her head along the walls in an attempt to remove her cone. Thankfully, the cone held through all of that so I think we’ll sleep better tonight knowing she can’t get to her stitches and  hurt herself.</p>\n\n<p>By 2 am she stopped growling/screaming every time she stood up so we hope this means the healing has actually begun.</p>\n\n<p>We were awakened nearly every hour. It required giving ourselves little pep talks inside our head; “This minute is bad but in the next minute, things will have gotten better, no matter how small the improvement.”</p>\n",
+				"content_text": "<img src=\"uploads/2020/c165e0bdfa.jpg\" width=\"600\" height=\"800\" alt=\"\" />\n\nLast night was akin to having a newborn in the house.\n\nMy wife and I decided the easiest way to calm Cora, and keep an eye on her, was to put our Japanese futon mattresses at the foot of the bed and sleep on floor level with her. That turned out to be true but it also meant dealing with her stumbling around the room half the night, scraping her head along the walls in an attempt to remove her cone. Thankfully, the cone held through all of that so I think we’ll sleep better tonight knowing she can’t get to her stitches and  hurt herself.\n\nBy 2 am she stopped growling/screaming every time she stood up so we hope this means the healing has actually begun.\n\nWe were awakened nearly every hour. It required giving ourselves little pep talks inside our head; “This minute is bad but in the next minute, things will have gotten better, no matter how small the improvement.”\n",
+				"date_published": "2020-07-26T09:39:00-04:00",
+				"url": "https://blog.gregmoore.me/2020/07/27/last-night-was.html",
+				"tags": ["journal"]
+			},
+			{
+				"id": "http://gregmoore.micro.blog/2020/07/27/cat-coras-cancer.html",
+				"title": "Cat Cora’s Cancer",
+				"content_html": "<p><img src=\"uploads/2020/eb1691aef3.jpg\" width=\"600\" height=\"800\" alt=\"\" /></p>\n\n<p>The vet had to remove our cat, Cora’s, mammary glands from her entire left side this morning. One of them had developed a seriously large lump and an x-ray revealed enough spread to conclude the whole set had to go.</p>\n\n<p>Add cat cancer to the long list of suck that’s making up 2020.</p>\n\n<p>Before we could pick Cora up though, the vet needed to prep us over the phone. With COVID-19, clinics now do all of their post-exam consultations via a phone call while you’re sitting in your car in their parking lot. It’s safer but it feels less like telemedicine and more like your pet got in trouble while at a terrible day camp.</p>\n\n<p>The vet informed us that surgery had gone great but her recovery was down to us spending the next nine days preventing one of God’s most independent animals from messing with a first painful, then itchy, line of stitches running down the left side of her chest and past her belly. It is a big deal but it shouldn’t be a big deal, oh and, do you have an empty spare room she could recover in? (Spoilers: We don’t.)</p>\n\n<p>To aid our impossible task, they would stick a cone over her head to prevent her from reaching her stitches or feeling at all normal. Also we could cover her weeping scar with one of the precious baby shirts we’d saved from our daughter’s childhood.\nMost importantly, the vet stressed three specific things to avoid while she healed:</p>\n\n<ol>\n<li>No jumping</li>\n<li>No running</li>\n<li>No licking</li>\n</ol>\n\n<p>We assured him we understood, went and picked her up, and managed to break <em>all three</em> of his commandments within a minute of entering the house.  Even though we caaaaaarefully took the top off of the carrier as slooooowly as we could, she totally freaked, jumped out of the bottom half, and took off running. Her ever “helpful” sister, Dot, gave chase and pounced on her head cone. Now terrified, Cora ran/jumped up the stairs, stripping off the protective baby shirt so blood could get everywhere in the process, and scrambled under our bed with her sister in hot pursuit.</p>\n\n<p>I somehow I managed to wrangle Dot into another room so we could focus on how we’d get a panicked, wounded cat out from under the middle of a king-sized bed. Thankfully she wasn’t keen on exerting herself any further so she stayed put while we incredible-hulked the mattress off and removed some of the lower spring boards to more easily get to her. After carefully making sure she hadn’t reopened her stitches enough to require going back to the vet, my wife and daughter made up a quiet corner of the room while I puzzled out a way to extract her that didn’t involve further dismantling the bed. I didn’t want to stress her stitches any further so I figured I could use one of our already red beach towels as a makeshift stretcher. I scooted her onto the towel as slowly and methodically as I could and then lifted and balanced her while pulling the towel taught to keep her as flat as possible. It worked well enough but moving a screaming, bleeding cat is high on my “never again” list.</p>\n",
+				"content_text": "<img src=\"uploads/2020/eb1691aef3.jpg\" width=\"600\" height=\"800\" alt=\"\" />\n\nThe vet had to remove our cat, Cora’s, mammary glands from her entire left side this morning. One of them had developed a seriously large lump and an x-ray revealed enough spread to conclude the whole set had to go.\n\nAdd cat cancer to the long list of suck that’s making up 2020.\n\nBefore we could pick Cora up though, the vet needed to prep us over the phone. With COVID-19, clinics now do all of their post-exam consultations via a phone call while you’re sitting in your car in their parking lot. It’s safer but it feels less like telemedicine and more like your pet got in trouble while at a terrible day camp. \n\nThe vet informed us that surgery had gone great but her recovery was down to us spending the next nine days preventing one of God’s most independent animals from messing with a first painful, then itchy, line of stitches running down the left side of her chest and past her belly. It is a big deal but it shouldn’t be a big deal, oh and, do you have an empty spare room she could recover in? (Spoilers: We don’t.)\n\nTo aid our impossible task, they would stick a cone over her head to prevent her from reaching her stitches or feeling at all normal. Also we could cover her weeping scar with one of the precious baby shirts we’d saved from our daughter’s childhood. \nMost importantly, the vet stressed three specific things to avoid while she healed:\n\n1. No jumping\n2. No running\n3. No licking\n\nWe assured him we understood, went and picked her up, and managed to break _all three_ of his commandments within a minute of entering the house.  Even though we caaaaaarefully took the top off of the carrier as slooooowly as we could, she totally freaked, jumped out of the bottom half, and took off running. Her ever “helpful” sister, Dot, gave chase and pounced on her head cone. Now terrified, Cora ran/jumped up the stairs, stripping off the protective baby shirt so blood could get everywhere in the process, and scrambled under our bed with her sister in hot pursuit.\n\nI somehow I managed to wrangle Dot into another room so we could focus on how we’d get a panicked, wounded cat out from under the middle of a king-sized bed. Thankfully she wasn’t keen on exerting herself any further so she stayed put while we incredible-hulked the mattress off and removed some of the lower spring boards to more easily get to her. After carefully making sure she hadn’t reopened her stitches enough to require going back to the vet, my wife and daughter made up a quiet corner of the room while I puzzled out a way to extract her that didn’t involve further dismantling the bed. I didn’t want to stress her stitches any further so I figured I could use one of our already red beach towels as a makeshift stretcher. I scooted her onto the towel as slowly and methodically as I could and then lifted and balanced her while pulling the towel taught to keep her as flat as possible. It worked well enough but moving a screaming, bleeding cat is high on my “never again” list. \n",
+				"date_published": "2020-07-25T23:26:00-04:00",
+				"url": "https://blog.gregmoore.me/2020/07/27/cat-coras-cancer.html",
+				"tags": ["journal"]
+			},
+			{
+				"id": "http://gregmoore.micro.blog/2020/07/24/our-fierce-hunter.html",
+				
+				"content_html": "<p>Our fierce hunter wore herself out protecting us from the local songbirds.</p>\n\n<p><a href=\"https://blog.gregmoore.me/uploads/2020/d70cc24ad4.jpg\"><img src=\"uploads/2020/d70cc24ad4.jpg\" width=\"465\" height=\"600\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a></p>\n",
+				"content_text": "Our fierce hunter wore herself out protecting us from the local songbirds.\n\n<a href=\"https://blog.gregmoore.me/uploads/2020/d70cc24ad4.jpg\"><img src=\"uploads/2020/d70cc24ad4.jpg\" width=\"465\" height=\"600\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\n",
+				"date_published": "2020-07-24T08:59:19-04:00",
+				"url": "https://blog.gregmoore.me/2020/07/24/our-fierce-hunter.html",
+				"tags": ["photos"]
+			},
+			{
+				"id": "http://gregmoore.micro.blog/2020/07/23/the-hummingbirds-have.html",
+				
+				"content_html": "<p>📷 The hummingbirds have finally found our feeder. So fun to watch!</p>\n\n<p><a href=\"https://blog.gregmoore.me/uploads/2020/3f4f5d23ff.jpg\"><img src=\"uploads/2020/3f4f5d23ff.jpg\" width=\"600\" height=\"400\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a></p>\n",
+				"content_text": "📷 The hummingbirds have finally found our feeder. So fun to watch!\n\n<a href=\"https://blog.gregmoore.me/uploads/2020/3f4f5d23ff.jpg\"><img src=\"uploads/2020/3f4f5d23ff.jpg\" width=\"600\" height=\"400\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\n",
+				"date_published": "2020-07-23T23:32:00-04:00",
+				"url": "https://blog.gregmoore.me/2020/07/23/the-hummingbirds-have.html",
+				"tags": ["photos"]
+			},
+			{
+				"id": "http://gregmoore.micro.blog/2020/07/15/proud-of-my.html",
+				
+				"content_html": "<p>My daughter drew me an awesome birthday card this year.</p>\n\n<p><a href=\"https://gregmoore.micro.blog/uploads/2020/a6deda749f.jpg\"><img src=\"uploads/2020/a6deda749f.jpg\" width=\"467\" height=\"600\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a></p>\n",
+				"content_text": "My daughter drew me an awesome birthday card this year.\n\n<a href=\"https://gregmoore.micro.blog/uploads/2020/a6deda749f.jpg\"><img src=\"uploads/2020/a6deda749f.jpg\" width=\"467\" height=\"600\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\n",
+				"date_published": "2020-07-15T11:55:00-04:00",
+				"url": "https://blog.gregmoore.me/2020/07/15/proud-of-my.html",
+				"tags": ["photos"]
+			},
+			{
+				"id": "http://gregmoore.micro.blog/2020/07/13/pindo-palm-fruit.html",
+				"title": "Pindo Palm Fruit",
+				"content_html": "<p><a href=\"https://gregmoore.micro.blog/uploads/2020/7b13395586.jpg\"><img src=\"uploads/2020/7b13395586.jpg\" width=\"399\" height=\"600\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a></p>\n\n<p>I discovered this massive bunch of ripe “jelly palm” fruit on a recent walk <sup class=\"footnote-ref\" id=\"fnref:1\"><a href=\"#fn:1\">1</a></sup> and learned that it’s flavor is a cross between pineapple and apricot.</p>\n<div class=\"footnotes\">\n\n<hr />\n\n<ol>\n<li id=\"fn:1\">I&rsquo;ve been trying to become more aware of my own neighborhood now that I&rsquo;m working from home.\n <a class=\"footnote-return\" href=\"#fnref:1\"><sup>[return]</sup></a></li>\n</ol>\n</div>\n",
+				"content_text": "<a href=\"https://gregmoore.micro.blog/uploads/2020/7b13395586.jpg\"><img src=\"uploads/2020/7b13395586.jpg\" width=\"399\" height=\"600\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\nI discovered this massive bunch of ripe “jelly palm” fruit on a recent walk [^1] and learned that it’s flavor is a cross between pineapple and apricot.\n\n[^1]: I've been trying to become more aware of my own neighborhood now that I'm working from home.\n",
+				"date_published": "2020-07-13T11:50:00-04:00",
+				"url": "https://blog.gregmoore.me/2020/07/13/pindo-palm-fruit.html",
+				"tags": ["photos"]
+			},
+			{
+				"id": "http://gregmoore.micro.blog/2020/07/01/intense-afternoon-light.html",
+				
+				"content_html": "<p>📷 Intense afternoon light</p>\n\n<p><a href=\"https://gregmoore.micro.blog/uploads/2020/0a3cab5c10.jpg\">\n<img src=\"uploads/2020/0a3cab5c10.jpg\" width=\"600\" height=\"450\" alt=\"\" /></a></p>\n",
+				"content_text": "📷 Intense afternoon light\n\n<a href=\"https://gregmoore.micro.blog/uploads/2020/0a3cab5c10.jpg\">\n<img src=\"uploads/2020/0a3cab5c10.jpg\" width=\"600\" height=\"450\" alt=\"\" /></a>\n",
+				"date_published": "2020-07-01T21:14:00-04:00",
+				"url": "https://blog.gregmoore.me/2020/07/01/intense-afternoon-light.html",
+				"tags": ["photos"]
+			},
+			{
+				"id": "http://gregmoore.micro.blog/2020/06/28/the-tension-is.html",
+				
+				"content_html": "<p>The tension is palpable in my backyard.</p>\n\n<p><a href=\"https://gregmoore.micro.blog/uploads/2020/76ae70ecf3.jpg\">\n<img src=\"uploads/2020/76ae70ecf3.jpg\" width=\"600\" height=\"449\" alt=\"\" /></a></p>\n",
+				"content_text": "The tension is palpable in my backyard.\n\n<a href=\"https://gregmoore.micro.blog/uploads/2020/76ae70ecf3.jpg\">\n<img src=\"uploads/2020/76ae70ecf3.jpg\" width=\"600\" height=\"449\" alt=\"\" /></a>\n",
+				"date_published": "2020-06-28T10:37:00-04:00",
+				"url": "https://blog.gregmoore.me/2020/06/28/the-tension-is.html",
+				"tags": ["photos"]
+			},
+			{
+				"id": "http://gregmoore.micro.blog/2020/06/24/rabbit-family-visited.html",
+				
+				"content_html": "<p>Rabbit family visited this morning.</p>\n\n<p><a href=\"https://gregmoore.micro.blog/uploads/2020/f4d7ca8331.jpg\"><img src=\"uploads/2020/f4d7ca8331.jpg\" width=\"600\" height=\"399\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a></p>\n",
+				"content_text": "Rabbit family visited this morning.\n\n<a href=\"https://gregmoore.micro.blog/uploads/2020/f4d7ca8331.jpg\"><img src=\"uploads/2020/f4d7ca8331.jpg\" width=\"600\" height=\"399\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\n",
+				"date_published": "2020-06-24T08:36:41-04:00",
+				"url": "https://blog.gregmoore.me/2020/06/24/rabbit-family-visited.html",
+				"tags": ["photos"]
+			},
+			{
+				"id": "http://gregmoore.micro.blog/2020/06/23/homemade-key-lime.html",
+				
+				"content_html": "<p>Homemade key lime pie with a graham cracker crust and torched meringue topping&hellip;and then we all died of sugar shock 😳</p>\n\n<p><a href=\"https://gregmoore.micro.blog/uploads/2020/5c1108d9da.jpg\"><img src=\"uploads/2020/5c1108d9da.jpg\" width=\"600\" height=\"450\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a></p>\n",
+				"content_text": "Homemade key lime pie with a graham cracker crust and torched meringue topping...and then we all died of sugar shock 😳\n\n<a href=\"https://gregmoore.micro.blog/uploads/2020/5c1108d9da.jpg\"><img src=\"uploads/2020/5c1108d9da.jpg\" width=\"600\" height=\"450\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\n",
+				"date_published": "2020-06-23T22:48:00-04:00",
+				"url": "https://blog.gregmoore.me/2020/06/23/homemade-key-lime.html",
+				"tags": ["journal"]
+			},
+			{
+				"id": "http://gregmoore.micro.blog/2020/06/23/my-family-completed.html",
+				
+				"content_html": "<p>My family completed Voyager&rsquo;s final episodes this evening and I&rsquo;m really thankful for podcasts like <a href=\"https://www.theincomparable.com/voyager/\">Voyager Revisited</a> so I can keep thinking through it. (Thanks, <a href=\"https://micro.blog/macgenie\">@macgenie</a> 😃)</p>\n",
+				"content_text": "My family completed Voyager's final episodes this evening and I'm really thankful for podcasts like [Voyager Revisited](https://www.theincomparable.com/voyager/) so I can keep thinking through it. (Thanks, [@macgenie](https://micro.blog/macgenie) 😃)\n",
+				"date_published": "2020-06-23T22:32:00-04:00",
+				"url": "https://blog.gregmoore.me/2020/06/23/my-family-completed.html",
+				"tags": ["journal"]
+			},
+			{
+				"id": "http://gregmoore.micro.blog/2020/06/17/the-morning-dove.html",
+				
+				"content_html": "<p>The morning dove still isn’t convinced it’s too large for the bird feeder.</p>\n\n<p><a href=\"https://gregmoore.micro.blog/uploads/2020/1c10782fd3.jpg\"><img src=\"uploads/2020/1c10782fd3.jpg\" width=\"600\" height=\"400\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a></p>\n\n<p>(Update: Success! The dove eventually made it onto the feeder but then realized its head was too big for the opening. To help celebrate, we threw some seed onto the ground for it to munch on more comfortably.)</p>\n",
+				"content_text": "The morning dove still isn’t convinced it’s too large for the bird feeder.\n\n<a href=\"https://gregmoore.micro.blog/uploads/2020/1c10782fd3.jpg\"><img src=\"uploads/2020/1c10782fd3.jpg\" width=\"600\" height=\"400\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\n(Update: Success! The dove eventually made it onto the feeder but then realized its head was too big for the opening. To help celebrate, we threw some seed onto the ground for it to munch on more comfortably.)\n",
+				"date_published": "2020-06-17T09:00:00-04:00",
+				"url": "https://blog.gregmoore.me/2020/06/17/the-morning-dove.html",
+				"tags": ["photos"]
+			},
+			{
+				"id": "http://gregmoore.micro.blog/2020/06/16/the-world-needs.html",
+				
+				"content_html": "<blockquote>\n<p>&ldquo;The world needs balance and the internet is full of enough negativity, please don&rsquo;t snuff what little light remains.&rdquo;\n<a href=\"https://www.brandonsjournal.com/shame-and-blogging\">Brandon’s Journal - Shame &amp; Blogging</a></p>\n</blockquote>\n\n<p>Brandon&rsquo;s thoughts strongly mirror my own right now. I&rsquo;ll admit that I need people to keep posting all of those happy things that social networks love to pick on: sunsets, cute pets, flowers, your lunch. Keep sharing your humanity and stop giving attention to the uncaring databases of engagement algorithms.</p>\n",
+				"content_text": "> \"The world needs balance and the internet is full of enough negativity, please don't snuff what little light remains.\" \n[Brandon’s Journal - Shame & Blogging](https://www.brandonsjournal.com/shame-and-blogging)\n\nBrandon's thoughts strongly mirror my own right now. I'll admit that I need people to keep posting all of those happy things that social networks love to pick on: sunsets, cute pets, flowers, your lunch. Keep sharing your humanity and stop giving attention to the uncaring databases of engagement algorithms.\n",
+				"date_published": "2020-06-16T17:27:00-04:00",
+				"url": "https://blog.gregmoore.me/2020/06/16/the-world-needs.html",
+				"tags": ["journal"]
+			},
+			{
+				"id": "http://gregmoore.micro.blog/2020/06/14/lazy-sunday.html",
+				
+				"content_html": "<p>📷 Lazy Sunday</p>\n\n<p><a href=\"https://gregmoore.micro.blog/uploads/2020/a71e63c697.jpg\"><img src=\"uploads/2020/a71e63c697.jpg\" width=\"600\" height=\"450\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a></p>\n",
+				"content_text": "📷 Lazy Sunday\n\n<a href=\"https://gregmoore.micro.blog/uploads/2020/a71e63c697.jpg\"><img src=\"uploads/2020/a71e63c697.jpg\" width=\"600\" height=\"450\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\n",
+				"date_published": "2020-06-14T14:27:00-04:00",
+				"url": "https://blog.gregmoore.me/2020/06/14/lazy-sunday.html",
+				"tags": ["photos"]
+			},
+			{
+				"id": "http://gregmoore.micro.blog/2020/06/10/symmetry-waiting-to.html",
+				
+				"content_html": "<p>Symmetry waiting to burst</p>\n\n<p><a href=\"https://gregmoore.micro.blog/uploads/2020/11f75faf23.jpg\"><img src=\"uploads/2020/11f75faf23.jpg\" width=\"600\" height=\"400\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a></p>\n",
+				"content_text": "Symmetry waiting to burst\n\n<a href=\"https://gregmoore.micro.blog/uploads/2020/11f75faf23.jpg\"><img src=\"uploads/2020/11f75faf23.jpg\" width=\"600\" height=\"400\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\n",
+				"date_published": "2020-06-10T13:35:11-04:00",
+				"url": "https://blog.gregmoore.me/2020/06/10/symmetry-waiting-to.html",
+				"tags": ["photos"]
+			},
+			{
+				"id": "http://gregmoore.micro.blog/2020/06/03/the-spring-lilies.html",
+				
+				"content_html": "<p>The spring lilies and orchids are putting on a grand show this year.</p>\n\n<p><a href=\"https://gregmoore.micro.blog/uploads/2020/905267dd9b.jpg\"><img src=\"uploads/2020/905267dd9b.jpg\" width=\"600\" height=\"449\" alt=\"\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a><a href=\"https://gregmoore.micro.blog/uploads/2020/70758e9593.jpg\"><img src=\"uploads/2020/70758e9593.jpg\" width=\"600\" height=\"450\" alt=\"\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a></p>\n",
+				"content_text": "The spring lilies and orchids are putting on a grand show this year.\n\n<a href=\"https://gregmoore.micro.blog/uploads/2020/905267dd9b.jpg\"><img src=\"uploads/2020/905267dd9b.jpg\" width=\"600\" height=\"449\" alt=\"\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a><a href=\"https://gregmoore.micro.blog/uploads/2020/70758e9593.jpg\"><img src=\"uploads/2020/70758e9593.jpg\" width=\"600\" height=\"450\" alt=\"\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a>\n\n",
+				"date_published": "2020-06-03T08:42:50-04:00",
+				"url": "https://blog.gregmoore.me/2020/06/03/the-spring-lilies.html",
+				"tags": ["photos"]
+			},
+			{
+				"id": "http://gregmoore.micro.blog/2020/06/03/this-week-and.html",
+				
+				"content_html": "<p>This week and last have been nothing but <a href=\"https://open.spotify.com/album/2Ul7B1LEHxXzYubtkTMENs?si=ORM2xAVLRraRQJg7h7h0jQ\">Bjork</a> and CSS Grid problem solving.</p>\n",
+				"content_text": "This week and last have been nothing but [Bjork](https://open.spotify.com/album/2Ul7B1LEHxXzYubtkTMENs?si=ORM2xAVLRraRQJg7h7h0jQ) and CSS Grid problem solving.\n",
+				"date_published": "2020-06-03T08:34:00-04:00",
+				"url": "https://blog.gregmoore.me/2020/06/03/this-week-and.html",
+				"tags": ["journal"]
+			},
+			{
+				"id": "http://gregmoore.micro.blog/2020/05/30/always-nice-to.html",
+				
+				"content_html": "<p>Always nice to see a dad helping with feeding too.</p>\n\n<p><a href=\"https://gregmoore.micro.blog/uploads/2020/ac96ae9e8c.jpg\"><img src=\"uploads/2020/ac96ae9e8c.jpg\" width=\"600\" height=\"400\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a></p>\n",
+				"content_text": "Always nice to see a dad helping with feeding too.\n\n<a href=\"https://gregmoore.micro.blog/uploads/2020/ac96ae9e8c.jpg\"><img src=\"uploads/2020/ac96ae9e8c.jpg\" width=\"600\" height=\"400\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\n",
+				"date_published": "2020-05-30T22:00:43-04:00",
+				"url": "https://blog.gregmoore.me/2020/05/30/always-nice-to.html",
+				"tags": ["photos"]
+			},
+			{
+				"id": "http://gregmoore.micro.blog/2020/05/24/lazy-sunday.html",
+				
+				"content_html": "<p>Lazy Sunday</p>\n\n<p><a href=\"https://gregmoore.micro.blog/uploads/2020/7e6ee36e0e.jpg\"><img src=\"uploads/2020/7e6ee36e0e.jpg\" width=\"600\" height=\"450\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a></p>\n",
+				"content_text": "Lazy Sunday\n\n<a href=\"https://gregmoore.micro.blog/uploads/2020/7e6ee36e0e.jpg\"><img src=\"uploads/2020/7e6ee36e0e.jpg\" width=\"600\" height=\"450\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\n",
+				"date_published": "2020-05-24T11:36:15-04:00",
+				"url": "https://blog.gregmoore.me/2020/05/24/lazy-sunday.html",
+				"tags": ["photos"]
+			},
+			{
+				"id": "http://gregmoore.micro.blog/2020/05/23/the-first-summer.html",
+				
+				"content_html": "<p>The first summer storm blew right by us but it was still intense to see it pass over.\n<img src=\"https://gregmoore.micro.blog/uploads/2020/4bc8c43481.jpg\" alt=\"5E805001-9615-4426-A3EB-711EFAAB8FB1.jpg\" /></p>\n",
+				"content_text": "The first summer storm blew right by us but it was still intense to see it pass over.\n![5E805001-9615-4426-A3EB-711EFAAB8FB1.jpg](https://gregmoore.micro.blog/uploads/2020/4bc8c43481.jpg)\n",
+				"date_published": "2020-05-23T23:18:00-04:00",
+				"url": "https://blog.gregmoore.me/2020/05/23/the-first-summer.html",
+				"tags": ["photos"]
+			},
+			{
+				"id": "http://gregmoore.micro.blog/2020/05/22/solar-powered.html",
+				
+				"content_html": "<p>Solar Powered</p>\n\n<p><a href=\"https://gregmoore.micro.blog/uploads/2020/03685f1f44.jpg\"><img src=\"uploads/2020/03685f1f44.jpg\" width=\"600\" height=\"600\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a></p>\n",
+				"content_text": "Solar Powered\n\n<a href=\"https://gregmoore.micro.blog/uploads/2020/03685f1f44.jpg\"><img src=\"uploads/2020/03685f1f44.jpg\" width=\"600\" height=\"600\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\n",
+				"date_published": "2020-05-22T23:08:57-04:00",
+				"url": "https://blog.gregmoore.me/2020/05/22/solar-powered.html",
+				"tags": ["photos"]
+			},
+			{
+				"id": "http://gregmoore.micro.blog/2020/05/21/our-romaine-lettuce.html",
+				
+				"content_html": "<p>Our romaine lettuce stumps are happily regrowing themselves.</p>\n\n<p><a href=\"https://gregmoore.micro.blog/uploads/2020/0ba5a33369.jpg\"><img src=\"uploads/2020/0ba5a33369.jpg\" width=\"449\" height=\"600\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a></p>\n",
+				"content_text": "Our romaine lettuce stumps are happily regrowing themselves.\n\n<a href=\"https://gregmoore.micro.blog/uploads/2020/0ba5a33369.jpg\"><img src=\"uploads/2020/0ba5a33369.jpg\" width=\"449\" height=\"600\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\n",
+				"date_published": "2020-05-21T15:07:47-04:00",
+				"url": "https://blog.gregmoore.me/2020/05/21/our-romaine-lettuce.html",
+				"tags": ["photos"]
+			},
+			{
+				"id": "http://gregmoore.micro.blog/2020/05/20/new-tricks.html",
+				
+				"content_html": "<p>New tricks</p>\n\n<p><a href=\"https://gregmoore.micro.blog/uploads/2020/c0d0286582.jpg\"><img src=\"uploads/2020/c0d0286582.jpg\" width=\"600\" height=\"399\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a></p>\n",
+				"content_text": "New tricks\n\n<a href=\"https://gregmoore.micro.blog/uploads/2020/c0d0286582.jpg\"><img src=\"uploads/2020/c0d0286582.jpg\" width=\"600\" height=\"399\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\n",
+				"date_published": "2020-05-20T10:16:16-04:00",
+				"url": "https://blog.gregmoore.me/2020/05/20/new-tricks.html",
+				"tags": ["photos"]
+			},
+			{
+				"id": "http://gregmoore.micro.blog/2020/05/19/the-cats-cant.html",
+				
+				"content_html": "<p>The cats can’t get to the squirrel,\nthe squirrel can’t get to the seeds,\nbut the birds are happy (and fed) as can be.</p>\n\n<p><a href=\"https://gregmoore.micro.blog/uploads/2020/f3168f8e9f.jpg\"><img src=\"uploads/2020/f3168f8e9f.jpg\" width=\"450\" height=\"600\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a></p>\n",
+				"content_text": "The cats can’t get to the squirrel, \nthe squirrel can’t get to the seeds, \nbut the birds are happy (and fed) as can be.\n\n<a href=\"https://gregmoore.micro.blog/uploads/2020/f3168f8e9f.jpg\"><img src=\"uploads/2020/f3168f8e9f.jpg\" width=\"450\" height=\"600\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\n",
+				"date_published": "2020-05-19T00:16:19-04:00",
+				"url": "https://blog.gregmoore.me/2020/05/19/the-cats-cant.html",
+				"tags": ["photos"]
+			},
+			{
+				"id": "http://gregmoore.micro.blog/2020/05/18/one-of-the.html",
+				
+				"content_html": "<p>One of the biggest boon&rsquo;s of working from home has been the ability to split my day rediscovering favorite albums. This week has been Underworld&rsquo;s <a href=\"https://open.spotify.com/album/2Un5MRMFYfZF7UuDOfTaxi?si=Zt96n-UxQDqz_6I_3jl0Kg\">Everything, Everything</a>.<br >\n<a href=\"https://open.spotify.com/album/2Un5MRMFYfZF7UuDOfTaxi?si=Zt96n-UxQDqz_6I_3jl0Kg\"><img src=\"uploads/2020/7a541da028.jpg\" width=\"200\" height=\"200\" alt=\"\" /></a></p>\n",
+				"content_text": "One of the biggest boon's of working from home has been the ability to split my day rediscovering favorite albums. This week has been Underworld's [Everything, Everything](https://open.spotify.com/album/2Un5MRMFYfZF7UuDOfTaxi?si=Zt96n-UxQDqz_6I_3jl0Kg).<br >\n<a href=\"https://open.spotify.com/album/2Un5MRMFYfZF7UuDOfTaxi?si=Zt96n-UxQDqz_6I_3jl0Kg\"><img src=\"uploads/2020/7a541da028.jpg\" width=\"200\" height=\"200\" alt=\"\" /></a>\n",
+				"date_published": "2020-05-18T21:43:00-04:00",
+				"url": "https://blog.gregmoore.me/2020/05/18/one-of-the.html",
+				"tags": ["journal"]
+			},
+			{
+				"id": "http://gregmoore.micro.blog/2020/05/18/reflection-while-squirrel.html",
+				
+				"content_html": "<p>Reflection while squirrel watching</p>\n\n<p><a href=\"https://gregmoore.micro.blog/uploads/2020/8333488b8e.jpg\"><img src=\"uploads/2020/8333488b8e.jpg\" width=\"600\" height=\"399\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a></p>\n",
+				"content_text": "Reflection while squirrel watching\n\n<a href=\"https://gregmoore.micro.blog/uploads/2020/8333488b8e.jpg\"><img src=\"uploads/2020/8333488b8e.jpg\" width=\"600\" height=\"399\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\n",
+				"date_published": "2020-05-18T11:50:37-04:00",
+				"url": "https://blog.gregmoore.me/2020/05/18/reflection-while-squirrel.html",
+				"tags": ["photos"]
+			},
+			{
+				"id": "http://gregmoore.micro.blog/2020/05/16/hey-mister-got.html",
+				
+				"content_html": "<p>Hey mister! Got any more of that seed?</p>\n\n<p><a href=\"https://gregmoore.micro.blog/uploads/2020/d6a93c5b2a.jpg\"><img src=\"uploads/2020/d6a93c5b2a.jpg\" width=\"399\" height=\"600\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a></p>\n",
+				"content_text": "Hey mister! Got any more of that seed?\n\n<a href=\"https://gregmoore.micro.blog/uploads/2020/d6a93c5b2a.jpg\"><img src=\"uploads/2020/d6a93c5b2a.jpg\" width=\"399\" height=\"600\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\n",
+				"date_published": "2020-05-16T11:43:47-04:00",
+				"url": "https://blog.gregmoore.me/2020/05/16/hey-mister-got.html",
+				"tags": ["photos"]
+			},
+			{
+				"id": "http://gregmoore.micro.blog/2020/05/15/titmouse-breakfast.html",
+				
+				"content_html": "<p>Titmouse breakfast</p>\n\n<p><a href=\"https://gregmoore.micro.blog/uploads/2020/449d5f8041.jpg\"><img src=\"uploads/2020/449d5f8041.jpg\" width=\"600\" height=\"400\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a></p>\n",
+				"content_text": "Titmouse breakfast\n\n<a href=\"https://gregmoore.micro.blog/uploads/2020/449d5f8041.jpg\"><img src=\"uploads/2020/449d5f8041.jpg\" width=\"600\" height=\"400\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\n",
+				"date_published": "2020-05-15T08:57:11-04:00",
+				"url": "https://blog.gregmoore.me/2020/05/15/titmouse-breakfast.html",
+				"tags": ["photos"]
+			},
+			{
+				"id": "http://gregmoore.micro.blog/2020/05/14/red-crested-lunch.html",
+				
+				"content_html": "<p>Red crested lunch buddy</p>\n\n<p><a href=\"https://gregmoore.micro.blog/uploads/2020/5b858c1057.jpg\"><img src=\"uploads/2020/5b858c1057.jpg\" width=\"600\" height=\"400\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a></p>\n",
+				"content_text": "Red crested lunch buddy\n\n<a href=\"https://gregmoore.micro.blog/uploads/2020/5b858c1057.jpg\"><img src=\"uploads/2020/5b858c1057.jpg\" width=\"600\" height=\"400\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\n",
+				"date_published": "2020-05-14T21:38:45-04:00",
+				"url": "https://blog.gregmoore.me/2020/05/14/red-crested-lunch.html",
+				"tags": ["photos"]
+			},
+			{
+				"id": "http://gregmoore.micro.blog/2020/05/13/the-hottest-club.html",
+				
+				"content_html": "<p>The cutest club in town</p>\n\n<p><a href=\"https://gregmoore.micro.blog/uploads/2020/e29f55f50f.jpg\"><img src=\"uploads/2020/e29f55f50f.jpg\" width=\"600\" height=\"450\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a></p>\n",
+				"content_text": "The cutest club in town\n\n<a href=\"https://gregmoore.micro.blog/uploads/2020/e29f55f50f.jpg\"><img src=\"uploads/2020/e29f55f50f.jpg\" width=\"600\" height=\"450\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\n",
+				"date_published": "2020-05-13T17:24:00-04:00",
+				"url": "https://blog.gregmoore.me/2020/05/13/the-hottest-club.html",
+				"tags": ["photos"]
+			},
+			{
+				"id": "http://gregmoore.micro.blog/2020/05/11/new-color-explosions.html",
+				
+				"content_html": "<p>New color explosions are popping out.</p>\n\n<p><a href=\"https://gregmoore.micro.blog/uploads/2020/24996f5e17.jpg\"><img src=\"uploads/2020/24996f5e17.jpg\" width=\"600\" height=\"450\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a></p>\n",
+				"content_text": "New color explosions are popping out.\n\n<a href=\"https://gregmoore.micro.blog/uploads/2020/24996f5e17.jpg\"><img src=\"uploads/2020/24996f5e17.jpg\" width=\"600\" height=\"450\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\n",
+				"date_published": "2020-05-11T09:56:20-04:00",
+				"url": "https://blog.gregmoore.me/2020/05/11/new-color-explosions.html",
+				"tags": ["photos"]
+			},
+			{
+				"id": "http://gregmoore.micro.blog/2020/05/10/evening-sun.html",
+				
+				"content_html": "<p>Evening Sun</p>\n\n<p><a href=\"https://gregmoore.micro.blog/uploads/2020/9c3fe5b953.jpg\"><img src=\"uploads/2020/9c3fe5b953.jpg\" width=\"600\" height=\"450\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a></p>\n",
+				"content_text": "Evening Sun\n\n<a href=\"https://gregmoore.micro.blog/uploads/2020/9c3fe5b953.jpg\"><img src=\"uploads/2020/9c3fe5b953.jpg\" width=\"600\" height=\"450\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n",
+				"date_published": "2020-05-10T18:43:00-04:00",
+				"url": "https://blog.gregmoore.me/2020/05/10/evening-sun.html",
+				"tags": ["photos"]
+			},
+			{
+				"id": "http://gregmoore.micro.blog/2020/05/09/a-new-challenger.html",
+				
+				"content_html": "<p>A new challenger appears!</p>\n\n<p><a href=\"https://gregmoore.micro.blog/uploads/2020/d42a3c6842.jpg\"><img src=\"uploads/2020/d42a3c6842.jpg\" alt=\"\" style=\"height: auto;\"  class=\"sunlit_image\" /></a></p>\n",
+				"content_text": "A new challenger appears!\n\n<a href=\"https://gregmoore.micro.blog/uploads/2020/d42a3c6842.jpg\"><img src=\"uploads/2020/d42a3c6842.jpg\" alt=\"\" style=\"height: auto;\"  class=\"sunlit_image\" /></a>\n",
+				"date_published": "2020-05-09T19:05:00-04:00",
+				"url": "https://blog.gregmoore.me/2020/05/09/a-new-challenger.html",
+				"tags": ["photos"]
+			},
+			{
+				"id": "http://gregmoore.micro.blog/2020/05/08/pale-summer-sentinel.html",
+				
+				"content_html": "<p>Pale Summer Sentinel</p>\n\n<p><a href=\"https://gregmoore.micro.blog/uploads/2020/3cb73026aa.jpg\"><img src=\"uploads/2020/3cb73026aa.jpg\" width=\"600\" height=\"400\" alt=\"\" /></a></p>\n",
+				"content_text": "Pale Summer Sentinel \n\n<a href=\"https://gregmoore.micro.blog/uploads/2020/3cb73026aa.jpg\"><img src=\"uploads/2020/3cb73026aa.jpg\" width=\"600\" height=\"400\" alt=\"\" /></a>\n",
+				"date_published": "2020-05-08T10:06:00-04:00",
+				"url": "https://blog.gregmoore.me/2020/05/08/pale-summer-sentinel.html",
+				"tags": ["photos"]
+			},
+			{
+				"id": "http://gregmoore.micro.blog/2020/05/07/great-blue-heron.html",
+				
+				"content_html": "<p>Great Blue Heron</p>\n\n<p><img src=\"https://gregmoore.micro.blog/uploads/2020/aeea3f8d5d.jpg\" alt=\"485EF28F-EAFC-4CD4-B262-35909779D9FB.jpg\" /></p>\n",
+				"content_text": "Great Blue Heron\n\n![485EF28F-EAFC-4CD4-B262-35909779D9FB.jpg](https://gregmoore.micro.blog/uploads/2020/aeea3f8d5d.jpg)\n",
+				"date_published": "2020-05-07T13:54:00-04:00",
+				"url": "https://blog.gregmoore.me/2020/05/07/great-blue-heron.html",
+				"tags": ["photos"]
+			},
+			{
+				"id": "http://gregmoore.micro.blog/2020/05/06/comfy-morning.html",
+				
+				"content_html": "<p>Comfy Morning</p>\n\n<p><img src=\"https://gregmoore.micro.blog/uploads/2020/ca23a6abac.jpg\" alt=\"7E224082-F5B3-4B71-B6D7-7F430041E8DA.jpg\" /></p>\n",
+				"content_text": "Comfy Morning\n\n![7E224082-F5B3-4B71-B6D7-7F430041E8DA.jpg](https://gregmoore.micro.blog/uploads/2020/ca23a6abac.jpg)\n",
+				"date_published": "2020-05-06T08:47:00-04:00",
+				"url": "https://blog.gregmoore.me/2020/05/06/comfy-morning.html",
+				"tags": ["photos"]
+			},
+			{
+				"id": "http://gregmoore.micro.blog/2020/05/05/garden-color-explosion.html",
+				
+				"content_html": "<p>Garden Color Explosion</p>\n\n<p><img src=\"https://gregmoore.micro.blog/uploads/2020/bb07bbfe25.jpg\" alt=\"6CAE6A4E-58FD-4205-BE75-57257E7D767D.jpg\" /></p>\n",
+				"content_text": "Garden Color Explosion\n\n![6CAE6A4E-58FD-4205-BE75-57257E7D767D.jpg](https://gregmoore.micro.blog/uploads/2020/bb07bbfe25.jpg)\n",
+				"date_published": "2020-05-05T16:24:00-04:00",
+				"url": "https://blog.gregmoore.me/2020/05/05/garden-color-explosion.html",
+				"tags": ["photos"]
+			},
+			{
+				"id": "http://gregmoore.micro.blog/2020/05/04/mothers-garden.html",
+				
+				"content_html": "<p>Mother&rsquo;s Garden</p>\n\n<p><img src=\"https://gregmoore.micro.blog/uploads/2020/3394b37356.jpg\" alt=\"E3614A0C-1A9A-4790-B89F-A9ADEECD8010.jpg\" /></p>\n",
+				"content_text": "Mother's Garden\n\n![E3614A0C-1A9A-4790-B89F-A9ADEECD8010.jpg](https://gregmoore.micro.blog/uploads/2020/3394b37356.jpg)\n",
+				"date_published": "2020-05-04T22:01:00-04:00",
+				"url": "https://blog.gregmoore.me/2020/05/04/mothers-garden.html",
+				"tags": ["photos"]
+			},
+			{
+				"id": "http://gregmoore.micro.blog/2020/05/03/golden-hour-mirror.html",
+				
+				"content_html": "<p>Golden hour mirror</p>\n\n<p><img src=\"https://gregmoore.micro.blog/uploads/2020/506ff82fdf.jpg\" alt=\"80AFB6A2-58BF-4A4F-8B53-4C6B4BDB92CA.jpg\" /></p>\n",
+				"content_text": "Golden hour mirror\n\n![80AFB6A2-58BF-4A4F-8B53-4C6B4BDB92CA.jpg](https://gregmoore.micro.blog/uploads/2020/506ff82fdf.jpg)\n",
+				"date_published": "2020-05-03T20:38:00-04:00",
+				"url": "https://blog.gregmoore.me/2020/05/03/golden-hour-mirror.html",
+				"tags": ["photos"]
+			},
+			{
+				"id": "http://gregmoore.micro.blog/2020/05/02/sunset-anhinga.html",
+				
+				"content_html": "<p>Sunset Anhinga</p>\n\n<p><img src=\"https://gregmoore.micro.blog/uploads/2020/e77bb326db.jpg\" alt=\"A7223523-985E-4652-8162-306C3B7D0C77.jpg\" /></p>\n",
+				"content_text": "Sunset Anhinga \n\n![A7223523-985E-4652-8162-306C3B7D0C77.jpg](https://gregmoore.micro.blog/uploads/2020/e77bb326db.jpg)\n",
+				"date_published": "2020-05-02T21:01:00-04:00",
+				"url": "https://blog.gregmoore.me/2020/05/02/sunset-anhinga.html",
+				"tags": ["photos"]
+			},
+			{
+				"id": "http://gregmoore.micro.blog/2020/05/01/that-friday-feel.html",
+				
+				"content_html": "<p>That Friday Feel</p>\n\n<p><img src=\"https://gregmoore.micro.blog/uploads/2020/fb2f34f7bd.jpg\" alt=\"82A03B2E-97E3-45A4-A486-B748D1368B80.jpg\" /></p>\n",
+				"content_text": "That Friday Feel\n\n![82A03B2E-97E3-45A4-A486-B748D1368B80.jpg](https://gregmoore.micro.blog/uploads/2020/fb2f34f7bd.jpg)\n",
+				"date_published": "2020-05-01T17:33:00-04:00",
+				"url": "https://blog.gregmoore.me/2020/05/01/that-friday-feel.html",
+				"tags": ["photos"]
+			},
+			{
+				"id": "http://gregmoore.micro.blog/2020/04/30/fallen-comrade.html",
+				
+				"content_html": "<p>Fallen Comrade</p>\n\n<p><img src=\"https://gregmoore.micro.blog/uploads/2020/3dea48a32e.jpg\" alt=\"30915CE3-10EA-4B94-B298-ABEC98E038F6.jpg\" /></p>\n",
+				"content_text": "Fallen Comrade\n\n![30915CE3-10EA-4B94-B298-ABEC98E038F6.jpg](https://gregmoore.micro.blog/uploads/2020/3dea48a32e.jpg)\n",
+				"date_published": "2020-04-30T16:43:00-04:00",
+				"url": "https://blog.gregmoore.me/2020/04/30/fallen-comrade.html",
+				"tags": ["photos"]
+			},
+			{
+				"id": "http://gregmoore.micro.blog/2020/04/29/a-place-for.html",
+				
+				"content_html": "<p>A Place for Thoughts</p>\n\n<p><img src=\"https://gregmoore.micro.blog/uploads/2020/c1ee130243.jpg\" alt=\"DB51A58F-C651-4E10-B775-4A9AE826D750.jpg\" /></p>\n",
+				"content_text": "A Place for Thoughts\n\n![DB51A58F-C651-4E10-B775-4A9AE826D750.jpg](https://gregmoore.micro.blog/uploads/2020/c1ee130243.jpg)\n",
+				"date_published": "2020-04-29T15:41:00-04:00",
+				"url": "https://blog.gregmoore.me/2020/04/29/a-place-for.html",
+				"tags": ["photos"]
+			},
+			{
+				"id": "http://gregmoore.micro.blog/2020/04/28/beautiful-morning.html",
+				
+				"content_html": "<p>Beautiful Morning</p>\n\n<p><img src=\"https://gregmoore.micro.blog/uploads/2020/d76a9f0852.jpg\" alt=\"043A9A24-EA63-43B3-92C1-F86C0A64BAE2.jpg\" /></p>\n",
+				"content_text": "Beautiful Morning \n\n![043A9A24-EA63-43B3-92C1-F86C0A64BAE2.jpg](https://gregmoore.micro.blog/uploads/2020/d76a9f0852.jpg)\n",
+				"date_published": "2020-04-28T16:16:00-04:00",
+				"url": "https://blog.gregmoore.me/2020/04/28/beautiful-morning.html",
+				"tags": ["photos"]
+			},
+			{
+				"id": "http://gregmoore.micro.blog/2020/04/27/sunset-through-the.html",
+				
+				"content_html": "<p>Sunset through the fountain\n<img src=\"https://gregmoore.micro.blog/uploads/2020/9a5be4b0db.jpg\" alt=\"8D4FE740-1A1E-4C47-815F-34F6212022C7.jpg\" /></p>\n",
+				"content_text": "Sunset through the fountain\n![8D4FE740-1A1E-4C47-815F-34F6212022C7.jpg](https://gregmoore.micro.blog/uploads/2020/9a5be4b0db.jpg)\n",
+				"date_published": "2020-04-27T13:13:00-04:00",
+				"url": "https://blog.gregmoore.me/2020/04/27/sunset-through-the.html",
+				"tags": ["photos"]
+			},
+			{
+				"id": "http://gregmoore.micro.blog/2020/04/26/reading-nook.html",
+				
+				"content_html": "<p>Reading Nook</p>\n\n<p><a href=\"https://gregmoore.micro.blog/uploads/2020/851425e703.jpg\"><img src=\"uploads/2020/851425e703.jpg\" width=\"400\" height=\"600\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a></p>\n",
+				"content_text": "Reading Nook\n\n<a href=\"https://gregmoore.micro.blog/uploads/2020/851425e703.jpg\"><img src=\"uploads/2020/851425e703.jpg\" width=\"400\" height=\"600\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n",
+				"date_published": "2020-04-26T17:21:00-04:00",
+				"url": "https://blog.gregmoore.me/2020/04/26/reading-nook.html",
+				"tags": ["photos"]
+			},
+			{
+				"id": "http://gregmoore.micro.blog/2020/04/25/still-raining.html",
+				
+				"content_html": "<p>Still raining</p>\n\n<p><a href=\"https://gregmoore.micro.blog/uploads/2020/f24959625f.jpg\"><img src=\"uploads/2020/f24959625f.jpg\" width=\"600\" height=\"399\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a></p>\n",
+				"content_text": "Still raining\n\n<a href=\"https://gregmoore.micro.blog/uploads/2020/f24959625f.jpg\"><img src=\"uploads/2020/f24959625f.jpg\" width=\"600\" height=\"399\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\n",
+				"date_published": "2020-04-25T21:04:44-04:00",
+				"url": "https://blog.gregmoore.me/2020/04/25/still-raining.html",
+				"tags": ["photos"]
+			},
+			{
+				"id": "http://gregmoore.micro.blog/2020/04/24/rainy-day-mood.html",
+				
+				"content_html": "<p>Rainy Day Mood</p>\n\n<p><a href=\"https://gregmoore.micro.blog/uploads/2020/fe943099a1.jpg\"><img src=\"uploads/2020/fe943099a1.jpg\" width=\"600\" height=\"399\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a></p>\n",
+				"content_text": "Rainy Day Mood\n\n<a href=\"https://gregmoore.micro.blog/uploads/2020/fe943099a1.jpg\"><img src=\"uploads/2020/fe943099a1.jpg\" width=\"600\" height=\"399\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\n",
+				"date_published": "2020-04-24T16:03:34-04:00",
+				"url": "https://blog.gregmoore.me/2020/04/24/rainy-day-mood.html",
+				"tags": ["photos"]
+			},
+			{
+				"id": "http://gregmoore.micro.blog/2020/04/23/a-spring-with.html",
+				
+				"content_html": "<p>A spring with no cars</p>\n\n<p><a href=\"https://gregmoore.micro.blog/uploads/2020/ce1d58c4e7.jpg\"><img src=\"uploads/2020/ce1d58c4e7.jpg\" width=\"400\" height=\"600\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a></p>\n",
+				"content_text": "A spring with no cars\n\n<a href=\"https://gregmoore.micro.blog/uploads/2020/ce1d58c4e7.jpg\"><img src=\"uploads/2020/ce1d58c4e7.jpg\" width=\"400\" height=\"600\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\n",
+				"date_published": "2020-04-23T08:37:04-04:00",
+				"url": "https://blog.gregmoore.me/2020/04/23/a-spring-with.html",
+				"tags": ["photos"]
+			},
+			{
+				"id": "http://gregmoore.micro.blog/2020/04/22/grocery-processing-station.html",
+				
+				"content_html": "<p>Grocery Processing Station</p>\n\n<p><a href=\"https://gregmoore.micro.blog/uploads/2020/ecf66c8c2a.jpg\"><img src=\"uploads/2020/ecf66c8c2a.jpg\" width=\"399\" height=\"600\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a></p>\n",
+				"content_text": "Grocery Processing Station\n\n<a href=\"https://gregmoore.micro.blog/uploads/2020/ecf66c8c2a.jpg\"><img src=\"uploads/2020/ecf66c8c2a.jpg\" width=\"399\" height=\"600\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\n",
+				"date_published": "2020-04-22T09:36:04-04:00",
+				"url": "https://blog.gregmoore.me/2020/04/22/grocery-processing-station.html",
+				"tags": ["photos"]
+			},
+			{
+				"id": "http://gregmoore.micro.blog/2018/08/21/its-hot-as.html",
+				
+				"content_html": "<p>It’s too out here but still technically the first day of the fall semester.\n<img src=\"https://gregmoore.micro.blog/uploads/2018/9f2a9de334.jpg\" alt=\"85E18216-D742-42D8-BDDE-09D9B135A62A.jpg\" /></p>\n",
+				"content_text": "It’s too out here but still technically the first day of the fall semester.\n![85E18216-D742-42D8-BDDE-09D9B135A62A.jpg](https://gregmoore.micro.blog/uploads/2018/9f2a9de334.jpg)\n",
+				"date_published": "2018-08-20T22:20:00-04:00",
+				"url": "https://blog.gregmoore.me/2018/08/20/its-hot-as.html",
+				"tags": ["photos"]
+			},
+			{
+				"id": "http://gregmoore.micro.blog/2018/08/19/shenandoah-national-park.html",
+				
+				"content_html": "<p>Shenandoah National Park\n<img src=\"https://gregmoore.micro.blog/uploads/2018/41c5e5f195.jpg\" alt=\"D8B45657-C06B-496D-88D1-E2F59EAF231E.jpg\" /></p>\n",
+				"content_text": "Shenandoah National Park\n![D8B45657-C06B-496D-88D1-E2F59EAF231E.jpg](https://gregmoore.micro.blog/uploads/2018/41c5e5f195.jpg)\n",
+				"date_published": "2018-08-19T12:07:35-04:00",
+				"url": "https://blog.gregmoore.me/2018/08/19/shenandoah-national-park.html"
+			},
+			{
+				"id": "http://gregmoore.micro.blog/2018/08/18/145428.html",
+				
+				"content_html": "<p><img src=\"https://gregmoore.micro.blog/uploads/2018/37b4e565c8.jpg\" alt=\"2BB267F2-35C6-429A-A068-96CED4AF1A50.jpg\" /></p>\n",
+				"content_text": "\n![2BB267F2-35C6-429A-A068-96CED4AF1A50.jpg](https://gregmoore.micro.blog/uploads/2018/37b4e565c8.jpg)\n",
+				"date_published": "2018-08-18T10:54:28-04:00",
+				"url": "https://blog.gregmoore.me/2018/08/18/145428.html"
+			},
+			{
+				"id": "http://gregmoore.micro.blog/2018/08/18/small-world-ftw.html",
+				
+				"content_html": "<p>Small World FTW!\n<img src=\"https://gregmoore.micro.blog/uploads/2018/661461065d.jpg\" alt=\"35FD6B19-B911-41F3-A0C9-467D71B7129F.jpg\" />\n<img src=\"https://gregmoore.micro.blog/uploads/2018/075d6dd96e.jpg\" alt=\"A75E5B55-5B3F-420F-8648-C77ABA67075C.jpg\" /></p>\n",
+				"content_text": "Small World FTW!\n![35FD6B19-B911-41F3-A0C9-467D71B7129F.jpg](https://gregmoore.micro.blog/uploads/2018/661461065d.jpg)\n![A75E5B55-5B3F-420F-8648-C77ABA67075C.jpg](https://gregmoore.micro.blog/uploads/2018/075d6dd96e.jpg)\n",
+				"date_published": "2018-08-17T20:23:36-04:00",
+				"url": "https://blog.gregmoore.me/2018/08/17/small-world-ftw.html"
+			},
+			{
+				"id": "http://gregmoore.micro.blog/2018/08/17/i-really-miss.html",
+				
+				"content_html": "<p>I really miss London.\n<img src=\"https://gregmoore.micro.blog/uploads/2018/6516b7a77d.jpg\" alt=\"C315D50B-D691-4CA6-A0DC-6D55368F77DD.jpg\" /></p>\n",
+				"content_text": "I really miss London.\n![C315D50B-D691-4CA6-A0DC-6D55368F77DD.jpg](https://gregmoore.micro.blog/uploads/2018/6516b7a77d.jpg)\n",
+				"date_published": "2018-08-17T13:18:13-04:00",
+				"url": "https://blog.gregmoore.me/2018/08/17/i-really-miss.html"
+			},
+			{
+				"id": "http://gregmoore.micro.blog/2018/08/16/it-doesnt-get.html",
+				
+				"content_html": "<p>It doesn’t get much more relaxing than this.</p>\n\n<p><img src=\"uploads/2018/c9c9ecb822.jpg\" width=\"600\" height=\"450\" /></p>\n",
+				"content_text": "It doesn’t get much more relaxing than this.\n\n<img src=\"uploads/2018/c9c9ecb822.jpg\" width=\"600\" height=\"450\" />\n",
+				"date_published": "2018-08-16T10:42:00-04:00",
+				"url": "https://blog.gregmoore.me/2018/08/16/it-doesnt-get.html",
+				"tags": ["photos","journal"]
+			},
+			{
+				"id": "http://gregmoore.micro.blog/2018/08/15/still-a-favorite.html",
+				
+				"content_html": "<p>Still a favorite from my Colorado trip.</p>\n\n<p><img src=\"uploads/2018/3aab99ad1f.jpg\" width=\"600\" height=\"400\" /></p>\n",
+				"content_text": "Still a favorite from my Colorado trip.\n\n<img src=\"uploads/2018/3aab99ad1f.jpg\" width=\"600\" height=\"400\" />\n",
+				"date_published": "2018-08-15T08:57:49-04:00",
+				"url": "https://blog.gregmoore.me/2018/08/15/still-a-favorite.html",
+				"tags": ["photos"]
+			},
+			{
+				"id": "http://gregmoore.micro.blog/2012/12/04/typhoon.html",
+				"title": "Typhoon",
+				"content_html": "<p><img alt=\"Atami, Japan\" src=\"https://gregmoore.micro.blog/uploads/2020/a1dcf2b241.jpg\"></p>\n\n<p>On Saturday morning we sat on the floor watching, but not understanding, the TV news reports on typhoon number 17 that was buzzing South-West Japan. The reporters spoke in solemn tones, cutting back and forth between satellite maps and flooded roadways.</p>\n\n<p>We stayed indoors as long as we could but experience told us that if we didn’t get out of the house, we would spend the rest of the day wallowing in our culture shock , wanting to go home. A day without purpose leads to dark thoughts so instead, we opened our English train maps and choose to visit Atami, an old tourist town up the tracks from us.</p>\n\n<p>The weather turned out to not be so bad after all so we had fun wandering the city in the storm, looking through all the shops.</p>\n\n<p>Atami is very different than our more rural “home” in Ninomiya. It’s literally built on the mountains along the Southern edge of Japan so the views from the streets are always winding and obscured. Seaside hotel towers jut out from every possible foothold to create a second layer along each ridge. The typhoon contributed to the surreal images by blending it’s grey clouds into the buildings making the manmade structures seem intrusive on the black land. Narrow alleyways offered secret views of small back openings to homes, restaurants, and businesses while larger breaks gave entry to other unseen parts of the town by way of old moss-covered staircases turning up and away at severe angles. Entirely new sections of road would appear around a corner and buildings seemed to be pushing over each other to get your attention. Sometimes, an ancient temple could be seen on another high peak, shrouded in mist and far away. It was a town that could only be viewed in vertical fragments and the never ending storm made it all the more beautiful.</p>\n",
+				"content_text": "<img alt=\"Atami, Japan\" src=\"https://gregmoore.micro.blog/uploads/2020/a1dcf2b241.jpg\">\n\nOn Saturday morning we sat on the floor watching, but not understanding, the TV news reports on typhoon number 17 that was buzzing South-West Japan. The reporters spoke in solemn tones, cutting back and forth between satellite maps and flooded roadways.\n\nWe stayed indoors as long as we could but experience told us that if we didn’t get out of the house, we would spend the rest of the day wallowing in our culture shock , wanting to go home. A day without purpose leads to dark thoughts so instead, we opened our English train maps and choose to visit Atami, an old tourist town up the tracks from us.\n\nThe weather turned out to not be so bad after all so we had fun wandering the city in the storm, looking through all the shops.\n\nAtami is very different than our more rural “home” in Ninomiya. It’s literally built on the mountains along the Southern edge of Japan so the views from the streets are always winding and obscured. Seaside hotel towers jut out from every possible foothold to create a second layer along each ridge. The typhoon contributed to the surreal images by blending it’s grey clouds into the buildings making the manmade structures seem intrusive on the black land. Narrow alleyways offered secret views of small back openings to homes, restaurants, and businesses while larger breaks gave entry to other unseen parts of the town by way of old moss-covered staircases turning up and away at severe angles. Entirely new sections of road would appear around a corner and buildings seemed to be pushing over each other to get your attention. Sometimes, an ancient temple could be seen on another high peak, shrouded in mist and far away. It was a town that could only be viewed in vertical fragments and the never ending storm made it all the more beautiful.\n",
+				"date_published": "2012-12-04T17:44:00-04:00",
+				"url": "https://blog.gregmoore.me/2012/12/04/typhoon.html",
+				"tags": ["journal"]
+			},
+			{
+				"id": "http://gregmoore.micro.blog/2012/11/29/dr-nightowl-or.html",
+				"title": "Dr. Nightowl or: How I Learned to Stop Worrying and Love the Morning",
+				"content_html": "<p>I&rsquo;ve always been a night owl. From as far back as I can remember, mornings have been something to endure before my real day starts. My parents and a long string of other type-a personalities have put consistent effort into changing me to no avail. It seems to be part of how I&rsquo;m made and no amount of habit changing has been able to reverse my late-leaning circadian rhythm.</p>\n\n<p>From getting terrible grades and dropping out of my college classes that started before 9 AM to working the early shift at Starbuck&rsquo;s, where we tossed back espresso shots like junkies, mornings always remained a struggle. Even when I moved to Japan and the timezone was flipped by 12 hours, my body quickly sussed out day from night and made me pay for it with every 5:30 AM wakeup. I resigned myself to the life of the permanently tired night owl trapped in the working world dominated by morning people.</p>\n\n<p>Then, near the end of 2008, everything changed. My daughter was born and with her arrival, my relationship with the morning was reset.</p>\n\n<p>As any parent will attest, a new baby = no sleep. Especially if they are your first. They break you and brainwash you and there is nothing you can do about it. Very little memory remains of what my life was like before my daughter and I’m oddly OK with that.</p>\n\n<p>The interesting side effect of my daughter’s mind control was how quickly she was able to accomplish what no job or /more-productive-than-thou/ shaming ever had. I was still a night owl but I no longer cared about how early it was because I was just so thrilled to see her happy. She would cry, I would plod my way over to her, she would smile and all was right with this wonderful new world.</p>\n\n<p>The other day, she turned five. She woke up early but I can tell that she’s probably going to be a night owl like me. We stumble out to the kitchen. I grab the pancake mix and click on a burner. She folds her arms against the morning chill. Neither of us talks or opens our eyes much but we are happy for the time together, no matter how early that happens to be.</p>\n",
+				"content_text": "I've always been a night owl. From as far back as I can remember, mornings have been something to endure before my real day starts. My parents and a long string of other type-a personalities have put consistent effort into changing me to no avail. It seems to be part of how I'm made and no amount of habit changing has been able to reverse my late-leaning circadian rhythm.\n\nFrom getting terrible grades and dropping out of my college classes that started before 9 AM to working the early shift at Starbuck's, where we tossed back espresso shots like junkies, mornings always remained a struggle. Even when I moved to Japan and the timezone was flipped by 12 hours, my body quickly sussed out day from night and made me pay for it with every 5:30 AM wakeup. I resigned myself to the life of the permanently tired night owl trapped in the working world dominated by morning people.\n\nThen, near the end of 2008, everything changed. My daughter was born and with her arrival, my relationship with the morning was reset.\n\nAs any parent will attest, a new baby = no sleep. Especially if they are your first. They break you and brainwash you and there is nothing you can do about it. Very little memory remains of what my life was like before my daughter and I’m oddly OK with that.\n\nThe interesting side effect of my daughter’s mind control was how quickly she was able to accomplish what no job or /more-productive-than-thou/ shaming ever had. I was still a night owl but I no longer cared about how early it was because I was just so thrilled to see her happy. She would cry, I would plod my way over to her, she would smile and all was right with this wonderful new world.\n\nThe other day, she turned five. She woke up early but I can tell that she’s probably going to be a night owl like me. We stumble out to the kitchen. I grab the pancake mix and click on a burner. She folds her arms against the morning chill. Neither of us talks or opens our eyes much but we are happy for the time together, no matter how early that happens to be.\n",
+				"date_published": "2012-11-29T18:00:00-04:00",
+				"url": "https://blog.gregmoore.me/2012/11/29/dr-nightowl-or.html",
+				"tags": ["journal"]
+			},
+			{
+				"id": "http://gregmoore.micro.blog/2012/11/28/levitation.html",
+				"title": "Levitation",
+				"content_html": "<p><img alt=\"Levitation\" src=\"https://gregmoore.micro.blog/uploads/2020/787ffb3315.jpg\"></p>\n\n<p>A tiny silver light shines like a brilliant star in the near total blackness of a bedroom. It’s steady beam faintly illuminating the pause/play symbols on a set of headphones. Within their while plastic shell, small magnetic drivers pulse a faint rhythmic beat into a woman’s ears.<br>If this woman is listening, we can’t tell as she is making no expression. Her only sign of movement is the equally rhythmic rise and fall of her chest as she takes in and releases air.</p>\n<p>Minutes flow on with no change to the muted scene.<br>The headphones continue to pulse.<br>The woman continues to breathe.</p>\n<p>Before we loose interest, however, a car passes silently outside. The light from it’s headlights rush across the room and momentarily reveal a hidden world we couldn’t see before. Warm, red colored walls. Photographs framed in rough golden wood. The open door to what looks to be a bathroom. The silky shine on the folds of the woman’s pajamas as she lays above her covers.<br>Within this sudden visual revelation, we are also able to see a movement that we could not perceive before. Wisps of black smoke are silently curling from underneath the woman’s still body. Once the light is gone, we can no longer see them but the density of blackness within the room falls even heavier than before.</p>\n<p>Though we can no longer see the room’s details, we know that things are changing. The rhythm from the headphones no longer matches the woman’s excelerated breathing. The black smoke fills the room and we can no longer see the details of her face as we could before. The small silver light remains our only visual guide.</p>\n<p>The light begins to move. Slowly at first, then more quickly, it rises high into the air. The woman’s breathing continues to quicken and follow the light upward until we hear a sudden gasp. Instantly, the black shroud fades from the room and we can see the woman is levitating far above her bed. From our viewing angle, we can barely make out a surprised expression as she continues to gasp the air.</p>\n<p>Another car silently passes outside and the beam from it’s headlights track across the room from right to left. As the bright light scans over the levitating woman, her body falls slowly and silently back atop the covers of her bed.</p>\n",
+				"content_text": "<img alt=\"Levitation\" src=\"https://gregmoore.micro.blog/uploads/2020/787ffb3315.jpg\">\n\n<p>A tiny silver light shines like a brilliant star in the near total blackness of a bedroom. It’s steady beam faintly illuminating the pause/play symbols on a set of headphones. Within their while plastic shell, small magnetic drivers pulse a faint rhythmic beat into a woman’s ears.<br>If this woman is listening, we can’t tell as she is making no expression. Her only sign of movement is the equally rhythmic rise and fall of her chest as she takes in and releases air.</p>\n<p>Minutes flow on with no change to the muted scene.<br>The headphones continue to pulse.<br>The woman continues to breathe.</p>\n<p>Before we loose interest, however, a car passes silently outside. The light from it’s headlights rush across the room and momentarily reveal a hidden world we couldn’t see before. Warm, red colored walls. Photographs framed in rough golden wood. The open door to what looks to be a bathroom. The silky shine on the folds of the woman’s pajamas as she lays above her covers.<br>Within this sudden visual revelation, we are also able to see a movement that we could not perceive before. Wisps of black smoke are silently curling from underneath the woman’s still body. Once the light is gone, we can no longer see them but the density of blackness within the room falls even heavier than before.</p>\n<p>Though we can no longer see the room’s details, we know that things are changing. The rhythm from the headphones no longer matches the woman’s excelerated breathing. The black smoke fills the room and we can no longer see the details of her face as we could before. The small silver light remains our only visual guide.</p>\n<p>The light begins to move. Slowly at first, then more quickly, it rises high into the air. The woman’s breathing continues to quicken and follow the light upward until we hear a sudden gasp. Instantly, the black shroud fades from the room and we can see the woman is levitating far above her bed. From our viewing angle, we can barely make out a surprised expression as she continues to gasp the air.</p>\n<p>Another car silently passes outside and the beam from it’s headlights track across the room from right to left. As the bright light scans over the levitating woman, her body falls slowly and silently back atop the covers of her bed.</p>\n",
+				"date_published": "2012-11-28T01:30:00-04:00",
+				"url": "https://blog.gregmoore.me/2012/11/28/levitation.html",
+				"tags": ["fiction"]
+			},
+			{
+				"id": "http://gregmoore.micro.blog/2012/11/28/day-moon.html",
+				"title": "Day Moon",
+				"content_html": "<p><img alt=\"day moon\" src=\"https://gregmoore.micro.blog/uploads/2020/178cd35ce7.jpg\"></p>\n\n<p>On the one year anniversary of Don’s divorce, the moon appeared in the morning sky, bright and large, defiant to the expectations that it should sink away with the night. Smiling up, Don identified with day moon. If his ex wife had any say, he too was expected to sink away with his failed former life and remain forever in it’s crumbled ruins but, like the day moon, Don chose to defy Earthly expectations and remain in the daylight. However, like the day moon, Don knew he couldn’t stay in the daylight forever. The daylight was for the young and the virgins. For the newly adult girls that encouraged him into one-night flings of passionate abandon. Not that he fought their advances. To be honest, he down right encouraged them; conceited and thankful for a youthful body that advertised him as a younger man. A less lived man. A man that hadn’t split his dreams apart to share with her, only to have them returned, stale and unused. Maybe that’s why he enjoyed this new sex so much. Their young and irresponsible passion fed his lost innocence and afforded him time to pretend he wasn’t weighed down with regret. In those moments, he could pretend to be just like them, living a life full of exuberant possibility. Pretending to share in the youthful optimism that springs from inexperienced ignorance.</p>\n\n<p>But he wasn’t like them, really, and the more he tried to trick himself into believing that he was, the less he could move on. He turned away from the moon, finding it less like a guiding light and more like a mirror.</p>\n",
+				"content_text": "<img alt=\"day moon\" src=\"https://gregmoore.micro.blog/uploads/2020/178cd35ce7.jpg\">\n\nOn the one year anniversary of Don’s divorce, the moon appeared in the morning sky, bright and large, defiant to the expectations that it should sink away with the night. Smiling up, Don identified with day moon. If his ex wife had any say, he too was expected to sink away with his failed former life and remain forever in it’s crumbled ruins but, like the day moon, Don chose to defy Earthly expectations and remain in the daylight. However, like the day moon, Don knew he couldn’t stay in the daylight forever. The daylight was for the young and the virgins. For the newly adult girls that encouraged him into one-night flings of passionate abandon. Not that he fought their advances. To be honest, he down right encouraged them; conceited and thankful for a youthful body that advertised him as a younger man. A less lived man. A man that hadn’t split his dreams apart to share with her, only to have them returned, stale and unused. Maybe that’s why he enjoyed this new sex so much. Their young and irresponsible passion fed his lost innocence and afforded him time to pretend he wasn’t weighed down with regret. In those moments, he could pretend to be just like them, living a life full of exuberant possibility. Pretending to share in the youthful optimism that springs from inexperienced ignorance.\n\nBut he wasn’t like them, really, and the more he tried to trick himself into believing that he was, the less he could move on. He turned away from the moon, finding it less like a guiding light and more like a mirror.\n",
+				"date_published": "2012-11-28T01:22:00-04:00",
+				"url": "https://blog.gregmoore.me/2012/11/28/day-moon.html",
+				"tags": ["fiction"]
+			},
+			{
+				"id": "http://gregmoore.micro.blog/2012/11/28/the-scarab.html",
+				"title": "The Scarab",
+				"content_html": "<p><img src=\"uploads/2020/ae872e29f1.jpg\"></p>\n\n<p>“AH! Bloody hell!” Screamed Reginald as he quickly pulled his foot from the boot. Something fell out and scurried to a dark corner.</p>\n<p>“What’s happened?!” Reginald’s assistant burst into the tent brandishing an iron cooking pot. “Are you all right sir?”</p>\n<p>“Yes, yes, Percy. I’m fine. I merely forgot to check my boots before putting them on and I seem to have been bitten by something.” Reginald waved to the corner where the creature had retreated.”The little bugger headed over there.”</p>\n<p>“We better find him, sir.” Percy raised his upper lip as he squinted into the dark corner. “Could be dangerous, sir.”</p>\n<p>“Quite.” Reginald said as he tried to stand. Pain shot through the bite area causing him to hiss through gritted teeth.”You sure you’re alright, sir?” Percy asked.</p>\n<p>“I said I’m fine. Do make yourself useful, and help me find the damned thing.” Reginald said impatiently. He limped towards his desk and grabbed a large rock he had been using as a paperweight. Percy went to another table and lit a small oil lamp.<br>Weapons in hand, both men carefully crept towards the dark corner. Eventually, Percy’s lamp revealed an inky black scarab beetle.</p>\n<p>“There’s the offender!” Reginald hissed while raising his rock high overhead. Percy moved first however, and swung his pot down to the floor with a hollow bang. Unfortunately, he missed and the black insect took flight straight at him. Eyes wide, Percy ran from the counter attack hooting.</p>\n<p>“Calm down you twit!” Reginald chided as he took the pot from the floor. “I’ll handle the little bugger.” Reginald focused on timing his swing just as Percy ran past and successfully connected with the perusing insect. The pot dinged like a bell and the scarab hit the far tent wall with a soft puff.</p>\n<p>“That’s how you do it!” Reginald said proudly as Percy continued running around the room.</p>\n<p>“Settle down Percy! It’s over!” Reginald yelled. Percy gave a surprised look and panted to a stop.</p>\n<p>“Sorry sir,” He bent over leaning on his knees. “I aint never had such an insect chase me before.”</p>\n<p>“Yes well, perhaps the next time you find yourself in such… mortal danger you will do better to keep your head about you?” Reginald stood over his kill. “Remember, I’m the one who was stung. Besides, it’s merely an insect. What harm could it do really?”</p>\n<p>Little did Reginald know that, even as he spoke those words, a metamorphosis was beginning to take place within his body. Fortunately, Percy had taken Reginald’s chastisements to heart and was able to dispatch a man-sized scarab that he later found in Reginald’s room.</p>\n<hr />\n<p><em>From a creative writing excercise where we were challenged to write in two different accents.</em></p>\n",
+				"content_text": "<img src=\"uploads/2020/ae872e29f1.jpg\">\n\n<p>“AH! Bloody hell!” Screamed Reginald as he quickly pulled his foot from the boot. Something fell out and scurried to a dark corner.</p>\n<p>“What’s happened?!” Reginald’s assistant burst into the tent brandishing an iron cooking pot. “Are you all right sir?”</p>\n<p>“Yes, yes, Percy. I’m fine. I merely forgot to check my boots before putting them on and I seem to have been bitten by something.” Reginald waved to the corner where the creature had retreated.”The little bugger headed over there.”</p>\n<p>“We better find him, sir.” Percy raised his upper lip as he squinted into the dark corner. “Could be dangerous, sir.”</p>\n<p>“Quite.” Reginald said as he tried to stand. Pain shot through the bite area causing him to hiss through gritted teeth.”You sure you’re alright, sir?” Percy asked.</p>\n<p>“I said I’m fine. Do make yourself useful, and help me find the damned thing.” Reginald said impatiently. He limped towards his desk and grabbed a large rock he had been using as a paperweight. Percy went to another table and lit a small oil lamp.<br>Weapons in hand, both men carefully crept towards the dark corner. Eventually, Percy’s lamp revealed an inky black scarab beetle.</p>\n<p>“There’s the offender!” Reginald hissed while raising his rock high overhead. Percy moved first however, and swung his pot down to the floor with a hollow bang. Unfortunately, he missed and the black insect took flight straight at him. Eyes wide, Percy ran from the counter attack hooting.</p>\n<p>“Calm down you twit!” Reginald chided as he took the pot from the floor. “I’ll handle the little bugger.” Reginald focused on timing his swing just as Percy ran past and successfully connected with the perusing insect. The pot dinged like a bell and the scarab hit the far tent wall with a soft puff.</p>\n<p>“That’s how you do it!” Reginald said proudly as Percy continued running around the room.</p>\n<p>“Settle down Percy! It’s over!” Reginald yelled. Percy gave a surprised look and panted to a stop.</p>\n<p>“Sorry sir,” He bent over leaning on his knees. “I aint never had such an insect chase me before.”</p>\n<p>“Yes well, perhaps the next time you find yourself in such… mortal danger you will do better to keep your head about you?” Reginald stood over his kill. “Remember, I’m the one who was stung. Besides, it’s merely an insect. What harm could it do really?”</p>\n<p>Little did Reginald know that, even as he spoke those words, a metamorphosis was beginning to take place within his body. Fortunately, Percy had taken Reginald’s chastisements to heart and was able to dispatch a man-sized scarab that he later found in Reginald’s room.</p>\n<hr />\n<p><em>From a creative writing excercise where we were challenged to write in two different accents.</em></p>\n",
+				"date_published": "2012-11-28T01:21:00-04:00",
+				"url": "https://blog.gregmoore.me/2012/11/28/the-scarab.html",
+				"tags": ["fiction"]
+			}
+	]
+}
