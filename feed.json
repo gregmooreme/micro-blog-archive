@@ -7,6 +7,42 @@
 	"items": [
 		
 			{
+				"id": "http://gregmoore.micro.blog/2020/09/30/the-first-morning.html",
+				
+				"content_html": "<p>The first morning of fall temperatures has finally arrived and it feels amazing. (30 degree drop in one day) It will be a while before it stays like this but we’re going to take advantage of it as much as we can.</p>\n\n<p><a href=\"https://blog.gregmoore.me/uploads/2020/c5c2075842.jpg\"><img src=\"uploads/2020/c5c2075842.jpg\" width=\"600\" height=\"800\" alt=\"\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a><a href=\"https://blog.gregmoore.me/uploads/2020/cee6917193.jpg\"><img src=\"uploads/2020/cee6917193.jpg\" width=\"600\" height=\"433\" alt=\"\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a></p>\n",
+				"content_text": "The first morning of fall temperatures has finally arrived and it feels amazing. (30 degree drop in one day) It will be a while before it stays like this but we’re going to take advantage of it as much as we can.\n\n<a href=\"https://blog.gregmoore.me/uploads/2020/c5c2075842.jpg\"><img src=\"uploads/2020/c5c2075842.jpg\" width=\"600\" height=\"800\" alt=\"\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a><a href=\"https://blog.gregmoore.me/uploads/2020/cee6917193.jpg\"><img src=\"uploads/2020/cee6917193.jpg\" width=\"600\" height=\"433\" alt=\"\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a>\n",
+				"date_published": "2020-09-30T08:19:21-04:00",
+				"url": "https://blog.gregmoore.me/2020/09/30/the-first-morning.html",
+				"tags": ["photos"]
+			},
+			{
+				"id": "http://gregmoore.micro.blog/2020/09/27/my-sticker-came.html",
+				
+				"content_html": "<p>My sticker came! Thank you <a href=\"https://micro.blog/macgenie\">@macgenie</a>.</p>\n\n<p><img src=\"uploads/2020/053beb1efd.jpg\" width=\"600\" height=\"450\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></p>\n",
+				"content_text": "My sticker came! Thank you [@macgenie](https://micro.blog/macgenie). \n\n<img src=\"uploads/2020/053beb1efd.jpg\" width=\"600\" height=\"450\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" />\n",
+				"date_published": "2020-09-27T08:43:02-04:00",
+				"url": "https://blog.gregmoore.me/2020/09/27/my-sticker-came.html",
+				"tags": ["photos"]
+			},
+			{
+				"id": "http://gregmoore.micro.blog/2020/09/26/trying-my-hand.html",
+				
+				"content_html": "<p>🤖 Trying my hand at edge-painting my Gundam Crossbone model. It went so well that I attempted a bit of weathering on the feet too.</p>\n\n<p><a href=\"https://blog.gregmoore.me/uploads/2020/38c0375ce9.jpg\"><img src=\"uploads/2020/38c0375ce9.jpg\" width=\"600\" height=\"450\" alt=\"\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a><a href=\"https://blog.gregmoore.me/uploads/2020/52625a4417.jpg\"><img src=\"uploads/2020/52625a4417.jpg\" width=\"600\" height=\"450\" alt=\"\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a></p>\n",
+				"content_text": "🤖 Trying my hand at edge-painting my Gundam Crossbone model. It went so well that I attempted a bit of weathering on the feet too.\n\n<a href=\"https://blog.gregmoore.me/uploads/2020/38c0375ce9.jpg\"><img src=\"uploads/2020/38c0375ce9.jpg\" width=\"600\" height=\"450\" alt=\"\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a><a href=\"https://blog.gregmoore.me/uploads/2020/52625a4417.jpg\"><img src=\"uploads/2020/52625a4417.jpg\" width=\"600\" height=\"450\" alt=\"\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a>\n",
+				"date_published": "2020-09-26T22:54:48-04:00",
+				"url": "https://blog.gregmoore.me/2020/09/26/trying-my-hand.html",
+				"tags": ["photos"]
+			},
+			{
+				"id": "http://gregmoore.micro.blog/2020/09/22/the-suns-fall.html",
+				
+				"content_html": "<p>The sun’s fall shift in the sky means more of the glass in the house cast beautiful prisms everywhere.</p>\n\n<p><img src=\"uploads/2020/e48a985d43.jpg\" width=\"600\" height=\"450\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></p>\n",
+				"content_text": "The sun’s fall shift in the sky means more of the glass in the house cast beautiful prisms everywhere.\n\n<img src=\"uploads/2020/e48a985d43.jpg\" width=\"600\" height=\"450\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" />\n",
+				"date_published": "2020-09-22T16:57:18-04:00",
+				"url": "https://blog.gregmoore.me/2020/09/22/the-suns-fall.html",
+				"tags": ["photos"]
+			},
+			{
 				"id": "http://gregmoore.micro.blog/2020/09/20/island.html",
 				
 				"content_html": "<p>Island</p>\n\n<p><img src=\"uploads/2020/a12300c086.jpg\" width=\"600\" height=\"450\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></p>\n",
