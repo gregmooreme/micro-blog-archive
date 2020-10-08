@@ -7,6 +7,50 @@
 	"items": [
 		
 			{
+				"id": "http://gregmoore.micro.blog/2020/10/08/good-morning.html",
+				
+				"content_html": "<p>&ldquo;Good morning!&rdquo;</p>\n\n<p><img src=\"uploads/2020/7b62928e75.jpg\" width=\"600\" height=\"799\" alt=\"Cardinal in window\" style=\"height: auto;\" class=\"sunlit_image\" /></p>\n",
+				"content_text": "\"Good morning!\"\r\n\r\n<img src=\"uploads/2020/7b62928e75.jpg\" width=\"600\" height=\"799\" alt=\"Cardinal in window\" style=\"height: auto;\" class=\"sunlit_image\" />\n",
+				"date_published": "2020-10-08T09:16:51-04:00",
+				"url": "https://blog.gregmoore.me/2020/10/08/good-morning.html",
+				"tags": ["photos"]
+			},
+			{
+				"id": "http://gregmoore.micro.blog/2020/10/07/she-may-look.html",
+				
+				"content_html": "<p>She may look beautiful but she’s actually the new bully of the feeder.</p>\n\n<p><img src=\"uploads/2020/4a1f696ff4.jpg\" width=\"600\" height=\"400\" alt=\"morning dove\" style=\"height: auto;\" class=\"sunlit_image\" /></p>\n",
+				"content_text": "She may look beautiful but she’s actually the new bully of the feeder.\n\n<img src=\"uploads/2020/4a1f696ff4.jpg\" width=\"600\" height=\"400\" alt=\"morning dove\" style=\"height: auto;\" class=\"sunlit_image\" />\n",
+				"date_published": "2020-10-07T08:12:00-04:00",
+				"url": "https://blog.gregmoore.me/2020/10/07/she-may-look.html",
+				"tags": ["photos"]
+			},
+			{
+				"id": "http://gregmoore.micro.blog/2020/10/02/my-year-old.html",
+				
+				"content_html": "<p><img src=\"uploads/2020/6cbd9c3c73.jpg\" width=\"320\" height=\"426\" alt=\"\" /></p>\n\n<p>My 20 year old hair trimmer died last night. I took it apart and discovered the battery was leaking. I removed the battery from the circuit, connected the two wires it ran between, closed it up and it now runs better than it did. I think there’s a life metaphor in that somewhere.</p>\n",
+				"content_text": "<img src=\"uploads/2020/6cbd9c3c73.jpg\" width=\"320\" height=\"426\" alt=\"\" />\n\nMy 20 year old hair trimmer died last night. I took it apart and discovered the battery was leaking. I removed the battery from the circuit, connected the two wires it ran between, closed it up and it now runs better than it did. I think there’s a life metaphor in that somewhere.\n",
+				"date_published": "2020-10-02T08:15:00-04:00",
+				"url": "https://blog.gregmoore.me/2020/10/02/my-year-old.html",
+				"tags": ["journal"]
+			},
+			{
+				"id": "http://gregmoore.micro.blog/2020/09/30/for-the-first.html",
+				
+				"content_html": "<p>For the first time in four months, we could open all the windows and let in some glorious fall air. The day crescendoed with a sunset light show in the clouds.</p>\n\n<p><img src=\"uploads/2020/bd0f7ed75e.jpg\" width=\"600\" height=\"449\" alt=\"Florida sunset\" style=\"height: auto;\" class=\"sunlit_image\" /></p>\n",
+				"content_text": "For the first time in four months, we could open all the windows and let in some glorious fall air. The day crescendoed with a sunset light show in the clouds.\n\n<img src=\"uploads/2020/bd0f7ed75e.jpg\" width=\"600\" height=\"449\" alt=\"Florida sunset\" style=\"height: auto;\" class=\"sunlit_image\" />\n",
+				"date_published": "2020-09-30T19:46:00-04:00",
+				"url": "https://blog.gregmoore.me/2020/09/30/for-the-first.html",
+				"tags": ["photos"]
+			},
+			{
+				"id": "http://gregmoore.micro.blog/2020/09/30/facebook-is-the.html",
+				
+				"content_html": "<blockquote>\n<p>Facebook is the Sauron of the online world, Twitter the Saruman. Let’s rather live in Tom Bombadil’s world, where we can be eccentric, peculiar perhaps, without ambition, content to tend our little corner of Middle Earth with charity and grace.</p>\n</blockquote>\n\n<p><a href=\"https://blog.ayjay.org/social-media-blogs-newsletters/\">Alan Jacobs</a></p>\n",
+				"content_text": "> Facebook is the Sauron of the online world, Twitter the Saruman. Let’s rather live in Tom Bombadil’s world, where we can be eccentric, peculiar perhaps, without ambition, content to tend our little corner of Middle Earth with charity and grace.\n\n[Alan Jacobs](https://blog.ayjay.org/social-media-blogs-newsletters/)\n",
+				"date_published": "2020-09-30T19:20:15-04:00",
+				"url": "https://blog.gregmoore.me/2020/09/30/facebook-is-the.html"
+			},
+			{
 				"id": "http://gregmoore.micro.blog/2020/09/30/the-first-morning.html",
 				
 				"content_html": "<p>The first morning of fall temperatures has finally arrived and it feels amazing. (30 degree drop in one day) It will be a while before it stays like this but we’re going to take advantage of it as much as we can.</p>\n\n<p><a href=\"https://blog.gregmoore.me/uploads/2020/c5c2075842.jpg\"><img src=\"uploads/2020/c5c2075842.jpg\" width=\"600\" height=\"800\" alt=\"\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a><a href=\"https://blog.gregmoore.me/uploads/2020/cee6917193.jpg\"><img src=\"uploads/2020/cee6917193.jpg\" width=\"600\" height=\"433\" alt=\"\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a></p>\n",
