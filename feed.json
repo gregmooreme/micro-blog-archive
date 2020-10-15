@@ -7,6 +7,51 @@
 	"items": [
 		
 			{
+				"id": "http://gregmoore.micro.blog/2020/10/15/halloween-cardinal-with.html",
+				
+				"content_html": "<p>🎃Halloween cardinal with spooky feathers.</p>\n\n<p><img src=\"uploads/2020/37fb173133.jpg\" width=\"600\" height=\"400\" alt=\"cardinal with distressed feathers\" /></p>\n",
+				"content_text": "🎃Halloween cardinal with spooky feathers.\n\n<img src=\"uploads/2020/37fb173133.jpg\" width=\"600\" height=\"400\" alt=\"cardinal with distressed feathers\" />\n",
+				"date_published": "2020-10-15T14:51:25-04:00",
+				"url": "https://blog.gregmoore.me/2020/10/15/halloween-cardinal-with.html",
+				"tags": ["photos"]
+			},
+			{
+				"id": "http://gregmoore.micro.blog/2020/10/13/tampa-florida-utcsince.html",
+				
+				"content_html": "<p>Tampa, Florida USA 13:00 UTC-4\nSince March, this corner has become the center of my world. I post to Micro.blog here. I work here. I play D&amp;D with friends here. There are many corners in the world but this one is mine.</p>\n\n<p>#adayinthelife\nMy contribution to the <a href=\"https://micro.welltempered.net/2020/09/24/a-day-in.html\">24-hour Photo Challenge</a>.</p>\n\n<p><img src=\"uploads/2020/4bd949f7a9.jpg\" width=\"600\" height=\"400\" alt=\"Greg Moore 24-hour Photo Challenge 2020 submission\" /></p>\n",
+				"content_text": "Tampa, Florida USA 13:00 UTC-4\r\nSince March, this corner has become the center of my world. I post to Micro.blog here. I work here. I play D&D with friends here. There are many corners in the world but this one is mine.\r\n\r\n#adayinthelife\r\nMy contribution to the [24-hour Photo Challenge](https://micro.welltempered.net/2020/09/24/a-day-in.html).\n\n<img src=\"uploads/2020/4bd949f7a9.jpg\" width=\"600\" height=\"400\" alt=\"Greg Moore 24-hour Photo Challenge 2020 submission\" />\n",
+				"date_published": "2020-10-13T13:00:22-04:00",
+				"url": "https://blog.gregmoore.me/2020/10/13/tampa-florida-utcsince.html",
+				"tags": ["photos"]
+			},
+			{
+				"id": "http://gregmoore.micro.blog/2020/10/12/my-coworker-really.html",
+				
+				"content_html": "<p>My coworker really likes her cubical.</p>\n\n<p><a href=\"https://blog.gregmoore.me/uploads/2020/2a0065aadc.jpg\"><img src=\"uploads/2020/2a0065aadc.jpg\" width=\"600\" height=\"450\" alt=\"cat looking out from cube\" style=\"height: auto;\" class=\"sunlit_image\" /></a></p>\n",
+				"content_text": "My coworker really likes her cubical.\n\n<a href=\"https://blog.gregmoore.me/uploads/2020/2a0065aadc.jpg\"><img src=\"uploads/2020/2a0065aadc.jpg\" width=\"600\" height=\"450\" alt=\"cat looking out from cube\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n",
+				"date_published": "2020-10-12T11:19:00-04:00",
+				"url": "https://blog.gregmoore.me/2020/10/12/my-coworker-really.html",
+				"tags": ["photos"]
+			},
+			{
+				"id": "http://gregmoore.micro.blog/2020/10/12/even-the-new.html",
+				
+				"content_html": "<p>Even the new Gray Catbirds are confused by the antics of the Morning Doves.</p>\n\n<p><a href=\"https://blog.gregmoore.me/uploads/2020/d85b903d79.jpg\"><img src=\"uploads/2020/d85b903d79.jpg\" width=\"600\" height=\"600\" alt=\"catbird looks at morning dove\" style=\"height: auto;\" class=\"sunlit_image\" /></a></p>\n",
+				"content_text": "Even the new Gray Catbirds are confused by the antics of the Morning Doves.\n\n<a href=\"https://blog.gregmoore.me/uploads/2020/d85b903d79.jpg\"><img src=\"uploads/2020/d85b903d79.jpg\" width=\"600\" height=\"600\" alt=\"catbird looks at morning dove\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n",
+				"date_published": "2020-10-12T09:47:00-04:00",
+				"url": "https://blog.gregmoore.me/2020/10/12/even-the-new.html",
+				"tags": ["photos"]
+			},
+			{
+				"id": "http://gregmoore.micro.blog/2020/10/11/an-accord-of.html",
+				
+				"content_html": "<p>An accord of peaceful coexistence was reached between rival factions this afternoon.</p>\n\n<p><img src=\"uploads/2020/3072a0c7b6.jpg\" width=\"600\" height=\"400\" alt=\"Morning dove and cardinal share a feeder\" style=\"height: auto;\" class=\"sunlit_image\" /></p>\n",
+				"content_text": "An accord of peaceful coexistence was reached between rival factions this afternoon.\n\n<img src=\"uploads/2020/3072a0c7b6.jpg\" width=\"600\" height=\"400\" alt=\"Morning dove and cardinal share a feeder\" style=\"height: auto;\" class=\"sunlit_image\" />\n",
+				"date_published": "2020-10-11T15:46:48-04:00",
+				"url": "https://blog.gregmoore.me/2020/10/11/an-accord-of.html",
+				"tags": ["photos"]
+			},
+			{
 				"id": "http://gregmoore.micro.blog/2020/10/08/good-morning.html",
 				
 				"content_html": "<p>&ldquo;Good morning!&rdquo;</p>\n\n<p><img src=\"uploads/2020/7b62928e75.jpg\" width=\"600\" height=\"799\" alt=\"Cardinal in window\" style=\"height: auto;\" class=\"sunlit_image\" /></p>\n",
@@ -71,9 +116,9 @@
 			{
 				"id": "http://gregmoore.micro.blog/2020/09/26/trying-my-hand.html",
 				
-				"content_html": "<p>🤖 Trying my hand at edge-painting my Gundam Crossbone model. It went so well that I attempted a bit of weathering on the feet too.</p>\n\n<p><a href=\"https://blog.gregmoore.me/uploads/2020/38c0375ce9.jpg\"><img src=\"uploads/2020/38c0375ce9.jpg\" width=\"600\" height=\"450\" alt=\"\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a><a href=\"https://blog.gregmoore.me/uploads/2020/52625a4417.jpg\"><img src=\"uploads/2020/52625a4417.jpg\" width=\"600\" height=\"450\" alt=\"\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a></p>\n",
-				"content_text": "🤖 Trying my hand at edge-painting my Gundam Crossbone model. It went so well that I attempted a bit of weathering on the feet too.\n\n<a href=\"https://blog.gregmoore.me/uploads/2020/38c0375ce9.jpg\"><img src=\"uploads/2020/38c0375ce9.jpg\" width=\"600\" height=\"450\" alt=\"\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a><a href=\"https://blog.gregmoore.me/uploads/2020/52625a4417.jpg\"><img src=\"uploads/2020/52625a4417.jpg\" width=\"600\" height=\"450\" alt=\"\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a>\n",
-				"date_published": "2020-09-26T22:54:48-04:00",
+				"content_html": "<p>🤖 Trying my hand at edge-painting my Gundam Crossbone model. It went so well that I attempted a bit of weathering on the feet too.</p>\n\n<p><a href=\"https://blog.gregmoore.me/uploads/2020/38c0375ce9.jpg\"><img src=\"uploads/2020/38c0375ce9.jpg\" width=\"600\" height=\"450\" alt=\"Gundam X-1 Crossbone\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a><a href=\"https://blog.gregmoore.me/uploads/2020/52625a4417.jpg\"><img src=\"uploads/2020/52625a4417.jpg\" width=\"600\" height=\"450\" alt=\"Gundam X-1 Crossbone\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a></p>\n",
+				"content_text": "🤖 Trying my hand at edge-painting my Gundam Crossbone model. It went so well that I attempted a bit of weathering on the feet too.\n\n<a href=\"https://blog.gregmoore.me/uploads/2020/38c0375ce9.jpg\"><img src=\"uploads/2020/38c0375ce9.jpg\" width=\"600\" height=\"450\" alt=\"Gundam X-1 Crossbone\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a><a href=\"https://blog.gregmoore.me/uploads/2020/52625a4417.jpg\"><img src=\"uploads/2020/52625a4417.jpg\" width=\"600\" height=\"450\" alt=\"Gundam X-1 Crossbone\" style=\"display: inline-block; max-height: 200px; width: auto; padding: 1px;\" class=\"sunlit_image\" /></a>\n",
+				"date_published": "2020-09-26T22:54:00-04:00",
 				"url": "https://blog.gregmoore.me/2020/09/26/trying-my-hand.html",
 				"tags": ["photos"]
 			},
