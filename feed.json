@@ -7,11 +7,47 @@
 	"items": [
 		
 			{
+				"id": "http://gregmoore.micro.blog/2020/11/10/carolina-wren-is.html",
+				
+				"content_html": "<p>Carolina wren is enjoying the new seed bell.</p>\n\n<p><img src=\"uploads/2020/8f59475d87.jpg\" width=\"600\" height=\"599\" alt=\"Carolina Wren\" /></p>\n",
+				"content_text": "Carolina wren is enjoying the new seed bell.\n\n<img src=\"uploads/2020/8f59475d87.jpg\" width=\"600\" height=\"599\" alt=\"Carolina Wren\" />\n",
+				"date_published": "2020-11-10T14:16:08-05:00",
+				"url": "https://blog.gregmoore.me/2020/11/10/carolina-wren-is.html",
+				"tags": ["photos"]
+			},
+			{
+				"id": "http://gregmoore.micro.blog/2020/11/09/walking-through-the.html",
+				
+				"content_html": "<p>Walking through the cypress dome before hurricane Eta takes over the week with storms.</p>\n\n<p><img src=\"uploads/2020/b543a149fc.jpg\" width=\"400\" height=\"600\" alt=\"cypress dome\" /></p>\n",
+				"content_text": "Walking through the cypress dome before hurricane Eta takes over the week with storms.\n\n<img src=\"uploads/2020/b543a149fc.jpg\" width=\"400\" height=\"600\" alt=\"cypress dome\" />\n",
+				"date_published": "2020-11-09T09:45:28-05:00",
+				"url": "https://blog.gregmoore.me/2020/11/09/walking-through-the.html",
+				"tags": ["photos"]
+			},
+			{
+				"id": "http://gregmoore.micro.blog/2020/11/05/we-exist-in.html",
+				
+				"content_html": "<blockquote>\n<p>“We exist in a state of continuous and conscious attention triage, which can be exhausting, disorienting, and demoralizing.”</p>\n</blockquote>\n\n<p><a href=\"https://theconvivialsociety.substack.com/p/structurally-induced-acedia\">L.M. Sacasas</a></p>\n",
+				"content_text": "> “We exist in a state of continuous and conscious attention triage, which can be exhausting, disorienting, and demoralizing.”\n\n[L.M. Sacasas](https://theconvivialsociety.substack.com/p/structurally-induced-acedia)\n",
+				"date_published": "2020-11-05T19:49:41-05:00",
+				"url": "https://blog.gregmoore.me/2020/11/05/we-exist-in.html",
+				"tags": ["quotes"]
+			},
+			{
+				"id": "http://gregmoore.micro.blog/2020/11/03/every-day-starts.html",
+				
+				"content_html": "<p>🇺🇸🗳🇺🇸\nEvery day starts as a blank page, even today.</p>\n\n<p><img src=\"uploads/2020/14da0c11cc.jpg\" width=\"450\" height=\"600\" alt=\"I voted sticker on November 3 journal page\" /></p>\n",
+				"content_text": "🇺🇸🗳🇺🇸\nEvery day starts as a blank page, even today.\n\n<img src=\"uploads/2020/14da0c11cc.jpg\" width=\"450\" height=\"600\" alt=\"I voted sticker on November 3 journal page\" />\n",
+				"date_published": "2020-11-03T12:53:30-05:00",
+				"url": "https://blog.gregmoore.me/2020/11/03/every-day-starts.html",
+				"tags": ["photos"]
+			},
+			{
 				"id": "http://gregmoore.micro.blog/2020/11/02/the-alligators-and.html",
 				
-				"content_html": "<p>🐊 The alligators and turtles were in agreement on today’s amazing weather. 🐢</p>\n\n<p><img src=\"uploads/2020/9da59182f2.jpg\" width=\"600\" height=\"599\" alt=\"alligator sunning on lake bank\" /><img src=\"uploads/2020/e627bf2e12.jpg\" width=\"600\" height=\"600\" alt=\"alligator amd turtles sunning themselves together\" /></p>\n",
-				"content_text": "🐊 The alligators and turtles were in agreement on today’s amazing weather. 🐢\n\n<img src=\"uploads/2020/9da59182f2.jpg\" width=\"600\" height=\"599\" alt=\"alligator sunning on lake bank\" /><img src=\"uploads/2020/e627bf2e12.jpg\" width=\"600\" height=\"600\" alt=\"alligator amd turtles sunning themselves together\" />\n",
-				"date_published": "2020-11-02T15:45:03-05:00",
+				"content_html": "<p>🐊 The alligators and turtles were in agreement on today’s amazing weather. 🐢</p>\n\n<p><a href=\"https://blog.gregmoore.me/uploads/2020/9da59182f2.jpg\"><img src=\"uploads/2020/9da59182f2.jpg\" width=\"600\" height=\"599\" alt=\"alligator sunning on lake bank\" /></a>\n<a href=\"https://blog.gregmoore.me/uploads/2020/e627bf2e12.jpg\"><img src=\"uploads/2020/e627bf2e12.jpg\" width=\"600\" height=\"600\" alt=\"alligator amd turtles sunning themselves together\" /></a></p>\n",
+				"content_text": "🐊 The alligators and turtles were in agreement on today’s amazing weather. 🐢\n\n<a href=\"https://blog.gregmoore.me/uploads/2020/9da59182f2.jpg\"><img src=\"uploads/2020/9da59182f2.jpg\" width=\"600\" height=\"599\" alt=\"alligator sunning on lake bank\" /></a>\n<a href=\"https://blog.gregmoore.me/uploads/2020/e627bf2e12.jpg\"><img src=\"uploads/2020/e627bf2e12.jpg\" width=\"600\" height=\"600\" alt=\"alligator amd turtles sunning themselves together\" /></a>\n",
+				"date_published": "2020-11-02T15:45:00-05:00",
 				"url": "https://blog.gregmoore.me/2020/11/02/the-alligators-and.html",
 				"tags": ["photos"]
 			},
@@ -47,8 +83,9 @@
 				
 				"content_html": "<blockquote>\n<p>“If the pandemic has taught me anything, it’s that it probably isn’t going to teach me anything that I didn’t already know before the pandemic began.”</p>\n</blockquote>\n\n<p><a href=\"https://austinkleon.com/2020/09/29/the-past-100-days/\">Austin Kleon</a></p>\n",
 				"content_text": "> “If the pandemic has taught me anything, it’s that it probably isn’t going to teach me anything that I didn’t already know before the pandemic began.”\n\n[Austin Kleon](https://austinkleon.com/2020/09/29/the-past-100-days/)\n",
-				"date_published": "2020-10-29T16:35:42-05:00",
-				"url": "https://blog.gregmoore.me/2020/10/29/if-the-pandemic.html"
+				"date_published": "2020-10-29T16:35:00-05:00",
+				"url": "https://blog.gregmoore.me/2020/10/29/if-the-pandemic.html",
+				"tags": ["quotes"]
 			},
 			{
 				"id": "http://gregmoore.micro.blog/2020/10/29/hunting.html",
