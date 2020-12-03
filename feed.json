@@ -7,11 +7,47 @@
 	"items": [
 		
 			{
+				"id": "http://gregmoore.micro.blog/2020/12/03/winter-creates-the.html",
+				
+				"content_html": "<p>Winter creates the best skies in Florida.</p>\n\n<p><img src=\"uploads/2020/8e7444ce22.jpg\" width=\"600\" height=\"581\" alt=\"many clouds against blue sky at sunset\" /></p>\n",
+				"content_text": "Winter creates the best skies in Florida.\n\n<img src=\"uploads/2020/8e7444ce22.jpg\" width=\"600\" height=\"581\" alt=\"many clouds against blue sky at sunset\" />\n",
+				"date_published": "2020-12-03T12:55:20-05:00",
+				"url": "https://blog.gregmoore.me/2020/12/03/winter-creates-the.html",
+				"tags": ["photos"]
+			},
+			{
+				"id": "http://gregmoore.micro.blog/2020/12/02/cold-temperatures-mean.html",
+				
+				"content_html": "<p>Cold temperatures mean I get a warm lap buddy for my morning meetings.</p>\n\n<p><a href=\"https://blog.gregmoore.me/uploads/2020/8aabab241a.jpg\"><img src=\"uploads/2020/8aabab241a.jpg\" width=\"600\" height=\"449\" alt=\"cat laying in owner's lap\" /></a></p>\n",
+				"content_text": "Cold temperatures mean I get a warm lap buddy for my morning meetings.\n\n<a href=\"https://blog.gregmoore.me/uploads/2020/8aabab241a.jpg\"><img src=\"uploads/2020/8aabab241a.jpg\" width=\"600\" height=\"449\" alt=\"cat laying in owner's lap\" /></a>\n",
+				"date_published": "2020-12-02T11:38:00-05:00",
+				"url": "https://blog.gregmoore.me/2020/12/02/cold-temperatures-mean.html",
+				"tags": ["photos"]
+			},
+			{
+				"id": "http://gregmoore.micro.blog/2020/12/01/another-lovely-day.html",
+				
+				"content_html": "<p>Another lovely day in the garden.</p>\n\n<p><a href=\"https://blog.gregmoore.me/uploads/2020/b69c42b7a4.jpg\"><img src=\"uploads/2020/b69c42b7a4.jpg\" width=\"450\" height=\"600\" alt=\"statues in a garden\" /></a></p>\n",
+				"content_text": "Another lovely day in the garden.\n\n<a href=\"https://blog.gregmoore.me/uploads/2020/b69c42b7a4.jpg\"><img src=\"uploads/2020/b69c42b7a4.jpg\" width=\"450\" height=\"600\" alt=\"statues in a garden\" /></a>\n",
+				"date_published": "2020-12-01T15:11:00-05:00",
+				"url": "https://blog.gregmoore.me/2020/12/01/another-lovely-day.html",
+				"tags": ["photos"]
+			},
+			{
+				"id": "http://gregmoore.micro.blog/2020/11/26/im-thankful-that.html",
+				
+				"content_html": "<p>I’m thankful that I get to celebrate my favorite holiday 🦃 and my kid becoming a <em>teenager</em> on the same day! Happy thanksgiving everyone.</p>\n\n<p><a href=\"https://blog.gregmoore.me/uploads/2020/169a069c12.jpg\"><img src=\"uploads/2020/169a069c12.jpg\" width=\"600\" height=\"450\" alt=\"walking bridge through trees on college campus\" /></a><a href=\"https://blog.gregmoore.me/uploads/2020/c3b59b3231.jpg\"><img src=\"uploads/2020/c3b59b3231.jpg\" width=\"600\" height=\"450\" alt=\"\" /></a></p>\n",
+				"content_text": "I’m thankful that I get to celebrate my favorite holiday 🦃 and my kid becoming a _teenager_ on the same day! Happy thanksgiving everyone.\n\n<a href=\"https://blog.gregmoore.me/uploads/2020/169a069c12.jpg\"><img src=\"uploads/2020/169a069c12.jpg\" width=\"600\" height=\"450\" alt=\"walking bridge through trees on college campus\" /></a><a href=\"https://blog.gregmoore.me/uploads/2020/c3b59b3231.jpg\"><img src=\"uploads/2020/c3b59b3231.jpg\" width=\"600\" height=\"450\" alt=\"\" /></a>\n",
+				"date_published": "2020-11-26T10:35:00-05:00",
+				"url": "https://blog.gregmoore.me/2020/11/26/im-thankful-that.html",
+				"tags": ["photos","journal"]
+			},
+			{
 				"id": "http://gregmoore.micro.blog/2020/11/25/mirror-image-from.html",
 				
-				"content_html": "<p>Mirror image from today’s walk.</p>\n\n<p><img src=\"uploads/2020/f50a17cf18.jpg\" width=\"600\" height=\"449\" alt=\"treeline reflected in water\" /></p>\n",
-				"content_text": "Mirror image from today’s walk.\n\n<img src=\"uploads/2020/f50a17cf18.jpg\" width=\"600\" height=\"449\" alt=\"treeline reflected in water\" />\n",
-				"date_published": "2020-11-25T22:24:59-05:00",
+				"content_html": "<p>Mirror image from today’s walk.</p>\n\n<p><a href=\"https://blog.gregmoore.me/uploads/2020/f50a17cf18.jpg\"><img src=\"uploads/2020/f50a17cf18.jpg\" width=\"600\" height=\"449\" alt=\"treeline reflected in water\" /></a></p>\n",
+				"content_text": "Mirror image from today’s walk.\n\n<a href=\"https://blog.gregmoore.me/uploads/2020/f50a17cf18.jpg\"><img src=\"uploads/2020/f50a17cf18.jpg\" width=\"600\" height=\"449\" alt=\"treeline reflected in water\" /></a>\n",
+				"date_published": "2020-11-25T22:24:00-05:00",
 				"url": "https://blog.gregmoore.me/2020/11/25/mirror-image-from.html",
 				"tags": ["photos"]
 			},
