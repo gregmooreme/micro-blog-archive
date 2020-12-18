@@ -7,10 +7,55 @@
 	"items": [
 		
 			{
+				"id": "http://gregmoore.micro.blog/2020/12/18/cold-for-florida.html",
+				
+				"content_html": "<p>Cold (for Florida) morning walk.</p>\n\n<p><a href=\"https://blog.gregmoore.me/uploads/2020/92d94d8052.jpg\"><img src=\"uploads/2020/92d94d8052.jpg\" width=\"600\" height=\"449\" alt=\"trees with orange leaves in front of small lake\" /></a></p>\n",
+				"content_text": "Cold (for Florida) morning walk.\n\n<a href=\"https://blog.gregmoore.me/uploads/2020/92d94d8052.jpg\"><img src=\"uploads/2020/92d94d8052.jpg\" width=\"600\" height=\"449\" alt=\"trees with orange leaves in front of small lake\" /></a>\n",
+				"date_published": "2020-12-18T08:32:00-05:00",
+				"url": "https://blog.gregmoore.me/2020/12/18/cold-for-florida.html",
+				"tags": ["photos"]
+			},
+			{
+				"id": "http://gregmoore.micro.blog/2020/12/17/a-friend-and.html",
+				
+				"content_html": "<p>A friend and I finally found an opportunity to have a socially distanced visit. Even with the advances in virtual visitations, there is nothing like the real thing.</p>\n\n<p><a href=“https://blog.gregmoore.me/uploads/2020/6ef04b3637.jpg”><img src=\"uploads/2020/6ef04b3637.jpg\" width=\"600\" height=\"400\" alt=\"walking bath running through forest\" /></a></p>\n",
+				"content_text": "A friend and I finally found an opportunity to have a socially distanced visit. Even with the advances in virtual visitations, there is nothing like the real thing.\n\n<a href=“https://blog.gregmoore.me/uploads/2020/6ef04b3637.jpg”><img src=\"uploads/2020/6ef04b3637.jpg\" width=\"600\" height=\"400\" alt=\"walking bath running through forest\" /></a>\n",
+				"date_published": "2020-12-17T11:20:00-05:00",
+				"url": "https://blog.gregmoore.me/2020/12/17/a-friend-and.html",
+				"tags": ["photos","journal"]
+			},
+			{
+				"id": "http://gregmoore.micro.blog/2020/12/14/woo-my-dd.html",
+				
+				"content_html": "<p>🥳 Woo, my D&amp;D mini prints came in today! Going to paint these guys, add them to my others, and make a character trophy case.</p>\n\n<p><img src=\"uploads/2020/96adf6692c.jpg\" width=\"600\" height=\"447\" alt=\"\" /></p>\n",
+				"content_text": "🥳 Woo, my D&D mini prints came in today! Going to paint these guys, add them to my others, and make a character trophy case.\n\n<img src=\"uploads/2020/96adf6692c.jpg\" width=\"600\" height=\"447\" alt=\"\" />\n",
+				"date_published": "2020-12-14T16:38:44-05:00",
+				"url": "https://blog.gregmoore.me/2020/12/14/woo-my-dd.html",
+				"tags": ["photos"]
+			},
+			{
+				"id": "http://gregmoore.micro.blog/2020/12/14/contemplating-cardinal-on.html",
+				
+				"content_html": "<p>Contemplating cardinal on a cold morning.</p>\n\n<p><a href=“https://blog.gregmoore.me/uploads/2020/4a238dfbc7.jpg”><img src=\"uploads/2020/4a238dfbc7.jpg\" width=\"400\" height=\"600\" alt=\"\" /></a></p>\n",
+				"content_text": "Contemplating cardinal on a cold morning.\n\n<a href=“https://blog.gregmoore.me/uploads/2020/4a238dfbc7.jpg”><img src=\"uploads/2020/4a238dfbc7.jpg\" width=\"400\" height=\"600\" alt=\"\" /></a>\n",
+				"date_published": "2020-12-14T07:44:15-05:00",
+				"url": "https://blog.gregmoore.me/2020/12/14/contemplating-cardinal-on.html",
+				"tags": ["photos"]
+			},
+			{
+				"id": "http://gregmoore.micro.blog/2020/12/13/my-favorite-backyard.html",
+				
+				"content_html": "<p>My favorite backyard buddy: the Titmouse. These little spitfires are not only the perfect balance of size and speed but they’re super cute when they flirt with each other. Defensive squawks turn into small, loving chirps.</p>\n\n<p><a href=“https://blog.gregmoore.me/uploads/2020/9cf0d68c96.jpg”><img src=\"uploads/2020/9cf0d68c96.jpg\" width=\"600\" height=\"400\" alt=\"Titmouse bird standing at seed feeder\" /></a></p>\n",
+				"content_text": "My favorite backyard buddy: the Titmouse. These little spitfires are not only the perfect balance of size and speed but they’re super cute when they flirt with each other. Defensive squawks turn into small, loving chirps.\n\n<a href=“https://blog.gregmoore.me/uploads/2020/9cf0d68c96.jpg”><img src=\"uploads/2020/9cf0d68c96.jpg\" width=\"600\" height=\"400\" alt=\"Titmouse bird standing at seed feeder\" /></a>\n",
+				"date_published": "2020-12-13T00:27:02-05:00",
+				"url": "https://blog.gregmoore.me/2020/12/13/my-favorite-backyard.html",
+				"tags": ["photos"]
+			},
+			{
 				"id": "http://gregmoore.micro.blog/2020/12/10/having-fun-with.html",
 				
-				"content_html": "<p>Having fun with some macro photos today.</p>\n\n<p><img src=\"uploads/2020/1b19ef1d1f.jpg\" width=\"600\" height=\"400\" alt=\"\" /></p>\n",
-				"content_text": "Having fun with some macro photos today.\n\n<img src=\"uploads/2020/1b19ef1d1f.jpg\" width=\"600\" height=\"400\" alt=\"\" />\n",
+				"content_html": "<p>Having fun with some macro photos today.</p>\n\n<p><a href=“https://blog.gregmoore.me/uploads/2020/1b19ef1d1f.jpg”><img src=\"uploads/2020/1b19ef1d1f.jpg\" width=\"600\" height=\"400\" alt=\"\" /></a></p>\n",
+				"content_text": "Having fun with some macro photos today.\n\n<a href=“https://blog.gregmoore.me/uploads/2020/1b19ef1d1f.jpg”><img src=\"uploads/2020/1b19ef1d1f.jpg\" width=\"600\" height=\"400\" alt=\"\" /></a>\n",
 				"date_published": "2020-12-10T20:47:22-05:00",
 				"url": "https://blog.gregmoore.me/2020/12/10/having-fun-with.html",
 				"tags": ["photos"]
