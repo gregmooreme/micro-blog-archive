@@ -7,6 +7,42 @@
 	"items": [
 		
 			{
+				"id": "http://gregmoore.micro.blog/2020/12/26/the-temperature-managed.html",
+				
+				"content_html": "<p>The temperature managed to dip below freezing last night, a rarity for Florida. We’re embracing it as a chance to wear all of the sweaters and scarves that normally sit in storage.</p>\n\n<p><img src=\"uploads/2020/4c4af6df88.jpg\" width=\"600\" height=\"449\" alt=\"\" /></p>\n",
+				"content_text": "The temperature managed to dip below freezing last night, a rarity for Florida. We’re embracing it as a chance to wear all of the sweaters and scarves that normally sit in storage.\n\n<img src=\"uploads/2020/4c4af6df88.jpg\" width=\"600\" height=\"449\" alt=\"\" />\n",
+				"date_published": "2020-12-26T12:15:20-05:00",
+				"url": "https://blog.gregmoore.me/2020/12/26/the-temperature-managed.html",
+				"tags": ["photos"]
+			},
+			{
+				"id": "http://gregmoore.micro.blog/2020/12/24/merry-christmas.html",
+				
+				"content_html": "<p>🎅🏻 Merry Christmas 🎄</p>\n\n<p><img src=\"uploads/2020/6b8900b812.jpg\" width=\"514\" height=\"600\" alt=\"Christmas cookies\" /></p>\n",
+				"content_text": "🎅🏻 Merry Christmas 🎄 \n\n<img src=\"uploads/2020/6b8900b812.jpg\" width=\"514\" height=\"600\" alt=\"Christmas cookies\" />\n",
+				"date_published": "2020-12-24T20:57:44-05:00",
+				"url": "https://blog.gregmoore.me/2020/12/24/merry-christmas.html",
+				"tags": ["photos"]
+			},
+			{
+				"id": "http://gregmoore.micro.blog/2020/12/22/took-a-long.html",
+				
+				"content_html": "<p>Took a long walk in a lovely winter sunset.</p>\n\n<blockquote>\n<p>“Learn to keep your wants simple and refuse to be controlled by the likes and dislikes of others.”\n– <em>Lowell L. Bennion</em></p>\n</blockquote>\n\n<p><a href=“https://blog.gregmoore.me/uploads/2020/2c5a7c8ef2.jpg”><img src=\"uploads/2020/2c5a7c8ef2.jpg\" width=\"600\" height=\"472\" alt=\"\" /></a></p>\n",
+				"content_text": "Took a long walk in a lovely winter sunset.\n\n> “Learn to keep your wants simple and refuse to be controlled by the likes and dislikes of others.”\n– _Lowell L. Bennion_\n\n<a href=“https://blog.gregmoore.me/uploads/2020/2c5a7c8ef2.jpg”><img src=\"uploads/2020/2c5a7c8ef2.jpg\" width=\"600\" height=\"472\" alt=\"\" /></a>\n",
+				"date_published": "2020-12-22T18:14:40-05:00",
+				"url": "https://blog.gregmoore.me/2020/12/22/took-a-long.html",
+				"tags": ["photos"]
+			},
+			{
+				"id": "http://gregmoore.micro.blog/2020/12/19/this-year-has.html",
+				
+				"content_html": "<p>This year has been cold enough to turn the leaves and I’m enjoying an extended season of colors.🍁</p>\n\n<p><a href=“https://blog.gregmoore.me/uploads/2020/c7840b1b9b.jpg”><img src=\"uploads/2020/c7840b1b9b.jpg\" width=\"600\" height=\"599\" alt=\"\" /></a></p>\n",
+				"content_text": "This year has been cold enough to turn the leaves and I’m enjoying an extended season of colors.🍁 \n\n<a href=“https://blog.gregmoore.me/uploads/2020/c7840b1b9b.jpg”><img src=\"uploads/2020/c7840b1b9b.jpg\" width=\"600\" height=\"599\" alt=\"\" /></a>\n",
+				"date_published": "2020-12-19T16:56:23-05:00",
+				"url": "https://blog.gregmoore.me/2020/12/19/this-year-has.html",
+				"tags": ["photos"]
+			},
+			{
 				"id": "http://gregmoore.micro.blog/2020/12/18/cold-for-florida.html",
 				
 				"content_html": "<p>Cold (for Florida) morning walk.</p>\n\n<p><a href=\"https://blog.gregmoore.me/uploads/2020/92d94d8052.jpg\"><img src=\"uploads/2020/92d94d8052.jpg\" width=\"600\" height=\"449\" alt=\"trees with orange leaves in front of small lake\" /></a></p>\n",
