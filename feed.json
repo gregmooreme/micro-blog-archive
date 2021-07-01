@@ -7,13 +7,49 @@
 	"items": [
 		
 			{
+				"id": "http://gregmoore.micro.blog/2021/07/01/my-wonderful-wife.html",
+				
+				"content_html": "<p>My wonderful wife surprised me with the watch I’ve been drooling for over for the past several years.</p>\n\n<p><img src=\"uploads/2021/1c66ea09e4.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "My wonderful wife surprised me with the watch I’ve been drooling for over for the past several years.\n\n<img src=\"uploads/2021/1c66ea09e4.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2021-07-01T13:37:47-04:00",
+				"url": "https://blog.gregmoore.me/2021/07/01/my-wonderful-wife.html",
+				"tags": ["photos"]
+			},
+			{
+				"id": "http://gregmoore.micro.blog/2021/06/29/a-super-tiny.html",
+				
+				"content_html": "<p>A <em>super</em> tiny storefront display of flowers were in bloom so I had to pause and appreciate their little color explosions.</p>\n\n<p><img src=\"uploads/2021/775a4c5c23.jpg\" width=\"599\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "A _super_ tiny storefront display of flowers were in bloom so I had to pause and appreciate their little color explosions.\n\n<img src=\"uploads/2021/775a4c5c23.jpg\" width=\"599\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2021-06-29T00:23:00-04:00",
+				"url": "https://blog.gregmoore.me/2021/06/29/a-super-tiny.html",
+				"tags": ["photos"]
+			},
+			{
+				"id": "http://gregmoore.micro.blog/2021/06/26/a-beautiful-end.html",
+				
+				"content_html": "<p>A beautiful end to a great day with friends.</p>\n\n<p><img src=\"uploads/2021/60a7b2f142.jpg\" width=\"600\" height=\"450\" alt=\"\" /></p>\n",
+				"content_text": "A beautiful end to a great day with friends.\n\n<img src=\"uploads/2021/60a7b2f142.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"date_published": "2021-06-26T22:48:20-04:00",
+				"url": "https://blog.gregmoore.me/2021/06/26/a-beautiful-end.html",
+				"tags": ["photos"]
+			},
+			{
+				"id": "http://gregmoore.micro.blog/2021/06/25/we-call-it.html",
+				
+				"content_html": "<p>We call it “The Sunshine State” but it started raining as soon as we passed the border and continued the entire length of our drive. Still, it’s good to be home.</p>\n\n<p><img src=\"uploads/2021/1d59e534a5.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "We call it “The Sunshine State” but it started raining as soon as we passed the border and continued the entire length of our drive. Still, it’s good to be home.\n\n<img src=\"uploads/2021/1d59e534a5.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2021-06-25T17:49:19-04:00",
+				"url": "https://blog.gregmoore.me/2021/06/25/we-call-it.html",
+				"tags": ["photos","journal"]
+			},
+			{
 				"id": "http://gregmoore.micro.blog/2021/06/23/being-in-the.html",
 				
 				"content_html": "<p>Being in the Detroit area for fathers day meant we were able to attend the 2021 Henry Ford Motor Muster.</p>\n\n<p><img src=\"uploads/2021/e594441662.jpg\" width=\"600\" height=\"599\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></p>\n\n<p>Tons of unique cars from the 30’s through the 70’s we’re on display but this dayglow 1954 <em>Nash Metropolitan</em> stole the show.</p>\n\n<p><img src=\"uploads/2021/fa3466247a.jpg\" width=\"600\" height=\"400\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></p>\n",
 				"content_text": "Being in the Detroit area for fathers day meant we were able to attend the 2021 Henry Ford Motor Muster.\n\n<img src=\"uploads/2021/e594441662.jpg\" width=\"600\" height=\"599\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" />\n\nTons of unique cars from the 30’s through the 70’s we’re on display but this dayglow 1954 *Nash Metropolitan* stole the show.\n\n<img src=\"uploads/2021/fa3466247a.jpg\" width=\"600\" height=\"400\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" />\n",
-				"date_published": "2021-06-23T22:36:44-04:00",
+				"date_published": "2021-06-23T22:36:00-04:00",
 				"url": "https://blog.gregmoore.me/2021/06/23/being-in-the.html",
-				"tags": ["photos"]
+				"tags": ["photos","journal"]
 			},
 			{
 				"id": "http://gregmoore.micro.blog/2021/06/22/watching-the-technicians.html",
@@ -134,8 +170,8 @@
 			{
 				"id": "http://gregmoore.micro.blog/2021/05/24/got-lucky-yesterday.html",
 				
-				"content_html": "<p>Got lucky yesterday as I had about 10 seconds to get a shot of this Pileated Woodpecker that we always hear, but never see. Love that red crest.</p>\n\n<p><a href=“https://blog.gregmoore.me/uploads/2021/f0b095077e.jpg”><img src=\"uploads/2021/f0b095077e.jpg\" width=\"600\" height=\"599\" alt=\"Pileated Woodpecker\" /></a></p>\n",
-				"content_text": "Got lucky yesterday as I had about 10 seconds to get a shot of this Pileated Woodpecker that we always hear, but never see. Love that red crest.\n\n<a href=“https://blog.gregmoore.me/uploads/2021/f0b095077e.jpg”><img src=\"uploads/2021/f0b095077e.jpg\" width=\"600\" height=\"599\" alt=\"Pileated Woodpecker\" /></a>\n",
+				"content_html": "<p>Got lucky yesterday as I had about 10 seconds to get a shot of this Pileated Woodpecker that we always hear, but never see. Love that red crest.</p>\n\n<p><a href=“https://blog.gregmoore.me/uploads/2021/f0b095077e.jpg”><img src=\"https://blog.gregmoore.me/uploads/2021/f0b095077e.jpg\" width=\"600\" height=\"599\" alt=\"Pileated Woodpecker\" /></a></p>\n",
+				"content_text": "Got lucky yesterday as I had about 10 seconds to get a shot of this Pileated Woodpecker that we always hear, but never see. Love that red crest.\n\n<a href=“https://blog.gregmoore.me/uploads/2021/f0b095077e.jpg”><img src=\"https://blog.gregmoore.me/uploads/2021/f0b095077e.jpg\" width=\"600\" height=\"599\" alt=\"Pileated Woodpecker\" /></a>\n",
 				"date_published": "2021-05-24T15:09:56-04:00",
 				"url": "https://blog.gregmoore.me/2021/05/24/got-lucky-yesterday.html",
 				"tags": ["photos"]
