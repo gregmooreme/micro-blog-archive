@@ -7,6 +7,33 @@
 	"items": [
 		
 			{
+				"id": "http://gregmoore.micro.blog/2021/08/18/chilling-in-the.html",
+				
+				"content_html": "<p>Chilling in the afternoon glow.</p>\n\n<p><img src=\"uploads/2021/c268b0e241.jpg\" width=\"600\" height=\"599\" alt=\"\" /></p>\n",
+				"content_text": "Chilling in the afternoon glow.\n\n<img src=\"uploads/2021/c268b0e241.jpg\" width=\"600\" height=\"599\" alt=\"\" />\n",
+				"date_published": "2021-08-18T18:55:38-04:00",
+				"url": "https://blog.gregmoore.me/2021/08/18/chilling-in-the.html",
+				"tags": ["photos","cats"]
+			},
+			{
+				"id": "http://gregmoore.micro.blog/2021/08/18/summer-sunrise-through.html",
+				
+				"content_html": "<p>Summer sunrise through the live oaks.</p>\n\n<p><img src=\"uploads/2021/7b71436f07.jpg\" width=\"600\" height=\"400\" alt=\"\" /></p>\n",
+				"content_text": "Summer sunrise through the live oaks.\n\n<img src=\"uploads/2021/7b71436f07.jpg\" width=\"600\" height=\"400\" alt=\"\" />\n",
+				"date_published": "2021-08-18T08:26:29-04:00",
+				"url": "https://blog.gregmoore.me/2021/08/18/summer-sunrise-through.html",
+				"tags": ["photos"]
+			},
+			{
+				"id": "http://gregmoore.micro.blog/2021/08/16/the-continuing-voyages.html",
+				"title": "The Continuing Voyages",
+				"content_html": "<p>I guess Paramount wasn’t so particular about their TV swag in 1992. 😂 Everyone is assembled but they’re all in half poses, looking in different directions. A perfect metaphor for my family’s current state. Today kicks off a long, multi-month, voyage towards our new home in Michigan. We packed our suitcases and left our house to begin the first leg of our voyage; two weeks with my family.</p>\n\n<p><img src=\"uploads/2021/d1d240f0b9.jpg\" width=\"600\" height=\"599\" alt=\"\" /></p>\n",
+				"content_text": "I guess Paramount wasn’t so particular about their TV swag in 1992. 😂 Everyone is assembled but they’re all in half poses, looking in different directions. A perfect metaphor for my family’s current state. Today kicks off a long, multi-month, voyage towards our new home in Michigan. We packed our suitcases and left our house to begin the first leg of our voyage; two weeks with my family.\n\n<img src=\"uploads/2021/d1d240f0b9.jpg\" width=\"600\" height=\"599\" alt=\"\" />\n",
+				"date_published": "2021-08-16T09:43:02-04:00",
+				"url": "https://blog.gregmoore.me/2021/08/16/the-continuing-voyages.html",
+				"tags": ["photos","journal"]
+			},
+			{
 				"id": "http://gregmoore.micro.blog/2021/08/11/helping.html",
 				
 				"content_html": "<p>“Helping”</p>\n\n<p><img src=\"uploads/2021/1f5f7dc28f.jpg\" width=\"450\" height=\"600\" alt=\"\" /></p>\n",
@@ -27,8 +54,8 @@
 			{
 				"id": "http://gregmoore.micro.blog/2021/08/08/one-of-the.html",
 				
-				"content_html": "<p>One of the crazy things I’ll miss about Florida: A small cloud raining into another cloud that is raining on probably one city block of space.</p>\n\n<p><img src=\"uploads/2021/abd494dc99.jpg\" width=\"599\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "One of the crazy things I’ll miss about Florida: A small cloud raining into another cloud that is raining on probably one city block of space.\n\n<img src=\"uploads/2021/abd494dc99.jpg\" width=\"599\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>One of the crazy things I’ll miss about Florida: A small cloud raining into another cloud that is raining on probably one city block of space.</p>\n\n<p><img src=\"https://blog.gregmoore.me/uploads/2021/abd494dc99.jpg\" width=\"599\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "One of the crazy things I’ll miss about Florida: A small cloud raining into another cloud that is raining on probably one city block of space.\n\n<img src=\"https://blog.gregmoore.me/uploads/2021/abd494dc99.jpg\" width=\"599\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2021-08-08T21:08:42-04:00",
 				"url": "https://blog.gregmoore.me/2021/08/08/one-of-the.html",
 				"tags": ["photos"]
@@ -36,8 +63,8 @@
 			{
 				"id": "http://gregmoore.micro.blog/2021/08/07/here-comes-the.html",
 				
-				"content_html": "<p>Here comes the sun</p>\n\n<p><img src=\"uploads/2021/40725f533a.jpg\" width=\"600\" height=\"450\" alt=\"\" /></p>\n",
-				"content_text": "Here comes the sun\n\n<img src=\"uploads/2021/40725f533a.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"content_html": "<p>Here comes the sun</p>\n\n<p><img src=\"https://blog.gregmoore.me/uploads/2021/40725f533a.jpg\" width=\"600\" height=\"450\" alt=\"\" /></p>\n",
+				"content_text": "Here comes the sun\n\n<img src=\"https://blog.gregmoore.me/uploads/2021/40725f533a.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
 				"date_published": "2021-08-07T08:28:59-04:00",
 				"url": "https://blog.gregmoore.me/2021/08/07/here-comes-the.html",
 				"tags": ["photos"]
@@ -45,8 +72,8 @@
 			{
 				"id": "http://gregmoore.micro.blog/2021/08/05/it-has-done.html",
 				
-				"content_html": "<p>It has done nothing but rain for the past two weeks and my tiny yard is now a tiny lake.</p>\n\n<p><img src=\"uploads/2021/df7c9d1c77.jpg\" width=\"450\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "It has done nothing but rain for the past two weeks and my tiny yard is now a tiny lake.\n\n<img src=\"uploads/2021/df7c9d1c77.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>It has done nothing but rain for the past two weeks and my tiny yard is now a tiny lake.</p>\n\n<p><img src=\"https://blog.gregmoore.me/uploads/2021/df7c9d1c77.jpg\" width=\"450\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "It has done nothing but rain for the past two weeks and my tiny yard is now a tiny lake.\n\n<img src=\"https://blog.gregmoore.me/uploads/2021/df7c9d1c77.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2021-08-05T07:31:27-04:00",
 				"url": "https://blog.gregmoore.me/2021/08/05/it-has-done.html",
 				"tags": ["photos"]
