@@ -7,6 +7,42 @@
 	"items": [
 		
 			{
+				"id": "http://gregmoore.micro.blog/2021/08/26/our-last-evening.html",
+				
+				"content_html": "<p>Our last evening in Florida.\nThe usual half-hour afternoon thunderstorm finished and we’ve crammed our cars with our remaining belongings. There’s nothing left to do but try and get sleep for the two day drive to Michigan.</p>\n\n<p><img src=\"uploads/2021/ab948f3f37.jpg\" width=\"600\" height=\"450\" alt=\"\" /></p>\n",
+				"content_text": "Our last evening in Florida.\nThe usual half-hour afternoon thunderstorm finished and we’ve crammed our cars with our remaining belongings. There’s nothing left to do but try and get sleep for the two day drive to Michigan.\n\n<img src=\"uploads/2021/ab948f3f37.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"date_published": "2021-08-26T20:53:57-04:00",
+				"url": "https://blog.gregmoore.me/2021/08/26/our-last-evening.html",
+				"tags": ["photos","journal"]
+			},
+			{
+				"id": "http://gregmoore.micro.blog/2021/08/23/with-the-generous.html",
+				
+				"content_html": "<p>With the generous help of friends and family, we managed to pack all of our worldly possessions into small-ish shipping containers for transport. Now we prep <em>ourselves</em> for the cross country trek to Michigan.</p>\n\n<p><img src=\"uploads/2021/8e4fef4d37.jpg\" width=\"599\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "With the generous help of friends and family, we managed to pack all of our worldly possessions into small-ish shipping containers for transport. Now we prep _ourselves_ for the cross country trek to Michigan. \n\n<img src=\"uploads/2021/8e4fef4d37.jpg\" width=\"599\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2021-08-23T14:43:26-04:00",
+				"url": "https://blog.gregmoore.me/2021/08/23/with-the-generous.html",
+				"tags": ["photos","journal"]
+			},
+			{
+				"id": "http://gregmoore.micro.blog/2021/08/20/sunset-in-my.html",
+				
+				"content_html": "<p>Sunset in my family’s garden.</p>\n\n<p><img src=\"uploads/2021/e488163131.jpg\" width=\"600\" height=\"599\" alt=\"\" /></p>\n",
+				"content_text": "Sunset in my family’s garden.\n\n<img src=\"uploads/2021/e488163131.jpg\" width=\"600\" height=\"599\" alt=\"\" />\n",
+				"date_published": "2021-08-20T17:44:34-04:00",
+				"url": "https://blog.gregmoore.me/2021/08/20/sunset-in-my.html",
+				"tags": ["photos"]
+			},
+			{
+				"id": "http://gregmoore.micro.blog/2021/08/19/my-familys-bromeliads.html",
+				
+				"content_html": "<p>My family’s bromeliads are blooming like crazy right now. I’ll miss their lush colors.</p>\n\n<p><img src=\"uploads/2021/23e4da954e.jpg\" width=\"600\" height=\"400\" alt=\"\" /></p>\n",
+				"content_text": "My family’s bromeliads are blooming like crazy right now. I’ll miss their lush colors.\n\n<img src=\"uploads/2021/23e4da954e.jpg\" width=\"600\" height=\"400\" alt=\"\" />\n",
+				"date_published": "2021-08-19T10:09:33-04:00",
+				"url": "https://blog.gregmoore.me/2021/08/19/my-familys-bromeliads.html",
+				"tags": ["photos"]
+			},
+			{
 				"id": "http://gregmoore.micro.blog/2021/08/18/chilling-in-the.html",
 				
 				"content_html": "<p>Chilling in the afternoon glow.</p>\n\n<p><img src=\"uploads/2021/c268b0e241.jpg\" width=\"600\" height=\"599\" alt=\"\" /></p>\n",
@@ -18,8 +54,8 @@
 			{
 				"id": "http://gregmoore.micro.blog/2021/08/18/summer-sunrise-through.html",
 				
-				"content_html": "<p>Summer sunrise through the live oaks.</p>\n\n<p><img src=\"uploads/2021/7b71436f07.jpg\" width=\"600\" height=\"400\" alt=\"\" /></p>\n",
-				"content_text": "Summer sunrise through the live oaks.\n\n<img src=\"uploads/2021/7b71436f07.jpg\" width=\"600\" height=\"400\" alt=\"\" />\n",
+				"content_html": "<p>Summer sunrise through the live oaks.</p>\n\n<p><img src=\"https://blog.gregmoore.me/uploads/2021/7b71436f07.jpg\" width=\"600\" height=\"400\" alt=\"\" /></p>\n",
+				"content_text": "Summer sunrise through the live oaks.\n\n<img src=\"https://blog.gregmoore.me/uploads/2021/7b71436f07.jpg\" width=\"600\" height=\"400\" alt=\"\" />\n",
 				"date_published": "2021-08-18T08:26:29-04:00",
 				"url": "https://blog.gregmoore.me/2021/08/18/summer-sunrise-through.html",
 				"tags": ["photos"]
@@ -27,8 +63,8 @@
 			{
 				"id": "http://gregmoore.micro.blog/2021/08/16/the-continuing-voyages.html",
 				"title": "The Continuing Voyages",
-				"content_html": "<p>I guess Paramount wasn’t so particular about their TV swag in 1992. 😂 Everyone is assembled but they’re all in half poses, looking in different directions. A perfect metaphor for my family’s current state. Today kicks off a long, multi-month, voyage towards our new home in Michigan. We packed our suitcases and left our house to begin the first leg of our voyage; two weeks with my family.</p>\n\n<p><img src=\"uploads/2021/d1d240f0b9.jpg\" width=\"600\" height=\"599\" alt=\"\" /></p>\n",
-				"content_text": "I guess Paramount wasn’t so particular about their TV swag in 1992. 😂 Everyone is assembled but they’re all in half poses, looking in different directions. A perfect metaphor for my family’s current state. Today kicks off a long, multi-month, voyage towards our new home in Michigan. We packed our suitcases and left our house to begin the first leg of our voyage; two weeks with my family.\n\n<img src=\"uploads/2021/d1d240f0b9.jpg\" width=\"600\" height=\"599\" alt=\"\" />\n",
+				"content_html": "<p>I guess Paramount wasn’t so particular about their TV swag in 1992. 😂 Everyone is assembled but they’re all in half poses, looking in different directions. A perfect metaphor for my family’s current state. Today kicks off a long, multi-month, voyage towards our new home in Michigan. We packed our suitcases and left our house to begin the first leg of our voyage; two weeks with my family.</p>\n\n<p><img src=\"https://blog.gregmoore.me/uploads/2021/d1d240f0b9.jpg\" width=\"600\" height=\"599\" alt=\"\" /></p>\n",
+				"content_text": "I guess Paramount wasn’t so particular about their TV swag in 1992. 😂 Everyone is assembled but they’re all in half poses, looking in different directions. A perfect metaphor for my family’s current state. Today kicks off a long, multi-month, voyage towards our new home in Michigan. We packed our suitcases and left our house to begin the first leg of our voyage; two weeks with my family.\n\n<img src=\"https://blog.gregmoore.me/uploads/2021/d1d240f0b9.jpg\" width=\"600\" height=\"599\" alt=\"\" />\n",
 				"date_published": "2021-08-16T09:43:02-04:00",
 				"url": "https://blog.gregmoore.me/2021/08/16/the-continuing-voyages.html",
 				"tags": ["photos","journal"]
@@ -36,8 +72,8 @@
 			{
 				"id": "http://gregmoore.micro.blog/2021/08/11/helping.html",
 				
-				"content_html": "<p>“Helping”</p>\n\n<p><img src=\"uploads/2021/1f5f7dc28f.jpg\" width=\"450\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "“Helping”\n\n<img src=\"uploads/2021/1f5f7dc28f.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>“Helping”</p>\n\n<p><img src=\"https://blog.gregmoore.me/uploads/2021/1f5f7dc28f.jpg\" width=\"450\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "“Helping”\n\n<img src=\"https://blog.gregmoore.me/uploads/2021/1f5f7dc28f.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2021-08-11T14:13:13-04:00",
 				"url": "https://blog.gregmoore.me/2021/08/11/helping.html",
 				"tags": ["photos","cats"]
