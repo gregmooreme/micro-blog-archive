@@ -7,6 +7,33 @@
 	"items": [
 		
 			{
+				"id": "http://gregmoore.micro.blog/2021/09/24/todays-mood-is.html",
+				
+				"content_html": "<p>Today’s mood is 54º (12ºC), breezy, and filled with beautiful sunlight.</p>\n\n<p><img src=\"uploads/2021/19cc3d2419.jpg\" width=\"600\" height=\"400\" alt=\"\" /></p>\n",
+				"content_text": "Today’s mood is 54º (12ºC), breezy, and filled with beautiful sunlight. \n\n<img src=\"uploads/2021/19cc3d2419.jpg\" width=\"600\" height=\"400\" alt=\"\" />\n",
+				"date_published": "2021-09-24T10:17:02-04:00",
+				"url": "https://blog.gregmoore.me/2021/09/24/todays-mood-is.html",
+				"tags": ["photos"]
+			},
+			{
+				"id": "http://gregmoore.micro.blog/2021/09/23/processing-the-changes.html",
+				
+				"content_html": "<p>Processing the changes of a cross-country move involves a lot of nuance, something the internet is particularly horrible at. I’ll get back to posting more as life solidifies.</p>\n\n<p><img src=\"uploads/2021/53a8702af9.jpg\" width=\"600\" height=\"599\" alt=\"\" /></p>\n",
+				"content_text": "Processing the changes of a cross-country move involves a lot of nuance, something the internet is particularly horrible at. I’ll get back to posting more as life solidifies.\n\n<img src=\"uploads/2021/53a8702af9.jpg\" width=\"600\" height=\"599\" alt=\"\" />\n",
+				"date_published": "2021-09-23T16:54:08-04:00",
+				"url": "https://blog.gregmoore.me/2021/09/23/processing-the-changes.html",
+				"tags": ["photos","journal","cats"]
+			},
+			{
+				"id": "http://gregmoore.micro.blog/2021/09/19/guess-im-not.html",
+				
+				"content_html": "<p>Guess I’m not going to make the bed today.</p>\n\n<p><img src=\"uploads/2021/4b3a699a14.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Guess I’m not going to make the bed today.\n\n<img src=\"uploads/2021/4b3a699a14.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2021-09-19T19:25:57-04:00",
+				"url": "https://blog.gregmoore.me/2021/09/19/guess-im-not.html",
+				"tags": ["photos","cats"]
+			},
+			{
 				"id": "http://gregmoore.micro.blog/2021/09/16/the-joys-of.html",
 				
 				"content_html": "<p>The joys of a Midwestern fall evening.</p>\n\n<p><img src=\"uploads/2021/ac1a28b01a.jpg\" width=\"600\" height=\"450\" alt=\"\" /></p>\n",
