@@ -7,6 +7,15 @@
 	"items": [
 		
 			{
+				"id": "http://gregmoore.micro.blog/2022/03/02/late-season-snows.html",
+				
+				"content_html": "<p>Late season snows are beautiful in the morning.</p>\n\n<p><img src=\"uploads/2022/408b8796f4.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Late season snows are beautiful in the morning. \n\n<img src=\"uploads/2022/408b8796f4.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2022-03-02T08:14:21-05:00",
+				"url": "https://blog.gregmoore.me/2022/03/02/late-season-snows.html",
+				"tags": ["photos"]
+			},
+			{
 				"id": "http://gregmoore.micro.blog/2022/02/21/being-creative-means.html",
 				
 				"content_html": "<p>Being creative means spending 10 hours drawing a D&amp;D one-shot character that I will only get to play for about five. 😂</p>\n",
@@ -18,8 +27,8 @@
 			{
 				"id": "http://gregmoore.micro.blog/2022/02/14/mermaid-surfing-the.html",
 				
-				"content_html": "<p>Mermaid surfing the icy waves on a frozen night.</p>\n\n<p><img src=\"https://blog.gregmoore.me/uploads/2022/8827b3fe74.jpg\" width=\"600\" height=\"599\" alt=\"\" /></p>\n",
-				"content_text": "Mermaid surfing the icy waves on a frozen night.\n\n<img src=\"https://blog.gregmoore.me/uploads/2022/8827b3fe74.jpg\" width=\"600\" height=\"599\" alt=\"\" />\n",
+				"content_html": "<p>Mermaid surfing the icy waves on a frozen night.</p>\n\n<p><img src=\"uploads/2022/8827b3fe74.jpg\" width=\"600\" height=\"599\" alt=\"\" /></p>\n",
+				"content_text": "Mermaid surfing the icy waves on a frozen night.\n\n<img src=\"uploads/2022/8827b3fe74.jpg\" width=\"600\" height=\"599\" alt=\"\" />\n",
 				"date_published": "2022-02-14T21:01:45-05:00",
 				"url": "https://blog.gregmoore.me/2022/02/14/mermaid-surfing-the.html",
 				"tags": ["photos"]
@@ -27,8 +36,8 @@
 			{
 				"id": "http://gregmoore.micro.blog/2022/02/07/current-weather.html",
 				
-				"content_html": "<p>Current weather</p>\n\n<p><img src=\"https://blog.gregmoore.me/uploads/2022/4e1c26eac1.jpg\" width=\"450\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "Current weather\n\n<img src=\"https://blog.gregmoore.me/uploads/2022/4e1c26eac1.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>Current weather</p>\n\n<p><img src=\"uploads/2022/4e1c26eac1.jpg\" width=\"450\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Current weather\n\n<img src=\"uploads/2022/4e1c26eac1.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-02-07T23:50:45-05:00",
 				"url": "https://blog.gregmoore.me/2022/02/07/current-weather.html",
 				"tags": ["photos"]
@@ -36,8 +45,8 @@
 			{
 				"id": "http://gregmoore.micro.blog/2022/02/07/stepping-back-in.html",
 				
-				"content_html": "<p>Stepping back in time at the Bowlero</p>\n\n<p><img src=\"https://blog.gregmoore.me/uploads/2022/1b71754738.jpg\" width=\"600\" height=\"450\" alt=\"\" /></p>\n",
-				"content_text": "Stepping back in time at the Bowlero\n\n<img src=\"https://blog.gregmoore.me/uploads/2022/1b71754738.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"content_html": "<p>Stepping back in time at the Bowlero</p>\n\n<p><img src=\"uploads/2022/1b71754738.jpg\" width=\"600\" height=\"450\" alt=\"\" /></p>\n",
+				"content_text": "Stepping back in time at the Bowlero\n\n<img src=\"uploads/2022/1b71754738.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
 				"date_published": "2022-02-07T09:42:24-05:00",
 				"url": "https://blog.gregmoore.me/2022/02/07/stepping-back-in.html",
 				"tags": ["photos","journal"]
@@ -45,8 +54,8 @@
 			{
 				"id": "http://gregmoore.micro.blog/2022/02/05/my-daughters-snowman.html",
 				
-				"content_html": "<p>My daughter’s snowman got a little friend.</p>\n\n<p><img src=\"https://blog.gregmoore.me/uploads/2022/a7f874578c.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "My daughter’s snowman got a little friend.\n\n<img src=\"https://blog.gregmoore.me/uploads/2022/a7f874578c.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>My daughter’s snowman got a little friend.</p>\n\n<p><img src=\"uploads/2022/a7f874578c.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "My daughter’s snowman got a little friend.\n\n<img src=\"uploads/2022/a7f874578c.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-02-05T08:48:04-05:00",
 				"url": "https://blog.gregmoore.me/2022/02/05/my-daughters-snowman.html",
 				"tags": ["photos"]
@@ -81,8 +90,8 @@
 			{
 				"id": "http://gregmoore.micro.blog/2022/01/23/enjoying-the-most.html",
 				
-				"content_html": "<p>Enjoying some fresh snow.</p>\n\n<p><img src=\"https://blog.gregmoore.me/uploads/2022/855b175429.jpg\" width=\"600\" height=\"470\" alt=\"\" /></p>\n",
-				"content_text": "Enjoying some fresh snow.\n\n<img src=\"https://blog.gregmoore.me/uploads/2022/855b175429.jpg\" width=\"600\" height=\"470\" alt=\"\" />\n",
+				"content_html": "<p>Enjoying some fresh snow.</p>\n\n<p><img src=\"uploads/2022/855b175429.jpg\" width=\"600\" height=\"470\" alt=\"\" /></p>\n",
+				"content_text": "Enjoying some fresh snow.\n\n<img src=\"uploads/2022/855b175429.jpg\" width=\"600\" height=\"470\" alt=\"\" />\n",
 				"date_published": "2022-01-23T15:38:00-05:00",
 				"url": "https://blog.gregmoore.me/2022/01/23/enjoying-the-most.html",
 				"tags": ["photos"]
@@ -143,8 +152,8 @@
 			{
 				"id": "http://gregmoore.micro.blog/2022/01/08/making-new-friendsthe.html",
 				
-				"content_html": "<p><strong>Making New Friends</strong></p>\n\n<p>The whole family misses all the wildlife we used to enjoy in our Florida backyard so we’ve started leaving some seed piles to let the locals know we’re a friendly place. The cat approves of our plan.</p>\n\n<p><img src=\"https://blog.gregmoore.me/uploads/2022/9a08b85301.jpg\" width=\"399\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "**Making New Friends**\n\nThe whole family misses all the wildlife we used to enjoy in our Florida backyard so we’ve started leaving some seed piles to let the locals know we’re a friendly place. The cat approves of our plan.\n\n<img src=\"https://blog.gregmoore.me/uploads/2022/9a08b85301.jpg\" width=\"399\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p><strong>Making New Friends</strong></p>\n\n<p>The whole family misses all the wildlife we used to enjoy in our Florida backyard so we’ve started leaving some seed piles to let the locals know we’re a friendly place. The cat approves of our plan.</p>\n\n<p><img src=\"uploads/2022/9a08b85301.jpg\" width=\"399\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "**Making New Friends**\n\nThe whole family misses all the wildlife we used to enjoy in our Florida backyard so we’ve started leaving some seed piles to let the locals know we’re a friendly place. The cat approves of our plan.\n\n<img src=\"uploads/2022/9a08b85301.jpg\" width=\"399\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-01-08T17:15:28-05:00",
 				"url": "https://blog.gregmoore.me/2022/01/08/making-new-friendsthe.html",
 				"tags": ["photos"]
@@ -179,8 +188,8 @@
 			{
 				"id": "http://gregmoore.micro.blog/2022/01/03/fc-going-to.html",
 				
-				"content_html": "<p>9°F/-12°C Going to need extra coffee for this first day back to work after a wonderfully long break.</p>\n\n<p><a href=\"https://blog.gregmoore.me/uploads/2022/58a49f0484.jpg\"><img src=\"https://blog.gregmoore.me/uploads/2022/58a49f0484.jpg\" width=\"450\" height=\"600\" alt=\"snowflakes\" /></a></p>\n",
-				"content_text": "9°F/-12°C Going to need extra coffee for this first day back to work after a wonderfully long break.\n\n<a href=\"https://blog.gregmoore.me/uploads/2022/58a49f0484.jpg\"><img src=\"https://blog.gregmoore.me/uploads/2022/58a49f0484.jpg\" width=\"450\" height=\"600\" alt=\"snowflakes\" /></a>\n",
+				"content_html": "<p>9°F/-12°C Going to need extra coffee for this first day back to work after a wonderfully long break.</p>\n\n<p><a href=\"https://blog.gregmoore.me/uploads/2022/58a49f0484.jpg\"><img src=\"uploads/2022/58a49f0484.jpg\" width=\"450\" height=\"600\" alt=\"snowflakes\" /></a></p>\n",
+				"content_text": "9°F/-12°C Going to need extra coffee for this first day back to work after a wonderfully long break.\n\n<a href=\"https://blog.gregmoore.me/uploads/2022/58a49f0484.jpg\"><img src=\"uploads/2022/58a49f0484.jpg\" width=\"450\" height=\"600\" alt=\"snowflakes\" /></a>\n",
 				"date_published": "2022-01-03T11:11:00-05:00",
 				"url": "https://blog.gregmoore.me/2022/01/03/fc-going-to.html",
 				"tags": ["photos","journal"]
