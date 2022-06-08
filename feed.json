@@ -7,6 +7,24 @@
 	"items": [
 		
 			{
+				"id": "http://gregmoore.micro.blog/2022/06/08/this-summer-we.html",
+				
+				"content_html": "<p>This summer we learned there are some serious gardeners investing their talents into the entrances of our neighborhood. The roses in particular have been amazing to witness.</p>\n\n<p><img src=\"uploads/2022/d7955ac618.jpg\" width=\"600\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "This summer we learned there are some serious gardeners investing their talents into the entrances of our neighborhood. The roses in particular have been amazing to witness.\n\n<img src=\"uploads/2022/d7955ac618.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2022-06-08T08:50:55-04:00",
+				"url": "https://blog.gregmoore.me/2022/06/08/this-summer-we.html",
+				"tags": ["photos"]
+			},
+			{
+				"id": "http://gregmoore.micro.blog/2022/06/02/tonight-i-discovered.html",
+				
+				"content_html": "<p>Tonight I discovered the robins were enjoying the sunset along with me.</p>\n\n<p><img src=\"uploads/2022/3a810d9dfe.jpg\" width=\"400\" height=\"600\" alt=\"north american robin standing on pipe\" /></p>\n\n<p><img src=\"uploads/2022/1162bd6686.jpg\" width=\"400\" height=\"600\" alt=\"clouds at sunset behind green trees\" /></p>\n",
+				"content_text": "Tonight I discovered the robins were enjoying the sunset along with me.\n\n<img src=\"uploads/2022/3a810d9dfe.jpg\" width=\"400\" height=\"600\" alt=\"north american robin standing on pipe\" />\n\n<img src=\"uploads/2022/1162bd6686.jpg\" width=\"400\" height=\"600\" alt=\"clouds at sunset behind green trees\" />\n",
+				"date_published": "2022-06-02T21:26:08-04:00",
+				"url": "https://blog.gregmoore.me/2022/06/02/tonight-i-discovered.html",
+				"tags": ["photos"]
+			},
+			{
 				"id": "http://gregmoore.micro.blog/2022/06/01/memorial-day-camping.html",
 				
 				"content_html": "<p>Memorial Day camping in northern Michigan.</p>\n\n<p><img src=\"uploads/2022/a1a0f42414.jpg\" width=\"600\" height=\"400\" alt=\"pair of geese swimming across a large lake with lush mountains behind\" /></p>\n",
@@ -45,8 +63,8 @@
 			{
 				"id": "http://gregmoore.micro.blog/2022/05/11/this-tree-is.html",
 				
-				"content_html": "<p>This tree is a little <em>too</em> excited about spring.</p>\n\n<p><img src=\"uploads/2022/39a12d2a59.jpg\" width=\"600\" height=\"600\" alt=\"pine tree cones found in a phallic shape\" /></p>\n",
-				"content_text": "This tree is a little *too* excited about spring.\n\n<img src=\"uploads/2022/39a12d2a59.jpg\" width=\"600\" height=\"600\" alt=\"pine tree cones found in a phallic shape\" />\n",
+				"content_html": "<p>This tree is a little <em>too</em> excited about spring.</p>\n\n<p><img src=\"https://blog.gregmoore.me/uploads/2022/39a12d2a59.jpg\" width=\"600\" height=\"600\" alt=\"pine tree cones found in a phallic shape\" /></p>\n",
+				"content_text": "This tree is a little *too* excited about spring.\n\n<img src=\"https://blog.gregmoore.me/uploads/2022/39a12d2a59.jpg\" width=\"600\" height=\"600\" alt=\"pine tree cones found in a phallic shape\" />\n",
 				"date_published": "2022-05-11T13:14:14-04:00",
 				"url": "https://blog.gregmoore.me/2022/05/11/this-tree-is.html",
 				"tags": ["photos"]
@@ -170,8 +188,8 @@
 			{
 				"id": "http://gregmoore.micro.blog/2022/04/07/lake-michigan-from.html",
 				
-				"content_html": "<p>Lake Michigan from the shores of Gaukler Point</p>\n\n<p><img src=\"uploads/2022/08ac68d431.jpg\" width=\"600\" height=\"450\" alt=\"Gaukler Point, MI\" /></p>\n",
-				"content_text": "Lake Michigan from the shores of Gaukler Point\n\n<img src=\"uploads/2022/08ac68d431.jpg\" width=\"600\" height=\"450\" alt=\"Gaukler Point, MI\" />\n",
+				"content_html": "<p>Lake Michigan from the shores of Gaukler Point</p>\n\n<p><img src=\"https://blog.gregmoore.me/uploads/2022/08ac68d431.jpg\" width=\"600\" height=\"450\" alt=\"Gaukler Point, MI\" /></p>\n",
+				"content_text": "Lake Michigan from the shores of Gaukler Point\n\n<img src=\"https://blog.gregmoore.me/uploads/2022/08ac68d431.jpg\" width=\"600\" height=\"450\" alt=\"Gaukler Point, MI\" />\n",
 				"date_published": "2022-04-07T10:26:00-04:00",
 				"url": "https://blog.gregmoore.me/2022/04/07/lake-michigan-from.html",
 				"tags": ["photos","journal"]
