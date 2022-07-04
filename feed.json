@@ -7,6 +7,15 @@
 	"items": [
 		
 			{
+				"id": "http://gregmoore.micro.blog/2022/07/04/happy-th-of.html",
+				
+				"content_html": "<p>Happy 4th of July, America</p>\n\n<p><img src=\"uploads/2022/b68153b904.jpg\" width=\"600\" height=\"599\" alt=\"\" /></p>\n",
+				"content_text": "Happy 4th of July, America\n\n<img src=\"uploads/2022/b68153b904.jpg\" width=\"600\" height=\"599\" alt=\"\" />\n",
+				"date_published": "2022-07-04T07:15:34-04:00",
+				"url": "https://blog.gregmoore.me/2022/07/04/happy-th-of.html",
+				"tags": ["photos"]
+			},
+			{
 				"id": "http://gregmoore.micro.blog/2022/06/20/favorite-hood-ornament.html",
 				
 				"content_html": "<p>Favorite hood ornament from this year’s <a href=\"https://www.thehenryford.org/current-events/calendar/motor-muster\">Motor Muster</a> was on a pink Nash Metropolitan.</p>\n\n<p><img src=\"uploads/2022/3709f2919d.jpg\" width=\"600\" height=\"599\" alt=\"chrome hood ornament of woman lying down\" /></p>\n",
