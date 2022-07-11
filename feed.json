@@ -7,10 +7,37 @@
 	"items": [
 		
 			{
+				"id": "http://gregmoore.micro.blog/2022/07/11/still-testing-positive.html",
+				
+				"content_html": "<p>Still testing positive but my overall health has improved massively over the past couple of days. Fevers are gone, I’m breathing through my nose again, and I’m thankful I never lost my smell or taste because earl grey has been my best friend throughout this thing.</p>\n\n<p><img src=\"uploads/2022/98eac4d283.jpg\" width=\"600\" height=\"600\" alt=\"positive results on home covid-19 test\" /></p>\n",
+				"content_text": "Still testing positive but my overall health has improved massively over the past couple of days. Fevers are gone, I’m breathing through my nose again, and I’m thankful I never lost my smell or taste because earl grey has been my best friend throughout this thing.\n\n<img src=\"uploads/2022/98eac4d283.jpg\" width=\"600\" height=\"600\" alt=\"positive results on home covid-19 test\" />\n",
+				"date_published": "2022-07-11T07:55:37-04:00",
+				"url": "https://blog.gregmoore.me/2022/07/11/still-testing-positive.html",
+				"tags": ["photos"]
+			},
+			{
+				"id": "http://gregmoore.micro.blog/2022/07/06/my-turn-to.html",
+				
+				"content_html": "<p>🦠My turn to experience COVID☹️</p>\n",
+				"content_text": "🦠My turn to experience COVID☹️\n",
+				"date_published": "2022-07-06T13:22:30-04:00",
+				"url": "https://blog.gregmoore.me/2022/07/06/my-turn-to.html",
+				"tags": ["journal"]
+			},
+			{
+				"id": "http://gregmoore.micro.blog/2022/07/05/wonderful-way-to.html",
+				
+				"content_html": "<p>Wonderful way to end the day.</p>\n\n<p><img src=\"uploads/2022/57c70f7986.jpg\" width=\"600\" height=\"450\" alt=\"sunset with orange, red, pink, and purple sky\" /></p>\n",
+				"content_text": "Wonderful way to end the day.\n\n<img src=\"uploads/2022/57c70f7986.jpg\" width=\"600\" height=\"450\" alt=\"sunset with orange, red, pink, and purple sky\" />\n",
+				"date_published": "2022-07-05T07:12:14-04:00",
+				"url": "https://blog.gregmoore.me/2022/07/05/wonderful-way-to.html",
+				"tags": ["photos"]
+			},
+			{
 				"id": "http://gregmoore.micro.blog/2022/07/04/happy-th-of.html",
 				
-				"content_html": "<p>Happy 4th of July, America</p>\n\n<p><img src=\"uploads/2022/b68153b904.jpg\" width=\"600\" height=\"599\" alt=\"\" /></p>\n",
-				"content_text": "Happy 4th of July, America\n\n<img src=\"uploads/2022/b68153b904.jpg\" width=\"600\" height=\"599\" alt=\"\" />\n",
+				"content_html": "<p>🇺🇸 Happy 4th of July, America</p>\n\n<p><img src=\"uploads/2022/b68153b904.jpg\" width=\"600\" height=\"599\" alt=\"\" /></p>\n",
+				"content_text": "🇺🇸 Happy 4th of July, America\n\n<img src=\"uploads/2022/b68153b904.jpg\" width=\"600\" height=\"599\" alt=\"\" />\n",
 				"date_published": "2022-07-04T07:15:34-04:00",
 				"url": "https://blog.gregmoore.me/2022/07/04/happy-th-of.html",
 				"tags": ["photos"]
