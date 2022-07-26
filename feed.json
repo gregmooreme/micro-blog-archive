@@ -7,10 +7,19 @@
 	"items": [
 		
 			{
+				"id": "http://gregmoore.micro.blog/2022/07/26/i-keep-trying.html",
+				
+				"content_html": "<p>I keep trying to take photos of something other than sunsets but I can’t help myself. Dramatic lighting transforms the most pedestrian of views into something spectacular.</p>\n\n<p><img src=\"uploads/2022/2436dbdbd6.jpg\" width=\"600\" height=\"450\" alt=\"red sunset light highlights clouds\" /></p>\n",
+				"content_text": "I keep trying to take photos of something other than sunsets but I can’t help myself. Dramatic lighting transforms the most pedestrian of views into something spectacular.\n\n<img src=\"uploads/2022/2436dbdbd6.jpg\" width=\"600\" height=\"450\" alt=\"red sunset light highlights clouds\" />\n",
+				"date_published": "2022-07-26T08:04:37-04:00",
+				"url": "https://blog.gregmoore.me/2022/07/26/i-keep-trying.html",
+				"tags": ["photos"]
+			},
+			{
 				"id": "http://gregmoore.micro.blog/2022/07/16/all-of-my.html",
 				
-				"content_html": "<p>All of my D&amp;D characters get “trophies” so I spent the afternoon painting their minis. They&rsquo;re a small accomplishment (literally) but it feels so good to be doing something creative again.</p>\n\n<p><img src=\"uploads/2022/9a9f0256a4.jpg\" width=\"449\" height=\"600\" alt=\"Sous\" />\n<img src=\"uploads/2022/37d0bc62f2.jpg\" width=\"449\" height=\"600\" alt=\"Ritter\" /></p>\n",
-				"content_text": "All of my D&D characters get “trophies” so I spent the afternoon painting their minis. They're a small accomplishment (literally) but it feels so good to be doing something creative again.\n\n<img src=\"uploads/2022/9a9f0256a4.jpg\" width=\"449\" height=\"600\" alt=\"Sous\" />\n<img src=\"uploads/2022/37d0bc62f2.jpg\" width=\"449\" height=\"600\" alt=\"Ritter\" />\n",
+				"content_html": "<p>All of my D&amp;D characters get “trophies” so I spent the afternoon painting their minis. They&rsquo;re a small accomplishment (literally) but it feels so good to be doing something creative again.</p>\n\n<p><img src=\"uploads/2022/9a9f0256a4.jpg\" width=\"224\" height=\"375\" alt=\"Sous\" />\n<img src=\"uploads/2022/37d0bc62f2.jpg\" width=\"224\" height=\"375\" alt=\"Ritter\" /></p>\n",
+				"content_text": "All of my D&D characters get “trophies” so I spent the afternoon painting their minis. They're a small accomplishment (literally) but it feels so good to be doing something creative again.\n\n<img src=\"uploads/2022/9a9f0256a4.jpg\" width=\"224\" height=\"375\" alt=\"Sous\" />\n<img src=\"uploads/2022/37d0bc62f2.jpg\" width=\"224\" height=\"375\" alt=\"Ritter\" />\n",
 				"date_published": "2022-07-16T22:37:05-04:00",
 				"url": "https://blog.gregmoore.me/2022/07/16/all-of-my.html",
 				"tags": ["photos","journal"]
@@ -45,8 +54,8 @@
 			{
 				"id": "http://gregmoore.micro.blog/2022/07/05/wonderful-way-to.html",
 				
-				"content_html": "<p>Wonderful way to end the day.</p>\n\n<p><img src=\"uploads/2022/57c70f7986.jpg\" width=\"600\" height=\"450\" alt=\"sunset with orange, red, pink, and purple sky\" /></p>\n",
-				"content_text": "Wonderful way to end the day.\n\n<img src=\"uploads/2022/57c70f7986.jpg\" width=\"600\" height=\"450\" alt=\"sunset with orange, red, pink, and purple sky\" />\n",
+				"content_html": "<p>Wonderful way to end the day.</p>\n\n<p><img src=\"https://blog.gregmoore.me/uploads/2022/57c70f7986.jpg\" width=\"600\" height=\"450\" alt=\"sunset with orange, red, pink, and purple sky\" /></p>\n",
+				"content_text": "Wonderful way to end the day.\n\n<img src=\"https://blog.gregmoore.me/uploads/2022/57c70f7986.jpg\" width=\"600\" height=\"450\" alt=\"sunset with orange, red, pink, and purple sky\" />\n",
 				"date_published": "2022-07-05T07:12:14-04:00",
 				"url": "https://blog.gregmoore.me/2022/07/05/wonderful-way-to.html",
 				"tags": ["photos"]
