@@ -7,6 +7,32 @@
 	"items": [
 		
 			{
+				"id": "http://gregmoore.micro.blog/2022/08/17/my-daughters-art.html",
+				
+				"content_html": "<p>My daughter’s art camp was a great success. She was nervous about it but, when we arrived to pick her up, she was in a big group of girls all hugging and crying for having to leave. One of her new friends told me she ran a giant 10 person D&amp;D game that she made up for them.</p>\n\n<p><img src=\"uploads/2022/c0ca18e95e.jpg\" width=\"450\" height=\"600\" alt=\"two people walking through a tall pine forest\" /></p>\n",
+				"content_text": "My daughter’s art camp was a great success. She was nervous about it but, when we arrived to pick her up, she was in a big group of girls all hugging and crying for having to leave. One of her new friends told me she ran a giant 10 person D&D game that she made up for them.\n\n<img src=\"uploads/2022/c0ca18e95e.jpg\" width=\"450\" height=\"600\" alt=\"two people walking through a tall pine forest\" />\n",
+				"date_published": "2022-08-17T08:50:53-04:00",
+				"url": "https://blog.gregmoore.me/2022/08/17/my-daughters-art.html",
+				"tags": ["photos"]
+			},
+			{
+				"id": "http://gregmoore.micro.blog/2022/07/27/my-whole-family.html",
+				
+				"content_html": "<p>🖖 My whole family enjoyed <em>Strange New Worlds</em> enough to rewatch it with multiple people. Sadly, can’t say the same for the first seasons of <em>Discovery</em> or <em>Picard</em>. Really struggling.</p>\n",
+				"content_text": "🖖 My whole family enjoyed _Strange New Worlds_ enough to rewatch it with multiple people. Sadly, can’t say the same for the first seasons of _Discovery_ or _Picard_. Really struggling.\n",
+				"date_published": "2022-07-27T14:10:48-04:00",
+				"url": "https://blog.gregmoore.me/2022/07/27/my-whole-family.html"
+			},
+			{
+				"id": "http://gregmoore.micro.blog/2022/07/27/these-violet-beauties.html",
+				
+				"content_html": "<p>These violet beauties just popped up seemingly overnight and I can’t stop taking the time to stop and appreciate them.</p>\n\n<p><img src=\"uploads/2022/935d92c09e.jpg\" width=\"600\" height=\"450\" alt=\"\" /></p>\n",
+				"content_text": "These violet beauties just popped up seemingly overnight and I can’t stop taking the time to stop and appreciate them.\n\n<img src=\"uploads/2022/935d92c09e.jpg\" width=\"600\" height=\"450\" alt=\"\" />\n",
+				"date_published": "2022-07-27T14:02:49-04:00",
+				"url": "https://blog.gregmoore.me/2022/07/27/these-violet-beauties.html",
+				"tags": ["photos"]
+			},
+			{
 				"id": "http://gregmoore.micro.blog/2022/07/26/i-keep-trying.html",
 				
 				"content_html": "<p>I keep trying to take photos of something other than sunsets but I can’t help myself. Dramatic lighting transforms the most pedestrian of views into something spectacular.</p>\n\n<p><img src=\"uploads/2022/2436dbdbd6.jpg\" width=\"600\" height=\"450\" alt=\"red sunset light highlights clouds\" /></p>\n",
@@ -27,8 +53,8 @@
 			{
 				"id": "http://gregmoore.micro.blog/2022/07/12/i-am-thankful.html",
 				
-				"content_html": "<p>I am thankful to be in this special place, at this special time, with these special people.</p>\n\n<p><img src=\"uploads/2022/0e78ed122f.jpg\" width=\"600\" height=\"450\" alt=\"sunset over Lake Michigan shoreline\" /></p>\n",
-				"content_text": "I am thankful to be in this special place, at this special time, with these special people.\n\n<img src=\"uploads/2022/0e78ed122f.jpg\" width=\"600\" height=\"450\" alt=\"sunset over Lake Michigan shoreline\" />\n",
+				"content_html": "<p>I am thankful to be in this special place, at this special time, with these special people.</p>\n\n<p><img src=\"https://blog.gregmoore.me/uploads/2022/0e78ed122f.jpg\" width=\"600\" height=\"450\" alt=\"sunset over Lake Michigan shoreline\" /></p>\n",
+				"content_text": "I am thankful to be in this special place, at this special time, with these special people.\n\n<img src=\"https://blog.gregmoore.me/uploads/2022/0e78ed122f.jpg\" width=\"600\" height=\"450\" alt=\"sunset over Lake Michigan shoreline\" />\n",
 				"date_published": "2022-07-12T10:24:23-04:00",
 				"url": "https://blog.gregmoore.me/2022/07/12/i-am-thankful.html",
 				"tags": ["photos","journal"]
@@ -36,8 +62,8 @@
 			{
 				"id": "http://gregmoore.micro.blog/2022/07/11/still-testing-positive.html",
 				
-				"content_html": "<p>Still testing positive but my overall health has improved massively over the past couple of days. Fevers are gone, I’m breathing through my nose again, and I’m thankful I never lost my smell or taste because earl grey has been my best friend throughout this thing.</p>\n\n<p><img src=\"uploads/2022/98eac4d283.jpg\" width=\"600\" height=\"600\" alt=\"positive results on home covid-19 test\" /></p>\n",
-				"content_text": "Still testing positive but my overall health has improved massively over the past couple of days. Fevers are gone, I’m breathing through my nose again, and I’m thankful I never lost my smell or taste because earl grey has been my best friend throughout this thing.\n\n<img src=\"uploads/2022/98eac4d283.jpg\" width=\"600\" height=\"600\" alt=\"positive results on home covid-19 test\" />\n",
+				"content_html": "<p>Still testing positive but my overall health has improved massively over the past couple of days. Fevers are gone, I’m breathing through my nose again, and I’m thankful I never lost my smell or taste because earl grey has been my best friend throughout this thing.</p>\n\n<p><img src=\"https://blog.gregmoore.me/uploads/2022/98eac4d283.jpg\" width=\"600\" height=\"600\" alt=\"positive results on home covid-19 test\" /></p>\n",
+				"content_text": "Still testing positive but my overall health has improved massively over the past couple of days. Fevers are gone, I’m breathing through my nose again, and I’m thankful I never lost my smell or taste because earl grey has been my best friend throughout this thing.\n\n<img src=\"https://blog.gregmoore.me/uploads/2022/98eac4d283.jpg\" width=\"600\" height=\"600\" alt=\"positive results on home covid-19 test\" />\n",
 				"date_published": "2022-07-11T07:55:37-04:00",
 				"url": "https://blog.gregmoore.me/2022/07/11/still-testing-positive.html",
 				"tags": ["photos"]
