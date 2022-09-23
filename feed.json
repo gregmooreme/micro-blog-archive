@@ -7,6 +7,24 @@
 	"items": [
 		
 			{
+				"id": "http://gregmoore.micro.blog/2022/09/22/i-attended-my.html",
+				
+				"content_html": "<p>I attended my first fencing class tonight. My wife has fenced for many years but this is the first time we’ve lived near a class that accepts total newbs like me. It was far more fun than I expected and I’m looking forward to going back!</p>\n\n<p><img src=\"uploads/2022/c423aff07a.png\" width=\"338\" height=\"600\" alt=\"two people fencing in a gym\" /></p>\n",
+				"content_text": "I attended my first fencing class tonight. My wife has fenced for many years but this is the first time we’ve lived near a class that accepts total newbs like me. It was far more fun than I expected and I’m looking forward to going back!\n\n<img src=\"uploads/2022/c423aff07a.png\" width=\"338\" height=\"600\" alt=\"two people fencing in a gym\" />\n",
+				"date_published": "2022-09-22T22:43:38-04:00",
+				"url": "https://blog.gregmoore.me/2022/09/22/i-attended-my.html",
+				"tags": ["photos","journal"]
+			},
+			{
+				"id": "http://gregmoore.micro.blog/2022/09/20/time-continues-its.html",
+				
+				"content_html": "<p>Time continues its spiral with the year anniversary of our move to Michigan. It’s been a joy to feel the temperatures slow drop and celebrate the closing out of the outdoor season with all the fall, jazz, and heritage festivals.</p>\n\n<p><img src=\"uploads/2022/9e72c62ab4.jpg\" width=\"450\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Time continues its spiral with the year anniversary of our move to Michigan. It’s been a joy to feel the temperatures slow drop and celebrate the closing out of the outdoor season with all the fall, jazz, and heritage festivals.\n\n<img src=\"uploads/2022/9e72c62ab4.jpg\" width=\"450\" height=\"600\" alt=\"\" />\n",
+				"date_published": "2022-09-20T11:14:41-04:00",
+				"url": "https://blog.gregmoore.me/2022/09/20/time-continues-its.html",
+				"tags": ["photos","journal"]
+			},
+			{
 				"id": "http://gregmoore.micro.blog/2022/09/17/learning-how-to.html",
 				
 				"content_html": "<p>Learning how to turn foam into mountains because it’s a <em>much</em> cooler bookshelf display for my character minis than a clear box. I’ve made it to the black-wash stage. Dry brushing is next and then I can figure out where to put foliage.</p>\n\n<p><img src=\"uploads/2022/ef2a19c880.jpg\" width=\"600\" height=\"450\" alt=\"model mountains with black wash drying\" /></p>\n",
@@ -36,8 +54,8 @@
 			{
 				"id": "http://gregmoore.micro.blog/2022/09/09/how-to-make.html",
 				
-				"content_html": "<p>How to make me leave your website, in one picture.</p>\n\n<p><img src=\"uploads/2022/2adccd6648.png\" width=\"277\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "How to make me leave your website, in one picture.\n\n<img src=\"uploads/2022/2adccd6648.png\" width=\"277\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>How to make me leave your website, in one picture.</p>\n\n<p><img src=\"https://blog.gregmoore.me/uploads/2022/2adccd6648.png\" width=\"277\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "How to make me leave your website, in one picture.\n\n<img src=\"https://blog.gregmoore.me/uploads/2022/2adccd6648.png\" width=\"277\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-09-09T07:26:44-04:00",
 				"url": "https://blog.gregmoore.me/2022/09/09/how-to-make.html",
 				"tags": ["photos"]
@@ -45,8 +63,8 @@
 			{
 				"id": "http://gregmoore.micro.blog/2022/09/08/today-is-a.html",
 				
-				"content_html": "<p>Today is a sad day. It’s difficult for me to think of England without Queen Elizabeth as the two have been inseparable my entire life but here we are.</p>\n\n<p><img src=\"uploads/2022/2e14e38c6c.jpg\" width=\"400\" height=\"600\" alt=\"\" /></p>\n",
-				"content_text": "Today is a sad day. It’s difficult for me to think of England without Queen Elizabeth as the two have been inseparable my entire life but here we are.\n\n<img src=\"uploads/2022/2e14e38c6c.jpg\" width=\"400\" height=\"600\" alt=\"\" />\n",
+				"content_html": "<p>Today is a sad day. It’s difficult for me to think of England without Queen Elizabeth as the two have been inseparable my entire life but here we are.</p>\n\n<p><img src=\"https://blog.gregmoore.me/uploads/2022/2e14e38c6c.jpg\" width=\"400\" height=\"600\" alt=\"\" /></p>\n",
+				"content_text": "Today is a sad day. It’s difficult for me to think of England without Queen Elizabeth as the two have been inseparable my entire life but here we are.\n\n<img src=\"https://blog.gregmoore.me/uploads/2022/2e14e38c6c.jpg\" width=\"400\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-09-08T19:19:39-04:00",
 				"url": "https://blog.gregmoore.me/2022/09/08/today-is-a.html",
 				"tags": ["photos","journal"]
