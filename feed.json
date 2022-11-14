@@ -7,6 +7,40 @@
 	"items": [
 		
 			{
+				"id": "http://gregmoore.micro.blog/2022/11/14/social-media-users.html",
+				
+				"content_html": "<blockquote>\n<p>Social media users documented in the moment, rather than retrospectively. What we have now is a cognitive state more akin to a coiled spring, where we consume “content” with the expectation of <em>engagement</em> rather than of <em>participation</em>.</p>\n</blockquote>\n\n<p><a href=\"https://why.currently.fyi\">Towards Disengagement</a></p>\n",
+				"content_text": "> Social media users documented in the moment, rather than retrospectively. What we have now is a cognitive state more akin to a coiled spring, where we consume “content” with the expectation of _engagement_ rather than of _participation_.\r\n\r\n[Towards Disengagement](https://why.currently.fyi)\n",
+				"date_published": "2022-11-14T09:21:42-05:00",
+				"url": "https://blog.gregmoore.me/2022/11/14/social-media-users.html",
+				"tags": ["quotes"]
+			},
+			{
+				"id": "http://gregmoore.micro.blog/2022/11/10/finally-broke-down.html",
+				
+				"content_html": "<p>Finally broke down and jumped on the <a href=\"https://gregmoore.omg.lol\">omg.lol</a> bandwagon this morning and I&rsquo;m already having fun with it. I would like to blame <a href=\"https://micro.blog/maique\">@maique</a>, <a href=\"https://micro.blog/jean\">@jean</a>, and <a href=\"https://micro.blog/pimoore\">@pimoore</a> instead of admitting that I&rsquo;m a grown man who makes his own decisions.</p>\n",
+				"content_text": "Finally broke down and jumped on the [omg.lol](https://gregmoore.omg.lol) bandwagon this morning and I'm already having fun with it. I would like to blame [@maique](https://micro.blog/maique), [@jean](https://micro.blog/jean), and [@pimoore](https://micro.blog/pimoore) instead of admitting that I'm a grown man who makes his own decisions.\n",
+				"date_published": "2022-11-10T10:31:39-05:00",
+				"url": "https://blog.gregmoore.me/2022/11/10/finally-broke-down.html"
+			},
+			{
+				"id": "http://gregmoore.micro.blog/2022/11/10/whelp-guess-im.html",
+				
+				"content_html": "<p>Whelp, guess I’m not getting out of bed today.</p>\n\n<p><img src=\"uploads/2022/d8cf512e89.jpg\" width=\"600\" height=\"599\" alt=\"\"></p>\n",
+				"content_text": "Whelp, guess I’m not getting out of bed today.\n\n<img src=\"uploads/2022/d8cf512e89.jpg\" width=\"600\" height=\"599\" alt=\"\">\n",
+				"date_published": "2022-11-10T08:41:46-05:00",
+				"url": "https://blog.gregmoore.me/2022/11/10/whelp-guess-im.html",
+				"tags": ["photos","cats"]
+			},
+			{
+				"id": "http://gregmoore.micro.blog/2022/11/08/sad-to-have.html",
+				
+				"content_html": "<p>Sad to have to move off of <a href=\"https://sparkmailapp.com\">Spark’s mail apps</a> but the direction they’re taking them is a path I can’t follow.</p>\n",
+				"content_text": "Sad to have to move off of [Spark’s mail apps](https://sparkmailapp.com) but the direction they’re taking them is a path I can’t follow.\n",
+				"date_published": "2022-11-08T17:21:38-05:00",
+				"url": "https://blog.gregmoore.me/2022/11/08/sad-to-have.html"
+			},
+			{
 				"id": "http://gregmoore.micro.blog/2022/11/07/the-last-of.html",
 				
 				"content_html": "<p>The last of the fall leaves have fallen and winter is closing in. Not a lot of opportunities for interesting photos until the snow falls.</p>\n\n<p><img src=\"uploads/2022/e51ff42d4c.jpg\" width=\"600\" height=\"599\" alt=\"\"></p>\n",
