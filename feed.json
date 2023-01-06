@@ -7,6 +7,42 @@
 	"items": [
 		
 			{
+				"id": "http://gregmoore.micro.blog/2023/01/05/theres-really-only.html",
+				
+				"content_html": "<blockquote>\n<p>There’s really only one question that can be answered, Genry, and we already know the answer&hellip;.The only thing that makes life possible is permanent, intolerable uncertainty: not knowing what comes next.</p>\n</blockquote>\n<ul>\n<li>Le Guin,<a href=\"https://bookshop.org/p/books/the-left-hand-of-darkness-50th-anniversary-edition-ursula-k-le-guin/7503226\"> <em>The Lefthand of Darkness</em></a></li>\n</ul>\n<!-- raw HTML omitted -->\n",
+				"content_text": "> There’s really only one question that can be answered, Genry, and we already know the answer....The only thing that makes life possible is permanent, intolerable uncertainty: not knowing what comes next.\n\n- Le Guin,[ _The Lefthand of Darkness_](https://bookshop.org/p/books/the-left-hand-of-darkness-50th-anniversary-edition-ursula-k-le-guin/7503226)\n\n<img src=\"uploads/2023/ec3c1a2bfd.jpg\" width=\"600\" height=\"599\" alt=\"\">\n",
+				"date_published": "2023-01-05T19:02:33-05:00",
+				"url": "https://blog.gregmoore.me/2023/01/05/theres-really-only.html",
+				"tags": ["photos","quotes"]
+			},
+			{
+				"id": "http://gregmoore.micro.blog/2023/01/04/late-this-afternoon.html",
+				
+				"content_html": "<p>Late this afternoon, the sun made its first appearance after two solid days of cold, foggy rain that should have been snow. As soon as my eyes spotted the warm colors, my body quite literally rushed me out the door and into the light.</p>\n<p>It was a short but satisfying walk.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Late this afternoon, the sun made its first appearance after two solid days of cold, foggy rain that should have been snow. As soon as my eyes spotted the warm colors, my body quite literally rushed me out the door and into the light.\n\nIt was a short but satisfying walk.\n\n<img src=\"uploads/2023/382e639785.jpg\" width=\"600\" height=\"400\" alt=\"\">\n",
+				"date_published": "2023-01-04T20:31:50-05:00",
+				"url": "https://blog.gregmoore.me/2023/01/04/late-this-afternoon.html",
+				"tags": ["photos","journal"]
+			},
+			{
+				"id": "http://gregmoore.micro.blog/2023/01/03/its-the-first.html",
+				
+				"content_html": "<p>It’s the first day of class in our new D&amp;D campaign so I’m prepping with a london fog brewed in the official school mugs our DM gifted upon our acceptance. <em>Go college Silverquill!”</em></p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "It’s the first day of class in our new D&D campaign so I’m prepping with a london fog brewed in the official school mugs our DM gifted upon our acceptance. _Go college Silverquill!”_\n\n<img src=\"uploads/2023/5e5db86610.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"date_published": "2023-01-03T15:41:16-05:00",
+				"url": "https://blog.gregmoore.me/2023/01/03/its-the-first.html",
+				"tags": ["photos"]
+			},
+			{
+				"id": "http://gregmoore.micro.blog/2023/01/02/rest-in-peace.html",
+				
+				"content_html": "<p>🪦Rest in peace, <a href=\"https://support.apple.com/en-us/HT213526\">Dark Sky</a>. I’ll miss your near instant simplicity and focused usefulness.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "🪦Rest in peace, [Dark Sky](https://support.apple.com/en-us/HT213526). I’ll miss your near instant simplicity and focused usefulness.\n\n<img src=\"uploads/2023/a3cb59ab27.png\" width=\"314\" height=\"600\" alt=\"\">\n",
+				"date_published": "2023-01-02T07:25:54-05:00",
+				"url": "https://blog.gregmoore.me/2023/01/02/rest-in-peace.html",
+				"tags": ["photos"]
+			},
+			{
 				"id": "http://gregmoore.micro.blog/2022/12/31/can-the-cat.html",
 				
 				"content_html": "<p>“Can the cat come out and play?”</p>\n<!-- raw HTML omitted -->\n",
@@ -28,7 +64,7 @@
 				"id": "http://gregmoore.micro.blog/2022/12/29/enjoyed-the-temporary.html",
 				
 				"content_html": "<p>Enjoyed the temporary “heatwave” with a wonderful dinner at <strong>Lumen</strong> in downtown Detroit. (Hard to believe it was 2° and snowing just a few days ago.)</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Enjoyed the temporary “heatwave” with a wonderful dinner at **Lumen** in downtown Detroit. (Hard to believe it was 2° and snowing just a few days ago.)\n\n<img src=\"uploads/2022/0975506327.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_text": "Enjoyed the temporary “heatwave” with a wonderful dinner at **Lumen** in downtown Detroit. (Hard to believe it was 2° and snowing just a few days ago.)\n\n<img src=\"https://cdn.uploads.micro.blog/5332/2022/0975506327.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2022-12-29T23:57:36-05:00",
 				"url": "https://blog.gregmoore.me/2022/12/29/enjoyed-the-temporary.html",
 				"tags": ["photos","journal"]
@@ -37,7 +73,7 @@
 				"id": "http://gregmoore.micro.blog/2022/12/28/lets-run-away.html",
 				
 				"content_html": "<p>Let’s run away together</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Let’s run away together\n\n<img src=\"uploads/2022/62cec837d3.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"content_text": "Let’s run away together\n\n<img src=\"https://cdn.uploads.micro.blog/5332/2022/62cec837d3.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
 				"date_published": "2022-12-28T17:38:11-05:00",
 				"url": "https://blog.gregmoore.me/2022/12/28/lets-run-away.html",
 				"tags": ["photos"]
