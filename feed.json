@@ -7,10 +7,55 @@
 	"items": [
 		
 			{
+				"id": "http://gregmoore.micro.blog/2023/01/21/a-surprise-just.html",
+				
+				"content_html": "<p>A surprise “just because” gift from my awesome cousin: Lego Super Robot</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "A surprise “just because” gift from my awesome cousin: Lego Super Robot\n\n<img src=\"uploads/2023/cf3e234263.jpg\" width=\"599\" height=\"600\" alt=\"\">\n",
+				"date_published": "2023-01-21T20:20:41-05:00",
+				"url": "https://blog.gregmoore.me/2023/01/21/a-surprise-just.html",
+				"tags": ["photos"]
+			},
+			{
+				"id": "http://gregmoore.micro.blog/2023/01/20/finished-watching-wednesday.html",
+				
+				"content_html": "<p>Finished watching <a href=\"https://www.serializd.com/show/119051\">Wednesday</a> and, while we couldn’t help comparing it to the Addams Family movies, the whole family really enjoyed it. Looking forward to season two.</p>\n",
+				"content_text": "Finished watching [Wednesday](https://www.serializd.com/show/119051) and, while we couldn’t help comparing it to the Addams Family movies, the whole family really enjoyed it. Looking forward to season two.\n",
+				"date_published": "2023-01-20T08:18:05-05:00",
+				"url": "https://blog.gregmoore.me/2023/01/20/finished-watching-wednesday.html",
+				"tags": ["journal"]
+			},
+			{
+				"id": "http://gregmoore.micro.blog/2023/01/18/this-morning-i.html",
+				
+				"content_html": "<p>This morning I managed to catch the best part of an amazing sunrise. January is supposed to mean snow but we have seen nothing but rain since Christmas.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "This morning I managed to catch the best part of an amazing sunrise. January is supposed to mean snow but we have seen nothing but rain since Christmas.\n\n<img src=\"uploads/2023/6651decfaf.jpg\" width=\"600\" height=\"400\" alt=\"\">\n",
+				"date_published": "2023-01-19T08:34:53-05:00",
+				"url": "https://blog.gregmoore.me/2023/01/18/this-morning-i.html",
+				"tags": ["photos"]
+			},
+			{
+				"id": "http://gregmoore.micro.blog/2023/01/18/caught-napping.html",
+				
+				"content_html": "<p>Caught napping</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Caught napping\n\n<img src=\"uploads/2023/6896596c65.jpg\" width=\"600\" height=\"599\" alt=\"\">\n",
+				"date_published": "2023-01-18T12:55:37-05:00",
+				"url": "https://blog.gregmoore.me/2023/01/18/caught-napping.html",
+				"tags": ["photos","cats"]
+			},
+			{
+				"id": "http://gregmoore.micro.blog/2023/01/17/the-authentic-creative.html",
+				"title": "The Authentic Creative Struggle",
+				"content_html": "<blockquote>\n<p>What makes a great song great is not its close resemblance to a recognizable work. Writing a good song is not mimicry, or replication, or pastiche, it is the opposite. It is an act of self-murder that destroys all one has strived to produce in the past. It is those dangerous, heart-stopping departures that catapult the artist beyond the limits of what he or she recognises as their known self. This is part of the authentic creative struggle that precedes the invention of a unique lyric of actual value; it is the breathless confrontation with one’s vulnerability, one’s perilousness, one’s smallness, pitted against a sense of sudden shocking discovery; it is the redemptive artistic act that stirs the heart of the listener, where the listener recognizes in the inner workings of the song their own blood, their own struggle, their own suffering. This is what we humble humans can offer, that AI can only mimic, the transcendent journey of the artist that forever grapples with his or her own shortcomings. This is where human genius resides, deeply embedded within, yet reaching beyond, those limitations.</p>\n</blockquote>\n<p>Nick Cave, <a href=\"https://www.theredhandfiles.com/chat-gpt-what-do-you-think/\">The Red Hand Files - Issue #218</a></p>\n",
+				"content_text": "> What makes a great song great is not its close resemblance to a recognizable work. Writing a good song is not mimicry, or replication, or pastiche, it is the opposite. It is an act of self-murder that destroys all one has strived to produce in the past. It is those dangerous, heart-stopping departures that catapult the artist beyond the limits of what he or she recognises as their known self. This is part of the authentic creative struggle that precedes the invention of a unique lyric of actual value; it is the breathless confrontation with one’s vulnerability, one’s perilousness, one’s smallness, pitted against a sense of sudden shocking discovery; it is the redemptive artistic act that stirs the heart of the listener, where the listener recognizes in the inner workings of the song their own blood, their own struggle, their own suffering. This is what we humble humans can offer, that AI can only mimic, the transcendent journey of the artist that forever grapples with his or her own shortcomings. This is where human genius resides, deeply embedded within, yet reaching beyond, those limitations.\r\n\r\nNick Cave, [The Red Hand Files - Issue #218](https://www.theredhandfiles.com/chat-gpt-what-do-you-think/)\n",
+				"date_published": "2023-01-17T13:13:02-05:00",
+				"url": "https://blog.gregmoore.me/2023/01/17/the-authentic-creative.html",
+				"tags": ["quotes"]
+			},
+			{
 				"id": "http://gregmoore.micro.blog/2023/01/17/one-misty-moisty.html",
 				
 				"content_html": "<p><em>One misty, moisty, morning,<br>\nWhen cloudy was the weather…</em></p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "_One misty, moisty, morning,  \nWhen cloudy was the weather…_\n\n<img src=\"uploads/2023/01c5fb5aa3.jpg\" width=\"600\" height=\"449\" alt=\"\">\n",
+				"content_text": "_One misty, moisty, morning,  \nWhen cloudy was the weather…_\n\n<img src=\"https://cdn.uploads.micro.blog/5332/2023/01c5fb5aa3.jpg\" width=\"600\" height=\"449\" alt=\"\">\n",
 				"date_published": "2023-01-17T08:34:58-05:00",
 				"url": "https://blog.gregmoore.me/2023/01/17/one-misty-moisty.html",
 				"tags": ["photos"]
@@ -54,7 +99,7 @@
 				"id": "http://gregmoore.micro.blog/2023/01/11/alone-in-the.html",
 				
 				"content_html": "<p>Alone in the office today so it&rsquo;s time to blast <a href=\"https://songwhip.com/underworld/everything-everything\">Underworld&rsquo;s amazing live album</a>.<br>\n<!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "Alone in the office today so it's time to blast [Underworld's amazing live album](https://songwhip.com/underworld/everything-everything).  \n<a href=\"https://songwhip.com/underworld/everything-everything\" target=\"_blank\"><img src=\"uploads/2020/7a541da028.jpg\" width=\"200\" height=\"200\"></a>\n",
+				"content_text": "Alone in the office today so it's time to blast [Underworld's amazing live album](https://songwhip.com/underworld/everything-everything).  \n<a href=\"https://songwhip.com/underworld/everything-everything\" target=\"_blank\"><img src=\"https://cdn.uploads.micro.blog/5332/2020/7a541da028.jpg\" width=\"200\" height=\"200\"></a>\n",
 				"date_published": "2023-01-11T09:31:19-05:00",
 				"url": "https://blog.gregmoore.me/2023/01/11/alone-in-the.html",
 				"tags": ["journal"]
@@ -402,7 +447,7 @@
 				"content_text": "A new D&D adventure begins tonight and **Trinket** is ready for his first day of school at Strixhaven!\n\n<img src=\"https://cdn.uploads.micro.blog/5332/2022/4da954c27c.png\" width=\"600\" height=\"600\" alt=\"\">\n",
 				"date_published": "2022-11-29T10:05:06-05:00",
 				"url": "https://blog.gregmoore.me/2022/11/29/a-new-dd.html",
-				"tags": ["photos","journal","DnD"]
+				"tags": ["photos","journal","RPG"]
 			},
 			{
 				"id": "http://gregmoore.micro.blog/2022/11/29/just-discovered-an.html",
@@ -436,7 +481,7 @@
 				"content_text": "The D&D campaigns my friends and I play take about a year and a half to complete so I celebrate them by drawing a poster of everybody’s characters and having them printed. I don’t usually share them here but they are the two most important drawings I’ve ever made. (So far.)\n\n<a href=\"https://cdn.uploads.micro.blog/5332/2022/88cb534324.jpg\"><img src=\"https://cdn.uploads.micro.blog/5332/2022/88cb534324.jpg\" width=\"600\" height=\"398\" alt=\"two posters drawn by Greg Moore\"></a>\n",
 				"date_published": "2022-11-22T14:57:36-05:00",
 				"url": "https://blog.gregmoore.me/2022/11/22/the-dd-campaigns.html",
-				"tags": ["photos","journal","drawing","DnD"]
+				"tags": ["photos","journal","drawing","RPG"]
 			},
 			{
 				"id": "http://gregmoore.micro.blog/2022/11/22/upgraded-my-mb.html",
@@ -577,7 +622,7 @@
 				"content_text": "After 20 months and 83 sessions, my group ended our third D&D campaign. During that time, one member got his drivers license, I moved across the country, another sold the house he had built, and our DM became pregnant with her first child.\nIt’s more than just a game.\n\n<img src=\"https://cdn.uploads.micro.blog/5332/2022/f730e81b14.jpg\" width=\"599\" height=\"600\" alt=\"Sous, the warforged barbarian\">\n",
 				"date_published": "2022-11-04T22:29:51-05:00",
 				"url": "https://blog.gregmoore.me/2022/11/04/after-months-and.html",
-				"tags": ["photos","journal","DnD"]
+				"tags": ["photos","journal","RPG"]
 			},
 			{
 				"id": "http://gregmoore.micro.blog/2022/11/03/mastodon-seems-so.html",
@@ -628,7 +673,7 @@
 				"content_text": "I’ve spent over 40 hours drawing a poster to commemorate the conclusion of my D&D group’s year and a half campaign. It’s our DM’s first major campaign and she’s done a stellar job. I can’t wait to get the prints to them.😆\n",
 				"date_published": "2022-10-27T17:39:35-05:00",
 				"url": "https://blog.gregmoore.me/2022/10/27/ive-spent-over.html",
-				"tags": ["journal","DnD"]
+				"tags": ["journal","RPG"]
 			},
 			{
 				"id": "http://gregmoore.micro.blog/2022/10/27/more-fall-colors.html",
@@ -852,7 +897,7 @@
 				"content_text": "Learning how to turn foam into mountains because it’s a _much_ cooler bookshelf display for my character minis than a clear box. I’ve made it to the black-wash stage. Dry brushing is next and then I can figure out where to put foliage.\n\n<img src=\"https://cdn.uploads.micro.blog/5332/2022/ef2a19c880.jpg\" width=\"600\" height=\"450\" alt=\"model mountains with black wash drying\" />\n",
 				"date_published": "2022-09-17T17:05:12-05:00",
 				"url": "https://blog.gregmoore.me/2022/09/17/learning-how-to.html",
-				"tags": ["photos","DnD"]
+				"tags": ["photos","RPG"]
 			},
 			{
 				"id": "http://gregmoore.micro.blog/2022/09/10/lots-of-fun.html",
@@ -870,7 +915,7 @@
 				"content_text": "Creativity begets creativity. It started with drawing my D&D characters, then I learned to paint their minis, and now it’s progressed to me carving places for them to live.\n\n<img src=\"https://cdn.uploads.micro.blog/5332/2022/320c416e17.jpg\" width=\"449\" height=\"600\" alt=\"tabletop mini standing on carved foam rocks\" />\n",
 				"date_published": "2022-09-09T08:15:53-05:00",
 				"url": "https://blog.gregmoore.me/2022/09/09/creativity-begets-creativity.html",
-				"tags": ["photos","journal","DnD"]
+				"tags": ["photos","journal","RPG"]
 			},
 			{
 				"id": "http://gregmoore.micro.blog/2022/09/09/how-to-make.html",
@@ -924,7 +969,7 @@
 				"content_text": "My office once held a multi-year D&D game that quickly became the most popular way to create community between teams. It brought more disparate people together than all the sports and drinking events ever did. Sadly, COVID abruptly ended it and my office is lesser for it.\n\n<img src=\"https://cdn.uploads.micro.blog/5332/2022/0fecf461dc.jpg\" width=\"400\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-08-30T06:48:10-05:00",
 				"url": "https://blog.gregmoore.me/2022/08/30/my-office-once.html",
-				"tags": ["photos","journal","DnD"]
+				"tags": ["photos","journal","RPG"]
 			},
 			{
 				"id": "http://gregmoore.micro.blog/2022/08/22/current-mood.html",
@@ -977,7 +1022,7 @@
 				"content_text": "All of my D&D characters get “trophies” so I spent the afternoon painting their minis. They're a small accomplishment (literally) but it feels so good to be doing something creative again.\n\n<img src=\"https://cdn.uploads.micro.blog/5332/2022/9a9f0256a4.jpg\" width=\"224\" height=\"375\" alt=\"Sous\" />\n<img src=\"https://cdn.uploads.micro.blog/5332/2022/37d0bc62f2.jpg\" width=\"224\" height=\"375\" alt=\"Ritter\" />\n",
 				"date_published": "2022-07-16T21:37:05-05:00",
 				"url": "https://blog.gregmoore.me/2022/07/16/all-of-my.html",
-				"tags": ["photos","journal","DnD"]
+				"tags": ["photos","journal","RPG"]
 			},
 			{
 				"id": "http://gregmoore.micro.blog/2022/07/12/i-am-thankful.html",
@@ -2187,7 +2232,7 @@
 				"content_text": "Drew and printed a new D&D character for a one-shot and then we ended up having some “craft time” before the game painting them onto wooden figures instead. It was a ton of fun.\n\n<img src=\"https://cdn.uploads.micro.blog/5332/2021/69468800f8.jpg\" width=\"600\" height=\"543\" alt=\"\" />\n",
 				"date_published": "2021-05-11T16:11:40-05:00",
 				"url": "https://blog.gregmoore.me/2021/05/11/drew-and-printed.html",
-				"tags": ["photos","DnD"]
+				"tags": ["photos","RPG"]
 			},
 			{
 				"id": "http://gregmoore.micro.blog/2021/05/11/spotted-an-awesome.html",
@@ -2625,7 +2670,7 @@
 				"content_text": "📷 [mbfeb](https://micro.welltempered.net/2021/01/30/february-photoblogging-challenge.html) Day 25 | **Code**\n\nWhen you’re on an adventure, you’re bound to encounter a secret code or two.\n\n<a href=\"https://cdn.uploads.micro.blog/5332/2021/1d516cd037.jpg\"><img src=\"https://cdn.uploads.micro.blog/5332/2021/1d516cd037.jpg\" width=\"600\" height=\"450\" alt=\"\" /></a>\n",
 				"date_published": "2021-02-25T09:58:00-05:00",
 				"url": "https://blog.gregmoore.me/2021/02/25/mbfeb-day-code.html",
-				"tags": ["photos","PhotoChallengeFeb2021","drawing","DnD"]
+				"tags": ["photos","PhotoChallengeFeb2021","drawing","RPG"]
 			},
 			{
 				"id": "http://gregmoore.micro.blog/2021/02/24/mbfeb-day-baby.html",
@@ -2733,7 +2778,7 @@
 				"content_text": "📷 [mbfeb](https://micro.welltempered.net/2021/01/30/february-photoblogging-challenge.html) Day 13 | **Make**\n\nI recently used the character drawings my daughter and I collaborated on to make a poster for our D&D group.\n\n<img src=\"https://cdn.uploads.micro.blog/5332/2021/9491597ae1.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2021-02-13T12:34:25-05:00",
 				"url": "https://blog.gregmoore.me/2021/02/13/mbfeb-day-make.html",
-				"tags": ["photos","PhotoChallengeFeb2021","drawing","DnD"]
+				"tags": ["photos","PhotoChallengeFeb2021","drawing","RPG"]
 			},
 			{
 				"id": "http://gregmoore.micro.blog/2021/02/12/mbfeb-day-sporg.html",
@@ -3083,7 +3128,7 @@
 				"content_text": "🥳 Woo, my D&D mini prints came in today! Going to paint these guys, add them to my others, and make a character trophy case.\n\n<img src=\"https://cdn.uploads.micro.blog/5332/2020/96adf6692c.jpg\" width=\"600\" height=\"447\" alt=\"\" />\n",
 				"date_published": "2020-12-14T16:38:44-05:00",
 				"url": "https://blog.gregmoore.me/2020/12/14/woo-my-dd.html",
-				"tags": ["photos","DnD"]
+				"tags": ["photos","RPG"]
 			},
 			{
 				"id": "http://gregmoore.micro.blog/2020/12/14/contemplating-cardinal-on.html",
