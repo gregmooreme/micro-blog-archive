@@ -7,10 +7,98 @@
 	"items": [
 		
 			{
+				"id": "http://gregmoore.micro.blog/2023/01/27/well-i-was.html",
+				
+				"content_html": "<p>Well, I <em>was</em> trying to have a virtual meeting…</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Well, I _was_ trying to have a virtual meeting…\n\n<img src=\"uploads/2023/3748dd01c6.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"date_published": "2023-01-27T15:11:46-05:00",
+				"url": "https://blog.gregmoore.me/2023/01/27/well-i-was.html",
+				"tags": ["photos","cats"]
+			},
+			{
+				"id": "http://gregmoore.micro.blog/2023/01/27/file-under-beware.html",
+				
+				"content_html": "<p>File under <em>&ldquo;beware of life advice from young, single people&rdquo;</em>: <a href=\"https://www.washingtonpost.com/home/2023/01/26/marie-kondo-kurashi-inner-calm/\">Marie Kondo’s life is messier now — and she’s fine with it</a></p>\n",
+				"content_text": "File under _\"beware of life advice from young, single people\"_: [Marie Kondo’s life is messier now — and she’s fine with it](https://www.washingtonpost.com/home/2023/01/26/marie-kondo-kurashi-inner-calm/)\n",
+				"date_published": "2023-01-27T09:02:22-05:00",
+				"url": "https://blog.gregmoore.me/2023/01/27/file-under-beware.html"
+			},
+			{
+				"id": "http://gregmoore.micro.blog/2023/01/26/off-to-drive.html",
+				
+				"content_html": "<p>Off to drive through the snow so women can beat me with swords.\n🤺\n…is a completely true sentence describing my evening.</p>\n",
+				"content_text": "Off to drive through the snow so women can beat me with swords.\n🤺\n…is a completely true sentence describing my evening.\n",
+				"date_published": "2023-01-26T19:20:39-05:00",
+				"url": "https://blog.gregmoore.me/2023/01/26/off-to-drive.html"
+			},
+			{
+				"id": "http://gregmoore.micro.blog/2023/01/26/we-set-out.html",
+				
+				"content_html": "<p>We set out<br>\nand bear witness to a moment.<br>\nSilent as the scene before us.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "We set out  \nand bear witness to a moment.  \nSilent as the scene before us.\n\n<img src=\"uploads/2023/0f8f6bf9ff.jpg\" width=\"400\" height=\"600\" alt=\"\">\n",
+				"date_published": "2023-01-26T09:50:57-05:00",
+				"url": "https://blog.gregmoore.me/2023/01/26/we-set-out.html",
+				"tags": ["photos","journal"]
+			},
+			{
+				"id": "http://gregmoore.micro.blog/2023/01/25/snow-day-for.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n<p>Snow day for the kid as it continues to fall. 6 to 8 inches are expected and I&rsquo;m sad that I don&rsquo;t have a window to watch it while I work.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "<img src=\"uploads/2023/4824a94510.jpg\" width=\"400\" height=\"600\" alt=\"\">\n\nSnow day for the kid as it continues to fall. 6 to 8 inches are expected and I'm sad that I don't have a window to watch it while I work.\n\n<img src=\"uploads/2023/ab96235dff.jpg\" width=\"400\" height=\"600\" alt=\"\">\n",
+				"date_published": "2023-01-25T13:10:19-05:00",
+				"url": "https://blog.gregmoore.me/2023/01/25/snow-day-for.html",
+				"tags": ["photos"]
+			},
+			{
+				"id": "http://gregmoore.micro.blog/2023/01/24/ahhhh-such-lovely.html",
+				
+				"content_html": "<p>⛄️ “Ahhhh, such lovely weather.”</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "⛄️ “Ahhhh, such lovely weather.”\n\n<img src=\"https://cdn.uploads.micro.blog/5332/2023/9e3831fc6b.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"date_published": "2023-01-24T08:08:57-05:00",
+				"url": "https://blog.gregmoore.me/2023/01/24/ahhhh-such-lovely.html",
+				"tags": ["photos"]
+			},
+			{
+				"id": "http://gregmoore.micro.blog/2023/01/23/pops-of-color.html",
+				
+				"content_html": "<p>Pops of color against the monochrome.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Pops of color against the monochrome.\n\n<img src=\"https://cdn.uploads.micro.blog/5332/2023/696534334a.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"date_published": "2023-01-23T20:18:07-05:00",
+				"url": "https://blog.gregmoore.me/2023/01/23/pops-of-color.html",
+				"tags": ["photos"]
+			},
+			{
+				"id": "http://gregmoore.micro.blog/2023/01/23/last-place-in.html",
+				
+				"content_html": "<p>Last place in the game of hide and seek.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Last place in the game of hide and seek.\n\n<img src=\"https://cdn.uploads.micro.blog/5332/2023/cf2dd60d40.jpg\" width=\"600\" height=\"400\" alt=\"\">\n",
+				"date_published": "2023-01-23T07:44:55-05:00",
+				"url": "https://blog.gregmoore.me/2023/01/23/last-place-in.html",
+				"tags": ["photos"]
+			},
+			{
+				"id": "http://gregmoore.micro.blog/2023/01/22/multiple-walks-through.html",
+				
+				"content_html": "<p>Multiple walks through the trees, feeling thankful to enjoy the snow again. The light is brighter, the world is quieter, and hot drinks are more enjoyable when you come back inside to warm up.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Multiple walks through the trees, feeling thankful to enjoy the snow again. The light is brighter, the world is quieter, and hot drinks are more enjoyable when you come back inside to warm up.\n\n<img src=\"https://cdn.uploads.micro.blog/5332/2023/8ea3fce5dc.jpg\" width=\"600\" height=\"599\" alt=\"\">\n",
+				"date_published": "2023-01-22T13:38:33-05:00",
+				"url": "https://blog.gregmoore.me/2023/01/22/multiple-walks-through.html",
+				"tags": ["photos","journal"]
+			},
+			{
+				"id": "http://gregmoore.micro.blog/2023/01/22/it-finally-started.html",
+				
+				"content_html": "<p>It finally started acting like a proper January! The kid and I filled the yard and front windows with snowmen. ⛄️</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "It finally started acting like a proper January! The kid and I filled the yard and front windows with snowmen. ⛄️ \n\n<img src=\"https://cdn.uploads.micro.blog/5332/2023/7cee456558.jpg\" width=\"599\" height=\"600\" alt=\"\">\n",
+				"date_published": "2023-01-22T13:27:23-05:00",
+				"url": "https://blog.gregmoore.me/2023/01/22/it-finally-started.html",
+				"tags": ["photos","journal"]
+			},
+			{
 				"id": "http://gregmoore.micro.blog/2023/01/21/a-surprise-just.html",
 				
 				"content_html": "<p>A surprise “just because” gift from my awesome cousin: Lego Super Robot</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "A surprise “just because” gift from my awesome cousin: Lego Super Robot\n\n<img src=\"uploads/2023/cf3e234263.jpg\" width=\"599\" height=\"600\" alt=\"\">\n",
+				"content_text": "A surprise “just because” gift from my awesome cousin: Lego Super Robot\n\n<img src=\"https://cdn.uploads.micro.blog/5332/2023/cf3e234263.jpg\" width=\"599\" height=\"600\" alt=\"\">\n",
 				"date_published": "2023-01-21T20:20:41-05:00",
 				"url": "https://blog.gregmoore.me/2023/01/21/a-surprise-just.html",
 				"tags": ["photos"]
@@ -37,7 +125,7 @@
 				"id": "http://gregmoore.micro.blog/2023/01/18/caught-napping.html",
 				
 				"content_html": "<p>Caught napping</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Caught napping\n\n<img src=\"uploads/2023/6896596c65.jpg\" width=\"600\" height=\"599\" alt=\"\">\n",
+				"content_text": "Caught napping\n\n<img src=\"https://cdn.uploads.micro.blog/5332/2023/6896596c65.jpg\" width=\"600\" height=\"599\" alt=\"\">\n",
 				"date_published": "2023-01-18T12:55:37-05:00",
 				"url": "https://blog.gregmoore.me/2023/01/18/caught-napping.html",
 				"tags": ["photos","cats"]
@@ -73,7 +161,7 @@
 				"id": "http://gregmoore.micro.blog/2023/01/12/finished-building-my.html",
 				
 				"content_html": "<p>🧱 Finished building my new office buddy. He was so much fun to construct and I’m amazed how Lego managed to build so much personality into him.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "🧱 Finished building my new office buddy. He was so much fun to construct and I’m amazed how Lego managed to build so much personality into him.\n\n<img src=\"uploads/2023/7af75c171a.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_text": "🧱 Finished building my new office buddy. He was so much fun to construct and I’m amazed how Lego managed to build so much personality into him.\n\n<img src=\"https://cdn.uploads.micro.blog/5332/2023/7af75c171a.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2023-01-12T12:03:22-05:00",
 				"url": "https://blog.gregmoore.me/2023/01/12/finished-building-my.html",
 				"tags": ["photos"]
