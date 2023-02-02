@@ -7,6 +7,32 @@
 	"items": [
 		
 			{
+				"id": "http://gregmoore.micro.blog/2023/02/01/this-morning-i.html",
+				
+				"content_html": "<p>This morning I ground my coffee at the wrong setting and now it won’t properly brew in my drip machine.😨\nThankfully, the grind <em>will</em> work with a pour-over so I don’t have to create a GoFundMe for this trying time.</p>\n",
+				"content_text": "This morning I ground my coffee at the wrong setting and now it won’t properly brew in my drip machine.😨\nThankfully, the grind _will_ work with a pour-over so I don’t have to create a GoFundMe for this trying time.\n",
+				"date_published": "2023-02-01T09:29:12-05:00",
+				"url": "https://blog.gregmoore.me/2023/02/01/this-morning-i.html",
+				"tags": ["journal"]
+			},
+			{
+				"id": "http://gregmoore.micro.blog/2023/01/31/congratulations-to-some.html",
+				
+				"content_html": "<p>Congratulations to some dear friends on the healthy birth of their first son. (Especially the enduring 40+ hours of labor part!)</p>\n",
+				"content_text": "Congratulations to some dear friends on the healthy birth of their first son. (Especially the enduring 40+ hours of labor part!) \n",
+				"date_published": "2023-01-31T09:36:18-05:00",
+				"url": "https://blog.gregmoore.me/2023/01/31/congratulations-to-some.html",
+				"tags": ["journal"]
+			},
+			{
+				"id": "http://gregmoore.micro.blog/2023/01/27/an-event-apart.html",
+				
+				"content_html": "<p><a href=\"https://www.aneventapart.com\">An Event Apart says farewell</a><br>\n😤This is genuinely upsetting news as those were <strong>the</strong> most useful conferences I ever attended, in person or virtually. I&rsquo;m scared that we&rsquo;ll soon have nothing left but commercials disguised as conferences.\n<!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
+				"content_text": "[An Event Apart says farewell](https://www.aneventapart.com)  \n😤This is genuinely upsetting news as those were **the** most useful conferences I ever attended, in person or virtually. I'm scared that we'll soon have nothing left but commercials disguised as conferences.\n<a href=“https://www.aneventapart.com”><img src=\"uploads/2023/63dfd0bbf4.png\" width=\"300\" /></a>\n",
+				"date_published": "2023-01-27T17:01:50-05:00",
+				"url": "https://blog.gregmoore.me/2023/01/27/an-event-apart.html"
+			},
+			{
 				"id": "http://gregmoore.micro.blog/2023/01/27/well-i-was.html",
 				
 				"content_html": "<p>Well, I <em>was</em> trying to have a virtual meeting…</p>\n<!-- raw HTML omitted -->\n",
@@ -35,7 +61,7 @@
 				"id": "http://gregmoore.micro.blog/2023/01/26/we-set-out.html",
 				
 				"content_html": "<p>We set out<br>\nand bear witness to a moment.<br>\nSilent as the scene before us.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "We set out  \nand bear witness to a moment.  \nSilent as the scene before us.\n\n<img src=\"uploads/2023/0f8f6bf9ff.jpg\" width=\"400\" height=\"600\" alt=\"\">\n",
+				"content_text": "We set out  \nand bear witness to a moment.  \nSilent as the scene before us.\n\n<img src=\"https://cdn.uploads.micro.blog/5332/2023/0f8f6bf9ff.jpg\" width=\"400\" height=\"600\" alt=\"\">\n",
 				"date_published": "2023-01-26T09:50:57-05:00",
 				"url": "https://blog.gregmoore.me/2023/01/26/we-set-out.html",
 				"tags": ["photos","journal"]
@@ -134,7 +160,7 @@
 				"id": "http://gregmoore.micro.blog/2023/01/17/the-authentic-creative.html",
 				"title": "The Authentic Creative Struggle",
 				"content_html": "<blockquote>\n<p>What makes a great song great is not its close resemblance to a recognizable work. Writing a good song is not mimicry, or replication, or pastiche, it is the opposite. It is an act of self-murder that destroys all one has strived to produce in the past. It is those dangerous, heart-stopping departures that catapult the artist beyond the limits of what he or she recognises as their known self. This is part of the authentic creative struggle that precedes the invention of a unique lyric of actual value; it is the breathless confrontation with one’s vulnerability, one’s perilousness, one’s smallness, pitted against a sense of sudden shocking discovery; it is the redemptive artistic act that stirs the heart of the listener, where the listener recognizes in the inner workings of the song their own blood, their own struggle, their own suffering. This is what we humble humans can offer, that AI can only mimic, the transcendent journey of the artist that forever grapples with his or her own shortcomings. This is where human genius resides, deeply embedded within, yet reaching beyond, those limitations.</p>\n</blockquote>\n<p>Nick Cave, <a href=\"https://www.theredhandfiles.com/chat-gpt-what-do-you-think/\">The Red Hand Files - Issue #218</a></p>\n",
-				"content_text": "> What makes a great song great is not its close resemblance to a recognizable work. Writing a good song is not mimicry, or replication, or pastiche, it is the opposite. It is an act of self-murder that destroys all one has strived to produce in the past. It is those dangerous, heart-stopping departures that catapult the artist beyond the limits of what he or she recognises as their known self. This is part of the authentic creative struggle that precedes the invention of a unique lyric of actual value; it is the breathless confrontation with one’s vulnerability, one’s perilousness, one’s smallness, pitted against a sense of sudden shocking discovery; it is the redemptive artistic act that stirs the heart of the listener, where the listener recognizes in the inner workings of the song their own blood, their own struggle, their own suffering. This is what we humble humans can offer, that AI can only mimic, the transcendent journey of the artist that forever grapples with his or her own shortcomings. This is where human genius resides, deeply embedded within, yet reaching beyond, those limitations.\r\n\r\nNick Cave, [The Red Hand Files - Issue #218](https://www.theredhandfiles.com/chat-gpt-what-do-you-think/)\n",
+				"content_text": "> What makes a great song great is not its close resemblance to a recognizable work. Writing a good song is not mimicry, or replication, or pastiche, it is the opposite. It is an act of self-murder that destroys all one has strived to produce in the past. It is those dangerous, heart-stopping departures that catapult the artist beyond the limits of what he or she recognises as their known self. This is part of the authentic creative struggle that precedes the invention of a unique lyric of actual value; it is the breathless confrontation with one’s vulnerability, one’s perilousness, one’s smallness, pitted against a sense of sudden shocking discovery; it is the redemptive artistic act that stirs the heart of the listener, where the listener recognizes in the inner workings of the song their own blood, their own struggle, their own suffering. This is what we humble humans can offer, that AI can only mimic, the transcendent journey of the artist that forever grapples with his or her own shortcomings. This is where human genius resides, deeply embedded within, yet reaching beyond, those limitations.\n\nNick Cave, [The Red Hand Files - Issue #218](https://www.theredhandfiles.com/chat-gpt-what-do-you-think/)\n",
 				"date_published": "2023-01-17T13:13:02-05:00",
 				"url": "https://blog.gregmoore.me/2023/01/17/the-authentic-creative.html",
 				"tags": ["quotes"]
@@ -152,7 +178,7 @@
 				"id": "http://gregmoore.micro.blog/2023/01/13/taking-advantage-of.html",
 				
 				"content_html": "<p>Taking advantage of the sun’s appearance and appreciating all the leaves that managed to hold on into the dead of winter.</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "Taking advantage of the sun’s appearance and appreciating all the leaves that managed to hold on into the dead of winter.\n\n<a href=\"https://blog.gregmoore.me/uploads/2023/6ae3e29fca.jpg\"><img src=\"uploads/2023/6ae3e29fca.jpg\" width=\"600\" height=\"400\" alt=\"dead leaves on a tree in winter\"></a>\n",
+				"content_text": "Taking advantage of the sun’s appearance and appreciating all the leaves that managed to hold on into the dead of winter.\n\n<a href=\"https://cdn.uploads.micro.blog/5332/2023/6ae3e29fca.jpg\"><img src=\"https://cdn.uploads.micro.blog/5332/2023/6ae3e29fca.jpg\" width=\"600\" height=\"400\" alt=\"dead leaves on a tree in winter\"></a>\n",
 				"date_published": "2023-01-13T13:21:06-05:00",
 				"url": "https://blog.gregmoore.me/2023/01/13/taking-advantage-of.html",
 				"tags": ["photos"]
