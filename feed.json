@@ -7,6 +7,41 @@
 	"items": [
 		
 			{
+				"id": "http://gregmoore.micro.blog/2023/02/05/we-stopped-so.html",
+				
+				"content_html": "<p>We stopped so the train could pass which began a dance over the next several miles. First it went over us, and then we went over it, and finally we traveled side by side, through hills and trees, until our paths diverged.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "We stopped so the train could pass which began a dance over the next several miles. First it went over us, and then we went over it, and finally we traveled side by side, through hills and trees, until our paths diverged.\n\n<img src=\"uploads/2023/b202b1134b.jpg\" width=\"600\" height=\"449\" alt=\"\">\n",
+				"date_published": "2023-02-05T21:33:33-05:00",
+				"url": "https://blog.gregmoore.me/2023/02/05/we-stopped-so.html",
+				"tags": ["photos","journal"]
+			},
+			{
+				"id": "http://gregmoore.micro.blog/2023/02/03/and-clear.html",
+				
+				"content_html": "<p>2° and clear</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "2° and clear\n\n<img src=\"uploads/2023/f67b2b1e7e.jpg\" width=\"600\" height=\"476\" alt=\"\">\n",
+				"date_published": "2023-02-03T22:18:49-05:00",
+				"url": "https://blog.gregmoore.me/2023/02/03/and-clear.html",
+				"tags": ["photos","journal"]
+			},
+			{
+				"id": "http://gregmoore.micro.blog/2023/02/03/snow-family.html",
+				
+				"content_html": "<p>⛄️ Snow Family</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "⛄️ Snow Family\n\n<img src=\"uploads/2023/b4b8662fb7.jpg\" width=\"400\" height=\"600\" alt=\"snow family\" />\n",
+				"date_published": "2023-02-03T13:22:53-05:00",
+				"url": "https://blog.gregmoore.me/2023/02/03/snow-family.html",
+				"tags": ["photos"]
+			},
+			{
+				"id": "http://gregmoore.micro.blog/2023/02/01/finished-reading-number.html",
+				
+				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9781250815293\">Number One Is Walking</a> by Steve Martin 📚</p>\n<p>The first half of the book is a fun way to add meat onto some short but interesting anecdotes. Oddly, the later half of the book is just unrelated New Yorker style cartoons.</p>\n",
+				"content_text": "Finished reading: [Number One Is Walking](https://micro.blog/books/9781250815293) by Steve Martin 📚\n\nThe first half of the book is a fun way to add meat onto some short but interesting anecdotes. Oddly, the later half of the book is just unrelated New Yorker style cartoons.  \n",
+				"date_published": "2023-02-01T22:21:40-05:00",
+				"url": "https://blog.gregmoore.me/2023/02/01/finished-reading-number.html"
+			},
+			{
 				"id": "http://gregmoore.micro.blog/2023/02/01/this-morning-i.html",
 				
 				"content_html": "<p>This morning I ground my coffee at the wrong setting and now it won’t properly brew in my drip machine.😨\nThankfully, the grind <em>will</em> work with a pour-over so I don’t have to create a GoFundMe for this trying time.</p>\n",
@@ -36,7 +71,7 @@
 				"id": "http://gregmoore.micro.blog/2023/01/27/well-i-was.html",
 				
 				"content_html": "<p>Well, I <em>was</em> trying to have a virtual meeting…</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Well, I _was_ trying to have a virtual meeting…\n\n<img src=\"uploads/2023/3748dd01c6.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"content_text": "Well, I _was_ trying to have a virtual meeting…\n\n<img src=\"https://cdn.uploads.micro.blog/5332/2023/3748dd01c6.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
 				"date_published": "2023-01-27T15:11:46-05:00",
 				"url": "https://blog.gregmoore.me/2023/01/27/well-i-was.html",
 				"tags": ["photos","cats"]
@@ -142,7 +177,7 @@
 				"id": "http://gregmoore.micro.blog/2023/01/18/this-morning-i.html",
 				
 				"content_html": "<p>This morning I managed to catch the best part of an amazing sunrise. January is supposed to mean snow but we have seen nothing but rain since Christmas.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "This morning I managed to catch the best part of an amazing sunrise. January is supposed to mean snow but we have seen nothing but rain since Christmas.\n\n<img src=\"uploads/2023/6651decfaf.jpg\" width=\"600\" height=\"400\" alt=\"\">\n",
+				"content_text": "This morning I managed to catch the best part of an amazing sunrise. January is supposed to mean snow but we have seen nothing but rain since Christmas.\n\n<img src=\"https://cdn.uploads.micro.blog/5332/2023/6651decfaf.jpg\" width=\"600\" height=\"400\" alt=\"\">\n",
 				"date_published": "2023-01-19T08:34:53-05:00",
 				"url": "https://blog.gregmoore.me/2023/01/18/this-morning-i.html",
 				"tags": ["photos"]
