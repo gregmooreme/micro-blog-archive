@@ -7,6 +7,33 @@
 	"items": [
 		
 			{
+				"id": "http://gregmoore.micro.blog/2023/02/22/time-capsules.html",
+				"title": "Audio Time Capsule",
+				"content_html": "<p>It&rsquo;s been two years since the ever-wonderful Jean MacDonald (<a href=\"http://micro.welltempered.net\">@jean</a>) invited me to chat with her on the <a href=\"https://monday.micro.blog/2021/02/22/greg-aka-gregmoore.html\">Micro Monday Podcast, Episode 95</a>. It was my first time ever being on a podcast but Jean made me immediately comfortable and I enjoyed the experience a lot.</p>\n<p>Since that episode, I’ve undergone some major life changes and it has become a personal time capsule of a slice of my life I would not have otherwise documented. Forcing myself to re-listen, I can find all sorts of knit-picks to criticize myself for but overall, I still stand by much of what I said:</p>\n<ul>\n<li>Finding ways to embrace your local climate is key to enjoying where you live.</li>\n<li>Participating in creative pushes, like Micro.blog’s <a href=\"https://blog.gregmoore.me/categories/photochallengefeb2021/\">monthly photo challenge</a>, are great opportunities to connect with other people and better understand your own creativity.</li>\n<li>Personal blogs are far more interesting to follow than hashtag social media hustles.</li>\n</ul>\n",
+				"content_text": "It's been two years since the ever-wonderful Jean MacDonald ([@jean](http://micro.welltempered.net)) invited me to chat with her on the [Micro Monday Podcast, Episode 95](https://monday.micro.blog/2021/02/22/greg-aka-gregmoore.html). It was my first time ever being on a podcast but Jean made me immediately comfortable and I enjoyed the experience a lot.\n\nSince that episode, I’ve undergone some major life changes and it has become a personal time capsule of a slice of my life I would not have otherwise documented. Forcing myself to re-listen, I can find all sorts of knit-picks to criticize myself for but overall, I still stand by much of what I said:\n\n* Finding ways to embrace your local climate is key to enjoying where you live.\n* Participating in creative pushes, like Micro.blog’s [monthly photo challenge](<https://blog.gregmoore.me/categories/photochallengefeb2021/>), are great opportunities to connect with other people and better understand your own creativity.\n* Personal blogs are far more interesting to follow than hashtag social media hustles.\n",
+				"date_published": "2023-02-22T07:00:00-05:00",
+				"url": "https://blog.gregmoore.me/2023/02/22/time-capsules.html",
+				"tags": ["journal"]
+			},
+			{
+				"id": "http://gregmoore.micro.blog/2023/02/21/though-i-liked.html",
+				
+				"content_html": "<blockquote>\n<p>Though I liked summer light on you<br>\nIf we ride a winter-long wind<br>\nWell, time&rsquo;s not what I belong to<br>\nAnd I&rsquo;m not the season I&rsquo;m in</p>\n</blockquote>\n<ul>\n<li>Robin Noel Pecknold</li>\n</ul>\n<!-- raw HTML omitted -->\n",
+				"content_text": "> Though I liked summer light on you  \nIf we ride a winter-long wind  \nWell, time's not what I belong to  \nAnd I'm not the season I'm in\n\n- Robin Noel Pecknold\n\n<img src=\"uploads/2023/0783249f05.jpg\" width=\"600\" height=\"400\" alt=\"\">\n",
+				"date_published": "2023-02-21T09:05:02-05:00",
+				"url": "https://blog.gregmoore.me/2023/02/21/though-i-liked.html",
+				"tags": ["photos","quotes"]
+			},
+			{
+				"id": "http://gregmoore.micro.blog/2023/02/20/as-much-as.html",
+				
+				"content_html": "<p>As much as I enjoy journaling on paper, switching to Day One seems to have finally cracked my problem with abandoning the practice. For now, my phone is my new notebook.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "As much as I enjoy journaling on paper, switching to Day One seems to have finally cracked my problem with abandoning the practice. For now, my phone is my new notebook.\n\n<img src=\"uploads/2023/cb8cbf84fa.png\" width=\"574\" height=\"600\" alt=\"\">\n",
+				"date_published": "2023-02-20T11:09:00-05:00",
+				"url": "https://blog.gregmoore.me/2023/02/20/as-much-as.html",
+				"tags": ["photos","journal"]
+			},
+			{
 				"id": "http://gregmoore.micro.blog/2023/02/17/overnight-all-was.html",
 				
 				"content_html": "<p>Overnight, all was coated in crystal. Everything now, is still and locked in place. But soon, the sun will gleam and the grass will rise from their bow.</p>\n<!-- raw HTML omitted -->\n",
@@ -28,7 +55,7 @@
 				"id": "http://gregmoore.micro.blog/2023/02/14/my-thoughtful-brother.html",
 				
 				"content_html": "<p>My thoughtful brother in-law gifted me some vintage 1980’s Dungeons and Dragons metal figures. Their numbers aren’t even stamped into the bases, they’re hand carved! Now I have to figure out where I can find more information about them.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "My thoughtful brother in-law gifted me some vintage 1980’s Dungeons and Dragons metal figures. Their numbers aren’t even stamped into the bases, they’re hand carved! Now I have to figure out where I can find more information about them.\n\n<img src=\"uploads/2023/3bb3a996e5.jpg\" width=\"600\" height=\"280\" alt=\"\">\n",
+				"content_text": "My thoughtful brother in-law gifted me some vintage 1980’s Dungeons and Dragons metal figures. Their numbers aren’t even stamped into the bases, they’re hand carved! Now I have to figure out where I can find more information about them.\n\n<img src=\"https://cdn.uploads.micro.blog/5332/2023/3bb3a996e5.jpg\" width=\"600\" height=\"280\" alt=\"\">\n",
 				"date_published": "2023-02-14T08:41:31-05:00",
 				"url": "https://blog.gregmoore.me/2023/02/14/my-thoughtful-brother.html",
 				"tags": ["photos","DnD"]
@@ -37,7 +64,7 @@
 				"id": "http://gregmoore.micro.blog/2023/02/13/happily-keeping-warm.html",
 				
 				"content_html": "<p>Happily keeping warm on the heat vent.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Happily keeping warm on the heat vent.\n\n<img src=\"uploads/2023/4cfd39c885.jpg\" width=\"599\" height=\"600\" alt=\"\">\n",
+				"content_text": "Happily keeping warm on the heat vent.\n\n<img src=\"https://cdn.uploads.micro.blog/5332/2023/4cfd39c885.jpg\" width=\"599\" height=\"600\" alt=\"\">\n",
 				"date_published": "2023-02-13T16:44:51-05:00",
 				"url": "https://blog.gregmoore.me/2023/02/13/happily-keeping-warm.html",
 				"tags": ["photos","cats"]
