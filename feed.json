@@ -7,6 +7,42 @@
 	"items": [
 		
 			{
+				"id": "http://gregmoore.micro.blog/2023/03/04/love-isnt-a.html",
+				
+				"content_html": "<blockquote>\n<p>Love isn’t a fairy godmother.</p>\n<p>It doesn’t swoop in to change what you want changed, but it helps you to be a little more patient and kind through the things you wish you could change.</p>\n</blockquote>\n<p>Annie Mueller, <em><a href=\"https://anniemueller.com/the-first-knot/\">The First Knot</a></em></p>\n",
+				"content_text": "> Love isn’t a fairy godmother. \n>\n> It doesn’t swoop in to change what you want changed, but it helps you to be a little more patient and kind through the things you wish you could change.\n\nAnnie Mueller, *[The First Knot](https://anniemueller.com/the-first-knot/)*\n",
+				"date_published": "2023-03-04T23:13:16-05:00",
+				"url": "https://blog.gregmoore.me/2023/03/04/love-isnt-a.html",
+				"tags": ["quotes"]
+			},
+			{
+				"id": "http://gregmoore.micro.blog/2023/03/04/enjoying-some-caturday.html",
+				
+				"content_html": "<p>Enjoying some Caturday while I rip some thrifted CD’s into my computer like an old man.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Enjoying some Caturday while I rip some thrifted CD’s into my computer like an old man.\n\n<img src=\"uploads/2023/884bbedd1e.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"date_published": "2023-03-04T14:34:24-05:00",
+				"url": "https://blog.gregmoore.me/2023/03/04/enjoying-some-caturday.html",
+				"tags": ["photos","cats"]
+			},
+			{
+				"id": "http://gregmoore.micro.blog/2023/03/03/todays-winter-storm.html",
+				
+				"content_html": "<p>Today’s winter storm warning is no exaggeration. Everything was green an hour ago.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Today’s winter storm warning is no exaggeration. Everything was green an hour ago.\n\n<img src=\"uploads/2023/50adac070b.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"date_published": "2023-03-03T17:25:36-05:00",
+				"url": "https://blog.gregmoore.me/2023/03/03/todays-winter-storm.html",
+				"tags": ["photos"]
+			},
+			{
+				"id": "http://gregmoore.micro.blog/2023/03/01/the-web-is.html",
+				
+				"content_html": "<blockquote>\n<p>The web is becoming a miserable experience because some salesbro who is trying to meet his KPIs is doing stuff to marginally increase the number of paying customers. (And you know, the hell with the rest of us!) The more each site tries to create its own little walled garden, the less valuable the open web becomes.</p>\n</blockquote>\n<p>Elizabeth Lopatto, <a href=\"https://www.theverge.com/2023/2/28/23618804/google-facebook-login-ads-web-design-hell\"><em>I don’t want to log in to your website</em></a></p>\n",
+				"content_text": "> The web is becoming a miserable experience because some salesbro who is trying to meet his KPIs is doing stuff to marginally increase the number of paying customers. (And you know, the hell with the rest of us!) The more each site tries to create its own little walled garden, the less valuable the open web becomes.\n\nElizabeth Lopatto, [*I don’t want to log in to your website*](https://www.theverge.com/2023/2/28/23618804/google-facebook-login-ads-web-design-hell)\n",
+				"date_published": "2023-03-01T10:28:02-05:00",
+				"url": "https://blog.gregmoore.me/2023/03/01/the-web-is.html",
+				"tags": ["quotes"]
+			},
+			{
 				"id": "http://gregmoore.micro.blog/2023/02/27/we-will-not.html",
 				
 				"content_html": "<blockquote>\n<p>We will not succeed with panic, cynicism, or despair. The tools we need are optimism, imagination, creativity, criticism and compassion… Art is not a precious treasure in need of protection. Art is a fearsome wellspring of human power from which we will draw the weapons we need to storm the gates of the reality studio and secure the future.</p>\n</blockquote>\n<p><a href=\"https://franklantz.substack.com/p/well-here-we-are\">Frank Lantz - <em>Well, Here We Are</em></a></p>\n",
