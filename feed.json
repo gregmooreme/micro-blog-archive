@@ -7,6 +7,50 @@
 	"items": [
 		
 			{
+				"id": "http://gregmoore.micro.blog/2023/03/11/i-stumbled-on.html",
+				
+				"content_html": "<p>I stumbled on a question I journaled back in 2017 about social networks turning daily life into performative hustles. It still feels relevant.</p>\n<blockquote>\n<p>Are we heading towards an age where nobody really understands their inner life anymore because we’ve been trained to ignore it?</p>\n</blockquote>\n",
+				"content_text": "I stumbled on a question I journaled back in 2017 about social networks turning daily life into performative hustles. It still feels relevant.\n\n> Are we heading towards an age where nobody really understands their inner life anymore because we’ve been trained to ignore it?\n",
+				"date_published": "2023-03-11T11:21:03-05:00",
+				"url": "https://blog.gregmoore.me/2023/03/11/i-stumbled-on.html",
+				"tags": ["photos","journal"]
+			},
+			{
+				"id": "http://gregmoore.micro.blog/2023/03/09/my-favorite-part.html",
+				
+				"content_html": "<p>My favorite part of this month’s Micro.blog photo challenge is all the community activity.</p>\n",
+				"content_text": "My favorite part of this month’s Micro.blog photo challenge is all the community activity.\n",
+				"date_published": "2023-03-09T09:37:04-05:00",
+				"url": "https://blog.gregmoore.me/2023/03/09/my-favorite-part.html"
+			},
+			{
+				"id": "http://gregmoore.micro.blog/2023/03/07/immensely-enjoyed-wayne.html",
+				
+				"content_html": "<p>Immensely enjoyed Wayne State’s Jazz Big Band concert tonight. (My nephew is in there playing trumpet.) I spent the whole evening with a smile on my face and my foot tapping.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Immensely enjoyed Wayne State’s Jazz Big Band concert tonight. (My nephew is in there playing trumpet.) I spent the whole evening with a smile on my face and my foot tapping.\n\n<img src=\"uploads/2023/5c23c70c54.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"date_published": "2023-03-07T22:06:01-05:00",
+				"url": "https://blog.gregmoore.me/2023/03/07/immensely-enjoyed-wayne.html",
+				"tags": ["photos","journal"]
+			},
+			{
+				"id": "http://gregmoore.micro.blog/2023/03/06/few-things-bring.html",
+				
+				"content_html": "<p>💿Few things bring as much joy as rescuing musical treasures from the thrift store and adding them to my collection. My daughter, who has never known life without internet, views my CD ripping like I’m a doomsday prepper.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "💿Few things bring as much joy as rescuing musical treasures from the thrift store and adding them to my collection. My daughter, who has never known life without internet, views my CD ripping like I’m a doomsday prepper. \n\n<img src=\"uploads/2023/4c2a53b0a7.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"date_published": "2023-03-06T09:27:08-05:00",
+				"url": "https://blog.gregmoore.me/2023/03/06/few-things-bring.html",
+				"tags": ["photos","journal"]
+			},
+			{
+				"id": "http://gregmoore.micro.blog/2023/03/05/homemade-chili-crisp.html",
+				
+				"content_html": "<p>🌶️ Homemade chili crisp ended up being easy to make, has none of the sugar they add to the commercial stuff, and is way, <em>way</em> less expensive.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "🌶️ Homemade chili crisp ended up being easy to make, has none of the sugar they add to the commercial stuff, and is way, *way* less expensive.\n\n<img src=\"uploads/2023/feee4e4684.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"date_published": "2023-03-05T13:31:22-05:00",
+				"url": "https://blog.gregmoore.me/2023/03/05/homemade-chili-crisp.html",
+				"tags": ["photos"]
+			},
+			{
 				"id": "http://gregmoore.micro.blog/2023/03/04/love-isnt-a.html",
 				
 				"content_html": "<blockquote>\n<p>Love isn’t a fairy godmother.</p>\n<p>It doesn’t swoop in to change what you want changed, but it helps you to be a little more patient and kind through the things you wish you could change.</p>\n</blockquote>\n<p>Annie Mueller, <em><a href=\"https://anniemueller.com/the-first-knot/\">The First Knot</a></em></p>\n",
