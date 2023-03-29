@@ -7,6 +7,51 @@
 	"items": [
 		
 			{
+				"id": "http://gregmoore.micro.blog/2023/03/29/coolest-chicken-in.html",
+				
+				"content_html": "<p>Coolest chicken in the Duke gardens roost.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Coolest chicken in the Duke gardens roost.\n\n<img src=\"uploads/2023/ba953a69d9.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"date_published": "2023-03-29T12:25:12-04:00",
+				"url": "https://blog.gregmoore.me/2023/03/29/coolest-chicken-in.html",
+				"tags": ["photos","journal"]
+			},
+			{
+				"id": "http://gregmoore.micro.blog/2023/03/27/durham-nc-offered.html",
+				
+				"content_html": "<p>Durham, NC offered a splendid night on the town with great drinks, food, and ice cream. Perfect for catching up with family under a long and beautiful sunset.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Durham, NC offered a splendid night on the town with great drinks, food, and ice cream. Perfect for catching up with family under a long and beautiful sunset.\n\n<img src=\"uploads/2023/a960787bfc.jpg\" width=\"449\" height=\"600\" alt=\"\">\n",
+				"date_published": "2023-03-27T07:31:20-04:00",
+				"url": "https://blog.gregmoore.me/2023/03/27/durham-nc-offered.html",
+				"tags": ["photos","journal"]
+			},
+			{
+				"id": "http://gregmoore.micro.blog/2023/03/26/whoo-wants-coffee.html",
+				
+				"content_html": "<p>“Whoo wants coffee?”</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "“Whoo wants coffee?”\n\n<img src=\"uploads/2023/1bfe56eaee.jpg\" width=\"600\" height=\"449\" alt=\"\">\n",
+				"date_published": "2023-03-26T08:19:25-04:00",
+				"url": "https://blog.gregmoore.me/2023/03/26/whoo-wants-coffee.html",
+				"tags": ["photos","journal"]
+			},
+			{
+				"id": "http://gregmoore.micro.blog/2023/03/25/had-a-beautiful.html",
+				
+				"content_html": "<p>Had a beautiful drive through Ohio and West Virginia for a spring break weekend with family in North Carolina.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Had a beautiful drive through Ohio and West Virginia for a spring break weekend with family in North Carolina.\n\n<img src=\"uploads/2023/921c0a1ef4.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"date_published": "2023-03-25T21:37:34-04:00",
+				"url": "https://blog.gregmoore.me/2023/03/25/had-a-beautiful.html",
+				"tags": ["photos","journal"]
+			},
+			{
+				"id": "http://gregmoore.micro.blog/2023/03/23/goodbye-ulrich-schnauss.html",
+				
+				"content_html": "<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><br>\n<strong><a href=\"https://songwhip.com/ulrich-schnauss/goodbye-2020\">Goodbye</a></strong><br>\n<em>Ulrich Schnauss</em></p>\n<p>There are feelings and emotions rooted in the deeper, darker heart of ourselves that can only be touched by diving below our surface. Music is a frequent guide to accessing this unexplored territory and helping us explore what we don&rsquo;t have words to express.</p>\n",
+				"content_text": "<a href=\"https://songwhip.com/ulrich-schnauss/goodbye-2020\" target=\"_blank\"><img src=\"uploads/2023/34a792e329.jpg\" width=\"600\" height=\"600\" alt=\"Goodbye by Ulrich Schnauss\"></a>  \n**[Goodbye](https://songwhip.com/ulrich-schnauss/goodbye-2020)**  \n*Ulrich Schnauss*\n\nThere are feelings and emotions rooted in the deeper, darker heart of ourselves that can only be touched by diving below our surface. Music is a frequent guide to accessing this unexplored territory and helping us explore what we don't have words to express.\n",
+				"date_published": "2023-03-23T12:54:18-04:00",
+				"url": "https://blog.gregmoore.me/2023/03/23/goodbye-ulrich-schnauss.html",
+				"tags": ["journal"]
+			},
+			{
 				"id": "http://gregmoore.micro.blog/2023/03/22/trying-to-take.html",
 				
 				"content_html": "<p>Trying to take a lesson from my cat to search for the light, no matter how small.</p>\n<!-- raw HTML omitted -->\n",
