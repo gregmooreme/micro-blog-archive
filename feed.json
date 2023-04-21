@@ -7,6 +7,41 @@
 	"items": [
 		
 			{
+				"id": "http://gregmoore.micro.blog/2023/04/21/i-think-things.html",
+				
+				"content_html": "<blockquote>\n<p>“I think things come into our lives to help us get from one place to a better one.”</p>\n</blockquote>\n<!-- raw HTML omitted -->\n",
+				"content_text": "> “I think things come into our lives to help us get from one place to a better one.”\n\n<img src=\"uploads/2023/7a48e82dcf.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"date_published": "2023-04-21T09:03:59-04:00",
+				"url": "https://blog.gregmoore.me/2023/04/21/i-think-things.html",
+				"tags": ["photos","quotes"]
+			},
+			{
+				"id": "http://gregmoore.micro.blog/2023/04/15/like-father-like.html",
+				
+				"content_html": "<p>Like father, like daughter. (This is my new favorite photo❤️)</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Like father, like daughter. (This is my new favorite photo❤️)\n\n<img src=\"uploads/2023/edda81aed6.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"date_published": "2023-04-15T13:40:43-04:00",
+				"url": "https://blog.gregmoore.me/2023/04/15/like-father-like.html",
+				"tags": ["photos","journal"]
+			},
+			{
+				"id": "http://gregmoore.micro.blog/2023/04/15/michigan-spring-i.html",
+				
+				"content_html": "<p>Michigan spring: I just broke out my shorts but it also might snow next Monday 🤪</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Michigan spring: I just broke out my shorts but it also might snow next Monday 🤪\n\n<img src=\"uploads/2023/7d98e2beff.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"date_published": "2023-04-15T12:00:05-04:00",
+				"url": "https://blog.gregmoore.me/2023/04/15/michigan-spring-i.html",
+				"tags": ["photos","journal"]
+			},
+			{
+				"id": "http://gregmoore.micro.blog/2023/04/14/one-of-my.html",
+				
+				"content_html": "<p><img src=\"https://blog.gregmoore.me/uploads/2023/588d82edbb.jpg\" alt=\"Photo\"></p>\n<p>One of my favorite Detroit things is when restaurants take over cool old buildings but theme themselves after the business that was there before, complete with amazing neon signs.</p>\n<p><img src=\"https://blog.gregmoore.me/uploads/2023/a126310887.jpg\" alt=\"photo\"></p>\n",
+				"content_text": "![Photo](https://blog.gregmoore.me/uploads/2023/588d82edbb.jpg)\n\nOne of my favorite Detroit things is when restaurants take over cool old buildings but theme themselves after the business that was there before, complete with amazing neon signs.\n\n![photo](https://blog.gregmoore.me/uploads/2023/a126310887.jpg)\n",
+				"date_published": "2023-04-14T21:24:08-04:00",
+				"url": "https://blog.gregmoore.me/2023/04/14/one-of-my.html"
+			},
+			{
 				"id": "http://gregmoore.micro.blog/2023/04/14/these-old-scrapbooks.html",
 				
 				"content_html": "<p><a href=\"https://imginn.com/paperofthepast/\">These old scrapbooks are inspiring</a>. Now that I&rsquo;ve finally found a way to keep a daily personal journal, I would love to stretch myself further with something similar.</p>\n",
