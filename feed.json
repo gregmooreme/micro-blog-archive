@@ -7,6 +7,42 @@
 	"items": [
 		
 			{
+				"id": "http://gregmoore.micro.blog/2023/04/26/spring-is-really.html",
+				
+				"content_html": "<p>Spring is really magical when I make the effort to get outside and spend some time with the trees. Five stars. Would recommend.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Spring is really magical when I make the effort to get outside and spend some time with the trees. Five stars. Would recommend.\n\n<img src=\"uploads/2023/f84980a485.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"date_published": "2023-04-26T10:21:59-04:00",
+				"url": "https://blog.gregmoore.me/2023/04/26/spring-is-really.html",
+				"tags": ["photos"]
+			},
+			{
+				"id": "http://gregmoore.micro.blog/2023/04/25/spent-the-evening.html",
+				
+				"content_html": "<p>Spent the evening building a level 10 character for a D&amp;D one-shot game. His character sheet (plus spells) is 10 pages long!😅 No idea how I&rsquo;m going to play such a powerful character but at least I&rsquo;ve got his character voice down.</p>\n",
+				"content_text": "Spent the evening building a level 10 character for a D&D one-shot game. His character sheet (plus spells) is 10 pages long!😅 No idea how I'm going to play such a powerful character but at least I've got his character voice down.\n",
+				"date_published": "2023-04-25T14:20:27-04:00",
+				"url": "https://blog.gregmoore.me/2023/04/25/spent-the-evening.html",
+				"tags": ["RPG"]
+			},
+			{
+				"id": "http://gregmoore.micro.blog/2023/04/25/as-far-as.html",
+				
+				"content_html": "<blockquote>\n<p>As far as your life, I think I started having more success when I stopped feeling like there was a narrative to my life. I think, once you let go of that idea then, first off you stop seeing yourself as the most important thing in your narrative. You see yourself as more of a component.<br>\nThere’s no arc to my story. There’s no climax, anti-climax, or denouement. So, trying to find where things connected or what made sense in my arc, didn’t really make a lot of sense. Once I let go of that, I started having more success and became happier.</p>\n</blockquote>\n<ul>\n<li>Justin Mackelroy</li>\n</ul>\n",
+				"content_text": "> As far as your life, I think I started having more success when I stopped feeling like there was a narrative to my life. I think, once you let go of that idea then, first off you stop seeing yourself as the most important thing in your narrative. You see yourself as more of a component.  \nThere’s no arc to my story. There’s no climax, anti-climax, or denouement. So, trying to find where things connected or what made sense in my arc, didn’t really make a lot of sense. Once I let go of that, I started having more success and became happier.\n\n- Justin Mackelroy\n",
+				"date_published": "2023-04-25T10:12:38-04:00",
+				"url": "https://blog.gregmoore.me/2023/04/25/as-far-as.html",
+				"tags": ["quotes"]
+			},
+			{
+				"id": "http://gregmoore.micro.blog/2023/04/23/the-last-thing.html",
+				
+				"content_html": "<blockquote>\n<p>The last thing the 21st century wants to admit is that it might not know everything.</p>\n</blockquote>\n<ul>\n<li>Jim Butcher</li>\n</ul>\n",
+				"content_text": "> The last thing the 21st century wants to admit is that it might not know everything.\r\n\r\n- Jim Butcher\n",
+				"date_published": "2023-04-23T14:11:40-04:00",
+				"url": "https://blog.gregmoore.me/2023/04/23/the-last-thing.html",
+				"tags": ["quotes"]
+			},
+			{
 				"id": "http://gregmoore.micro.blog/2023/04/21/i-think-things.html",
 				
 				"content_html": "<blockquote>\n<p>“I think things come into our lives to help us get from one place to a better one.”</p>\n</blockquote>\n<!-- raw HTML omitted -->\n",
@@ -450,7 +486,7 @@
 				"content_text": "Don’t normally share my art here but I’m super happy with my little Dragonborn, in his freshman Silverquill uniform, practicing his beginning Inkomancy.\n\n<img src=\"uploads/2023/1b154d5e3d.jpg\" width=\"337\" height=\"600\" alt=\"\">\n",
 				"date_published": "2023-02-16T00:44:14-04:00",
 				"url": "https://blog.gregmoore.me/2023/02/15/dont-normally-share.html",
-				"tags": ["photos","drawing","DnD"]
+				"tags": ["photos","drawing","RPG"]
 			},
 			{
 				"id": "http://gregmoore.micro.blog/2023/02/14/my-thoughtful-brother.html",
@@ -459,7 +495,7 @@
 				"content_text": "My thoughtful brother in-law gifted me some vintage 1980’s Dungeons and Dragons metal figures. Their numbers aren’t even stamped into the bases, they’re hand carved! Now I have to figure out where I can find more information about them.\n\n<img src=\"uploads/2023/3bb3a996e5.jpg\" width=\"600\" height=\"280\" alt=\"\">\n",
 				"date_published": "2023-02-14T09:41:31-04:00",
 				"url": "https://blog.gregmoore.me/2023/02/14/my-thoughtful-brother.html",
-				"tags": ["photos","DnD"]
+				"tags": ["photos","RPG"]
 			},
 			{
 				"id": "http://gregmoore.micro.blog/2023/02/13/happily-keeping-warm.html",
@@ -1110,7 +1146,7 @@
 				"content_text": "A new D&D adventure begins tonight and **Trinket** is ready for his first day of school at Strixhaven!\n\n<img src=\"uploads/2022/4da954c27c.png\" width=\"600\" height=\"600\" alt=\"\">\n",
 				"date_published": "2022-11-29T11:05:06-04:00",
 				"url": "https://blog.gregmoore.me/2022/11/29/a-new-dd.html",
-				"tags": ["photos","journal","DnD"]
+				"tags": ["photos","journal","RPG"]
 			},
 			{
 				"id": "http://gregmoore.micro.blog/2022/11/29/just-discovered-an.html",
@@ -1145,7 +1181,7 @@
 				"content_text": "The D&D campaigns my friends and I play take about a year and a half to complete so I celebrate them by drawing a poster of everybody’s characters and having them printed. I don’t usually share them here but they are the two most important drawings I’ve ever made. (So far.)\n\n<a href=\"https://blog.gregmoore.me/uploads/2022/88cb534324.jpg\"><img src=\"uploads/2022/88cb534324.jpg\" width=\"600\" height=\"398\" alt=\"two posters drawn by Greg Moore\"></a>\n",
 				"date_published": "2022-11-22T15:57:36-04:00",
 				"url": "https://blog.gregmoore.me/2022/11/22/the-dd-campaigns.html",
-				"tags": ["photos","journal","drawing","DnD"]
+				"tags": ["photos","journal","drawing","RPG"]
 			},
 			{
 				"id": "http://gregmoore.micro.blog/2022/11/22/upgraded-my-mb.html",
@@ -1288,7 +1324,7 @@
 				"content_text": "After 20 months and 83 sessions, my group ended our third D&D campaign. During that time, one member got his drivers license, I moved across the country, another sold the house he had built, and our DM became pregnant with her first child.\nIt’s more than just a game.\n\n<img src=\"uploads/2022/f730e81b14.jpg\" width=\"599\" height=\"600\" alt=\"Sous, the warforged barbarian\">\n",
 				"date_published": "2022-11-04T23:29:51-04:00",
 				"url": "https://blog.gregmoore.me/2022/11/04/after-months-and.html",
-				"tags": ["photos","journal","DnD"]
+				"tags": ["photos","journal","RPG"]
 			},
 			{
 				"id": "http://gregmoore.micro.blog/2022/11/03/mastodon-seems-so.html",
@@ -1339,7 +1375,7 @@
 				"content_text": "I’ve spent over 40 hours drawing a poster to commemorate the conclusion of my D&D group’s year and a half campaign. It’s our DM’s first major campaign and she’s done a stellar job. I can’t wait to get the prints to them.😆\n",
 				"date_published": "2022-10-27T18:39:35-04:00",
 				"url": "https://blog.gregmoore.me/2022/10/27/ive-spent-over.html",
-				"tags": ["journal","DnD"]
+				"tags": ["journal","RPG"]
 			},
 			{
 				"id": "http://gregmoore.micro.blog/2022/10/27/more-fall-colors.html",
@@ -1375,7 +1411,7 @@
 				"content_text": "My first try at foam modeling. I made this bookshelf mountainside to display my D&D character minis on something more fun than clear acrylic boxes. Flocking is fun! Each of these minis are my past characters or hand-painted gifts from friends.\n\n<img src=\"uploads/2023/b19f665bed.jpg\" width=\"600\" height=\"600\" alt=\"Painted Dungeons and Dragons figures standing on a handmade mountain model\">\n",
 				"date_published": "2022-10-20T10:23:00-04:00",
 				"url": "https://blog.gregmoore.me/2022/10/20/my-first-try.html",
-				"tags": ["photos","DnD"]
+				"tags": ["photos","RPG"]
 			},
 			{
 				"id": "http://gregmoore.micro.blog/2022/10/20/visitors-to-the.html",
@@ -1572,7 +1608,7 @@
 				"content_text": "Learning how to turn foam into mountains because it’s a _much_ cooler bookshelf display for my character minis than a clear box. I’ve made it to the black-wash stage. Dry brushing is next and then I can figure out where to put foliage.\n\n<img src=\"uploads/2022/ef2a19c880.jpg\" width=\"600\" height=\"450\" alt=\"model mountains with black wash drying\" />\n",
 				"date_published": "2022-09-17T18:05:12-04:00",
 				"url": "https://blog.gregmoore.me/2022/09/17/learning-how-to.html",
-				"tags": ["photos","DnD"]
+				"tags": ["photos","RPG"]
 			},
 			{
 				"id": "http://gregmoore.micro.blog/2022/09/10/lots-of-fun.html",
@@ -1590,7 +1626,7 @@
 				"content_text": "Creativity begets creativity. It started with drawing my D&D characters, then I learned to paint their minis, and now it’s progressed to me carving places for them to live.\n\n<img src=\"uploads/2022/320c416e17.jpg\" width=\"449\" height=\"600\" alt=\"tabletop mini standing on carved foam rocks\" />\n",
 				"date_published": "2022-09-09T09:15:53-04:00",
 				"url": "https://blog.gregmoore.me/2022/09/09/creativity-begets-creativity.html",
-				"tags": ["photos","journal","DnD"]
+				"tags": ["photos","journal","RPG"]
 			},
 			{
 				"id": "http://gregmoore.micro.blog/2022/09/09/how-to-make.html",
@@ -1644,7 +1680,7 @@
 				"content_text": "My office once held a multi-year D&D game that quickly became the most popular way to create community between teams. It brought more disparate people together than all the sports and drinking events ever did. Sadly, COVID abruptly ended it and my office is lesser for it.\n\n<img src=\"uploads/2022/0fecf461dc.jpg\" width=\"400\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2022-08-30T07:48:10-04:00",
 				"url": "https://blog.gregmoore.me/2022/08/30/my-office-once.html",
-				"tags": ["photos","journal","DnD"]
+				"tags": ["photos","journal","RPG"]
 			},
 			{
 				"id": "http://gregmoore.micro.blog/2022/08/22/current-mood.html",
@@ -1697,7 +1733,7 @@
 				"content_text": "All of my D&D characters get “trophies” so I spent the afternoon painting their minis. They're a small accomplishment (literally) but it feels so good to be doing something creative again.\n\n<img src=\"uploads/2022/9a9f0256a4.jpg\" width=\"224\" height=\"375\" alt=\"Sous\" />\n<img src=\"uploads/2022/37d0bc62f2.jpg\" width=\"224\" height=\"375\" alt=\"Ritter\" />\n",
 				"date_published": "2022-07-16T22:37:05-04:00",
 				"url": "https://blog.gregmoore.me/2022/07/16/all-of-my.html",
-				"tags": ["photos","journal","DnD"]
+				"tags": ["photos","journal","RPG"]
 			},
 			{
 				"id": "http://gregmoore.micro.blog/2022/07/12/i-am-thankful.html",
@@ -2907,7 +2943,7 @@
 				"content_text": "Drew and printed a new D&D character for a one-shot and then we ended up having some “craft time” before the game painting them onto wooden figures instead. It was a ton of fun.\n\n<img src=\"uploads/2021/69468800f8.jpg\" width=\"600\" height=\"543\" alt=\"\" />\n",
 				"date_published": "2021-05-11T17:11:40-04:00",
 				"url": "https://blog.gregmoore.me/2021/05/11/drew-and-printed.html",
-				"tags": ["photos","DnD"]
+				"tags": ["photos","RPG"]
 			},
 			{
 				"id": "http://gregmoore.micro.blog/2021/05/11/spotted-an-awesome.html",
@@ -3345,7 +3381,7 @@
 				"content_text": "📷 [mbfeb](https://micro.welltempered.net/2021/01/30/february-photoblogging-challenge.html) Day 25 | **Code**\n\nWhen you’re on an adventure, you’re bound to encounter a secret code or two.\n\n<a href=\"https://blog.gregmoore.me/uploads/2021/1d516cd037.jpg\"><img src=\"uploads/2021/1d516cd037.jpg\" width=\"600\" height=\"450\" alt=\"\" /></a>\n",
 				"date_published": "2021-02-25T10:58:00-04:00",
 				"url": "https://blog.gregmoore.me/2021/02/25/mbfeb-day-code.html",
-				"tags": ["photos","PhotoChallengeFeb2021","drawing","DnD"]
+				"tags": ["photos","PhotoChallengeFeb2021","drawing","RPG"]
 			},
 			{
 				"id": "http://gregmoore.micro.blog/2021/02/24/mbfeb-day-baby.html",
@@ -3453,7 +3489,7 @@
 				"content_text": "📷 [mbfeb](https://micro.welltempered.net/2021/01/30/february-photoblogging-challenge.html) Day 13 | **Make**\n\nI recently used the character drawings my daughter and I collaborated on to make a poster for our D&D group.\n\n<img src=\"uploads/2021/9491597ae1.jpg\" width=\"600\" height=\"600\" alt=\"\" />\n",
 				"date_published": "2021-02-13T13:34:25-04:00",
 				"url": "https://blog.gregmoore.me/2021/02/13/mbfeb-day-make.html",
-				"tags": ["photos","PhotoChallengeFeb2021","drawing","DnD"]
+				"tags": ["photos","PhotoChallengeFeb2021","drawing","RPG"]
 			},
 			{
 				"id": "http://gregmoore.micro.blog/2021/02/12/mbfeb-day-sporg.html",
@@ -3803,7 +3839,7 @@
 				"content_text": "🥳 Woo, my D&D mini prints came in today! Going to paint these guys, add them to my others, and make a character trophy case.\n\n<img src=\"uploads/2020/96adf6692c.jpg\" width=\"600\" height=\"447\" alt=\"\" />\n",
 				"date_published": "2020-12-14T17:38:44-04:00",
 				"url": "https://blog.gregmoore.me/2020/12/14/woo-my-dd.html",
-				"tags": ["photos","DnD"]
+				"tags": ["photos","RPG"]
 			},
 			{
 				"id": "http://gregmoore.micro.blog/2020/12/14/contemplating-cardinal-on.html",
