@@ -7,6 +7,58 @@
 	"items": [
 		
 			{
+				"id": "http://gregmoore.micro.blog/2023/05/08/home-away-from.html",
+				
+				"content_html": "<p>Home away from home</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Home away from home\n\n<img src=\"uploads/2023/e5ad5e43b1.jpg\" width=\"600\" height=\"449\" alt=\"\">\n",
+				"date_published": "2023-05-08T23:05:01-04:00",
+				"url": "https://blog.gregmoore.me/2023/05/08/home-away-from.html",
+				"tags": ["photos","journal"]
+			},
+			{
+				"id": "http://gregmoore.micro.blog/2023/05/04/up-in-the.html",
+				
+				"content_html": "<p>Up in the air ✈️</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Up in the air ✈️\n\n<img src=\"uploads/2023/23d4b99c58.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"date_published": "2023-05-04T12:42:40-04:00",
+				"url": "https://blog.gregmoore.me/2023/05/04/up-in-the.html",
+				"tags": ["photos","journal"]
+			},
+			{
+				"id": "http://gregmoore.micro.blog/2023/05/04/enjoying-the-quiet.html",
+				
+				"content_html": "<p>Enjoying the quiet of the morning before everything begins.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Enjoying the quiet of the morning before everything begins.\n\n<img src=\"uploads/2023/3fd90189e1.jpg\" width=\"600\" height=\"599\" alt=\"\">\n",
+				"date_published": "2023-05-04T07:18:54-04:00",
+				"url": "https://blog.gregmoore.me/2023/05/04/enjoying-the-quiet.html",
+				"tags": ["photos"]
+			},
+			{
+				"id": "http://gregmoore.micro.blog/2023/05/03/me-in-the.html",
+				
+				"content_html": "<p>Me in 1999: 😃&quot;The whole album only took 10 hours to download!&quot;</p>\n<p>Me in 2023: 🤬&quot;15 minutes to download?! It&rsquo;s only a 40GB game.&quot;</p>\n",
+				"content_text": "Me in 1999: 😃\"The whole album only took 10 hours to download!\"\r\n\r\nMe in 2023: 🤬\"15 minutes to download?! It's only a 40GB game.\"\n",
+				"date_published": "2023-05-03T09:35:50-04:00",
+				"url": "https://blog.gregmoore.me/2023/05/03/me-in-the.html"
+			},
+			{
+				"id": "http://gregmoore.micro.blog/2023/05/03/enjoying-the-view.html",
+				
+				"content_html": "<p>Enjoying the view from my “office” today.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Enjoying the view from my “office” today. \n\n<img src=\"uploads/2023/cdb201d510.jpg\" width=\"600\" height=\"400\" alt=\"\">\n",
+				"date_published": "2023-05-03T08:11:24-04:00",
+				"url": "https://blog.gregmoore.me/2023/05/03/enjoying-the-view.html",
+				"tags": ["photos","journal"]
+			},
+			{
+				"id": "http://gregmoore.micro.blog/2023/05/02/rest-is-not.html",
+				
+				"content_html": "<blockquote>\n<p>Rest is not idleness, and to lie sometimes on the grass under the trees on a summers day, listening to the murmur of water, or watching the clouds float across the blue sky, is by no means a waste of time.</p>\n</blockquote>\n<ul>\n<li>John Lubbock, <em>The Use of Life (1895)</em></li>\n</ul>\n",
+				"content_text": "> Rest is not idleness, and to lie sometimes on the grass under the trees on a summers day, listening to the murmur of water, or watching the clouds float across the blue sky, is by no means a waste of time.\n\n* John Lubbock, *The Use of Life (1895)*\n",
+				"date_published": "2023-05-02T17:26:58-04:00",
+				"url": "https://blog.gregmoore.me/2023/05/02/rest-is-not.html"
+			},
+			{
 				"id": "http://gregmoore.micro.blog/2023/04/30/its-a-great.html",
 				
 				"content_html": "<p>It’s a great day to stay indoors and read.</p>\n<!-- raw HTML omitted -->\n",
