@@ -7,6 +7,50 @@
 	"items": [
 		
 			{
+				"id": "http://gregmoore.micro.blog/2023/05/18/seasons-are-still.html",
+				
+				"content_html": "<p>Seasons are still a thrilling novelty for me. Several months ago I was taking photos of ice covering this same tree that is now fullly blooming in the afternoon sun.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Seasons are still a thrilling novelty for me. Several months ago I was taking photos of ice covering this same tree that is now fullly blooming in the afternoon sun.\n\n<img src=\"uploads/2023/44f435390a.jpg\" width=\"600\" height=\"450\" alt=\"pink blossoms covering a tree branch in golden afternoon sun\">\n",
+				"date_published": "2023-05-18T13:55:07-04:00",
+				"url": "https://blog.gregmoore.me/2023/05/18/seasons-are-still.html",
+				"tags": ["photos","journal"]
+			},
+			{
+				"id": "http://gregmoore.micro.blog/2023/05/18/i-must-replenish.html",
+				
+				"content_html": "<p>I must replenish the coffee stores, lest mine attention turn fallow in the meetings upon this morn!</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "I must replenish the coffee stores, lest mine attention turn fallow in the meetings upon this morn!\n\n<img src=\"uploads/2023/7c2114d44f.jpg\" width=\"450\" height=\"600\" alt=\"coffee being ground into a paper bag\">\n",
+				"date_published": "2023-05-18T09:59:54-04:00",
+				"url": "https://blog.gregmoore.me/2023/05/18/i-must-replenish.html",
+				"tags": ["photos","journal"]
+			},
+			{
+				"id": "http://gregmoore.micro.blog/2023/05/17/ted-lasso-continues.html",
+				
+				"content_html": "<p>Ted Lasso continues to be one of the best television shows I’ve had the joy to see.</p>\n",
+				"content_text": "Ted Lasso continues to be one of the best television shows I’ve had the joy to see.\n",
+				"date_published": "2023-05-17T13:00:12-04:00",
+				"url": "https://blog.gregmoore.me/2023/05/17/ted-lasso-continues.html"
+			},
+			{
+				"id": "http://gregmoore.micro.blog/2023/05/16/more-garden-fireworks.html",
+				
+				"content_html": "<p>More garden fireworks are going off.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "More garden fireworks are going off.\n\n<img src=\"uploads/2023/2195c2a3c3.jpg\" width=\"450\" height=\"600\" alt=\"closeup of a purple Allium flower\">\n",
+				"date_published": "2023-05-16T09:06:48-04:00",
+				"url": "https://blog.gregmoore.me/2023/05/16/more-garden-fireworks.html",
+				"tags": ["photos"]
+			},
+			{
+				"id": "http://gregmoore.micro.blog/2023/05/14/finished-reading-the.html",
+				
+				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9780735217973\">The Nineties</a> by Chuck Klosterman 📚</p>\n<blockquote>\n<p>Many people of the nineties—many modern people, many of whom are still very much alive—were exceedingly comfortable not knowing anything for certain.</p>\n</blockquote>\n<p>I&rsquo;m so thankful to have grown up in a time without the pressure to be certain about literally everything.</p>\n",
+				"content_text": "Finished reading: [The Nineties](https://micro.blog/books/9780735217973) by Chuck Klosterman 📚\r\n\r\n> Many people of the nineties—many modern people, many of whom are still very much alive—were exceedingly comfortable not knowing anything for certain.\r\n\r\nI'm so thankful to have grown up in a time without the pressure to be certain about literally everything.\n",
+				"date_published": "2023-05-14T00:12:50-04:00",
+				"url": "https://blog.gregmoore.me/2023/05/14/finished-reading-the.html",
+				"tags": ["books"]
+			},
+			{
 				"id": "http://gregmoore.micro.blog/2023/05/12/a-friend-asked.html",
 				
 				"content_html": "<p>A friend asked me for YouTube channel recommendations and my entire list was people who build and create things. <strong>I’m far more interested in people who make shit than talk it.</strong></p>\n",
@@ -19,7 +63,7 @@
 				"id": "http://gregmoore.micro.blog/2023/05/11/this-photo-is.html",
 				
 				"content_html": "<p>This photo is a stand-in for an insightfully funny, but relatable, post about how my kid learning to drive is great but also filling me with a parental terror I thought I’d managed within myself but obviously haven’t.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "This photo is a stand-in for an insightfully funny, but relatable, post about how my kid learning to drive is great but also filling me with a parental terror I thought I’d managed within myself but obviously haven’t.\n\n<img src=\"uploads/2023/870de3a0b6.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"content_text": "This photo is a stand-in for an insightfully funny, but relatable, post about how my kid learning to drive is great but also filling me with a parental terror I thought I’d managed within myself but obviously haven’t.\n\n<img src=\"https://cdn.uploads.micro.blog/5332/2023/870de3a0b6.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
 				"date_published": "2023-05-11T16:54:24-04:00",
 				"url": "https://blog.gregmoore.me/2023/05/11/this-photo-is.html",
 				"tags": ["photos","journal"]
@@ -28,7 +72,7 @@
 				"id": "http://gregmoore.micro.blog/2023/05/11/the-sad-ballad.html",
 				"title": "The Sad Ballad of Captain Keeves",
 				"content_html": "<!-- raw HTML omitted -->\n<p>There once was a captain who had skin like the sea<br>\nAnd his beard was as white as his spirit was free<br>\nHe came to meet creatures who hailed from the land<br>\nAnd convinced them to join him as a sea-fairing band.</p>\n<p>He bartered a pearl for a ship with no name<br>\nA fine home for his crew they could sail into fame<br>\nThey set sail for glory<br>\nSpirits high as the water<br>\nWhen some dumb monster cult<br>\nGot their poor captain slaughtered</p>\n<p>Keeves was his name and the sea was his lady<br>\nHe now spends his days in the locker with Davey<br>\nMissed he will be and remembered so dearly<br>\nAs the crew sets their sails to the horizon clearly.\nHey ho and up he rise-ed<br>\nHey ho and up he rise-ed<br>\nHey ho and up he rise-ed<br>\nSaving all his crewmen</p>\n<hr>\n<p>The characters I play in role playing games are not me. I create them to be fictional people I can fill with fun attributes and desires distinctive from myself. However, they always end up as the embodiment of important milestones from my real life. <strong>Captain Keeves</strong> was no different even though I only got to play him twice.</p>\n<p>I created him to embody the traits of the sea: A boisterously indefatigable <a href=\"https://forgottenrealms.fandom.com/wiki/Triton\">Triton</a> who&rsquo;s strength came from refusing to ever stop. That was, until he <em>was</em> stopped, at the end of our very first session, to stop the reaching tentacles of a mad god. The captain had to die and leave his crew just as, in real life, I had to leave my friends and our game for a cross country move to Michigan.</p>\n<p>Even though I wasn&rsquo;t there to play, the DM got clever and had me make recordings of &ldquo;Captain&rsquo;s advice&rdquo; from beyond the grave that he would play for my friends in key moments. I tried to make them extra silly and really lean into the fact that I had no idea what was happening. Like internet messages, it was a fun way to hold my presence with far away friends.</p>\n<p>This past weekend, I finally managed to arrange an in-person visit with these friends and, as a treat, our DM held a special session. Captain Keeves returned from his watery purgatory for one final visit with his crew. It was more silliness, more fun, and a meaningful ending to a character too quickly cut off.</p>\n",
-				"content_text": "<img src=\"uploads/2023/6479d1b39b.jpg\" width=\"600\" height=\"450\" alt=\"\">\n\nThere once was a captain who had skin like the sea  \nAnd his beard was as white as his spirit was free  \nHe came to meet creatures who hailed from the land  \nAnd convinced them to join him as a sea-fairing band. \n\nHe bartered a pearl for a ship with no name  \nA fine home for his crew they could sail into fame  \nThey set sail for glory  \nSpirits high as the water  \nWhen some dumb monster cult  \nGot their poor captain slaughtered\n\nKeeves was his name and the sea was his lady  \nHe now spends his days in the locker with Davey  \nMissed he will be and remembered so dearly  \nAs the crew sets their sails to the horizon clearly. \nHey ho and up he rise-ed  \nHey ho and up he rise-ed  \nHey ho and up he rise-ed  \nSaving all his crewmen\n\n---\n\nThe characters I play in role playing games are not me. I create them to be fictional people I can fill with fun attributes and desires distinctive from myself. However, they always end up as the embodiment of important milestones from my real life. **Captain Keeves** was no different even though I only got to play him twice.\n\nI created him to embody the traits of the sea: A boisterously indefatigable [Triton](https://forgottenrealms.fandom.com/wiki/Triton) who's strength came from refusing to ever stop. That was, until he *was* stopped, at the end of our very first session, to stop the reaching tentacles of a mad god. The captain had to die and leave his crew just as, in real life, I had to leave my friends and our game for a cross country move to Michigan.\n\nEven though I wasn't there to play, the DM got clever and had me make recordings of \"Captain's advice\" from beyond the grave that he would play for my friends in key moments. I tried to make them extra silly and really lean into the fact that I had no idea what was happening. Like internet messages, it was a fun way to hold my presence with far away friends.\n\nThis past weekend, I finally managed to arrange an in-person visit with these friends and, as a treat, our DM held a special session. Captain Keeves returned from his watery purgatory for one final visit with his crew. It was more silliness, more fun, and a meaningful ending to a character too quickly cut off. \n",
+				"content_text": "<img src=\"https://cdn.uploads.micro.blog/5332/2023/6479d1b39b.jpg\" width=\"600\" height=\"450\" alt=\"\">\n\nThere once was a captain who had skin like the sea  \nAnd his beard was as white as his spirit was free  \nHe came to meet creatures who hailed from the land  \nAnd convinced them to join him as a sea-fairing band. \n\nHe bartered a pearl for a ship with no name  \nA fine home for his crew they could sail into fame  \nThey set sail for glory  \nSpirits high as the water  \nWhen some dumb monster cult  \nGot their poor captain slaughtered\n\nKeeves was his name and the sea was his lady  \nHe now spends his days in the locker with Davey  \nMissed he will be and remembered so dearly  \nAs the crew sets their sails to the horizon clearly. \nHey ho and up he rise-ed  \nHey ho and up he rise-ed  \nHey ho and up he rise-ed  \nSaving all his crewmen\n\n---\n\nThe characters I play in role playing games are not me. I create them to be fictional people I can fill with fun attributes and desires distinctive from myself. However, they always end up as the embodiment of important milestones from my real life. **Captain Keeves** was no different even though I only got to play him twice.\n\nI created him to embody the traits of the sea: A boisterously indefatigable [Triton](https://forgottenrealms.fandom.com/wiki/Triton) who's strength came from refusing to ever stop. That was, until he *was* stopped, at the end of our very first session, to stop the reaching tentacles of a mad god. The captain had to die and leave his crew just as, in real life, I had to leave my friends and our game for a cross country move to Michigan.\n\nEven though I wasn't there to play, the DM got clever and had me make recordings of \"Captain's advice\" from beyond the grave that he would play for my friends in key moments. I tried to make them extra silly and really lean into the fact that I had no idea what was happening. Like internet messages, it was a fun way to hold my presence with far away friends.\n\nThis past weekend, I finally managed to arrange an in-person visit with these friends and, as a treat, our DM held a special session. Captain Keeves returned from his watery purgatory for one final visit with his crew. It was more silliness, more fun, and a meaningful ending to a character too quickly cut off. \n",
 				"date_published": "2023-05-11T07:48:43-04:00",
 				"url": "https://blog.gregmoore.me/2023/05/11/the-sad-ballad.html",
 				"tags": ["photos","journal","RPG"]
@@ -37,7 +81,7 @@
 				"id": "http://gregmoore.micro.blog/2023/05/10/all-the-windows.html",
 				
 				"content_html": "<p>All the windows are open to let in the sweet smell of spring.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "All the windows are open to let in the sweet smell of spring.\n\n<img src=\"uploads/2023/024727d18a.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_text": "All the windows are open to let in the sweet smell of spring.\n\n<img src=\"https://cdn.uploads.micro.blog/5332/2023/024727d18a.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2023-05-10T17:06:11-04:00",
 				"url": "https://blog.gregmoore.me/2023/05/10/all-the-windows.html",
 				"tags": ["photos","journal"]
@@ -46,7 +90,7 @@
 				"id": "http://gregmoore.micro.blog/2023/05/08/home-away-from.html",
 				
 				"content_html": "<p>Home away from home</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Home away from home\n\n<img src=\"uploads/2023/e5ad5e43b1.jpg\" width=\"600\" height=\"449\" alt=\"\">\n",
+				"content_text": "Home away from home\n\n<img src=\"https://cdn.uploads.micro.blog/5332/2023/e5ad5e43b1.jpg\" width=\"600\" height=\"449\" alt=\"\">\n",
 				"date_published": "2023-05-08T23:05:01-04:00",
 				"url": "https://blog.gregmoore.me/2023/05/08/home-away-from.html",
 				"tags": ["photos","journal"]
