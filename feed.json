@@ -7,13 +7,30 @@
 	"items": [
 		
 			{
+				"id": "http://gregmoore.micro.blog/2023/06/21/my-grandmothers-passing.html",
+				
+				"content_html": "<p>My grandmother’s passing continues to reverberate through my days. Namely, spending more time with the human side of art and creating.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "My grandmother’s passing continues to reverberate through my days. Namely, spending more time with the human side of art and creating.\n\n<img src=\"uploads/2023/image.jpg\" width=\"600\" height=\"400\" alt=\"Large iron bell with ornate decorations in perspective with a background of stone arches\">\n",
+				"date_published": "2023-06-21T08:12:32-04:00",
+				"url": "https://blog.gregmoore.me/2023/06/21/my-grandmothers-passing.html",
+				"tags": ["photos"]
+			},
+			{
+				"id": "http://gregmoore.micro.blog/2023/06/15/finished-reading-the.html",
+				
+				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9780143039983\">The Haunting of Hill House</a> by Shirley Jackson 📚</p>\n<p>Really enjoyed how unconventional this book was with its ghost story. It’s no wonder why so many adaptations have been made from it.</p>\n",
+				"content_text": "Finished reading: [The Haunting of Hill House](https://micro.blog/books/9780143039983) by Shirley Jackson 📚\n\nReally enjoyed how unconventional this book was with its ghost story. It’s no wonder why so many adaptations have been made from it.\n",
+				"date_published": "2023-06-15T14:47:47-04:00",
+				"url": "https://blog.gregmoore.me/2023/06/15/finished-reading-the.html",
+				"tags": ["books"]
+			},
+			{
 				"id": "http://gregmoore.micro.blog/2023/06/15/taking-a-stand.html",
 				
-				"content_html": "<blockquote>\n<p>Taking a stand isn’t upvoting, liking, favoriting, reposting, or whatevering. […] It’s deleting the content you gave these companies and your accounts.<br>\nIt’s saying no, and walking away.</p>\n</blockquote>\n<p>If so many hadn’t abandoned their online identities to the socials, the internet would be flooded with similar articles to this one by <a href=\"https://brooksreview.net/2023/06/weve-lost-our-damn-outrage-because-the-community-knows-where-their-money-comes-from-and-are-scared-to-lose-that-income-but-my-fucking-money-comes-from-readers-and-im-pissed/\">Ben Brooks</a>.</p>\n",
-				"content_text": "> Taking a stand isn’t upvoting, liking, favoriting, reposting, or whatevering. […] It’s deleting the content you gave these companies and your accounts.  \nIt’s saying no, and walking away.\n\nIf so many hadn’t abandoned their online identities to the socials, the internet would be flooded with similar articles to this one by [Ben Brooks](https://brooksreview.net/2023/06/weve-lost-our-damn-outrage-because-the-community-knows-where-their-money-comes-from-and-are-scared-to-lose-that-income-but-my-fucking-money-comes-from-readers-and-im-pissed/). \n",
+				"content_html": "<blockquote>\n<p>Taking a stand isn’t upvoting, liking, favoriting, reposting, or whatevering. […] It’s deleting the content you gave these companies and your accounts.<br>\nIt’s saying no, and walking away.</p>\n</blockquote>\n<p>If so many hadn’t abandoned their online identities to the socials, the internet would be flooded with similar articles to this one by <a href=\"https://brooksreview.net/2023/06/weve-lost-our-damn-outrage-because-the-community-knows-where-their-money-comes-from-and-are-scared-to-lose-that-income-but-my-fucking-money-comes-from-readers-and-im-pissed/\">Ben Brooks</a>.</p>\n<p>(Hat tip to <a href=\"https://micro.blog/petebrown\">@petebrown</a> for originally linking to this.)</p>\n",
+				"content_text": "> Taking a stand isn’t upvoting, liking, favoriting, reposting, or whatevering. […] It’s deleting the content you gave these companies and your accounts.  \nIt’s saying no, and walking away.\n\nIf so many hadn’t abandoned their online identities to the socials, the internet would be flooded with similar articles to this one by [Ben Brooks](https://brooksreview.net/2023/06/weve-lost-our-damn-outrage-because-the-community-knows-where-their-money-comes-from-and-are-scared-to-lose-that-income-but-my-fucking-money-comes-from-readers-and-im-pissed/). \n\n(Hat tip to [@petebrown](https://micro.blog/petebrown) for originally linking to this.)\n",
 				"date_published": "2023-06-15T08:18:57-04:00",
-				"url": "https://blog.gregmoore.me/2023/06/15/taking-a-stand.html",
-				"tags": ["quotes"]
+				"url": "https://blog.gregmoore.me/2023/06/15/taking-a-stand.html"
 			},
 			{
 				"id": "http://gregmoore.micro.blog/2023/06/13/ive-been-making.html",
@@ -46,7 +63,7 @@
 				"id": "http://gregmoore.micro.blog/2023/06/07/our-sunrise-showed.html",
 				
 				"content_html": "<p>Our sunrise showed that Canada’s wildfires are still burning.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Our sunrise showed that Canada’s wildfires are still burning.\n\n<img src=\"uploads/2023/7be2bd805f.jpg\" width=\"600\" height=\"399\" alt=\"Red sunrise caused by smoke from Canada’s wildfires\">\n",
+				"content_text": "Our sunrise showed that Canada’s wildfires are still burning.\n\n<img src=\"https://cdn.uploads.micro.blog/5332/2023/7be2bd805f.jpg\" width=\"600\" height=\"399\" alt=\"Red sunrise caused by smoke from Canada’s wildfires\">\n",
 				"date_published": "2023-06-07T07:21:10-04:00",
 				"url": "https://blog.gregmoore.me/2023/06/07/our-sunrise-showed.html",
 				"tags": ["photos","journal"]
@@ -55,7 +72,7 @@
 				"id": "http://gregmoore.micro.blog/2023/06/07/i-had-to.html",
 				
 				"content_html": "<p>I had to be up early with the kid but I got to see this bearded iris enjoying the morning dew.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "I had to be up early with the kid but I got to see this bearded iris enjoying the morning dew.\n\n<img src=\"uploads/2023/6a3541943c.jpg\" width=\"600\" height=\"450\" alt=\"bearded iris with water drops on it nestled in green leaves\">\n",
+				"content_text": "I had to be up early with the kid but I got to see this bearded iris enjoying the morning dew.\n\n<img src=\"https://cdn.uploads.micro.blog/5332/2023/6a3541943c.jpg\" width=\"600\" height=\"450\" alt=\"bearded iris with water drops on it nestled in green leaves\">\n",
 				"date_published": "2023-06-07T07:19:04-04:00",
 				"url": "https://blog.gregmoore.me/2023/06/07/i-had-to.html",
 				"tags": ["photos","journal"]
