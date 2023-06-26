@@ -7,6 +7,42 @@
 	"items": [
 		
 			{
+				"id": "http://gregmoore.micro.blog/2023/06/26/enjoying-some-breathtaking.html",
+				
+				"content_html": "<p>Enjoying some breathtaking views of the great Smokey Mountains. My phone says we’ve hiked 25 floors in the last hour.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Enjoying some breathtaking views of the great Smokey Mountains. My phone says we’ve hiked 25 floors in the last hour.\n\n<img src=\"uploads/2023/e4ec0f0c43.jpg\" width=\"600\" height=\"400\" alt=\"Sunset view of the Smokey Mountains in North Carolina\">\n",
+				"date_published": "2023-06-26T09:49:23-04:00",
+				"url": "https://blog.gregmoore.me/2023/06/26/enjoying-some-breathtaking.html",
+				"tags": ["photos","journal"]
+			},
+			{
+				"id": "http://gregmoore.micro.blog/2023/06/25/southern-cities-lime.html",
+				
+				"content_html": "<p>Southern cities, like Knoxville, look best in the beautiful glow of afternoon sunlight.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Southern cities, like Knoxville, look best in the beautiful glow of afternoon sunlight. \n\n<img src=\"uploads/2023/0fb81f5dc5.jpg\" width=\"600\" height=\"450\" alt=\"Street view of storefronts in Knoxville, Tennessee with sun reflecting off windows and trees lining sidewalk\">\n",
+				"date_published": "2023-06-25T08:45:24-04:00",
+				"url": "https://blog.gregmoore.me/2023/06/25/southern-cities-lime.html",
+				"tags": ["photos"]
+			},
+			{
+				"id": "http://gregmoore.micro.blog/2023/06/24/discovering-new-sights.html",
+				
+				"content_html": "<p>Discovering new sights in downtown Knoxville, TN. Really a beautiful city.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Discovering new sights in downtown Knoxville, TN. Really a beautiful city.\n\n<img src=\"uploads/2023/4d6de5637a.jpg\" width=\"450\" height=\"600\" alt=\"Winding brick path between two buildings leading to an archway\">\n",
+				"date_published": "2023-06-24T21:32:49-04:00",
+				"url": "https://blog.gregmoore.me/2023/06/24/discovering-new-sights.html",
+				"tags": ["photos","journal"]
+			},
+			{
+				"id": "http://gregmoore.micro.blog/2023/06/22/one-of-my.html",
+				
+				"content_html": "<p>One of my favorite pieces from this year’s <a href=\"https://dia.org/events/exhibitions/wayne-county-high-school-art-exhibition-2023\">student exhibition</a> at the DIA. I laughed embarrassingly hard when we turned the corner and saw it.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "One of my favorite pieces from this year’s [student exhibition](https://dia.org/events/exhibitions/wayne-county-high-school-art-exhibition-2023) at the DIA. I laughed embarrassingly hard when we turned the corner and saw it.\n\n<img src=\"uploads/2023/46614fcb0a.jpg\" width=\"600\" height=\"399\" alt=\"Still-life painting by Dorothy Sidau\">\n",
+				"date_published": "2023-06-22T13:42:43-04:00",
+				"url": "https://blog.gregmoore.me/2023/06/22/one-of-my.html",
+				"tags": ["photos","journal"]
+			},
+			{
 				"id": "http://gregmoore.micro.blog/2023/06/21/my-grandmothers-passing.html",
 				
 				"content_html": "<p>My grandmother’s passing continues to reverberate through my days. Namely, spending more time with the human side of art and creating.</p>\n<!-- raw HTML omitted -->\n",
