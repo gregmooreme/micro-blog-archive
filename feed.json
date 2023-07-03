@@ -7,6 +7,42 @@
 	"items": [
 		
 			{
+				"id": "http://gregmoore.micro.blog/2023/07/03/a-successful-family.html",
+				
+				"content_html": "<p>A successful family vacation draws to a close with a trip through the great Smokey Mountains. (Their beauty is frustratingly difficult to capture from a fast moving vehicle.)</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "A successful family vacation draws to a close with a trip through the great Smokey Mountains. (Their beauty is frustratingly difficult to capture from a fast moving vehicle.)\n\n<img src=\"uploads/2023/eee16e39ec.jpg\" width=\"600\" height=\"450\" alt=\"Rainy, empty road with trees and mountains in the foggy distance\">\n",
+				"date_published": "2023-07-03T10:01:04-04:00",
+				"url": "https://blog.gregmoore.me/2023/07/03/a-successful-family.html",
+				"tags": ["photos","journal"]
+			},
+			{
+				"id": "http://gregmoore.micro.blog/2023/06/29/sentinel-in-the.html",
+				
+				"content_html": "<p>“Sentinel”<br>\nOne of the distinguished residents in the North Carolina Arboretum.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "“Sentinel”  \nOne of the distinguished residents in the North Carolina Arboretum.\n\n<img src=\"uploads/2023/33d52f335a.jpg\" width=\"400\" height=\"600\" alt=\"Very tall Bonsai plant against grey concrete\">\n",
+				"date_published": "2023-06-29T16:49:26-04:00",
+				"url": "https://blog.gregmoore.me/2023/06/29/sentinel-in-the.html",
+				"tags": ["photos"]
+			},
+			{
+				"id": "http://gregmoore.micro.blog/2023/06/28/let-the-winds.html",
+				
+				"content_html": "<p>Let the winds awake,<br>\nlet the branches rattle and shake\nIn the light that remakes<br>\nall that water has worn away</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Let the winds awake,  \nlet the branches rattle and shake\nIn the light that remakes  \nall that water has worn away\n\n<img src=\"uploads/2023/02b0ee0793.jpg\" width=\"400\" height=\"600\" alt=\"Sun dapples through the trees onto a rushing brook with stony bottom\">\n",
+				"date_published": "2023-06-28T16:15:50-04:00",
+				"url": "https://blog.gregmoore.me/2023/06/28/let-the-winds.html",
+				"tags": ["photos","journal"]
+			},
+			{
+				"id": "http://gregmoore.micro.blog/2023/06/27/sure-your-hotel.html",
+				
+				"content_html": "<p>Sure, your hotel is famous but is it “contains a scale model of itself” famous? (Grove Park Inn, Asheville)</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Sure, your hotel is famous but is it “contains a scale model of itself” famous? (Grove Park Inn, Asheville)\n\n<img src=\"uploads/2023/9f6a00f5a4.jpg\" width=\"600\" height=\"474\" alt=\"Model of Grove Park Inn on a table\">\n",
+				"date_published": "2023-06-27T08:36:28-04:00",
+				"url": "https://blog.gregmoore.me/2023/06/27/sure-your-hotel.html",
+				"tags": ["photos","journal"]
+			},
+			{
 				"id": "http://gregmoore.micro.blog/2023/06/26/enjoying-some-breathtaking.html",
 				
 				"content_html": "<p>Enjoying some breathtaking views of the great Smokey Mountains. My phone says we’ve hiked 25 floors in the last hour.</p>\n<!-- raw HTML omitted -->\n",
@@ -19,7 +55,7 @@
 				"id": "http://gregmoore.micro.blog/2023/06/25/southern-cities-lime.html",
 				
 				"content_html": "<p>Southern cities, like Knoxville, look best in the beautiful glow of afternoon sunlight.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Southern cities, like Knoxville, look best in the beautiful glow of afternoon sunlight. \n\n<img src=\"uploads/2023/0fb81f5dc5.jpg\" width=\"600\" height=\"450\" alt=\"Street view of storefronts in Knoxville, Tennessee with sun reflecting off windows and trees lining sidewalk\">\n",
+				"content_text": "Southern cities, like Knoxville, look best in the beautiful glow of afternoon sunlight. \n\n<img src=\"https://cdn.uploads.micro.blog/5332/2023/0fb81f5dc5.jpg\" width=\"600\" height=\"450\" alt=\"Street view of storefronts in Knoxville, Tennessee with sun reflecting off windows and trees lining sidewalk\">\n",
 				"date_published": "2023-06-25T08:45:24-04:00",
 				"url": "https://blog.gregmoore.me/2023/06/25/southern-cities-lime.html",
 				"tags": ["photos"]
@@ -28,7 +64,7 @@
 				"id": "http://gregmoore.micro.blog/2023/06/24/discovering-new-sights.html",
 				
 				"content_html": "<p>Discovering new sights in downtown Knoxville, TN. Really a beautiful city.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Discovering new sights in downtown Knoxville, TN. Really a beautiful city.\n\n<img src=\"uploads/2023/4d6de5637a.jpg\" width=\"450\" height=\"600\" alt=\"Winding brick path between two buildings leading to an archway\">\n",
+				"content_text": "Discovering new sights in downtown Knoxville, TN. Really a beautiful city.\n\n<img src=\"https://cdn.uploads.micro.blog/5332/2023/4d6de5637a.jpg\" width=\"450\" height=\"600\" alt=\"Winding brick path between two buildings leading to an archway\">\n",
 				"date_published": "2023-06-24T21:32:49-04:00",
 				"url": "https://blog.gregmoore.me/2023/06/24/discovering-new-sights.html",
 				"tags": ["photos","journal"]
@@ -37,7 +73,7 @@
 				"id": "http://gregmoore.micro.blog/2023/06/22/one-of-my.html",
 				
 				"content_html": "<p>One of my favorite pieces from this year’s <a href=\"https://dia.org/events/exhibitions/wayne-county-high-school-art-exhibition-2023\">student exhibition</a> at the DIA. I laughed embarrassingly hard when we turned the corner and saw it.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "One of my favorite pieces from this year’s [student exhibition](https://dia.org/events/exhibitions/wayne-county-high-school-art-exhibition-2023) at the DIA. I laughed embarrassingly hard when we turned the corner and saw it.\n\n<img src=\"uploads/2023/46614fcb0a.jpg\" width=\"600\" height=\"399\" alt=\"Still-life painting by Dorothy Sidau\">\n",
+				"content_text": "One of my favorite pieces from this year’s [student exhibition](https://dia.org/events/exhibitions/wayne-county-high-school-art-exhibition-2023) at the DIA. I laughed embarrassingly hard when we turned the corner and saw it.\n\n<img src=\"https://cdn.uploads.micro.blog/5332/2023/46614fcb0a.jpg\" width=\"600\" height=\"399\" alt=\"Still-life painting by Dorothy Sidau\">\n",
 				"date_published": "2023-06-22T13:42:43-04:00",
 				"url": "https://blog.gregmoore.me/2023/06/22/one-of-my.html",
 				"tags": ["photos","journal"]
@@ -46,7 +82,7 @@
 				"id": "http://gregmoore.micro.blog/2023/06/21/my-grandmothers-passing.html",
 				
 				"content_html": "<p>My grandmother’s passing continues to reverberate through my days. Namely, spending more time with the human side of art and creating.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "My grandmother’s passing continues to reverberate through my days. Namely, spending more time with the human side of art and creating.\n\n<img src=\"uploads/2023/image.jpg\" width=\"600\" height=\"400\" alt=\"Large iron bell with ornate decorations in perspective with a background of stone arches\">\n",
+				"content_text": "My grandmother’s passing continues to reverberate through my days. Namely, spending more time with the human side of art and creating.\n\n<img src=\"https://cdn.uploads.micro.blog/5332/2023/image.jpg\" width=\"600\" height=\"400\" alt=\"Large iron bell with ornate decorations in perspective with a background of stone arches\">\n",
 				"date_published": "2023-06-21T08:12:32-04:00",
 				"url": "https://blog.gregmoore.me/2023/06/21/my-grandmothers-passing.html",
 				"tags": ["photos"]
@@ -81,7 +117,7 @@
 				"id": "http://gregmoore.micro.blog/2023/06/12/the-weekend-was.html",
 				
 				"content_html": "<!-- raw HTML omitted -->\n<p>The weekend was spent honoring a life lost. A time where we capsized against the part of life we all must face and grieved over what we could not change. In that breaking down, however, we also picked each other up and put ourselves back together into something more joyful, honest, and true.</p>\n",
-				"content_text": "<img src=\"uploads/2023/2644164a56.jpg\" width=\"450\" height=\"600\" alt=\"Graveyard in daytime with family in the distance\">\n\nThe weekend was spent honoring a life lost. A time where we capsized against the part of life we all must face and grieved over what we could not change. In that breaking down, however, we also picked each other up and put ourselves back together into something more joyful, honest, and true.\n",
+				"content_text": "<img src=\"https://cdn.uploads.micro.blog/5332/2023/2644164a56.jpg\" width=\"450\" height=\"600\" alt=\"Graveyard in daytime with family in the distance\">\n\nThe weekend was spent honoring a life lost. A time where we capsized against the part of life we all must face and grieved over what we could not change. In that breaking down, however, we also picked each other up and put ourselves back together into something more joyful, honest, and true.\n",
 				"date_published": "2023-06-12T16:45:26-04:00",
 				"url": "https://blog.gregmoore.me/2023/06/12/the-weekend-was.html",
 				"tags": ["photos"]
@@ -304,7 +340,7 @@
 				"id": "http://gregmoore.micro.blog/2023/05/08/home-away-from.html",
 				
 				"content_html": "<p>Home away from home</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Home away from home\n\n<img src=\"uploads/2023/e5ad5e43b1.jpg\" width=\"600\" height=\"449\" alt=\"\">\n",
+				"content_text": "Home away from home\n\n<img src=\"https://cdn.uploads.micro.blog/5332/2023/e5ad5e43b1.jpg\" width=\"600\" height=\"449\" alt=\"\">\n",
 				"date_published": "2023-05-08T23:05:01-04:00",
 				"url": "https://blog.gregmoore.me/2023/05/08/home-away-from.html",
 				"tags": ["photos","journal"]
