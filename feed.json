@@ -7,13 +7,49 @@
 	"items": [
 		
 			{
+				"id": "http://gregmoore.micro.blog/2023/07/23/visited-a-university.html",
+				
+				"content_html": "<p>Visited a university my brother in-law’s architecture firm is working with. I saw many thoughtful details. This is the school of music and the staircase reveals how the entire building was designed to function as practice spaces by always angling one wall differently to better deflect sound.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Visited a university my brother in-law’s architecture firm is working with. I saw many thoughtful details. This is the school of music and the staircase reveals how the entire building was designed to function as practice spaces by always angling one wall differently to better deflect sound.\n\n<img src=\"uploads/2023/6daf7b1f57.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"date_published": "2023-07-23T09:30:35-04:00",
+				"url": "https://blog.gregmoore.me/2023/07/23/visited-a-university.html",
+				"tags": ["photos","journal"]
+			},
+			{
+				"id": "http://gregmoore.micro.blog/2023/07/20/sunset-from-down.html",
+				
+				"content_html": "<p>Sunset from down in the street.</p>\n<p><img src=\"https://blog.gregmoore.me/uploads/2023/img-2414.jpg\" alt=\"strong perspective view of a building from the street with an attached sign reading hotel\"></p>\n<p><img src=\"https://blog.gregmoore.me/uploads/2023/img-2415.jpg\" alt=\"strong perspective view of a building from the street covered in faceted glass\"></p>\n",
+				"content_text": "Sunset from down in the street.\n\n![strong perspective view of a building from the street with an attached sign reading hotel](https://blog.gregmoore.me/uploads/2023/img-2414.jpg)\n\n![strong perspective view of a building from the street covered in faceted glass](https://blog.gregmoore.me/uploads/2023/img-2415.jpg)\n",
+				"date_published": "2023-07-20T10:26:27-04:00",
+				"url": "https://blog.gregmoore.me/2023/07/20/sunset-from-down.html",
+				"tags": ["photos"]
+			},
+			{
+				"id": "http://gregmoore.micro.blog/2023/07/18/midwestern-gothic.html",
+				
+				"content_html": "<p>Midwestern gothic</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Midwestern gothic\n\n<img src=\"uploads/2023/0b16b928fd.jpg\" width=\"600\" height=\"449\" alt=\"Black and white photo of old and crumbling farm barns in a field\">\n",
+				"date_published": "2023-07-18T08:54:29-04:00",
+				"url": "https://blog.gregmoore.me/2023/07/18/midwestern-gothic.html",
+				"tags": ["photos","journal"]
+			},
+			{
+				"id": "http://gregmoore.micro.blog/2023/07/17/summer-in-the.html",
+				
+				"content_html": "<p>Summer in The Motor City.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Summer in The Motor City.\n\n<img src=\"uploads/2023/0bbc694ee4.jpg\" width=\"450\" height=\"600\" alt=\"Street view of multiple buildings in downtown Detroit \">\n",
+				"date_published": "2023-07-17T11:46:03-04:00",
+				"url": "https://blog.gregmoore.me/2023/07/17/summer-in-the.html",
+				"tags": ["photos"]
+			},
+			{
 				"id": "http://gregmoore.micro.blog/2023/07/16/celebrating-my-birthday.html",
 				
-				"content_html": "<p>Celebrating my birthday in “The Big D.”</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Celebrating my birthday in “The Big D.”\n\n<img src=\"uploads/2023/8f55703de0.jpg\" width=\"600\" height=\"600\" alt=\"Metal, square manhole cover with Detroit in the center of a geometric pattern\">\n",
+				"content_html": "<p>Celebrating my birthday in “The Big D.”</p>\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n",
+				"content_text": "Celebrating my birthday in “The Big D.”\n\n<img src=\"uploads/2023/8f55703de0.jpg\" width=\"600\" height=\"600\" alt=\"Metal, square manhole cover with Detroit in the center of a geometric pattern\">\n\n<img src=\"uploads/2023/media.jpg\" />\n",
 				"date_published": "2023-07-16T11:49:34-04:00",
 				"url": "https://blog.gregmoore.me/2023/07/16/celebrating-my-birthday.html",
-				"tags": ["photos","journal"]
+				"tags": ["photos"]
 			},
 			{
 				"id": "http://gregmoore.micro.blog/2023/07/12/the-pool-by.html",
@@ -28,7 +64,7 @@
 				"id": "http://gregmoore.micro.blog/2023/07/11/towers-of-clouds.html",
 				
 				"content_html": "<p>Towers of clouds after a quick afternoon thunderstorm.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Towers of clouds after a quick afternoon thunderstorm.\n\n<img src=\"uploads/2023/400a26edc8.jpg\" width=\"600\" height=\"450\" alt=\"Tall clouds in the sky in the late afternoon\">\n",
+				"content_text": "Towers of clouds after a quick afternoon thunderstorm.\n\n<img src=\"https://cdn.uploads.micro.blog/5332/2023/400a26edc8.jpg\" width=\"600\" height=\"450\" alt=\"Tall clouds in the sky in the late afternoon\">\n",
 				"date_published": "2023-07-11T19:53:18-04:00",
 				"url": "https://blog.gregmoore.me/2023/07/11/towers-of-clouds.html",
 				"tags": ["photos","journal"]
@@ -37,7 +73,7 @@
 				"id": "http://gregmoore.micro.blog/2023/07/09/at-last-falls.html",
 				
 				"content_html": "<p>At last fall’s ren fair, I was able to find a mini that matched my current Dragonborn character as he would have hatched. I finally painted him up and, because it was cast in transparent red resin, added an LED to give the embers around his egg a fiery glow. Really happy how he turned out.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "At last fall’s ren fair, I was able to find a mini that matched my current Dragonborn character as he would have hatched. I finally painted him up and, because it was cast in transparent red resin, added an LED to give the embers around his egg a fiery glow. Really happy how he turned out.\n\n<img src=\"uploads/2023/c1d0626629.jpg\" width=\"600\" height=\"399\" alt=\"dungeons and dragons mini of a blue dragon hatching from a purple egg that is all sitting on a bed of small rocks\">\n",
+				"content_text": "At last fall’s ren fair, I was able to find a mini that matched my current Dragonborn character as he would have hatched. I finally painted him up and, because it was cast in transparent red resin, added an LED to give the embers around his egg a fiery glow. Really happy how he turned out.\n\n<img src=\"https://cdn.uploads.micro.blog/5332/2023/c1d0626629.jpg\" width=\"600\" height=\"399\" alt=\"dungeons and dragons mini of a blue dragon hatching from a purple egg that is all sitting on a bed of small rocks\">\n",
 				"date_published": "2023-07-09T23:44:31-04:00",
 				"url": "https://blog.gregmoore.me/2023/07/09/at-last-falls.html",
 				"tags": ["photos","RPG"]
