@@ -7,13 +7,31 @@
 	"items": [
 		
 			{
+				"id": "http://gregmoore.micro.blog/2023/08/01/summer-keeps-giving.html",
+				
+				"content_html": "<p>Summer keeps giving its gifts.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Summer keeps giving its gifts.\n\n<img src=\"uploads/2023/239fee10c8.jpg\" width=\"450\" height=\"600\" alt=\"Bee on a pink flower with yellow ring in its center\">\n",
+				"date_published": "2023-08-01T12:03:05-04:00",
+				"url": "https://blog.gregmoore.me/2023/08/01/summer-keeps-giving.html",
+				"tags": ["photos","journal"]
+			},
+			{
+				"id": "http://gregmoore.micro.blog/2023/07/26/were-all-so.html",
+				
+				"content_html": "<blockquote>\n<p>We&rsquo;re all so hungry to share! We just live in this social and information ecosystem that rewards topical boomtowns, so people find ways to be part of those conversations.</p>\n</blockquote>\n<p><a href=\"https://micro.blog/pdxmph\">@pdxmph</a> summing up the human experience in <a href=\"https://www.gr36.com/2023/07/25/rip-the-external.html\">this thread</a>.</p>\n",
+				"content_text": "> We're all so hungry to share! We just live in this social and information ecosystem that rewards topical boomtowns, so people find ways to be part of those conversations.\n\n[@pdxmph](https://micro.blog/pdxmph) summing up the human experience in [this thread](https://www.gr36.com/2023/07/25/rip-the-external.html).\n",
+				"date_published": "2023-07-26T08:34:05-04:00",
+				"url": "https://blog.gregmoore.me/2023/07/26/were-all-so.html",
+				"tags": ["quotes"]
+			},
+			{
 				"id": "http://gregmoore.micro.blog/2023/07/23/visited-a-university.html",
 				
 				"content_html": "<p>Visited a university my brother in-law’s architecture firm is working with. I saw many thoughtful details. This is the school of music and the staircase reveals how the entire building was designed to function as practice spaces by always angling one wall differently to better deflect sound.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Visited a university my brother in-law’s architecture firm is working with. I saw many thoughtful details. This is the school of music and the staircase reveals how the entire building was designed to function as practice spaces by always angling one wall differently to better deflect sound.\n\n<img src=\"uploads/2023/6daf7b1f57.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_text": "Visited a university my brother in-law’s architecture firm is working with. I saw many thoughtful details. This is the school of music and the staircase reveals how the entire building was designed to function as practice spaces by always angling one wall differently to better deflect sound.\n\n<img src=\"uploads/2023/6daf7b1f57.jpg\" width=\"450\" height=\"600\" alt=\"view from the bottom of a spiraling staircase with yellow work lights strung in the middle\">\n",
 				"date_published": "2023-07-23T09:30:35-04:00",
 				"url": "https://blog.gregmoore.me/2023/07/23/visited-a-university.html",
-				"tags": ["photos","journal"]
+				"tags": ["photos"]
 			},
 			{
 				"id": "http://gregmoore.micro.blog/2023/07/20/sunset-from-down.html",
@@ -37,7 +55,7 @@
 				"id": "http://gregmoore.micro.blog/2023/07/17/summer-in-the.html",
 				
 				"content_html": "<p>Summer in The Motor City.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Summer in The Motor City.\n\n<img src=\"uploads/2023/0bbc694ee4.jpg\" width=\"450\" height=\"600\" alt=\"Street view of multiple buildings in downtown Detroit \">\n",
+				"content_text": "Summer in The Motor City.\n\n<img src=\"https://cdn.uploads.micro.blog/5332/2023/0bbc694ee4.jpg\" width=\"450\" height=\"600\" alt=\"Street view of multiple buildings in downtown Detroit \">\n",
 				"date_published": "2023-07-17T11:46:03-04:00",
 				"url": "https://blog.gregmoore.me/2023/07/17/summer-in-the.html",
 				"tags": ["photos"]
@@ -46,7 +64,7 @@
 				"id": "http://gregmoore.micro.blog/2023/07/16/celebrating-my-birthday.html",
 				
 				"content_html": "<p>Celebrating my birthday in “The Big D.”</p>\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n",
-				"content_text": "Celebrating my birthday in “The Big D.”\n\n<img src=\"uploads/2023/8f55703de0.jpg\" width=\"600\" height=\"600\" alt=\"Metal, square manhole cover with Detroit in the center of a geometric pattern\">\n\n<img src=\"uploads/2023/media.jpg\" />\n",
+				"content_text": "Celebrating my birthday in “The Big D.”\n\n<img src=\"https://cdn.uploads.micro.blog/5332/2023/8f55703de0.jpg\" width=\"600\" height=\"600\" alt=\"Metal, square manhole cover with Detroit in the center of a geometric pattern\">\n\n<img src=\"https://cdn.uploads.micro.blog/5332/2023/media.jpg\" />\n",
 				"date_published": "2023-07-16T11:49:34-04:00",
 				"url": "https://blog.gregmoore.me/2023/07/16/celebrating-my-birthday.html",
 				"tags": ["photos"]
