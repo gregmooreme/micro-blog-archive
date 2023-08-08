@@ -7,10 +7,63 @@
 	"items": [
 		
 			{
+				"id": "http://gregmoore.micro.blog/2023/08/07/watched-my-former.html",
+				
+				"content_html": "<p>Watched my former hometown team face off against my new home’s team.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Watched my former hometown team face off against my new home’s team.\n\n<img src=\"uploads/2023/692bb2fb8d.jpg\" width=\"600\" height=\"450\" alt=\"View of Detroit Tiger’s baseball field from the upper deck\">\n",
+				"date_published": "2023-08-07T21:55:21-04:00",
+				"url": "https://blog.gregmoore.me/2023/08/07/watched-my-former.html",
+				"tags": ["photos","journal"]
+			},
+			{
+				"id": "http://gregmoore.micro.blog/2023/08/04/just-when-i.html",
+				
+				"content_html": "<p>🖖 Just when I thought Strange New Worlds couldn’t get more fun, along comes <em>Subspace Rhapsody</em>.</p>\n",
+				"content_text": "🖖 Just when I thought Strange New Worlds couldn’t get more fun, along comes _Subspace Rhapsody_.\n",
+				"date_published": "2023-08-04T20:09:45-04:00",
+				"url": "https://blog.gregmoore.me/2023/08/04/just-when-i.html"
+			},
+			{
+				"id": "http://gregmoore.micro.blog/2023/08/04/new-day-is.html",
+				
+				"content_html": "<p>New day is dawning</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "New day is dawning\n\n<img src=\"uploads/2023/e50551ccf8.jpg\" width=\"600\" height=\"450\" alt=\"Sunrise with many small clouds over a blue sky\">\n",
+				"date_published": "2023-08-04T07:20:37-04:00",
+				"url": "https://blog.gregmoore.me/2023/08/04/new-day-is.html",
+				"tags": ["photos","journal"]
+			},
+			{
+				"id": "http://gregmoore.micro.blog/2023/08/03/ive-made-enough.html",
+				
+				"content_html": "<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n<p>I&rsquo;ve made enough drawings for my D&amp;D group that it was time to give them an online home. Sadly, I had to give up trying to make it work on my Micro.blog so they can be found on <a href=\"https://cara.app/gregmoore\">Cara</a>.</p>\n",
+				"content_text": "<a href=\"https://cara.app/gregmoore\"><img src=\"uploads/2023/cara-app.png\" width=\"356\" height=\"600\" alt=\"Cara.app homepage for Greg Moore\"></a>\n\nI've made enough drawings for my D&D group that it was time to give them an online home. Sadly, I had to give up trying to make it work on my Micro.blog so they can be found on [Cara](https://cara.app/gregmoore).\n",
+				"date_published": "2023-08-03T11:25:32-04:00",
+				"url": "https://blog.gregmoore.me/2023/08/03/ive-made-enough.html",
+				"tags": ["photos","journal","WebsiteTinkering"]
+			},
+			{
+				"id": "http://gregmoore.micro.blog/2023/08/03/that-whole-mba.html",
+				
+				"content_html": "<blockquote>\n<p>That whole &ldquo;MBA, designers and marketers web&rdquo; is now optimised thanks to analytics describing people who don’t block analytics (and bots pretending to be those people).</p>\n</blockquote>\n<ul>\n<li><a href=\"https://ploum.net/2023-08-01-splitting-the-web.html\">Lionel Dricot</a></li>\n</ul>\n<p>I wonder how long it will be before LLM’s and analytics find each other and create their own inhuman pocket on the internet. Just a bunch of LinkedIn and Medium articles written for, and read by, machines. Making some <em>Engagement Manager</em> look good in a meeting.</p>\n",
+				"content_text": "> That whole \"MBA, designers and marketers web\" is now optimised thanks to analytics describing people who don’t block analytics (and bots pretending to be those people).\n\n- [Lionel Dricot](https://ploum.net/2023-08-01-splitting-the-web.html)\n\nI wonder how long it will be before LLM’s and analytics find each other and create their own inhuman pocket on the internet. Just a bunch of LinkedIn and Medium articles written for, and read by, machines. Making some _Engagement Manager_ look good in a meeting.\n",
+				"date_published": "2023-08-03T08:15:26-04:00",
+				"url": "https://blog.gregmoore.me/2023/08/03/that-whole-mba.html",
+				"tags": ["quotes"]
+			},
+			{
+				"id": "http://gregmoore.micro.blog/2023/08/01/sharing-a-cool.html",
+				
+				"content_html": "<p>Sharing a cool breeze during golden hour with some good friends from out of town is what summer’s about.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Sharing a cool breeze during golden hour with some good friends from out of town is what summer’s about.\n\n<img src=\"https://cdn.uploads.micro.blog/5332/2023/cae46a7e1f.jpg\" width=\"600\" height=\"450\" alt=\"Strong light coming through dark trees at sunset\">\n",
+				"date_published": "2023-08-01T17:46:47-04:00",
+				"url": "https://blog.gregmoore.me/2023/08/01/sharing-a-cool.html",
+				"tags": ["photos","journal"]
+			},
+			{
 				"id": "http://gregmoore.micro.blog/2023/08/01/summer-keeps-giving.html",
 				
 				"content_html": "<p>Summer keeps giving its gifts.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Summer keeps giving its gifts.\n\n<img src=\"uploads/2023/239fee10c8.jpg\" width=\"450\" height=\"600\" alt=\"Bee on a pink flower with yellow ring in its center\">\n",
+				"content_text": "Summer keeps giving its gifts.\n\n<img src=\"https://cdn.uploads.micro.blog/5332/2023/239fee10c8.jpg\" width=\"450\" height=\"600\" alt=\"Bee on a pink flower with yellow ring in its center\">\n",
 				"date_published": "2023-08-01T12:03:05-04:00",
 				"url": "https://blog.gregmoore.me/2023/08/01/summer-keeps-giving.html",
 				"tags": ["photos","journal"]
@@ -28,7 +81,7 @@
 				"id": "http://gregmoore.micro.blog/2023/07/23/visited-a-university.html",
 				
 				"content_html": "<p>Visited a university my brother in-law’s architecture firm is working with. I saw many thoughtful details. This is the school of music and the staircase reveals how the entire building was designed to function as practice spaces by always angling one wall differently to better deflect sound.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Visited a university my brother in-law’s architecture firm is working with. I saw many thoughtful details. This is the school of music and the staircase reveals how the entire building was designed to function as practice spaces by always angling one wall differently to better deflect sound.\n\n<img src=\"uploads/2023/6daf7b1f57.jpg\" width=\"450\" height=\"600\" alt=\"view from the bottom of a spiraling staircase with yellow work lights strung in the middle\">\n",
+				"content_text": "Visited a university my brother in-law’s architecture firm is working with. I saw many thoughtful details. This is the school of music and the staircase reveals how the entire building was designed to function as practice spaces by always angling one wall differently to better deflect sound.\n\n<img src=\"https://cdn.uploads.micro.blog/5332/2023/6daf7b1f57.jpg\" width=\"450\" height=\"600\" alt=\"view from the bottom of a spiraling staircase with yellow work lights strung in the middle\">\n",
 				"date_published": "2023-07-23T09:30:35-04:00",
 				"url": "https://blog.gregmoore.me/2023/07/23/visited-a-university.html",
 				"tags": ["photos"]
@@ -36,8 +89,8 @@
 			{
 				"id": "http://gregmoore.micro.blog/2023/07/20/sunset-from-down.html",
 				
-				"content_html": "<p>Sunset from down in the street.</p>\n<p><img src=\"https://blog.gregmoore.me/uploads/2023/img-2414.jpg\" alt=\"strong perspective view of a building from the street with an attached sign reading hotel\"></p>\n<p><img src=\"https://blog.gregmoore.me/uploads/2023/img-2415.jpg\" alt=\"strong perspective view of a building from the street covered in faceted glass\"></p>\n",
-				"content_text": "Sunset from down in the street.\n\n![strong perspective view of a building from the street with an attached sign reading hotel](https://blog.gregmoore.me/uploads/2023/img-2414.jpg)\n\n![strong perspective view of a building from the street covered in faceted glass](https://blog.gregmoore.me/uploads/2023/img-2415.jpg)\n",
+				"content_html": "<p>Sunset from down in the street.</p>\n<p><img src=\"https://cdn.uploads.micro.blog/5332/2023/img-2414.jpg\" alt=\"strong perspective view of a building from the street with an attached sign reading hotel\"></p>\n<p><img src=\"https://cdn.uploads.micro.blog/5332/2023/img-2415.jpg\" alt=\"strong perspective view of a building from the street covered in faceted glass\"></p>\n",
+				"content_text": "Sunset from down in the street.\n\n![strong perspective view of a building from the street with an attached sign reading hotel](https://cdn.uploads.micro.blog/5332/2023/img-2414.jpg)\n\n![strong perspective view of a building from the street covered in faceted glass](https://cdn.uploads.micro.blog/5332/2023/img-2415.jpg)\n",
 				"date_published": "2023-07-20T10:26:27-04:00",
 				"url": "https://blog.gregmoore.me/2023/07/20/sunset-from-down.html",
 				"tags": ["photos"]
@@ -46,7 +99,7 @@
 				"id": "http://gregmoore.micro.blog/2023/07/18/midwestern-gothic.html",
 				
 				"content_html": "<p>Midwestern gothic</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Midwestern gothic\n\n<img src=\"uploads/2023/0b16b928fd.jpg\" width=\"600\" height=\"449\" alt=\"Black and white photo of old and crumbling farm barns in a field\">\n",
+				"content_text": "Midwestern gothic\n\n<img src=\"https://cdn.uploads.micro.blog/5332/2023/0b16b928fd.jpg\" width=\"600\" height=\"449\" alt=\"Black and white photo of old and crumbling farm barns in a field\">\n",
 				"date_published": "2023-07-18T08:54:29-04:00",
 				"url": "https://blog.gregmoore.me/2023/07/18/midwestern-gothic.html",
 				"tags": ["photos","journal"]
