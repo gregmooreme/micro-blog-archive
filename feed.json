@@ -7,28 +7,100 @@
 	"items": [
 		
 			{
+				"id": "http://gregmoore.micro.blog/2023/09/22/day-road.html",
+				
+				"content_html": "<p>📷 Day 22 | <strong>Road</strong></p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "📷 Day 22 | **Road**\n\n<img src=\"uploads/2023/d3632c14a4.jpg\" width=\"600\" height=\"436\" alt=\"Road\">\n",
+				"date_published": "2023-09-22T09:16:17-04:00",
+				"url": "https://blog.gregmoore.me/2023/09/22/day-road.html",
+				"tags": ["photos","PhotoChallengeSep2023"]
+			},
+			{
+				"id": "http://gregmoore.micro.blog/2023/09/21/day-fall.html",
+				
+				"content_html": "<p>📷 Day 21 | <strong>Fall</strong></p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "📷 Day 21 | **Fall**\n\n<img src=\"uploads/2023/128e26b876.jpg\" width=\"450\" height=\"600\" alt=\"Fall\">\n",
+				"date_published": "2023-09-21T07:22:36-04:00",
+				"url": "https://blog.gregmoore.me/2023/09/21/day-fall.html",
+				"tags": ["photos"]
+			},
+			{
+				"id": "http://gregmoore.micro.blog/2023/09/20/day-disruption.html",
+				
+				"content_html": "<p>📷 Day 20 | <strong>Disruption</strong></p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "📷 Day 20 | **Disruption**\n\n<img src=\"uploads/2023/74e3bba639.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"date_published": "2023-09-20T22:09:36-04:00",
+				"url": "https://blog.gregmoore.me/2023/09/20/day-disruption.html",
+				"tags": ["photos"]
+			},
+			{
+				"id": "http://gregmoore.micro.blog/2023/09/20/how-many-more.html",
+				
+				"content_html": "<blockquote>\n<p>How many more novels, TV shows, and movies do we need exploring yet another flavor of badness, charting yet another journey of self-destruction, physical or moral or both? It’s like … yeah, I get it! This kind of work might have been revelatory once; that time has passed. Too often the creative cover story that goes “I’m interested in these deeply flawed characters … I like writing about broken people” is simply an excuse to revel in depictions of violence — physical or moral or both.</p>\n</blockquote>\n<p><a href=\"https://www.robinsloan.com/newsletters/what-would-a-wizard-read/\">Robin Sloan</a>, writing what’s in my heart.</p>\n",
+				"content_text": "> How many more novels, TV shows, and movies do we need exploring yet another flavor of badness, charting yet another journey of self-destruction, physical or moral or both? It’s like … yeah, I get it! This kind of work might have been revelatory once; that time has passed. Too often the creative cover story that goes “I’m interested in these deeply flawed characters … I like writing about broken people” is simply an excuse to revel in depictions of violence — physical or moral or both.\n\n[Robin Sloan](https://www.robinsloan.com/newsletters/what-would-a-wizard-read/), writing what’s in my heart.\n",
+				"date_published": "2023-09-20T08:01:31-04:00",
+				"url": "https://blog.gregmoore.me/2023/09/20/how-many-more.html",
+				"tags": ["quotes"]
+			},
+			{
+				"id": "http://gregmoore.micro.blog/2023/09/19/fluvid-vaccination-booked.html",
+				
+				"content_html": "<p>💉 FluVid vaccination booked.💪🏻</p>\n",
+				"content_text": "💉 FluVid vaccination booked.💪🏻\n",
+				"date_published": "2023-09-19T14:31:53-04:00",
+				"url": "https://blog.gregmoore.me/2023/09/19/fluvid-vaccination-booked.html",
+				"tags": ["journal"]
+			},
+			{
+				"id": "http://gregmoore.micro.blog/2023/09/19/day-edge.html",
+				
+				"content_html": "<p>📷 Day 19 | <strong>Edge</strong></p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "📷 Day 19 | **Edge**\n\n<img src=\"uploads/2023/36c5051d1e.jpg\" width=\"450\" height=\"600\" alt=\"Edge\">\n",
+				"date_published": "2023-09-19T08:08:53-04:00",
+				"url": "https://blog.gregmoore.me/2023/09/19/day-edge.html",
+				"tags": ["photos","PhotoChallengeSep2023"]
+			},
+			{
+				"id": "http://gregmoore.micro.blog/2023/09/18/day-fabric.html",
+				
+				"content_html": "<p>📷 Day 18 | <strong>Fabric</strong></p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "📷 Day 18 | **Fabric**\n\n<img src=\"https://cdn.uploads.micro.blog/5332/2023/12280e42a2.jpg\" width=\"400\" height=\"600\" alt=\"Fabric\">\n",
+				"date_published": "2023-09-18T08:34:26-04:00",
+				"url": "https://blog.gregmoore.me/2023/09/18/day-fabric.html",
+				"tags": ["photos","PhotoChallengeSep2023"]
+			},
+			{
+				"id": "http://gregmoore.micro.blog/2023/09/17/day-intense.html",
+				
+				"content_html": "<p>📷 Day 17 | <strong>Intense</strong></p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "📷 Day 17 | **Intense**\n\n<img src=\"https://cdn.uploads.micro.blog/5332/2023/1a32428c35.jpg\" width=\"600\" height=\"400\" alt=\"Intense\">\n",
+				"date_published": "2023-09-17T16:32:15-04:00",
+				"url": "https://blog.gregmoore.me/2023/09/17/day-intense.html",
+				"tags": ["photos","PhotoChallengeSep2023"]
+			},
+			{
 				"id": "http://gregmoore.micro.blog/2023/09/16/day-oof.html",
 				
 				"content_html": "<p>📷 Day 16 | <strong>Oof!</strong></p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "📷 Day 16 | **Oof!**\n\n<img src=\"uploads/2023/6fa0cfee50.jpg\" width=\"450\" height=\"600\" alt=\"Oof!\">\n",
+				"content_text": "📷 Day 16 | **Oof!**\n\n<img src=\"https://cdn.uploads.micro.blog/5332/2023/6fa0cfee50.jpg\" width=\"450\" height=\"600\" alt=\"Oof!\">\n",
 				"date_published": "2023-09-16T16:32:29-04:00",
 				"url": "https://blog.gregmoore.me/2023/09/16/day-oof.html",
-				"tags": ["photos"]
+				"tags": ["photos","PhotoChallengeSep2023"]
 			},
 			{
 				"id": "http://gregmoore.micro.blog/2023/09/15/day-red.html",
 				
 				"content_html": "<p>📷 Day 15 | <strong>Red</strong></p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "📷 Day 15 | **Red**\n\n<img src=\"uploads/2023/27e9dc4d10.jpg\" width=\"600\" height=\"599\" alt=\"Red\">\n",
+				"content_text": "📷 Day 15 | **Red**\n\n<img src=\"https://cdn.uploads.micro.blog/5332/2023/27e9dc4d10.jpg\" width=\"600\" height=\"599\" alt=\"Red\">\n",
 				"date_published": "2023-09-15T09:51:14-04:00",
 				"url": "https://blog.gregmoore.me/2023/09/15/day-red.html",
-				"tags": ["photos"]
+				"tags": ["photos","PhotoChallengeSep2023"]
 			},
 			{
 				"id": "http://gregmoore.micro.blog/2023/09/14/day-statue.html",
 				
 				"content_html": "<p>📷 Day 14 | <strong>Statue</strong></p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "📷 Day 14 | **Statue**\n\n\n<img src=\"uploads/2023/303ab4d690.jpg\" width=\"400\" height=\"600\" alt=\"Statue\">\n",
+				"content_text": "📷 Day 14 | **Statue**\n\n\n<img src=\"https://cdn.uploads.micro.blog/5332/2023/303ab4d690.jpg\" width=\"400\" height=\"600\" alt=\"Statue\">\n",
 				"date_published": "2023-09-14T12:31:07-04:00",
 				"url": "https://blog.gregmoore.me/2023/09/14/day-statue.html",
 				"tags": ["photos"]
@@ -37,7 +109,7 @@
 				"id": "http://gregmoore.micro.blog/2023/09/13/day-glowing.html",
 				
 				"content_html": "<p>📷 Day 13 | <strong>Glowing</strong></p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "📷 Day 13 | **Glowing**\n\n<img src=\"uploads/2023/dc7bd12103.jpg\" width=\"600\" height=\"449\" alt=\"Glowing\">\n",
+				"content_text": "📷 Day 13 | **Glowing**\n\n<img src=\"https://cdn.uploads.micro.blog/5332/2023/dc7bd12103.jpg\" width=\"600\" height=\"449\" alt=\"Glowing\">\n",
 				"date_published": "2023-09-13T11:14:19-04:00",
 				"url": "https://blog.gregmoore.me/2023/09/13/day-glowing.html",
 				"tags": ["photos","PhotoChallengeSep2023"]
@@ -46,7 +118,7 @@
 				"id": "http://gregmoore.micro.blog/2023/09/12/day-panic.html",
 				
 				"content_html": "<p>📷 Day 12 | <strong>Panic</strong></p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "📷 Day 12 | **Panic**\n\n<img src=\"uploads/2023/xe025463.jpg\" width=\"400\" height=\"600\" alt=\"Panic\">\n",
+				"content_text": "📷 Day 12 | **Panic**\n\n<img src=\"https://cdn.uploads.micro.blog/5332/2023/xe025463.jpg\" width=\"400\" height=\"600\" alt=\"Panic\">\n",
 				"date_published": "2023-09-12T15:38:11-04:00",
 				"url": "https://blog.gregmoore.me/2023/09/12/day-panic.html",
 				"tags": ["photos","PhotoChallengeSep2023"]
@@ -55,7 +127,7 @@
 				"id": "http://gregmoore.micro.blog/2023/09/11/catnap-a-lovely.html",
 				
 				"content_html": "<p>Catnap. (A lovely end to the day.)</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Catnap. (A lovely end to the day.)\n\n<img src=\"uploads/2023/e34cdff059.jpg\" width=\"600\" height=\"449\" alt=\"Me lying on a couch with a tabby cat sleeping with her head against my face\">\n",
+				"content_text": "Catnap. (A lovely end to the day.)\n\n<img src=\"https://cdn.uploads.micro.blog/5332/2023/e34cdff059.jpg\" width=\"600\" height=\"449\" alt=\"Me lying on a couch with a tabby cat sleeping with her head against my face\">\n",
 				"date_published": "2023-09-11T21:54:09-04:00",
 				"url": "https://blog.gregmoore.me/2023/09/11/catnap-a-lovely.html",
 				"tags": ["photos","cats"]
