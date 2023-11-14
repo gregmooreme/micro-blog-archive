@@ -7,6 +7,51 @@
 	"items": [
 		
 			{
+				"id": "http://gregmoore.micro.blog/2023/11/14/we-see-you.html",
+				
+				"content_html": "<p>We see you and we know what you did.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "We see you and we know what you did.\n\n<img src=\"uploads/2023/66e021c44c.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"date_published": "2023-11-14T08:33:16-05:00",
+				"url": "https://blog.gregmoore.me/2023/11/14/we-see-you.html",
+				"tags": ["photos","journal","cats"]
+			},
+			{
+				"id": "http://gregmoore.micro.blog/2023/11/13/whiteout-conditions-the.html",
+				
+				"content_html": "<p><a href=\"https://songwhip.com/the-new-pornographers/whiteout-conditions2017\"><strong>Whiteout Conditions</strong> - The New Pornographers</a></p>\n<p>Neko Case and Kathryn Calder singing in harmony is my ASMR.</p>\n",
+				"content_text": "[**Whiteout Conditions** - The New Pornographers](https://songwhip.com/the-new-pornographers/whiteout-conditions2017)\r\n\r\nNeko Case and Kathryn Calder singing in harmony is my ASMR. \n",
+				"date_published": "2023-11-13T09:42:54-05:00",
+				"url": "https://blog.gregmoore.me/2023/11/13/whiteout-conditions-the.html",
+				"tags": ["music"]
+			},
+			{
+				"id": "http://gregmoore.micro.blog/2023/11/11/our-favorite-line.html",
+				
+				"content_html": "<p>Our favorite line of giant maple trees are in full color again.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Our favorite line of giant maple trees are in full color again.\n\n<img src=\"uploads/2023/18d312905c.jpg\" width=\"600\" height=\"450\" alt=\"Line of large maple trees lining a road turned red in fall\">\n",
+				"date_published": "2023-11-11T16:02:19-05:00",
+				"url": "https://blog.gregmoore.me/2023/11/11/our-favorite-line.html",
+				"tags": ["photos","journal"]
+			},
+			{
+				"id": "http://gregmoore.micro.blog/2023/11/10/plpppbbbbbb-my-father.html",
+				
+				"content_html": "<p><em>”Plpppbbbbbb”</em><br>\nMy father caught their hummingbird blowing a raspberry.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "_”Plpppbbbbbb”_  \nMy father caught their hummingbird blowing a raspberry.\n\n<img src=\"uploads/2023/34e847c833.jpg\" width=\"450\" height=\"600\" alt=\"Hummingbird standing on a branch sticking out its tongue\">\n",
+				"date_published": "2023-11-10T16:24:49-05:00",
+				"url": "https://blog.gregmoore.me/2023/11/10/plpppbbbbbb-my-father.html",
+				"tags": ["photos"]
+			},
+			{
+				"id": "http://gregmoore.micro.blog/2023/11/09/all-these-people.html",
+				
+				"content_html": "<p>🏃‍♂️ All these people sharing daily, multi-mile runs and I’m still struggling to do my mile-and-a-half with any regularity.</p>\n",
+				"content_text": "🏃‍♂️ All these people sharing daily, multi-mile runs and I’m still struggling to do my mile-and-a-half with any regularity.\n",
+				"date_published": "2023-11-09T08:11:13-05:00",
+				"url": "https://blog.gregmoore.me/2023/11/09/all-these-people.html",
+				"tags": ["journal"]
+			},
+			{
 				"id": "http://gregmoore.micro.blog/2023/11/06/i-havent-enjoyed.html",
 				
 				"content_html": "<p>I haven’t enjoyed a Marvel movie or series as much as I have <strong>Loki</strong> Season 2.</p>\n",
@@ -19,7 +64,7 @@
 				"id": "http://gregmoore.micro.blog/2023/11/06/traveling-through-farmlands.html",
 				
 				"content_html": "<p>Traveling through farmlands in the American midwest, I can see the inspiration behind many painted masterworks.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Traveling through farmlands in the American midwest, I can see the inspiration behind many painted masterworks.\n\n<img src=\"uploads/2023/82a577b50c.jpg\" width=\"600\" height=\"356\" alt=\"Open, plowed, midwestern American farmland in the fall with bare trees in the distance \">\n",
+				"content_text": "Traveling through farmlands in the American midwest, I can see the inspiration behind many painted masterworks.\n\n<img src=\"https://cdn.uploads.micro.blog/5332/2023/82a577b50c.jpg\" width=\"600\" height=\"356\" alt=\"Open, plowed, midwestern American farmland in the fall with bare trees in the distance \">\n",
 				"date_published": "2023-11-06T13:35:13-05:00",
 				"url": "https://blog.gregmoore.me/2023/11/06/traveling-through-farmlands.html",
 				"tags": ["photos","journal"]
@@ -28,7 +73,7 @@
 				"id": "http://gregmoore.micro.blog/2023/11/05/thankful-to-be.html",
 				
 				"content_html": "<p>Thankful to be celebrating my grandfather’s 97th birthday with lots of family. This sunset view was the perfect cap-off to a meaningful weekend.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Thankful to be celebrating my grandfather’s 97th birthday with lots of family. This sunset view was the perfect cap-off to a meaningful weekend.\n\n<img src=\"uploads/2023/d5af79504e.jpg\" width=\"600\" height=\"450\" alt=\"saturated pink sunset clouds\">\n",
+				"content_text": "Thankful to be celebrating my grandfather’s 97th birthday with lots of family. This sunset view was the perfect cap-off to a meaningful weekend.\n\n<img src=\"https://cdn.uploads.micro.blog/5332/2023/d5af79504e.jpg\" width=\"600\" height=\"450\" alt=\"saturated pink sunset clouds\">\n",
 				"date_published": "2023-11-05T18:07:50-05:00",
 				"url": "https://blog.gregmoore.me/2023/11/05/thankful-to-be.html",
 				"tags": ["photos"]
@@ -37,7 +82,7 @@
 				"id": "http://gregmoore.micro.blog/2023/11/03/animals-do-things.html",
 				
 				"content_html": "<!-- raw HTML omitted -->\n<blockquote>\n<p>Animals do things that we have never seen, and will never see. Maybe it’s because they do those things cautiously, privately; or maybe it’s just because the world is vast, and they do them, just by chance, when nobody is looking. Odds are good, because usually, nobody is looking.</p>\n</blockquote>\n<ul>\n<li>Robin Sloan</li>\n</ul>\n",
-				"content_text": "<img src=\"uploads/2023/b17b787fe0.jpg\" width=\"600\" height=\"400\" alt=\"Black and white photo of a male and female deer wandering  through the back yard of some houses\">\n\n> Animals do things that we have never seen, and will never see. Maybe it’s because they do those things cautiously, privately; or maybe it’s just because the world is vast, and they do them, just by chance, when nobody is looking. Odds are good, because usually, nobody is looking.\n\n- Robin Sloan\n",
+				"content_text": "<img src=\"https://cdn.uploads.micro.blog/5332/2023/b17b787fe0.jpg\" width=\"600\" height=\"400\" alt=\"Black and white photo of a male and female deer wandering  through the back yard of some houses\">\n\n> Animals do things that we have never seen, and will never see. Maybe it’s because they do those things cautiously, privately; or maybe it’s just because the world is vast, and they do them, just by chance, when nobody is looking. Odds are good, because usually, nobody is looking.\n\n- Robin Sloan\n",
 				"date_published": "2023-11-03T18:47:03-05:00",
 				"url": "https://blog.gregmoore.me/2023/11/03/animals-do-things.html",
 				"tags": ["photos"]
@@ -46,7 +91,7 @@
 				"id": "http://gregmoore.micro.blog/2023/11/03/good-morning-world.html",
 				
 				"content_html": "<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<ul>\n<li>Clay Shirky</li>\n</ul>\n",
-				"content_text": "<img src=\"uploads/2023/814e4da714.jpg\" width=\"600\" height=\"450\" alt=\"Sunrise over house rooftops with small clouds spreading out overhead\">\n\n\n<blockquote>It is an act of significant discipline to say, “I’m going to stare out the window. I’m going to schedule some time to stare out the window.”</blockquote>\n\n- Clay Shirky\n",
+				"content_text": "<img src=\"https://cdn.uploads.micro.blog/5332/2023/814e4da714.jpg\" width=\"600\" height=\"450\" alt=\"Sunrise over house rooftops with small clouds spreading out overhead\">\n\n\n<blockquote>It is an act of significant discipline to say, “I’m going to stare out the window. I’m going to schedule some time to stare out the window.”</blockquote>\n\n- Clay Shirky\n",
 				"date_published": "2023-11-03T07:20:23-05:00",
 				"url": "https://blog.gregmoore.me/2023/11/03/good-morning-world.html",
 				"tags": ["photos","quotes"]
