@@ -7,13 +7,49 @@
 	"items": [
 		
 			{
+				"id": "http://gregmoore.micro.blog/2023/11/19/the-family-was.html",
+				
+				"content_html": "<p>The family was lucky enough to grab tickets to a feast of knock-your-socks-off jazz last night at the Plymouth Penn theater. Dichi kicked us off with a bang before <a href=\"https://www.youtube.com/@cabaretboreale\">Cabare Boreale</a> came and stole our hearts. Finally, <a href=\"https://chrisplum.com\">Chris Plum</a> brought the house down.</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
+				"content_text": "The family was lucky enough to grab tickets to a feast of knock-your-socks-off jazz last night at the Plymouth Penn theater. Dichi kicked us off with a bang before [Cabare Boreale](https://www.youtube.com/@cabaretboreale) came and stole our hearts. Finally, [Chris Plum](https://chrisplum.com) brought the house down.\n\n<img src=\"uploads/2023/edbb82f51f.jpg\" width=\"600\" height=\"450\" alt=\"\"><img src=\"uploads/2023/e893b03bb1.jpg\" width=\"600\" height=\"450\" alt=\"\"><img src=\"uploads/2023/b5a7a3c974.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"date_published": "2023-11-19T08:51:42-05:00",
+				"url": "https://blog.gregmoore.me/2023/11/19/the-family-was.html",
+				"tags": ["photos","journal","music"]
+			},
+			{
+				"id": "http://gregmoore.micro.blog/2023/11/16/i-liked-odd.html",
+				
+				"content_html": "<p><img src=\"https://blog.gregmoore.me/uploads/2023/007-no-time-to-nap.jpg\" alt=\"007 No Time to Nap\"></p>\n<p>I liked <a href=\"https://micro.blog/odd\">@odd</a> &rsquo;s suggestion.</p>\n",
+				"content_text": "![007 No Time to Nap](https://blog.gregmoore.me/uploads/2023/007-no-time-to-nap.jpg)\r\n\r\nI liked [@odd](https://micro.blog/odd) 's suggestion.\n",
+				"date_published": "2023-11-16T15:14:09-05:00",
+				"url": "https://blog.gregmoore.me/2023/11/16/i-liked-odd.html",
+				"tags": ["photos","cats"]
+			},
+			{
+				"id": "http://gregmoore.micro.blog/2023/11/16/when-we-erase.html",
+				
+				"content_html": "<blockquote>\n<p>When we erase how bad the past was, that’s one of the ways we make people think there was no progress.</p>\n</blockquote>\n<ul>\n<li><a href=\"https://www.adapalmer.com\">Ada Palmer</a></li>\n</ul>\n",
+				"content_text": "> When we erase how bad the past was, that’s one of the ways we make people think there was no progress.\n\n- [Ada Palmer](https://www.adapalmer.com)\n",
+				"date_published": "2023-11-16T00:10:47-05:00",
+				"url": "https://blog.gregmoore.me/2023/11/16/when-we-erase.html",
+				"tags": ["quotes"]
+			},
+			{
+				"id": "http://gregmoore.micro.blog/2023/11/15/quiet-frost-covered.html",
+				
+				"content_html": "<p>Quiet frost covered roofs and cloud wisps exploding in the sky. Autumn beauty is more than leaves.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Quiet frost covered roofs and cloud wisps exploding in the sky. Autumn beauty is more than leaves.\n\n<img src=\"uploads/2023/3e6dc4785d.jpg\" width=\"600\" height=\"400\" alt=\"sunrise over rooftops blue sky with clouds\">\n",
+				"date_published": "2023-11-15T10:50:26-05:00",
+				"url": "https://blog.gregmoore.me/2023/11/15/quiet-frost-covered.html",
+				"tags": ["photos"]
+			},
+			{
 				"id": "http://gregmoore.micro.blog/2023/11/14/we-see-you.html",
 				
-				"content_html": "<p>We see you and we know what you did.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "We see you and we know what you did.\n\n<img src=\"uploads/2023/66e021c44c.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_html": "<p>What are we going to do today, human?<br>\nThe same thing we do every day, cat.<br>\nTry to take over the world!</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "What are we going to do today, human?  \nThe same thing we do every day, cat.  \nTry to take over the world!\n\n<img src=\"uploads/2023/66e021c44c.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2023-11-14T08:33:16-05:00",
 				"url": "https://blog.gregmoore.me/2023/11/14/we-see-you.html",
-				"tags": ["photos","journal","cats"]
+				"tags": ["photos"]
 			},
 			{
 				"id": "http://gregmoore.micro.blog/2023/11/13/whiteout-conditions-the.html",
@@ -37,7 +73,7 @@
 				"id": "http://gregmoore.micro.blog/2023/11/10/plpppbbbbbb-my-father.html",
 				
 				"content_html": "<p><em>”Plpppbbbbbb”</em><br>\nMy father caught their hummingbird blowing a raspberry.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "_”Plpppbbbbbb”_  \nMy father caught their hummingbird blowing a raspberry.\n\n<img src=\"uploads/2023/34e847c833.jpg\" width=\"450\" height=\"600\" alt=\"Hummingbird standing on a branch sticking out its tongue\">\n",
+				"content_text": "_”Plpppbbbbbb”_  \nMy father caught their hummingbird blowing a raspberry.\n\n<img src=\"https://cdn.uploads.micro.blog/5332/2023/34e847c833.jpg\" width=\"450\" height=\"600\" alt=\"Hummingbird standing on a branch sticking out its tongue\">\n",
 				"date_published": "2023-11-10T16:24:49-05:00",
 				"url": "https://blog.gregmoore.me/2023/11/10/plpppbbbbbb-my-father.html",
 				"tags": ["photos"]
