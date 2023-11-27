@@ -7,6 +7,15 @@
 	"items": [
 		
 			{
+				"id": "http://gregmoore.micro.blog/2023/11/26/ended-the-thanksgiving.html",
+				
+				"content_html": "<p>Ended the thanksgiving weekend with a trip to the <a href=\"https://www.dakota-inn.com\">Dakota Inn Rathskeller</a>. <em>Prost!</em></p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Ended the thanksgiving weekend with a trip to the [Dakota Inn Rathskeller](https://www.dakota-inn.com). _Prost!_\n\n<img src=\"https://cdn.uploads.micro.blog/5332/2023/cbe428e6b8.jpg\" width=\"450\" height=\"600\" alt=\"Bearded man with glasses drinking a beer while wearing a green felt hat shaped like a chicken with Dakota Inn stitched into it\">\n",
+				"date_published": "2023-11-26T21:54:19-05:00",
+				"url": "https://blog.gregmoore.me/2023/11/26/ended-the-thanksgiving.html",
+				"tags": ["photos","journal"]
+			},
+			{
 				"id": "http://gregmoore.micro.blog/2023/11/26/we-witnessed-a.html",
 				
 				"content_html": "<blockquote>\n<p>We witnessed a change from OpenAI to CommercialAI. It’s not about robot Gods, humanity and openness. It’s about making money.</p>\n</blockquote>\n<ul>\n<li>Oliver Reichenstein, <a href=\"https://ia.net/topics/no-feature\">No Feature</a></li>\n</ul>\n",
@@ -19,7 +28,7 @@
 				"id": "http://gregmoore.micro.blog/2023/11/23/happy-thanksgiving-to.html",
 				
 				"content_html": "<p>🦃 Happy Thanksgiving to all celebrating today. This year I’m thankful for Micro.blog and my feline overlord.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "🦃 Happy Thanksgiving to all celebrating today. This year I’m thankful for Micro.blog and my feline overlord.\n\n<img src=\"uploads/2023/c3be431c2d.jpg\" width=\"600\" height=\"450\" alt=\"Closeup view of a tabby cat with her owner peeking out from behind her\">\n",
+				"content_text": "🦃 Happy Thanksgiving to all celebrating today. This year I’m thankful for Micro.blog and my feline overlord.\n\n<img src=\"https://cdn.uploads.micro.blog/5332/2023/c3be431c2d.jpg\" width=\"600\" height=\"450\" alt=\"Closeup view of a tabby cat with her owner peeking out from behind her\">\n",
 				"date_published": "2023-11-23T16:44:46-05:00",
 				"url": "https://blog.gregmoore.me/2023/11/23/happy-thanksgiving-to.html",
 				"tags": ["photos","journal","cats"]
@@ -37,7 +46,7 @@
 				"id": "http://gregmoore.micro.blog/2023/11/20/autumn-says-good.html",
 				
 				"content_html": "<p>Autumn says, “Good morning.”</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Autumn says, “Good morning.”\n\n<img src=\"uploads/2023/2c97f38309.jpg\" width=\"600\" height=\"450\" alt=\"Sunrise of pink and orange clouds spread over a purple sky with bare trees in the foreground \">\n",
+				"content_text": "Autumn says, “Good morning.”\n\n<img src=\"https://cdn.uploads.micro.blog/5332/2023/2c97f38309.jpg\" width=\"600\" height=\"450\" alt=\"Sunrise of pink and orange clouds spread over a purple sky with bare trees in the foreground \">\n",
 				"date_published": "2023-11-20T08:12:09-05:00",
 				"url": "https://blog.gregmoore.me/2023/11/20/autumn-says-good.html",
 				"tags": ["photos","journal"]
@@ -46,7 +55,7 @@
 				"id": "http://gregmoore.micro.blog/2023/11/19/the-family-was.html",
 				
 				"content_html": "<p>The family was lucky enough to grab tickets to a feast of knock-your-socks-off jazz last night at the Plymouth Penn theater. Dichi kicked us off with a bang before <a href=\"https://www.youtube.com/@cabaretboreale\">Cabare Boreale</a> came and stole our hearts. Finally, <a href=\"https://chrisplum.com\">Chris Plum</a> brought the house down.</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "The family was lucky enough to grab tickets to a feast of knock-your-socks-off jazz last night at the Plymouth Penn theater. Dichi kicked us off with a bang before [Cabare Boreale](https://www.youtube.com/@cabaretboreale) came and stole our hearts. Finally, [Chris Plum](https://chrisplum.com) brought the house down.\n\n<img src=\"uploads/2023/edbb82f51f.jpg\" width=\"600\" height=\"450\" alt=\"\"><img src=\"uploads/2023/e893b03bb1.jpg\" width=\"600\" height=\"450\" alt=\"\"><img src=\"uploads/2023/b5a7a3c974.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_text": "The family was lucky enough to grab tickets to a feast of knock-your-socks-off jazz last night at the Plymouth Penn theater. Dichi kicked us off with a bang before [Cabare Boreale](https://www.youtube.com/@cabaretboreale) came and stole our hearts. Finally, [Chris Plum](https://chrisplum.com) brought the house down.\n\n<img src=\"https://cdn.uploads.micro.blog/5332/2023/edbb82f51f.jpg\" width=\"600\" height=\"450\" alt=\"\"><img src=\"https://cdn.uploads.micro.blog/5332/2023/e893b03bb1.jpg\" width=\"600\" height=\"450\" alt=\"\"><img src=\"https://cdn.uploads.micro.blog/5332/2023/b5a7a3c974.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2023-11-19T08:51:42-05:00",
 				"url": "https://blog.gregmoore.me/2023/11/19/the-family-was.html",
 				"tags": ["photos","journal","music"]
