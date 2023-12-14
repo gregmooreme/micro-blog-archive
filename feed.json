@@ -7,6 +7,33 @@
 	"items": [
 		
 			{
+				"id": "http://gregmoore.micro.blog/2023/12/14/the-neighborhood-is.html",
+				
+				"content_html": "<p>The neighborhood is quieter when it’s 27° out. Time to brew the coffee.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "The neighborhood is quieter when it’s 27° out. Time to brew the coffee.\n\n<img src=\"uploads/2023/9c498d7f2a.jpg\" width=\"400\" height=\"600\" alt=\"Colorful winter sunrise through leafless trees\">\n",
+				"date_published": "2023-12-14T08:26:04-05:00",
+				"url": "https://blog.gregmoore.me/2023/12/14/the-neighborhood-is.html",
+				"tags": ["photos"]
+			},
+			{
+				"id": "http://gregmoore.micro.blog/2023/12/12/i-dont-agree.html",
+				
+				"content_html": "<p>I don’t agree that winter “starts” on December 21 this year because these aren’t autumn footsteps.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "I don’t agree that winter “starts” on December 21 this year because these aren’t autumn footsteps.\n\n<img src=\"uploads/2023/e18d3540f2.jpg\" width=\"450\" height=\"600\" alt=\"Footsteps in shallow snow \">\n",
+				"date_published": "2023-12-12T19:27:11-05:00",
+				"url": "https://blog.gregmoore.me/2023/12/12/i-dont-agree.html",
+				"tags": ["photos","journal"]
+			},
+			{
+				"id": "http://gregmoore.micro.blog/2023/12/09/its-been-far.html",
+				
+				"content_html": "<p>It’s been far too gloomy for my liking lately but these cloud textures made for a beautiful sunset.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "It’s been far too gloomy for my liking lately but these cloud textures made for a beautiful sunset.\n\n<img src=\"uploads/2023/25f7c001d1.jpg\" width=\"450\" height=\"600\" alt=\"Blue sky covered in soft, puffy clouds that fade at their edges\">\n",
+				"date_published": "2023-12-09T17:17:15-05:00",
+				"url": "https://blog.gregmoore.me/2023/12/09/its-been-far.html",
+				"tags": ["photos","journal"]
+			},
+			{
 				"id": "http://gregmoore.micro.blog/2023/12/08/new-musical-trails.html",
 				"title": "New Musical Trails",
 				"content_html": "<p>Exploring new music was a lot easier when I was young and stupid. My brain, a hormone flooded blank slate, followed whatever musical paths the songs I was listening to lead me down. Now I&rsquo;m older (only slightly less stupid) and I&rsquo;ve traveled decades worth of musical trails. I&rsquo;ve mapped <em>thousands</em> of them through these woods and I know which ones lead to places I enjoy and which ones lead to places I don&rsquo;t.</p>\n<p>Problem is, I&rsquo;ve walked some of my favorite musical trails so many times that I no longer experience the things that caused me to fall in love with them in the first place. Their paths are now deep ruts that, once I&rsquo;m on them, are difficult to clamber out of.</p>\n<p>I&rsquo;m betting that many of you around this campfire share this problem. (You&rsquo;ve got the same mud stains as I do.) As much as you like the idea of walking new musical trails, you still find yourself back in the same old places. Well, I&rsquo;m here to encourage you that it can be done and share what&rsquo;s helped me explore new sounds the past five years:</p>\n<h3 id=\"blazing-new-trails\">Blazing New Trails</h3>\n<ol>\n<li><strong>Trust your tastes.</strong> You have good reasons for loving those old bands and songs. Exploring new music doesn&rsquo;t invalidate your musical tastes, it uses them as guideposts to branch off of so use them with when you can.</li>\n<li><strong>Tell the old crank in you to shut up.</strong> Musicians are always striving to create new sounds to appeal to new audiences. As you age, this can feel increasingly alienating. Keep yourself from devolving everything into a generational fights and remember that a lot of music sucked when you were young but you were still able to find the good stuff. It&rsquo;s there so keep looking.</li>\n<li><strong>Don&rsquo;t explore exhausted.</strong> New music activates a broad and diverse network of pathways in your brain <a href=\"https://www.health.harvard.edu/blog/why-is-music-good-for-the-brain-2020100721062\">(source)</a> so treat it a bit like a physical activity.</li>\n<li><strong>Expect some discomfort.</strong> New music is mentally challenging to process so it&rsquo;s ok if you don&rsquo;t like a lot of stuff for a while. Focus on what you <em>do</em> enjoy in what you&rsquo;re hearing and follow it to clear a path to more of what works for you.</li>\n<li><strong>Don&rsquo;t let the distractions distract.</strong> Music is surrounded by many trappings that aren&rsquo;t music.  The thing is, none of that stuff is the actual music so keep your focus on the sounds. Remember that even your favorite band names are kind of silly, song titles only make sense after the fact, and album art can be just as bad as book covers.</li>\n</ol>\n",
@@ -37,7 +64,7 @@
 				"id": "http://gregmoore.micro.blog/2023/11/29/even-spotify-wrapped.html",
 				
 				"content_html": "<p>Even Spotify Wrapped admits my <a href=\"https://albumwhale.com/gregmoore\">Album Whale</a> lists more accurately show my music listening this year.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Even Spotify Wrapped admits my [Album Whale](https://albumwhale.com/gregmoore) lists more accurately show my music listening this year.\n\n<img src=\"uploads/2023/a82b99bc6f.jpg\" width=\"337\" height=\"600\" alt=\"\">\n",
+				"content_text": "Even Spotify Wrapped admits my [Album Whale](https://albumwhale.com/gregmoore) lists more accurately show my music listening this year.\n\n<img src=\"https://cdn.uploads.micro.blog/5332/2023/a82b99bc6f.jpg\" width=\"337\" height=\"600\" alt=\"\">\n",
 				"date_published": "2023-11-29T23:30:36-05:00",
 				"url": "https://blog.gregmoore.me/2023/11/29/even-spotify-wrapped.html",
 				"tags": ["photos","music"]
@@ -46,7 +73,7 @@
 				"id": "http://gregmoore.micro.blog/2023/11/29/in-the-current.html",
 				
 				"content_html": "<p>In the current Dungeons &amp; Dragons campaign, my character is a try-hard with an obsession on getting good grades. He&rsquo;s made his dorm into a small library so I designed the sign he uses to advertise anyone willing to become a study buddy.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "In the current Dungeons & Dragons campaign, my character is a try-hard with an obsession on getting good grades. He's made his dorm into a small library so I designed the sign he uses to advertise anyone willing to become a study buddy.\n\n<img src=\"uploads/2023/owl-library-sign.png\" width=\"455\" height=\"600\" alt=\"3D rendering of a rectangular wooden sign with a gold stylized owl holding a book standing on the word Library\">\n",
+				"content_text": "In the current Dungeons & Dragons campaign, my character is a try-hard with an obsession on getting good grades. He's made his dorm into a small library so I designed the sign he uses to advertise anyone willing to become a study buddy.\n\n<img src=\"https://cdn.uploads.micro.blog/5332/2023/owl-library-sign.png\" width=\"455\" height=\"600\" alt=\"3D rendering of a rectangular wooden sign with a gold stylized owl holding a book standing on the word Library\">\n",
 				"date_published": "2023-11-29T15:26:33-05:00",
 				"url": "https://blog.gregmoore.me/2023/11/29/in-the-current.html",
 				"tags": ["photos","RPG"]
@@ -55,7 +82,7 @@
 				"id": "http://gregmoore.micro.blog/2023/11/28/attempted-an-afternoon.html",
 				
 				"content_html": "<p>Attempted an afternoon walk to get <em>some</em> sun but the wind quickly drove me back indoors.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Attempted an afternoon walk to get _some_ sun but the wind quickly drove me back indoors.\n\n<img src=\"uploads/2023/0414c811eb.jpg\" width=\"600\" height=\"450\" alt=\"Pine trees in foreground with many clouds spread across a blue sky\">\n",
+				"content_text": "Attempted an afternoon walk to get _some_ sun but the wind quickly drove me back indoors.\n\n<img src=\"https://cdn.uploads.micro.blog/5332/2023/0414c811eb.jpg\" width=\"600\" height=\"450\" alt=\"Pine trees in foreground with many clouds spread across a blue sky\">\n",
 				"date_published": "2023-11-28T17:12:41-05:00",
 				"url": "https://blog.gregmoore.me/2023/11/28/attempted-an-afternoon.html",
 				"tags": ["photos","journal"]
@@ -73,7 +100,7 @@
 				"id": "http://gregmoore.micro.blog/2023/11/28/id-say-that.html",
 				
 				"content_html": "<p>I’d say that 19° (-7.2° C) with snow counts as winter officially starting.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "I’d say that 19° (-7.2° C) with snow counts as winter officially starting.\n\n<img src=\"uploads/2023/7a69f221a3.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_text": "I’d say that 19° (-7.2° C) with snow counts as winter officially starting.\n\n<img src=\"https://cdn.uploads.micro.blog/5332/2023/7a69f221a3.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2023-11-28T07:31:07-05:00",
 				"url": "https://blog.gregmoore.me/2023/11/28/id-say-that.html",
 				"tags": ["photos","journal"]
