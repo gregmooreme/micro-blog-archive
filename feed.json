@@ -7,6 +7,15 @@
 	"items": [
 		
 			{
+				"id": "http://gregmoore.micro.blog/2023/12/19/seeing-everyone-post.html",
+				
+				"content_html": "<p>Seeing everyone post their subscription lists was the push I needed to finally close my Blot account and recode my main website with a simple HTML/CSS/JS stack. If I can just figure out why Firefox and Chromium are messing up my mobile menu, I can call this done. <a href=\"https://gregmoore.me\">gregmoore.me</a></p>\n",
+				"content_text": "Seeing everyone post their subscription lists was the push I needed to finally close my Blot account and recode my main website with a simple HTML/CSS/JS stack. If I can just figure out why Firefox and Chromium are messing up my mobile menu, I can call this done. [gregmoore.me](https://gregmoore.me)\n",
+				"date_published": "2023-12-19T11:00:23-05:00",
+				"url": "https://blog.gregmoore.me/2023/12/19/seeing-everyone-post.html",
+				"tags": ["WebsiteTinkering"]
+			},
+			{
 				"id": "http://gregmoore.micro.blog/2023/12/14/the-neighborhood-is.html",
 				
 				"content_html": "<p>The neighborhood is quieter when it’s 27° out. Time to brew the coffee.</p>\n<!-- raw HTML omitted -->\n",
