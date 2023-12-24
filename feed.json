@@ -7,6 +7,33 @@
 	"items": [
 		
 			{
+				"id": "http://gregmoore.micro.blog/2023/12/24/im-not-often.html",
+				
+				"content_html": "<p>I’m not often excited by AI image theft but Funko isn’t hurting for money and my D&amp;D party got a real kick out of it. (Thanks to <a href=\"https://micro.blog/maique\">@maique</a> and <a href=\"https://micro.blog/frank\">@frank</a> for the tip.)</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "I’m not often excited by AI image theft but Funko isn’t hurting for money and my D&D party got a real kick out of it. (Thanks to [@maique](https://micro.blog/maique) and [@frank](https://micro.blog/frank) for the tip.)\n\n<img src=\"uploads/2023/c133c56fdb.jpg\" width=\"600\" height=\"600\" alt=\"AI generated image of funko pop of male named Greg wearing white shirt and vest holding a sword\">\n",
+				"date_published": "2023-12-24T17:24:31-05:00",
+				"url": "https://blog.gregmoore.me/2023/12/24/im-not-often.html",
+				"tags": ["photos"]
+			},
+			{
+				"id": "http://gregmoore.micro.blog/2023/12/22/the-beauty-of.html",
+				
+				"content_html": "<p>The beauty of symmetry.</p>\n<p><strong>Warning:</strong> Not actually symmetrical.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "The beauty of symmetry.\n\n**Warning:** Not actually symmetrical.\n\n<img src=\"uploads/2023/8f6df11a9d.jpg\" width=\"600\" height=\"450\" alt=\"Three white pendant lamps over a wooden table with a matching wood paneled background\">\n",
+				"date_published": "2023-12-22T09:23:48-05:00",
+				"url": "https://blog.gregmoore.me/2023/12/22/the-beauty-of.html",
+				"tags": ["photos"]
+			},
+			{
+				"id": "http://gregmoore.micro.blog/2023/12/19/holiday-break-is.html",
+				
+				"content_html": "<p>Holiday break is so close! 🎄I can’t wait to see more family and friends.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Holiday break is so close! 🎄I can’t wait to see more family and friends.\n\n<img src=\"uploads/2023/03d503d5a3.jpg\" width=\"600\" height=\"400\" alt=\"Distant photo of birds congregating on telephone wires with a purple to pink sunset sky behind them\">\n",
+				"date_published": "2023-12-19T11:06:23-05:00",
+				"url": "https://blog.gregmoore.me/2023/12/19/holiday-break-is.html",
+				"tags": ["photos","birds"]
+			},
+			{
 				"id": "http://gregmoore.micro.blog/2023/12/19/seeing-everyone-post.html",
 				
 				"content_html": "<p>Seeing everyone post their subscription lists was the push I needed to finally close my Blot account and recode my main website with a simple HTML/CSS/JS stack. If I can just figure out why Firefox and Chromium are messing up my mobile menu, I can call this done. <a href=\"https://gregmoore.me\">gregmoore.me</a></p>\n",
@@ -37,7 +64,7 @@
 				"id": "http://gregmoore.micro.blog/2023/12/09/its-been-far.html",
 				
 				"content_html": "<p>It’s been far too gloomy for my liking lately but these cloud textures made for a beautiful sunset.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "It’s been far too gloomy for my liking lately but these cloud textures made for a beautiful sunset.\n\n<img src=\"uploads/2023/25f7c001d1.jpg\" width=\"450\" height=\"600\" alt=\"Blue sky covered in soft, puffy clouds that fade at their edges\">\n",
+				"content_text": "It’s been far too gloomy for my liking lately but these cloud textures made for a beautiful sunset.\n\n<img src=\"https://cdn.uploads.micro.blog/5332/2023/25f7c001d1.jpg\" width=\"450\" height=\"600\" alt=\"Blue sky covered in soft, puffy clouds that fade at their edges\">\n",
 				"date_published": "2023-12-09T17:17:15-05:00",
 				"url": "https://blog.gregmoore.me/2023/12/09/its-been-far.html",
 				"tags": ["photos","journal"]
@@ -55,7 +82,7 @@
 				"id": "http://gregmoore.micro.blog/2023/12/05/try-as-we.html",
 				
 				"content_html": "<p>Try as we might, the kid and I couldn’t achieve the majestic look of this poor stuffed bear. Probably because we were laughing too hard.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Try as we might, the kid and I couldn’t achieve the majestic look of this poor stuffed bear. Probably because we were laughing too hard.\n\n<img src=\"uploads/2023/a98537fb2e.jpg\" width=\"600\" height=\"449\" alt=\"a man in a hat and a girl with long hair trying to mimic a taxidermy bear behind glass\">\n",
+				"content_text": "Try as we might, the kid and I couldn’t achieve the majestic look of this poor stuffed bear. Probably because we were laughing too hard.\n\n<img src=\"https://cdn.uploads.micro.blog/5332/2023/a98537fb2e.jpg\" width=\"600\" height=\"449\" alt=\"a man in a hat and a girl with long hair trying to mimic a taxidermy bear behind glass\">\n",
 				"date_published": "2023-12-05T09:41:02-05:00",
 				"url": "https://blog.gregmoore.me/2023/12/05/try-as-we.html",
 				"tags": ["photos","journal"]
@@ -64,7 +91,7 @@
 				"id": "http://gregmoore.micro.blog/2023/11/30/today-i-am.html",
 				
 				"content_html": "<p>Today I am thankful for the wispy pink clouds in a winter sunrise.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Today I am thankful for the wispy pink clouds in a winter sunrise.\n\n<img src=\"uploads/2023/a77ce800f0.jpg\" width=\"600\" height=\"450\" alt=\"Dark sunrise sky with pink wispy clouds and a leafless tree in the foreground\">\n",
+				"content_text": "Today I am thankful for the wispy pink clouds in a winter sunrise.\n\n<img src=\"https://cdn.uploads.micro.blog/5332/2023/a77ce800f0.jpg\" width=\"600\" height=\"450\" alt=\"Dark sunrise sky with pink wispy clouds and a leafless tree in the foreground\">\n",
 				"date_published": "2023-11-30T08:00:57-05:00",
 				"url": "https://blog.gregmoore.me/2023/11/30/today-i-am.html",
 				"tags": ["photos","journal"]
