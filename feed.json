@@ -7,10 +7,54 @@
 	"items": [
 		
 			{
+				"id": "http://gregmoore.micro.blog/2023/12/30/back-in-the.html",
+				
+				"content_html": "<p>Back in the cold, but beautiful, north.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Back in the cold, but beautiful, north.\n\n<img src=\"uploads/2023/0b23b2af25.jpg\" width=\"600\" height=\"450\" alt=\"Orange rimmed clouds at sunset over a small town street with cars\">\n",
+				"date_published": "2023-12-30T22:19:05-05:00",
+				"url": "https://blog.gregmoore.me/2023/12/30/back-in-the.html",
+				"tags": ["photos","journal"]
+			},
+			{
+				"id": "http://gregmoore.micro.blog/2023/12/29/florida-shines-a.html",
+				
+				"content_html": "<p>Florida shines a lovely goodbye as we drive back to the frozen north.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Florida shines a lovely goodbye as we drive back to the frozen north.\n\n<img src=\"uploads/2023/8acd9a3a9b.jpg\" width=\"400\" height=\"600\" alt=\"\">\n",
+				"date_published": "2023-12-29T07:53:07-05:00",
+				"url": "https://blog.gregmoore.me/2023/12/29/florida-shines-a.html",
+				"tags": ["photos","journal"]
+			},
+			{
+				"id": "http://gregmoore.micro.blog/2023/12/27/the-reason-tesla.html",
+				
+				"content_html": "<blockquote>\n<p>The reason Tesla hasn&rsquo;t &ldquo;worked all bugs out yet&rdquo; is that the company is run by people who hold established best practice in ideological contempt, and is defined by a tech-industry culture that fetishizes innovation and regards product quality as a third-order concern. There simply isn&rsquo;t as much investment money and credulous tech-media adulation to suck up in the promise of iterating on what already works.</p>\n</blockquote>\n<ul>\n<li><a href=\"https://defector.com/youre-supposed-to-be-glad-your-tesla-is-a-brittle-heap-of-junk\">You’re Supposed To Be Glad Your Tesla Is A Brittle Heap Of Junk</a></li>\n</ul>\n",
+				"content_text": "> The reason Tesla hasn't \"worked all bugs out yet\" is that the company is run by people who hold established best practice in ideological contempt, and is defined by a tech-industry culture that fetishizes innovation and regards product quality as a third-order concern. There simply isn't as much investment money and credulous tech-media adulation to suck up in the promise of iterating on what already works.\n\n- [You’re Supposed To Be Glad Your Tesla Is A Brittle Heap Of Junk](https://defector.com/youre-supposed-to-be-glad-your-tesla-is-a-brittle-heap-of-junk)\n",
+				"date_published": "2023-12-27T15:51:18-05:00",
+				"url": "https://blog.gregmoore.me/2023/12/27/the-reason-tesla.html",
+				"tags": ["quotes"]
+			},
+			{
+				"id": "http://gregmoore.micro.blog/2023/12/25/a-well-and.html",
+				
+				"content_html": "<p>A well and truly spent Christmas Day. Time for a long winters nap.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "A well and truly spent Christmas Day. Time for a long winters nap.\n\n<img src=\"uploads/2023/7d65f6af42.jpg\" width=\"450\" height=\"600\" alt=\"Christmas cookie decorated with yellow frosting, tree eyes, and sprinkle mouth\">\n",
+				"date_published": "2023-12-25T18:26:03-05:00",
+				"url": "https://blog.gregmoore.me/2023/12/25/a-well-and.html",
+				"tags": ["photos","journal"]
+			},
+			{
+				"id": "http://gregmoore.micro.blog/2023/12/24/merry-christmas-to.html",
+				
+				"content_html": "<p>🎅🏻Merry Christmas to all and to all a good night.🎄</p>\n",
+				"content_text": "🎅🏻Merry Christmas to all and to all a good night.🎄\n",
+				"date_published": "2023-12-24T22:22:14-05:00",
+				"url": "https://blog.gregmoore.me/2023/12/24/merry-christmas-to.html"
+			},
+			{
 				"id": "http://gregmoore.micro.blog/2023/12/24/im-not-often.html",
 				
 				"content_html": "<p>I’m not often excited by AI image theft but Funko isn’t hurting for money and my D&amp;D party got a real kick out of it. (Thanks to <a href=\"https://micro.blog/maique\">@maique</a> and <a href=\"https://micro.blog/frank\">@frank</a> for the tip.)</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "I’m not often excited by AI image theft but Funko isn’t hurting for money and my D&D party got a real kick out of it. (Thanks to [@maique](https://micro.blog/maique) and [@frank](https://micro.blog/frank) for the tip.)\n\n<img src=\"uploads/2023/c133c56fdb.jpg\" width=\"600\" height=\"600\" alt=\"AI generated image of funko pop of male named Greg wearing white shirt and vest holding a sword\">\n",
+				"content_text": "I’m not often excited by AI image theft but Funko isn’t hurting for money and my D&D party got a real kick out of it. (Thanks to [@maique](https://micro.blog/maique) and [@frank](https://micro.blog/frank) for the tip.)\n\n<img src=\"https://cdn.uploads.micro.blog/5332/2023/c133c56fdb.jpg\" width=\"600\" height=\"600\" alt=\"AI generated image of funko pop of male named Greg wearing white shirt and vest holding a sword\">\n",
 				"date_published": "2023-12-24T17:24:31-05:00",
 				"url": "https://blog.gregmoore.me/2023/12/24/im-not-often.html",
 				"tags": ["photos"]
@@ -19,7 +63,7 @@
 				"id": "http://gregmoore.micro.blog/2023/12/22/the-beauty-of.html",
 				
 				"content_html": "<p>The beauty of symmetry.</p>\n<p><strong>Warning:</strong> Not actually symmetrical.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "The beauty of symmetry.\n\n**Warning:** Not actually symmetrical.\n\n<img src=\"uploads/2023/8f6df11a9d.jpg\" width=\"600\" height=\"450\" alt=\"Three white pendant lamps over a wooden table with a matching wood paneled background\">\n",
+				"content_text": "The beauty of symmetry.\n\n**Warning:** Not actually symmetrical.\n\n<img src=\"https://cdn.uploads.micro.blog/5332/2023/8f6df11a9d.jpg\" width=\"600\" height=\"450\" alt=\"Three white pendant lamps over a wooden table with a matching wood paneled background\">\n",
 				"date_published": "2023-12-22T09:23:48-05:00",
 				"url": "https://blog.gregmoore.me/2023/12/22/the-beauty-of.html",
 				"tags": ["photos"]
@@ -28,7 +72,7 @@
 				"id": "http://gregmoore.micro.blog/2023/12/19/holiday-break-is.html",
 				
 				"content_html": "<p>Holiday break is so close! 🎄I can’t wait to see more family and friends.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Holiday break is so close! 🎄I can’t wait to see more family and friends.\n\n<img src=\"uploads/2023/03d503d5a3.jpg\" width=\"600\" height=\"400\" alt=\"Distant photo of birds congregating on telephone wires with a purple to pink sunset sky behind them\">\n",
+				"content_text": "Holiday break is so close! 🎄I can’t wait to see more family and friends.\n\n<img src=\"https://cdn.uploads.micro.blog/5332/2023/03d503d5a3.jpg\" width=\"600\" height=\"400\" alt=\"Distant photo of birds congregating on telephone wires with a purple to pink sunset sky behind them\">\n",
 				"date_published": "2023-12-19T11:06:23-05:00",
 				"url": "https://blog.gregmoore.me/2023/12/19/holiday-break-is.html",
 				"tags": ["photos","birds"]
@@ -46,7 +90,7 @@
 				"id": "http://gregmoore.micro.blog/2023/12/14/the-neighborhood-is.html",
 				
 				"content_html": "<p>The neighborhood is quieter when it’s 27° out. Time to brew the coffee.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "The neighborhood is quieter when it’s 27° out. Time to brew the coffee.\n\n<img src=\"uploads/2023/9c498d7f2a.jpg\" width=\"400\" height=\"600\" alt=\"Colorful winter sunrise through leafless trees\">\n",
+				"content_text": "The neighborhood is quieter when it’s 27° out. Time to brew the coffee.\n\n<img src=\"https://cdn.uploads.micro.blog/5332/2023/9c498d7f2a.jpg\" width=\"400\" height=\"600\" alt=\"Colorful winter sunrise through leafless trees\">\n",
 				"date_published": "2023-12-14T08:26:04-05:00",
 				"url": "https://blog.gregmoore.me/2023/12/14/the-neighborhood-is.html",
 				"tags": ["photos"]
@@ -55,7 +99,7 @@
 				"id": "http://gregmoore.micro.blog/2023/12/12/i-dont-agree.html",
 				
 				"content_html": "<p>I don’t agree that winter “starts” on December 21 this year because these aren’t autumn footsteps.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "I don’t agree that winter “starts” on December 21 this year because these aren’t autumn footsteps.\n\n<img src=\"uploads/2023/e18d3540f2.jpg\" width=\"450\" height=\"600\" alt=\"Footsteps in shallow snow \">\n",
+				"content_text": "I don’t agree that winter “starts” on December 21 this year because these aren’t autumn footsteps.\n\n<img src=\"https://cdn.uploads.micro.blog/5332/2023/e18d3540f2.jpg\" width=\"450\" height=\"600\" alt=\"Footsteps in shallow snow \">\n",
 				"date_published": "2023-12-12T19:27:11-05:00",
 				"url": "https://blog.gregmoore.me/2023/12/12/i-dont-agree.html",
 				"tags": ["photos","journal"]
