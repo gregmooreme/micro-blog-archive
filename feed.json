@@ -7,10 +7,82 @@
 	"items": [
 		
 			{
+				"id": "http://gregmoore.micro.blog/2024/01/06/ive-had-my.html",
+				
+				"content_html": "<p>I’ve had my fill of traveling and I’m looking forward to staying in one place for a good while.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "I’ve had my fill of traveling and I’m looking forward to staying in one place for a good while.\n\n<img src=\"uploads/2024/56c1c9e757.jpg\" width=\"600\" height=\"399\" alt=\"Roadside view of the sun rising over rolling fields and several trees. The metal crash barrier is distorted by the speed of travel.\">\n",
+				"date_published": "2024-01-06T08:26:15-05:00",
+				"url": "https://blog.gregmoore.me/2024/01/06/ive-had-my.html",
+				"tags": ["photos","journal"]
+			},
+			{
+				"id": "http://gregmoore.micro.blog/2024/01/04/i-make-things.html",
+				
+				"content_html": "<blockquote>\n<p>I make things because I enjoy making them. I share them when I have a sense that those things are exactly the sort that would inspire me had I not made them myself. This is not the way to build a large audience, to achieve fame, or to amass wealth. But it is the way to be seen (a very different thing from being validated) that also creates a way for someone else.<br>\nThe best thing that could happen when I share something online is for someone else to experience it and think, “If he can do that, then I can.”</p>\n</blockquote>\n<ul>\n<li><a href=\"https://www.chrbutler.com/2023-09-10\">Christipher Butler</a></li>\n</ul>\n<p>Hat-tip to <a href=\"https://micro.blog/Annie\">@Annie</a> for finding this wonderful essay.</p>\n",
+				"content_text": "> I make things because I enjoy making them. I share them when I have a sense that those things are exactly the sort that would inspire me had I not made them myself. This is not the way to build a large audience, to achieve fame, or to amass wealth. But it is the way to be seen (a very different thing from being validated) that also creates a way for someone else.  \nThe best thing that could happen when I share something online is for someone else to experience it and think, “If he can do that, then I can.”\n\n- [Christipher Butler](https://www.chrbutler.com/2023-09-10)\n\nHat-tip to [@Annie](https://micro.blog/Annie) for finding this wonderful essay.\n",
+				"date_published": "2024-01-04T12:00:08-05:00",
+				"url": "https://blog.gregmoore.me/2024/01/04/i-make-things.html",
+				"tags": ["quotes"]
+			},
+			{
+				"id": "http://gregmoore.micro.blog/2024/01/04/starting-the-new.html",
+				
+				"content_html": "<p>Starting the new year with a fresh take on the shoegaze genre. Really loving this whole album. <a href=\"https://songwhip.com/alvvays/blue-rev\">Alvvays - Blue Rev</a></p>\n",
+				"content_text": "Starting the new year with a fresh take on the shoegaze genre. Really loving this whole album. [Alvvays - Blue Rev](https://songwhip.com/alvvays/blue-rev)\n",
+				"date_published": "2024-01-04T11:11:28-05:00",
+				"url": "https://blog.gregmoore.me/2024/01/04/starting-the-new.html",
+				"tags": ["music"]
+			},
+			{
+				"id": "http://gregmoore.micro.blog/2024/01/02/underwater-world.html",
+				
+				"content_html": "<p>Underwater world</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Underwater world\n\n<img src=\"uploads/2024/4e1ba4e60d.jpg\" width=\"600\" height=\"449\" alt=\"\">\n",
+				"date_published": "2024-01-02T16:50:16-05:00",
+				"url": "https://blog.gregmoore.me/2024/01/02/underwater-world.html",
+				"tags": ["photos"]
+			},
+			{
+				"id": "http://gregmoore.micro.blog/2024/01/01/i-really-tried.html",
+				
+				"content_html": "<p>I really tried to like the <strong>Arc browser</strong> but I’m just over it. In my opinion, they haven’t “reinvented” anything about the actual web browser. It’s just extra layers of utilities on top of the same tracking-hungry Chrome engine.<br>\nI’m going back to the simplicity of Safari.</p>\n",
+				"content_text": "I really tried to like the **Arc browser** but I’m just over it. In my opinion, they haven’t “reinvented” anything about the actual web browser. It’s just extra layers of utilities on top of the same tracking-hungry Chrome engine.  \nI’m going back to the simplicity of Safari.\n",
+				"date_published": "2024-01-01T12:42:45-05:00",
+				"url": "https://blog.gregmoore.me/2024/01/01/i-really-tried.html",
+				"tags": ["WebsiteTinkering"]
+			},
+			{
+				"id": "http://gregmoore.micro.blog/2023/12/31/should-all-the.html",
+				
+				"content_html": "<p>🎼\nShould all the lyrics be forgot<br>\nand never brought to mind?<br>\nShould all the lyrics be forgot<br>\nto old lang syne?<br>\n🎶</p>\n<p>Happy New Year everyone!</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "🎼\nShould all the lyrics be forgot  \nand never brought to mind?  \nShould all the lyrics be forgot  \nto old lang syne?  \n🎶\n\nHappy New Year everyone!\n\n<img src=\"https://cdn.uploads.micro.blog/5332/2023/4fb565f85e.jpg\" width=\"400\" height=\"600\" alt=\"Sunrise over silhouetted black landscape\">\n",
+				"date_published": "2023-12-31T17:30:28-05:00",
+				"url": "https://blog.gregmoore.me/2023/12/31/should-all-the.html",
+				"tags": ["photos","journal"]
+			},
+			{
+				"id": "http://gregmoore.micro.blog/2023/12/31/im-convinced-that.html",
+				
+				"content_html": "<p>I’m convinced that Dune’s “spice” is just post apocalyptic coffee.</p>\n<p>Related: We finally have coffee in the house again.</p>\n",
+				"content_text": "I’m convinced that Dune’s “spice” is just post apocalyptic coffee.\n\nRelated: We finally have coffee in the house again.\n",
+				"date_published": "2023-12-31T09:45:58-05:00",
+				"url": "https://blog.gregmoore.me/2023/12/31/im-convinced-that.html",
+				"tags": ["journal"]
+			},
+			{
+				"id": "http://gregmoore.micro.blog/2023/12/31/a-filmmaker-who.html",
+				
+				"content_html": "<blockquote>\n<p>A filmmaker who prefers ideas to images will never advance above the second rank because he is fighting the nature of his art. The printed word is ideal for ideas; film is made for images, and images are best when they are free to evoke many associations and are not linked to narrowly defined purposes.</p>\n</blockquote>\n<ul>\n<li><a href=\"https://www.rogerebert.com/reviews/great-movie-8-12--eight-and-a-half-1963\">Roger Ebert</a></li>\n</ul>\n",
+				"content_text": "> A filmmaker who prefers ideas to images will never advance above the second rank because he is fighting the nature of his art. The printed word is ideal for ideas; film is made for images, and images are best when they are free to evoke many associations and are not linked to narrowly defined purposes.\n\n- [Roger Ebert](https://www.rogerebert.com/reviews/great-movie-8-12--eight-and-a-half-1963)\n",
+				"date_published": "2023-12-31T09:13:43-05:00",
+				"url": "https://blog.gregmoore.me/2023/12/31/a-filmmaker-who.html",
+				"tags": ["quotes"]
+			},
+			{
 				"id": "http://gregmoore.micro.blog/2023/12/30/back-in-the.html",
 				
 				"content_html": "<p>Back in the cold, but beautiful, north.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Back in the cold, but beautiful, north.\n\n<img src=\"uploads/2023/0b23b2af25.jpg\" width=\"600\" height=\"450\" alt=\"Orange rimmed clouds at sunset over a small town street with cars\">\n",
+				"content_text": "Back in the cold, but beautiful, north.\n\n<img src=\"https://cdn.uploads.micro.blog/5332/2023/0b23b2af25.jpg\" width=\"600\" height=\"450\" alt=\"Orange rimmed clouds at sunset over a small town street with cars\">\n",
 				"date_published": "2023-12-30T22:19:05-05:00",
 				"url": "https://blog.gregmoore.me/2023/12/30/back-in-the.html",
 				"tags": ["photos","journal"]
@@ -19,7 +91,7 @@
 				"id": "http://gregmoore.micro.blog/2023/12/29/florida-shines-a.html",
 				
 				"content_html": "<p>Florida shines a lovely goodbye as we drive back to the frozen north.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Florida shines a lovely goodbye as we drive back to the frozen north.\n\n<img src=\"uploads/2023/8acd9a3a9b.jpg\" width=\"400\" height=\"600\" alt=\"\">\n",
+				"content_text": "Florida shines a lovely goodbye as we drive back to the frozen north.\n\n<img src=\"https://cdn.uploads.micro.blog/5332/2023/8acd9a3a9b.jpg\" width=\"400\" height=\"600\" alt=\"\">\n",
 				"date_published": "2023-12-29T07:53:07-05:00",
 				"url": "https://blog.gregmoore.me/2023/12/29/florida-shines-a.html",
 				"tags": ["photos","journal"]
@@ -37,7 +109,7 @@
 				"id": "http://gregmoore.micro.blog/2023/12/25/a-well-and.html",
 				
 				"content_html": "<p>A well and truly spent Christmas Day. Time for a long winters nap.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "A well and truly spent Christmas Day. Time for a long winters nap.\n\n<img src=\"uploads/2023/7d65f6af42.jpg\" width=\"450\" height=\"600\" alt=\"Christmas cookie decorated with yellow frosting, tree eyes, and sprinkle mouth\">\n",
+				"content_text": "A well and truly spent Christmas Day. Time for a long winters nap.\n\n<img src=\"https://cdn.uploads.micro.blog/5332/2023/7d65f6af42.jpg\" width=\"450\" height=\"600\" alt=\"Christmas cookie decorated with yellow frosting, tree eyes, and sprinkle mouth\">\n",
 				"date_published": "2023-12-25T18:26:03-05:00",
 				"url": "https://blog.gregmoore.me/2023/12/25/a-well-and.html",
 				"tags": ["photos","journal"]
