@@ -7,6 +7,69 @@
 	"items": [
 		
 			{
+				"id": "http://gregmoore.micro.blog/2024/01/16/the-kids-school.html",
+				
+				"content_html": "<p>The kid’s school has been cancelled for a second day due to single-digit temperatures. Walking out to get our mail quickly had me agreeing with their decision.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "The kid’s school has been cancelled for a second day due to single-digit temperatures. Walking out to get our mail quickly had me agreeing with their decision.\n\n<img src=\"uploads/2024/c2d071a7a1.jpg\" width=\"450\" height=\"600\" alt=\"Back of multiple, single-story condos covered in snow with orange sunset reflecting off of their roofs\">\n",
+				"date_published": "2024-01-16T17:21:10-05:00",
+				"url": "https://blog.gregmoore.me/2024/01/16/the-kids-school.html",
+				"tags": ["photos","journal"]
+			},
+			{
+				"id": "http://gregmoore.micro.blog/2024/01/14/our-local-birds.html",
+				
+				"content_html": "<p>Our local birds (apparently, starlings) made the most of the sun with today’s single-digit temperatures.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Our local birds (apparently, starlings) made the most of the sun with today’s single-digit temperatures.\n\n<img src=\"uploads/2024/4431a0fa22.jpg\" width=\"400\" height=\"600\" alt=\"Snow covered multi-story house with many birds huddling together in the sun on the roof\">\n",
+				"date_published": "2024-01-14T21:16:39-05:00",
+				"url": "https://blog.gregmoore.me/2024/01/14/our-local-birds.html",
+				"tags": ["photos"]
+			},
+			{
+				"id": "http://gregmoore.micro.blog/2024/01/14/start-with-a.html",
+				
+				"content_html": "<blockquote>\n<p>Start with a relatively small number of people to follow, see who they’re linking to, try following some of those people, and keep branching out from there. And always pruning and maintaining.</p>\n</blockquote>\n<ul>\n<li>Pete Brown, <a href=\"https://explodingcomma.com/2024/01/14/maybe-good-things.html\">Exploding Comma</a></li>\n</ul>\n<p>A tried and true recipe for discovering, <em>and keeping</em>, people you enjoy reading. My decades old RSS subscriptions and bookmarks are as reliable as the day I added them because I didn’t offload them to aggregators, feeds, or apps.</p>\n",
+				"content_text": "> Start with a relatively small number of people to follow, see who they’re linking to, try following some of those people, and keep branching out from there. And always pruning and maintaining.\n\n- Pete Brown, [Exploding Comma](https://explodingcomma.com/2024/01/14/maybe-good-things.html)\n\nA tried and true recipe for discovering, _and keeping_, people you enjoy reading. My decades old RSS subscriptions and bookmarks are as reliable as the day I added them because I didn’t offload them to aggregators, feeds, or apps.\n",
+				"date_published": "2024-01-14T09:35:46-05:00",
+				"url": "https://blog.gregmoore.me/2024/01/14/start-with-a.html",
+				"tags": ["quotes"]
+			},
+			{
+				"id": "http://gregmoore.micro.blog/2024/01/13/we-really-miss.html",
+				
+				"content_html": "<p>We really miss being able to directly feed our local birds so it’s exciting to see that our trees are up to the task. A group of house finches came by the window while I was admiring the snow.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "We really miss being able to directly feed our local birds so it’s exciting to see that our trees are up to the task. A group of house finches came by the window while I was admiring the snow.\n\n<img src=\"uploads/2024/6d8a7f4dc6.jpg\" width=\"400\" height=\"600\" alt=\"Female house finch eating red berries from a snow covered tree\">\n",
+				"date_published": "2024-01-13T08:53:52-05:00",
+				"url": "https://blog.gregmoore.me/2024/01/13/we-really-miss.html",
+				"tags": ["photos","journal","birds"]
+			},
+			{
+				"id": "http://gregmoore.micro.blog/2024/01/12/as-much-as.html",
+				
+				"content_html": "<p>As much as I love the snow, I’m glad I only have a cat. 😸</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "As much as I love the snow, I’m glad I only have a cat. 😸\n\n<img src=\"uploads/2024/777ca55741.jpg\" width=\"600\" height=\"400\" alt=\"Snow covered neighborhood street with man in an orange coat walking his orange dog towards a red fire hydrant \">\n",
+				"date_published": "2024-01-12T11:30:26-05:00",
+				"url": "https://blog.gregmoore.me/2024/01/12/as-much-as.html",
+				"tags": ["photos","journal"]
+			},
+			{
+				"id": "http://gregmoore.micro.blog/2024/01/11/in-spite-of.html",
+				
+				"content_html": "<blockquote>\n<p>In spite of great leaps forward, hardware is becoming faster more slowly than software is becoming slower.</p>\n</blockquote>\n<ul>\n<li>Niklaus Wirth, creator of Pascal (1934-2024)</li>\n</ul>\n<p>It’s always sad when someone so wise leaves this world.</p>\n",
+				"content_text": "> In spite of great leaps forward, hardware is becoming faster more slowly than software is becoming slower.\n\n- Niklaus Wirth, creator of Pascal (1934-2024)\n\nIt’s always sad when someone so wise leaves this world.\n",
+				"date_published": "2024-01-11T18:00:29-05:00",
+				"url": "https://blog.gregmoore.me/2024/01/11/in-spite-of.html",
+				"tags": ["quotes"]
+			},
+			{
+				"id": "http://gregmoore.micro.blog/2024/01/11/one-more-walk.html",
+				
+				"content_html": "<p>One more walk in the winter wonderland before it all melts in tonight’s warm-up.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "One more walk in the winter wonderland before it all melts in tonight’s warm-up.\n\n<img src=\"uploads/2024/9aa5d84dde.jpg\" width=\"600\" height=\"400\" alt=\"Perspective view down a snow covered sidewalk flanked by large trees\">\n",
+				"date_published": "2024-01-11T14:58:39-05:00",
+				"url": "https://blog.gregmoore.me/2024/01/11/one-more-walk.html",
+				"tags": ["photos"]
+			},
+			{
 				"id": "http://gregmoore.micro.blog/2024/01/11/started-the-day.html",
 				
 				"content_html": "<p>Started the day with an appreciative walk in the newly falling snow.</p>\n<!-- raw HTML omitted -->\n",
