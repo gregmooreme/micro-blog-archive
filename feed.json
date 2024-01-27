@@ -7,10 +7,55 @@
 	"items": [
 		
 			{
+				"id": "http://gregmoore.micro.blog/2024/01/27/books.html",
+				
+				"content_html": "<p>BOOKS!</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "BOOKS!\n\n<img src=\"uploads/2024/31ef2f5487.jpg\" width=\"450\" height=\"600\" alt=\"Bookshop window lit by a red neon sign reading “books”\">\n",
+				"date_published": "2024-01-27T08:57:28-05:00",
+				"url": "https://blog.gregmoore.me/2024/01/27/books.html",
+				"tags": ["photos"]
+			},
+			{
+				"id": "http://gregmoore.micro.blog/2024/01/26/misty-moods-today.html",
+				
+				"content_html": "<p>Misty moods today</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Misty moods today\n\n<img src=\"uploads/2024/81299d4981.jpg\" width=\"600\" height=\"380\" alt=\"Farmhouse with large leafless trees hidden in fog\">\n",
+				"date_published": "2024-01-26T10:55:44-05:00",
+				"url": "https://blog.gregmoore.me/2024/01/26/misty-moods-today.html",
+				"tags": ["photos","journal"]
+			},
+			{
+				"id": "http://gregmoore.micro.blog/2024/01/24/the-more-of.html",
+				
+				"content_html": "<blockquote>\n<p>The more of a firehose you have spraying in your face, the less time and attention you have to focus on what any of it actually means and how it all fits together.</p>\n</blockquote>\n<ul>\n<li>Pete Brown, <a href=\"https://explodingcomma.com/2024/01/24/read-less-news.html\">Read less news, be more informed</a></li>\n</ul>\n<p>I keep finding myself nodding my head while reading Pete’s blog. This post was no exception.</p>\n",
+				"content_text": "> The more of a firehose you have spraying in your face, the less time and attention you have to focus on what any of it actually means and how it all fits together.\n\n- Pete Brown, [Read less news, be more informed](https://explodingcomma.com/2024/01/24/read-less-news.html)\n\nI keep finding myself nodding my head while reading Pete’s blog. This post was no exception.\n",
+				"date_published": "2024-01-24T21:02:57-05:00",
+				"url": "https://blog.gregmoore.me/2024/01/24/the-more-of.html",
+				"tags": ["quotes"]
+			},
+			{
+				"id": "http://gregmoore.micro.blog/2024/01/23/it-never-ceases.html",
+				
+				"content_html": "<blockquote>\n<p>It never ceases to amaze me that tech bros want to build worlds created in dystopian novels and expect a different outcome. […] It’s exhausting to go through hype cycles of how yet another new technology built based on a dystopian novel is rolling out regardless of the harms or bias that it might trigger. It’s painful to think about how much capital is spent chasing pyramid schemes and illusions rather than solving actual problems.</p>\n</blockquote>\n<ul>\n<li>Dana Boyd, <a href=\"http://www.zephoria.org/thoughts/archives/2023/08/06/still-trying-to-ignore-the-metaverse.html\">Still Trying to Ignore the Metaverse</a></li>\n</ul>\n<p>(This article was originally linked by Adam Tinworth <a href=\"https://micro.blog/adders\">@adders</a>, a journalist you should follow.)</p>\n",
+				"content_text": "> It never ceases to amaze me that tech bros want to build worlds created in dystopian novels and expect a different outcome. […] It’s exhausting to go through hype cycles of how yet another new technology built based on a dystopian novel is rolling out regardless of the harms or bias that it might trigger. It’s painful to think about how much capital is spent chasing pyramid schemes and illusions rather than solving actual problems.\n\n- Dana Boyd, [Still Trying to Ignore the Metaverse](http://www.zephoria.org/thoughts/archives/2023/08/06/still-trying-to-ignore-the-metaverse.html)\n\n(This article was originally linked by Adam Tinworth [@adders](https://micro.blog/adders), a journalist you should follow.)\n",
+				"date_published": "2024-01-23T08:54:29-05:00",
+				"url": "https://blog.gregmoore.me/2024/01/23/it-never-ceases.html",
+				"tags": ["quotes"]
+			},
+			{
+				"id": "http://gregmoore.micro.blog/2024/01/22/more-robins-enjoying.html",
+				
+				"content_html": "<p>More robins enjoying the berries.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "More robins enjoying the berries.\n\n<img src=\"uploads/2024/c7c550a715.jpg\" width=\"399\" height=\"600\" alt=\"Robin standing in a tree with its back turned but its head looking back\">\n",
+				"date_published": "2024-01-22T22:20:19-05:00",
+				"url": "https://blog.gregmoore.me/2024/01/22/more-robins-enjoying.html",
+				"tags": ["photos","birds"]
+			},
+			{
 				"id": "http://gregmoore.micro.blog/2024/01/22/the-ugliest-photo.html",
 				
 				"content_html": "<p>The ugliest photo of a most beautiful sunset. The colors in the sky were so intensely blue and pink that the camera sensor couldn’t cope with them all. The disgusting HDR outlined trees, the loss of textures, the dark foreground… sometimes the camera you have with you isn’t up to the task.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "The ugliest photo of a most beautiful sunset. The colors in the sky were so intensely blue and pink that the camera sensor couldn’t cope with them all. The disgusting HDR outlined trees, the loss of textures, the dark foreground… sometimes the camera you have with you isn’t up to the task.\n\n<img src=\"uploads/2024/9dbfe61e8c.jpg\" width=\"600\" height=\"450\" alt=\"Saturated blue and pink sunset through winter trees with snow covered deck in the foreground. The colors and light look unnatural as the camera struggles to capture them\">\n",
+				"content_text": "The ugliest photo of a most beautiful sunset. The colors in the sky were so intensely blue and pink that the camera sensor couldn’t cope with them all. The disgusting HDR outlined trees, the loss of textures, the dark foreground… sometimes the camera you have with you isn’t up to the task.\n\n<img src=\"https://cdn.uploads.micro.blog/5332/2024/9dbfe61e8c.jpg\" width=\"600\" height=\"450\" alt=\"Saturated blue and pink sunset through winter trees with snow covered deck in the foreground. The colors and light look unnatural as the camera struggles to capture them\">\n",
 				"date_published": "2024-01-22T08:03:23-05:00",
 				"url": "https://blog.gregmoore.me/2024/01/22/the-ugliest-photo.html",
 				"tags": ["photos"]
@@ -27,7 +72,7 @@
 				"id": "http://gregmoore.micro.blog/2024/01/19/so-happy-to.html",
 				
 				"content_html": "<p>So happy to have more bird friends stopping by to take advantage of the winter berries behind our house. It makes the winter less bleak to have them fluttering about.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "So happy to have more bird friends stopping by to take advantage of the winter berries behind our house. It makes the winter less bleak to have them fluttering about.\n\n<img src=\"uploads/2024/f4fc52ff11.jpg\" width=\"600\" height=\"400\" alt=\"Two robins sitting in a low tree in the snow\">\n",
+				"content_text": "So happy to have more bird friends stopping by to take advantage of the winter berries behind our house. It makes the winter less bleak to have them fluttering about.\n\n<img src=\"https://cdn.uploads.micro.blog/5332/2024/f4fc52ff11.jpg\" width=\"600\" height=\"400\" alt=\"Two robins sitting in a low tree in the snow\">\n",
 				"date_published": "2024-01-19T19:57:59-05:00",
 				"url": "https://blog.gregmoore.me/2024/01/19/so-happy-to.html",
 				"tags": ["photos","journal","birds"]
@@ -36,7 +81,7 @@
 				"id": "http://gregmoore.micro.blog/2024/01/18/the-house-is.html",
 				
 				"content_html": "<p>The house is asleep<br>\nThe cat all curled up and warm<br>\nI watch the snow fall</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "The house is asleep  \nThe cat all curled up and warm  \nI watch the snow fall\n\n\n<img src=\"uploads/2024/6184c5921e.jpg\" width=\"600\" height=\"450\" alt=\"Rolling mound of newly fallen snow\">\n",
+				"content_text": "The house is asleep  \nThe cat all curled up and warm  \nI watch the snow fall\n\n\n<img src=\"https://cdn.uploads.micro.blog/5332/2024/6184c5921e.jpg\" width=\"600\" height=\"450\" alt=\"Rolling mound of newly fallen snow\">\n",
 				"date_published": "2024-01-18T22:13:37-05:00",
 				"url": "https://blog.gregmoore.me/2024/01/18/the-house-is.html",
 				"tags": ["photos","journal"]
@@ -54,7 +99,7 @@
 				"id": "http://gregmoore.micro.blog/2024/01/17/continuing-the-tradition.html",
 				
 				"content_html": "<p>Continuing the tradition of making snow friends to check in on us from the window.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Continuing the tradition of making snow friends to check in on us from the window.\n\n<img src=\"uploads/2024/a2aefa91bd.jpg\" width=\"400\" height=\"600\" alt=\"A person turned away from the camera wearing a black hooded coat makes small snowmen along the windowsill as more snow falls in the foreground\">\n",
+				"content_text": "Continuing the tradition of making snow friends to check in on us from the window.\n\n<img src=\"https://cdn.uploads.micro.blog/5332/2024/a2aefa91bd.jpg\" width=\"400\" height=\"600\" alt=\"A person turned away from the camera wearing a black hooded coat makes small snowmen along the windowsill as more snow falls in the foreground\">\n",
 				"date_published": "2024-01-17T10:25:54-05:00",
 				"url": "https://blog.gregmoore.me/2024/01/17/continuing-the-tradition.html",
 				"tags": ["photos","journal"]
