@@ -7,10 +7,73 @@
 	"items": [
 		
 			{
+				"id": "http://gregmoore.micro.blog/2024/02/01/i-think-ill.html",
+				
+				"content_html": "<p>I think I’ll join the cat under there where it’s warm and dark.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "I think I’ll join the cat under there where it’s warm and dark.\n\n<img src=\"uploads/2024/027cf9eb23.jpg\" width=\"450\" height=\"600\" alt=\"Cat head peeking out from under furniture with a multi-colored carpet underneath \">\n",
+				"date_published": "2024-02-01T17:31:26-05:00",
+				"url": "https://blog.gregmoore.me/2024/02/01/i-think-ill.html",
+				"tags": ["photos","journal","cats"]
+			},
+			{
+				"id": "http://gregmoore.micro.blog/2024/01/31/mondays-glorious-snows.html",
+				
+				"content_html": "<p>Monday’s glorious snows are melting tonight. Everything a patchwork of ice and bare patches. The only ones happy are drivers along the roads.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Monday’s glorious snows are melting tonight. Everything a patchwork of ice and bare patches. The only ones happy are drivers along the roads.\n\n<img src=\"uploads/2024/7f6f6afcc2.jpg\" width=\"600\" height=\"449\" alt=\"Foggy evening view of a hill covered in melting snow with a black iron fence in front\">\n",
+				"date_published": "2024-01-31T22:33:16-05:00",
+				"url": "https://blog.gregmoore.me/2024/01/31/mondays-glorious-snows.html",
+				"tags": ["photos","journal"]
+			},
+			{
+				"id": "http://gregmoore.micro.blog/2024/01/30/a-glorious-snow.html",
+				
+				"content_html": "<p>A glorious snow day. ☃️</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "A glorious snow day. ☃️\n\n<img src=\"uploads/2024/db1bd49e1e.jpg\" width=\"450\" height=\"600\" alt=\"Snow covered neighborhood\">\n",
+				"date_published": "2024-01-30T12:07:13-05:00",
+				"url": "https://blog.gregmoore.me/2024/01/30/a-glorious-snow.html",
+				"tags": ["photos","journal"]
+			},
+			{
+				"id": "http://gregmoore.micro.blog/2024/01/29/ignorance-is-a.html",
+				
+				"content_html": "<blockquote>\n<p>Ignorance is a necessary condition for an adventure and often essential to its success.</p>\n</blockquote>\n<ul>\n<li>Sam Toperoff, <a href=\"https://sundaylongread.com/2024/01/23/in-the-land-of-the-very-old/\">In the Land of the Very Old</a></li>\n</ul>\n",
+				"content_text": "> Ignorance is a necessary condition for an adventure and often essential to its success.\n\n- Sam Toperoff, [In the Land of the Very Old](https://sundaylongread.com/2024/01/23/in-the-land-of-the-very-old/)\n",
+				"date_published": "2024-01-29T08:59:35-05:00",
+				"url": "https://blog.gregmoore.me/2024/01/29/ignorance-is-a.html",
+				"tags": ["quotes"]
+			},
+			{
+				"id": "http://gregmoore.micro.blog/2024/01/28/you-do-not.html",
+				
+				"content_html": "<blockquote>\n<p>You do not have to understand what the children are doing! Children have fundamentally different priorities than you, and you can simply be bemused by whatever they are up to. Maybe you can think a little bit about what you were doing at that age and chuckle to yourself.</p>\n</blockquote>\n<ul>\n<li>Elizabeth Lopatto, <a href=\"https://www.theverge.com/24052069/gen-z-tiktok-aging-fear-millennials\">The Verge</a></li>\n</ul>\n",
+				"content_text": "> You do not have to understand what the children are doing! Children have fundamentally different priorities than you, and you can simply be bemused by whatever they are up to. Maybe you can think a little bit about what you were doing at that age and chuckle to yourself.\n\n- Elizabeth Lopatto, [The Verge](https://www.theverge.com/24052069/gen-z-tiktok-aging-fear-millennials)\n",
+				"date_published": "2024-01-28T17:40:00-05:00",
+				"url": "https://blog.gregmoore.me/2024/01/28/you-do-not.html",
+				"tags": ["quotes"]
+			},
+			{
+				"id": "http://gregmoore.micro.blog/2024/01/28/my-lovely-wife.html",
+				
+				"content_html": "<p>My lovely wife doesn’t want my reading list to be empty.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "My lovely wife doesn’t want my reading list to be empty.\n\n<img src=\"https://cdn.uploads.micro.blog/5332/2024/578e8df11c.jpg\" width=\"450\" height=\"600\" alt=\"Wooden with two books on top: legends and lattes and bookshops and bonedust\">\n",
+				"date_published": "2024-01-28T11:57:23-05:00",
+				"url": "https://blog.gregmoore.me/2024/01/28/my-lovely-wife.html",
+				"tags": ["photos","books"]
+			},
+			{
+				"id": "http://gregmoore.micro.blog/2024/01/27/keeping-warm-on.html",
+				
+				"content_html": "<p>Keeping warm on a Caturday morning.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Keeping warm on a Caturday morning.\n\n<img src=\"https://cdn.uploads.micro.blog/5332/2024/f3b671719d.jpg\" width=\"400\" height=\"600\" alt=\"Cat sticking head out of a foam bed\">\n",
+				"date_published": "2024-01-27T10:15:55-05:00",
+				"url": "https://blog.gregmoore.me/2024/01/27/keeping-warm-on.html",
+				"tags": ["photos","journal","cats"]
+			},
+			{
 				"id": "http://gregmoore.micro.blog/2024/01/27/books.html",
 				
 				"content_html": "<p>BOOKS!</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "BOOKS!\n\n<img src=\"uploads/2024/31ef2f5487.jpg\" width=\"450\" height=\"600\" alt=\"Bookshop window lit by a red neon sign reading “books”\">\n",
+				"content_text": "BOOKS!\n\n<img src=\"https://cdn.uploads.micro.blog/5332/2024/31ef2f5487.jpg\" width=\"450\" height=\"600\" alt=\"Bookshop window lit by a red neon sign reading “books”\">\n",
 				"date_published": "2024-01-27T08:57:28-05:00",
 				"url": "https://blog.gregmoore.me/2024/01/27/books.html",
 				"tags": ["photos"]
@@ -19,7 +82,7 @@
 				"id": "http://gregmoore.micro.blog/2024/01/26/misty-moods-today.html",
 				
 				"content_html": "<p>Misty moods today</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Misty moods today\n\n<img src=\"uploads/2024/81299d4981.jpg\" width=\"600\" height=\"380\" alt=\"Farmhouse with large leafless trees hidden in fog\">\n",
+				"content_text": "Misty moods today\n\n<img src=\"https://cdn.uploads.micro.blog/5332/2024/81299d4981.jpg\" width=\"600\" height=\"380\" alt=\"Farmhouse with large leafless trees hidden in fog\">\n",
 				"date_published": "2024-01-26T10:55:44-05:00",
 				"url": "https://blog.gregmoore.me/2024/01/26/misty-moods-today.html",
 				"tags": ["photos","journal"]
@@ -46,7 +109,7 @@
 				"id": "http://gregmoore.micro.blog/2024/01/22/more-robins-enjoying.html",
 				
 				"content_html": "<p>More robins enjoying the berries.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "More robins enjoying the berries.\n\n<img src=\"uploads/2024/c7c550a715.jpg\" width=\"399\" height=\"600\" alt=\"Robin standing in a tree with its back turned but its head looking back\">\n",
+				"content_text": "More robins enjoying the berries.\n\n<img src=\"https://cdn.uploads.micro.blog/5332/2024/c7c550a715.jpg\" width=\"399\" height=\"600\" alt=\"Robin standing in a tree with its back turned but its head looking back\">\n",
 				"date_published": "2024-01-22T22:20:19-05:00",
 				"url": "https://blog.gregmoore.me/2024/01/22/more-robins-enjoying.html",
 				"tags": ["photos","birds"]
