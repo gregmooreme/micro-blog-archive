@@ -7,6 +7,41 @@
 	"items": [
 		
 			{
+				"id": "http://gregmoore.micro.blog/2024/02/06/i-really-hope.html",
+				
+				"content_html": "<p>I really hope that <a href=\"https://lucybellwood.com/\">Lucy Bellwood</a> is doing ok. When people you’re rooting for abruptly stop blogging, it’s concerning.</p>\n",
+				"content_text": "I really hope that [Lucy Bellwood](https://lucybellwood.com/) is doing ok. When people you’re rooting for abruptly stop blogging, it’s concerning.\n",
+				"date_published": "2024-02-06T21:19:17-05:00",
+				"url": "https://blog.gregmoore.me/2024/02/06/i-really-hope.html"
+			},
+			{
+				"id": "http://gregmoore.micro.blog/2024/02/06/the-firebird-must.html",
+				
+				"content_html": "<p>The firebird must have been released from its cage this morning as cotton candy colors intensely saturated the clouds. Its passing was short but I was glad to witnesss and enjoy it.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "The firebird must have been released from its cage this morning as cotton candy colors intensely saturated the clouds. Its passing was short but I was glad to witnesss and enjoy it.\n\n<img src=\"uploads/2024/cb1b6112ee.jpg\" width=\"600\" height=\"450\" alt=\"bright pink clouds over an early morning blue sky with rooftop chimneys in front\">\n",
+				"date_published": "2024-02-06T08:58:57-05:00",
+				"url": "https://blog.gregmoore.me/2024/02/06/the-firebird-must.html",
+				"tags": ["photos","journal"]
+			},
+			{
+				"id": "http://gregmoore.micro.blog/2024/02/05/the-web-is.html",
+				
+				"content_html": "<blockquote>\n<p>The web is being littered with AI-generated content. Looking for a recipe? Advice on a medical issue? Perhaps you’re troubleshooting. You read a few paragraphs of the article before it hits you: a human definitely didn’t write this. The website you’re looking at is somehow worse than a recipe blog with a long story and ads, it’s an AI-generated recipe blog with a long story and ads.</p>\n<p>Therefore, I believe it’s everyone’s imperative to genuinely invest in making websites again. For ourselves, for our businesses, for our interests.</p>\n</blockquote>\n<ul>\n<li>Louie Mantia, <a href=\"https://lmnt.me/blog/make-a-damn-website.html\">Make A Damn Website</a></li>\n</ul>\n",
+				"content_text": "> The web is being littered with AI-generated content. Looking for a recipe? Advice on a medical issue? Perhaps you’re troubleshooting. You read a few paragraphs of the article before it hits you: a human definitely didn’t write this. The website you’re looking at is somehow worse than a recipe blog with a long story and ads, it’s an AI-generated recipe blog with a long story and ads.\n> \n> Therefore, I believe it’s everyone’s imperative to genuinely invest in making websites again. For ourselves, for our businesses, for our interests.\n\n- Louie Mantia, [Make A Damn Website](https://lmnt.me/blog/make-a-damn-website.html)\n",
+				"date_published": "2024-02-05T13:24:14-05:00",
+				"url": "https://blog.gregmoore.me/2024/02/05/the-web-is.html",
+				"tags": ["quotes"]
+			},
+			{
+				"id": "http://gregmoore.micro.blog/2024/02/02/jedi-large-language.html",
+				"title": "Jedi Large Language Models",
+				"content_html": "<p>While listening to a podcast discussing Star Wars: Attack of The Clones, arguably the worst of all the films, one host points out a hidden gem amongst the mess. One of the main characters, Obi-wan, visits the Jedi archives (a sci-fi private library) looking for information on a new planet that he just learned exists.</p>\n<p><img src=\"https://blog.gregmoore.me/uploads/2024/4d46cea499.jpg\" alt=\"Jedi Archives\"></p>\n<p>Instead of helpful information, the archivist running the place tells him that they have no record of that planet. Obi-wan insists that they must be mistaken as he’s just spoken with someone who’s been there. The archivist responds that, “If it’s not in the Jedi archives, then it doesn’t exist.”</p>\n<p>As a scene, this just makes a mystery more mysterious, pushing the plot forward. As a social commentary, this old scene raises a very current issue:</p>\n<blockquote>\n<p>These digital archives have created a digital reality for these people. If it can’t be called up at your fingertips to prove that something is real, its reality becomes questionable because that archive has become the reality and not actual reality.</p>\n<p>And this is one of the things that indicates this society is declining. Their records are no longer under their own control. They’ve outsourced memory to things that can be hacked. To things that can be stolen and altered.</p>\n</blockquote>\n<p>This is a problem that feels more science than fiction. How many present day records have we outsourced to systems beyond our control? How much of the current reality is being questioned by people believing everything is altered?<br>\nWhat are we denying the existence of simply because the AI flavor of the week can’t find it?</p>\n",
+				"content_text": "While listening to a podcast discussing Star Wars: Attack of The Clones, arguably the worst of all the films, one host points out a hidden gem amongst the mess. One of the main characters, Obi-wan, visits the Jedi archives (a sci-fi private library) looking for information on a new planet that he just learned exists. \n\n![Jedi Archives](https://blog.gregmoore.me/uploads/2024/4d46cea499.jpg)\n\nInstead of helpful information, the archivist running the place tells him that they have no record of that planet. Obi-wan insists that they must be mistaken as he’s just spoken with someone who’s been there. The archivist responds that, “If it’s not in the Jedi archives, then it doesn’t exist.”\n\nAs a scene, this just makes a mystery more mysterious, pushing the plot forward. As a social commentary, this old scene raises a very current issue:\n\n> These digital archives have created a digital reality for these people. If it can’t be called up at your fingertips to prove that something is real, its reality becomes questionable because that archive has become the reality and not actual reality.\n> \n> And this is one of the things that indicates this society is declining. Their records are no longer under their own control. They’ve outsourced memory to things that can be hacked. To things that can be stolen and altered.\n\nThis is a problem that feels more science than fiction. How many present day records have we outsourced to systems beyond our control? How much of the current reality is being questioned by people believing everything is altered?  \nWhat are we denying the existence of simply because the AI flavor of the week can’t find it?\n",
+				"date_published": "2024-02-02T21:15:25-05:00",
+				"url": "https://blog.gregmoore.me/2024/02/02/jedi-large-language.html",
+				"tags": ["journal","quotes"]
+			},
+			{
 				"id": "http://gregmoore.micro.blog/2024/02/01/i-think-ill.html",
 				
 				"content_html": "<p>I think I’ll join the cat under there where it’s warm and dark.</p>\n<!-- raw HTML omitted -->\n",
@@ -19,7 +54,7 @@
 				"id": "http://gregmoore.micro.blog/2024/01/31/mondays-glorious-snows.html",
 				
 				"content_html": "<p>Monday’s glorious snows are melting tonight. Everything a patchwork of ice and bare patches. The only ones happy are drivers along the roads.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Monday’s glorious snows are melting tonight. Everything a patchwork of ice and bare patches. The only ones happy are drivers along the roads.\n\n<img src=\"uploads/2024/7f6f6afcc2.jpg\" width=\"600\" height=\"449\" alt=\"Foggy evening view of a hill covered in melting snow with a black iron fence in front\">\n",
+				"content_text": "Monday’s glorious snows are melting tonight. Everything a patchwork of ice and bare patches. The only ones happy are drivers along the roads.\n\n<img src=\"https://cdn.uploads.micro.blog/5332/2024/7f6f6afcc2.jpg\" width=\"600\" height=\"449\" alt=\"Foggy evening view of a hill covered in melting snow with a black iron fence in front\">\n",
 				"date_published": "2024-01-31T22:33:16-05:00",
 				"url": "https://blog.gregmoore.me/2024/01/31/mondays-glorious-snows.html",
 				"tags": ["photos","journal"]
@@ -28,7 +63,7 @@
 				"id": "http://gregmoore.micro.blog/2024/01/30/a-glorious-snow.html",
 				
 				"content_html": "<p>A glorious snow day. ☃️</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "A glorious snow day. ☃️\n\n<img src=\"uploads/2024/db1bd49e1e.jpg\" width=\"450\" height=\"600\" alt=\"Snow covered neighborhood\">\n",
+				"content_text": "A glorious snow day. ☃️\n\n<img src=\"https://cdn.uploads.micro.blog/5332/2024/db1bd49e1e.jpg\" width=\"450\" height=\"600\" alt=\"Snow covered neighborhood\">\n",
 				"date_published": "2024-01-30T12:07:13-05:00",
 				"url": "https://blog.gregmoore.me/2024/01/30/a-glorious-snow.html",
 				"tags": ["photos","journal"]
