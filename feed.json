@@ -7,6 +7,33 @@
 	"items": [
 		
 			{
+				"id": "http://gregmoore.micro.blog/2024/02/22/im-up-here.html",
+				
+				"content_html": "<p>I&rsquo;m up here swirling, ass-over-tea-kettle, through a season where words fail to express what I feel or think.</p>\n",
+				"content_text": "I'm up here swirling, ass-over-tea-kettle, through a season where words fail to express what I feel or think.\n",
+				"date_published": "2024-02-22T15:00:35-05:00",
+				"url": "https://blog.gregmoore.me/2024/02/22/im-up-here.html",
+				"tags": ["journal"]
+			},
+			{
+				"id": "http://gregmoore.micro.blog/2024/02/17/theres-a-lot.html",
+				
+				"content_html": "<blockquote>\n<p>There&rsquo;s a lot of overlap between AI Bros and People Mad About Women Ghostbusters.</p>\n</blockquote>\n<ul>\n<li>Daniel Kelly, <a href=\"https://bsky.app/profile/saffroncomic.com\">bsky</a></li>\n</ul>\n",
+				"content_text": "> There's a lot of overlap between AI Bros and People Mad About Women Ghostbusters.\n\n- Daniel Kelly, [bsky](https://bsky.app/profile/saffroncomic.com)\n",
+				"date_published": "2024-02-17T09:14:42-05:00",
+				"url": "https://blog.gregmoore.me/2024/02/17/theres-a-lot.html",
+				"tags": ["quotes"]
+			},
+			{
+				"id": "http://gregmoore.micro.blog/2024/02/15/a-beautiful-snow.html",
+				
+				"content_html": "<p>A quick lunchtime hike through beautiful new snow makes the cold worth it.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "A quick lunchtime hike through beautiful new snow makes the cold worth it.\n\n<img src=\"uploads/2024/466e0a6a1f.jpg\" width=\"600\" height=\"400\" alt=\"Snow covered fur and pine trees\">\n",
+				"date_published": "2024-02-15T13:33:14-05:00",
+				"url": "https://blog.gregmoore.me/2024/02/15/a-beautiful-snow.html",
+				"tags": ["photos","journal"]
+			},
+			{
 				"id": "http://gregmoore.micro.blog/2024/02/11/i-finally-have.html",
 				
 				"content_html": "<p>I <em>finally</em> have a wide angle lens.🙌🏻 Looking forward to being able to have more choices when capturing views.</p>\n<!-- raw HTML omitted -->\n",
