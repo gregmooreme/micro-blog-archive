@@ -7,6 +7,33 @@
 	"items": [
 		
 			{
+				"id": "http://gregmoore.micro.blog/2024/02/28/the-suns-morning.html",
+				
+				"content_html": "<p>The sun’s morning reminder that no matter the cloud cover, or how bad last nights storm was, it’s still here.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "The sun’s morning reminder that no matter the cloud cover, or how bad last nights storm was, it’s still here.\n\n<img src=\"uploads/2024/20db38c2e3.jpg\" width=\"450\" height=\"600\" alt=\"Warm Sunrise behind cold storm clouds with leafless trees silhouetted in front\">\n",
+				"date_published": "2024-02-28T07:42:00-05:00",
+				"url": "https://blog.gregmoore.me/2024/02/28/the-suns-morning.html",
+				"tags": ["photos","journal"]
+			},
+			{
+				"id": "http://gregmoore.micro.blog/2024/02/25/februarys-vibe-has.html",
+				
+				"content_html": "<p>February’s vibe has been winter chills over spring sunsets.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "February’s vibe has been winter chills over spring sunsets. \n\n<img src=\"uploads/2024/e401513007.jpg\" width=\"600\" height=\"450\" alt=\"Peach colored sunset behind a small set of downtown storefronts and parked vehicles\">\n",
+				"date_published": "2024-02-25T16:15:36-05:00",
+				"url": "https://blog.gregmoore.me/2024/02/25/februarys-vibe-has.html",
+				"tags": ["photos","journal"]
+			},
+			{
+				"id": "http://gregmoore.micro.blog/2024/02/22/how-can-people.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n<blockquote>\n<p>How can people not know what beauty this is?<br>\nI’ve taken it for granted my whole life<br>\nSince the day I was born</p>\n</blockquote>\n<ul>\n<li>Neko Case</li>\n</ul>\n",
+				"content_text": "<img src=\"uploads/2024/833df38bd4.jpg\" width=\"600\" height=\"454\" alt=\"Blue clouds with orange linings as the sun sets in the low distance of leafless trees\">\n\n\n> How can people not know what beauty this is?  \nI’ve taken it for granted my whole life  \nSince the day I was born\n\n- Neko Case\n",
+				"date_published": "2024-02-22T15:07:29-05:00",
+				"url": "https://blog.gregmoore.me/2024/02/22/how-can-people.html",
+				"tags": ["photos","journal","quotes"]
+			},
+			{
 				"id": "http://gregmoore.micro.blog/2024/02/22/im-up-here.html",
 				
 				"content_html": "<p>I&rsquo;m up here swirling, ass-over-tea-kettle, through a season where words fail to express what I feel or think.</p>\n",
