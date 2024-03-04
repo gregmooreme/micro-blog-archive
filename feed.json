@@ -7,6 +7,41 @@
 	"items": [
 		
 			{
+				"id": "http://gregmoore.micro.blog/2024/03/04/we-earn-our.html",
+				
+				"content_html": "<blockquote>\n<p>“We earn our name by what we bring back from the underworld. If we have no gift, no insight, then we are often gabbling trauma rather than speaking wisdom.”</p>\n</blockquote>\n<ul>\n<li>Martin Shaw</li>\n</ul>\n<!-- raw HTML omitted -->\n",
+				"content_text": "> “We earn our name by what we bring back from the underworld. If we have no gift, no insight, then we are often gabbling trauma rather than speaking wisdom.”\n\n- Martin Shaw\n\n<img src=\"uploads/2024/d1041142a9.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"date_published": "2024-03-04T16:22:54-05:00",
+				"url": "https://blog.gregmoore.me/2024/03/04/we-earn-our.html",
+				"tags": ["photos","quotes"]
+			},
+			{
+				"id": "http://gregmoore.micro.blog/2024/02/29/my-cat-is.html",
+				
+				"content_html": "<p>My cat is under there, living her best life.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "My cat is under there, living her best life.\n\n<img src=\"uploads/2024/8cb3242e4f.jpg\" width=\"450\" height=\"600\" alt=\"Cat sleeping on a grey couch under a large blue blanket only its head is visible\">\n",
+				"date_published": "2024-02-29T10:18:18-05:00",
+				"url": "https://blog.gregmoore.me/2024/02/29/my-cat-is.html",
+				"tags": ["photos","cats"]
+			},
+			{
+				"id": "http://gregmoore.micro.blog/2024/02/29/you-can-keep.html",
+				
+				"content_html": "<p>You can keep your flying cars, I have soft close drawers and cabinets.</p>\n",
+				"content_text": "You can keep your flying cars, I have soft close drawers and cabinets.\n",
+				"date_published": "2024-02-29T08:28:02-05:00",
+				"url": "https://blog.gregmoore.me/2024/02/29/you-can-keep.html",
+				"tags": ["journal"]
+			},
+			{
+				"id": "http://gregmoore.micro.blog/2024/02/28/techs-obsession-with.html",
+				
+				"content_html": "<p>Tech&rsquo;s obsession with <em>removing friction</em> has outlived its use when &ldquo;do a thing and get out of the way&rdquo; is twisted into &ldquo;use it mindlessly.&rdquo; Friction can be useful. It should be a little harder to be distracted while I’m eating dinner with family, hanging out with friends, or enjoying hobbies. It’s not about ditching tech, it is about doing a thing on purpose.</p>\n",
+				"content_text": "Tech's obsession with *removing friction* has outlived its use when \"do a thing and get out of the way\" is twisted into \"use it mindlessly.\" Friction can be useful. It should be a little harder to be distracted while I’m eating dinner with family, hanging out with friends, or enjoying hobbies. It’s not about ditching tech, it is about doing a thing on purpose.\n",
+				"date_published": "2024-02-28T11:33:35-05:00",
+				"url": "https://blog.gregmoore.me/2024/02/28/techs-obsession-with.html"
+			},
+			{
 				"id": "http://gregmoore.micro.blog/2024/02/28/the-suns-morning.html",
 				
 				"content_html": "<p>The sun’s morning reminder that no matter the cloud cover, or how bad last nights storm was, it’s still here.</p>\n<!-- raw HTML omitted -->\n",
