@@ -7,6 +7,33 @@
 	"items": [
 		
 			{
+				"id": "http://gregmoore.micro.blog/2024/03/10/in-a-confusing.html",
+				
+				"content_html": "<p>In a confusing turn in an unseasonably warm winter, snow has returned.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "In a confusing turn in an unseasonably warm winter, snow has returned.\n\n<img src=\"uploads/2024/05a9141485.jpg\" width=\"600\" height=\"400\" alt=\"Snow dusted rooftop with rusty heating pipe sticking up on right\">\n",
+				"date_published": "2024-03-10T08:17:06-05:00",
+				"url": "https://blog.gregmoore.me/2024/03/10/in-a-confusing.html",
+				"tags": ["photos","journal"]
+			},
+			{
+				"id": "http://gregmoore.micro.blog/2024/03/06/one-of-the.html",
+				
+				"content_html": "<p>🦆 One of the mallard duck couples have been playing Batman and Robin on the rooftops lately.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "🦆 One of the mallard duck couples have been playing Batman and Robin on the rooftops lately.\n\n<img src=\"uploads/2024/a2649d396f.jpg\" width=\"600\" height=\"400\" alt=\"Closeup of a male and female mallard ducks standing on the peak of a grey rooftop\">\n",
+				"date_published": "2024-03-06T08:39:36-05:00",
+				"url": "https://blog.gregmoore.me/2024/03/06/one-of-the.html",
+				"tags": ["photos","birds"]
+			},
+			{
+				"id": "http://gregmoore.micro.blog/2024/03/05/quality-time.html",
+				
+				"content_html": "<p>Quality time</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Quality time\n\n<img src=\"uploads/2024/6c3ca0d92b.jpg\" width=\"600\" height=\"449\" alt=\"Closeup of a brown tabby cat snuggling under the chin of a white male wearing glasses\">\n",
+				"date_published": "2024-03-05T07:39:30-05:00",
+				"url": "https://blog.gregmoore.me/2024/03/05/quality-time.html",
+				"tags": ["photos","cats"]
+			},
+			{
 				"id": "http://gregmoore.micro.blog/2024/03/04/we-earn-our.html",
 				
 				"content_html": "<blockquote>\n<p>“We earn our name by what we bring back from the underworld. If we have no gift, no insight, then we are often gabbling trauma rather than speaking wisdom.”</p>\n</blockquote>\n<ul>\n<li>Martin Shaw</li>\n</ul>\n<!-- raw HTML omitted -->\n",
