@@ -7,6 +7,50 @@
 	"items": [
 		
 			{
+				"id": "http://gregmoore.micro.blog/2024/04/12/is-it-still.html",
+				
+				"content_html": "<p>Is it still a gargoyle if he’s tucked under the cornice and doesn’t help with rain?</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Is it still a gargoyle if he’s tucked under the cornice and doesn’t help with rain?\n\n<img src=\"https://cdn.uploads.micro.blog/5332/2024/a4aae18e01.jpg\" width=\"400\" height=\"600\" alt=\"Three dimensional stone decoration on the side of a building of a small human tucked under a cornice\">\n",
+				"date_published": "2024-04-12T09:54:24-04:00",
+				"url": "https://blog.gregmoore.me/2024/04/12/is-it-still.html",
+				"tags": ["photos"]
+			},
+			{
+				"id": "http://gregmoore.micro.blog/2024/04/05/true-fandom-is.html",
+				
+				"content_html": "<p><img src=\"https://cdn.uploads.micro.blog/5332/2024/carson-teva.jpg\" alt=\"Paul Sun-Hyung Lee as Carson Teva in The Mandalorian\"></p>\n<blockquote>\n<p>True fandom is sharing your love, not judging. It’s about expanding, growing, and learning. And if you’re not enjoying it, why are you a fan? I don’t see how you can call yourself a fan if you’re focused on being miserly just hoarding every scrap of knowledge, because then, when you die, it dies. You want this to go on, right?</p>\n</blockquote>\n<ul>\n<li>Paul Sun-Hyung Lee, <a href=\"https://www.theverge.com/24118292/paul-sun-hyung-lee-avatar-mandalorian-ahsoka-interview\">The Verge interview</a></li>\n</ul>\n",
+				"content_text": "![Paul Sun-Hyung Lee as Carson Teva in The Mandalorian](https://cdn.uploads.micro.blog/5332/2024/carson-teva.jpg)\n\n> True fandom is sharing your love, not judging. It’s about expanding, growing, and learning. And if you’re not enjoying it, why are you a fan? I don’t see how you can call yourself a fan if you’re focused on being miserly just hoarding every scrap of knowledge, because then, when you die, it dies. You want this to go on, right?\n\n- Paul Sun-Hyung Lee, [The Verge interview](https://www.theverge.com/24118292/paul-sun-hyung-lee-avatar-mandalorian-ahsoka-interview)\n",
+				"date_published": "2024-04-05T09:34:16-04:00",
+				"url": "https://blog.gregmoore.me/2024/04/05/true-fandom-is.html",
+				"tags": ["quotes"]
+			},
+			{
+				"id": "http://gregmoore.micro.blog/2024/04/04/why-do-nearly.html",
+				
+				"content_html": "<p>Why do nearly all British tv shows spoil every episode with previews baked into their intros? I’m already watching so just start the show!</p>\n",
+				"content_text": "Why do nearly all British tv shows spoil every episode with previews baked into their intros? I’m already watching so just start the show!\n",
+				"date_published": "2024-04-04T11:40:41-04:00",
+				"url": "https://blog.gregmoore.me/2024/04/04/why-do-nearly.html"
+			},
+			{
+				"id": "http://gregmoore.micro.blog/2024/04/04/had-the-good.html",
+				
+				"content_html": "<p>Had the good fortune of spending a night at the beautiful <a href=\"https://hochelagainn.com\">Hokelaga Inn</a> in Kingston, Ontario. My daughter and I wondered why none of the ultra wealthy build their own Victorian houses?</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Had the good fortune of spending a night at the beautiful [Hokelaga Inn](https://hochelagainn.com) in Kingston, Ontario. My daughter and I wondered why none of the ultra wealthy build their own Victorian houses?\n\n<img src=\"https://cdn.uploads.micro.blog/5332/2024/43b9596b0f.jpg\" width=\"600\" height=\"400\" alt=\"Exterior of a large multistory Victorian house with red brickwork and ornate white and green decoration named the Hochelaga Inn\">\n",
+				"date_published": "2024-04-04T07:52:13-04:00",
+				"url": "https://blog.gregmoore.me/2024/04/04/had-the-good.html",
+				"tags": ["photos","journal"]
+			},
+			{
+				"id": "http://gregmoore.micro.blog/2024/04/03/my-spring-music.html",
+				
+				"content_html": "<p>My <a href=\"https://blog.gregmoore.me/music\">spring music recommendations</a> may be late but I already have three albums on it.</p>\n",
+				"content_text": "My [spring music recommendations](https://blog.gregmoore.me/music) may be late but I already have three albums on it.\n",
+				"date_published": "2024-04-03T13:31:30-04:00",
+				"url": "https://blog.gregmoore.me/2024/04/03/my-spring-music.html",
+				"tags": ["music"]
+			},
+			{
 				"id": "http://gregmoore.micro.blog/2024/03/30/no-matter-what.html",
 				
 				"content_html": "<blockquote>\n<p>No matter what you&rsquo;re doing, it can be something positive or negative, if you can&rsquo;t say stop, bad things will happen. Try to go for a run, and don&rsquo;t stop. Ever. Or try to drink water, and don&rsquo;t stop. Ever.</p>\n</blockquote>\n<ul>\n<li>Manuel Moreale, <a href=\"https://manuelmoreale.com/growth-is-a-mind-cancer\">Growth is a mind cancer</a></li>\n</ul>\n<p>Constant growth is a human-created cult that continues to harm the world and the life attempting to thrive within it. Even trees and mountains know there’s a time to stop.</p>\n",
