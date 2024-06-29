@@ -7,6 +7,24 @@
 	"items": [
 		
 			{
+				"id": "http://gregmoore.micro.blog/2024/06/28/colors-after-the.html",
+				
+				"content_html": "<p>Colors after the storm.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Colors after the storm. \n\n<img src=\"uploads/2024/1354ef5ff3.jpg\" width=\"600\" height=\"400\" alt=\"Tall storm clouds with sunset gradient colors of dark red to yellow\">\n",
+				"date_published": "2024-06-28T21:41:10-04:00",
+				"url": "https://blog.gregmoore.me/2024/06/28/colors-after-the.html",
+				"tags": ["photos","journal"]
+			},
+			{
+				"id": "http://gregmoore.micro.blog/2024/06/25/the-most-intense.html",
+				
+				"content_html": "<p>The most intense sunset colors lasted less than a minute but I managed to catch them.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "The most intense sunset colors lasted less than a minute but I managed to catch them.\n\n<img src=\"uploads/2024/b3f6fb56b8.jpg\" width=\"600\" height=\"400\" alt=\"Silhouettes of trees with Intense sunset colors behind them \">\n",
+				"date_published": "2024-06-25T15:46:39-04:00",
+				"url": "https://blog.gregmoore.me/2024/06/25/the-most-intense.html",
+				"tags": ["photos"]
+			},
+			{
 				"id": "http://gregmoore.micro.blog/2024/06/23/everything-everywhere-all.html",
 				
 				"content_html": "<p><em>Everything Everywhere All at Once</em> - ★★★★★</p>\n",
