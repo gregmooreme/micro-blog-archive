@@ -7,6 +7,42 @@
 	"items": [
 		
 			{
+				"id": "http://gregmoore.micro.blog/2024/07/19/remote-work-isnt.html",
+				
+				"content_html": "<blockquote>\n<p>Remote work isn’t, by definition, better or worse than IRL work. But it is different, and it is a necessary adaptation in an era marked by climate change and the slow collapse of long-neglected infrastructures. It’s past time to engage with its flaws directly, instead of always harking back to a fabricated office history we never lived in and cannot return to.</p>\n</blockquote>\n<ul>\n<li>Mandy Brown, <a href=\"https://aworkinglibrary.com/writing/official-myths\">Official Myths</a></li>\n</ul>\n<p>I can’t overstate how beneficial working fully remote for the past four years has been for myself and my family.</p>\n",
+				"content_text": "> Remote work isn’t, by definition, better or worse than IRL work. But it is different, and it is a necessary adaptation in an era marked by climate change and the slow collapse of long-neglected infrastructures. It’s past time to engage with its flaws directly, instead of always harking back to a fabricated office history we never lived in and cannot return to.\n\n- Mandy Brown, [Official Myths](https://aworkinglibrary.com/writing/official-myths)\n\nI can’t overstate how beneficial working fully remote for the past four years has been for myself and my family.\n",
+				"date_published": "2024-07-19T09:29:39-04:00",
+				"url": "https://blog.gregmoore.me/2024/07/19/remote-work-isnt.html",
+				"tags": ["quotes"]
+			},
+			{
+				"id": "http://gregmoore.micro.blog/2024/07/09/poststorm-sunset.html",
+				
+				"content_html": "<p>Post-storm sunset.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Post-storm sunset.\n\n<img src=\"uploads/2024/36f07ef6de.jpg\" width=\"400\" height=\"600\" alt=\"Tree silhouettes with dark orange clouds behind them. The sky is a dark blue at sunset\">\n",
+				"date_published": "2024-07-09T07:14:16-04:00",
+				"url": "https://blog.gregmoore.me/2024/07/09/poststorm-sunset.html",
+				"tags": ["photos"]
+			},
+			{
+				"id": "http://gregmoore.micro.blog/2024/07/06/today-my-grandfather.html",
+				
+				"content_html": "<p>Today my grandfather passed away. He was my last living grandparent so now that generation has completely exited my life and my parents have no parents.</p>\n<p>Thankfully, my daughter’s grandparents are all still here. They came to celebrate her artwork being shown at the Detroit Institute of Art.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Today my grandfather passed away. He was my last living grandparent so now that generation has completely exited my life and my parents have no parents.\n\nThankfully, my daughter’s grandparents are all still here. They came to celebrate her artwork being shown at the Detroit Institute of Art.\n\n<img src=\"uploads/2024/355a88ff0c.jpg\" width=\"600\" height=\"450\" alt=\"Screen displaying a PowerPoint slide of a triptych painting\">\n",
+				"date_published": "2024-07-06T23:53:45-04:00",
+				"url": "https://blog.gregmoore.me/2024/07/06/today-my-grandfather.html",
+				"tags": ["photos","journal"]
+			},
+			{
+				"id": "http://gregmoore.micro.blog/2024/07/05/part-of-what.html",
+				
+				"content_html": "<blockquote>\n<p>Part of what makes art special is that it’s difficult to make, even with all the tools right in front of you. It takes practice, it takes skill, and every time you do it, you expand on that skill. […] Generative AI is only about the end product, but it won’t teach you anything about the process it would take to get there.</p>\n</blockquote>\n<ul>\n<li>Drew Gooden, <em>AI is Ruining the Internet</em> <a href=\"https://www.youtube.com/watch?v=UShsgCOzER4\">YouTube</a></li>\n</ul>\n<p>Gen AI is a bad middle-manager trying harder than ever to convince people that its stolen output isn’t bad.</p>\n",
+				"content_text": "> Part of what makes art special is that it’s difficult to make, even with all the tools right in front of you. It takes practice, it takes skill, and every time you do it, you expand on that skill. […] Generative AI is only about the end product, but it won’t teach you anything about the process it would take to get there.\n\n- Drew Gooden, _AI is Ruining the Internet_ [YouTube](https://www.youtube.com/watch?v=UShsgCOzER4)\n\nGen AI is a bad middle-manager trying harder than ever to convince people that its stolen output isn’t bad. \n",
+				"date_published": "2024-07-05T09:02:42-04:00",
+				"url": "https://blog.gregmoore.me/2024/07/05/part-of-what.html",
+				"tags": ["quotes"]
+			},
+			{
 				"id": "http://gregmoore.micro.blog/2024/07/04/happy-independence-day.html",
 				
 				"content_html": "<p>Happy Independence Day</p>\n<!-- raw HTML omitted -->\n",
@@ -28,7 +64,7 @@
 				"id": "http://gregmoore.micro.blog/2024/07/01/no-matter-my.html",
 				
 				"content_html": "<p>No matter my comfort level, it doesn’t compare to my cat.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "No matter my comfort level, it doesn’t compare to my cat.\n\n<img src=\"uploads/2024/2e3aac476f.jpg\" width=\"600\" height=\"450\" alt=\"tabby cat curled up on itself atop a grey sofa cushion \">\n",
+				"content_text": "No matter my comfort level, it doesn’t compare to my cat.\n\n<img src=\"https://cdn.uploads.micro.blog/5332/2024/2e3aac476f.jpg\" width=\"600\" height=\"450\" alt=\"tabby cat curled up on itself atop a grey sofa cushion \">\n",
 				"date_published": "2024-07-01T14:45:42-04:00",
 				"url": "https://blog.gregmoore.me/2024/07/01/no-matter-my.html",
 				"tags": ["photos","cats"]
@@ -37,7 +73,7 @@
 				"id": "http://gregmoore.micro.blog/2024/06/28/colors-after-the.html",
 				
 				"content_html": "<p>Colors after the storm.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Colors after the storm. \n\n<img src=\"uploads/2024/1354ef5ff3.jpg\" width=\"600\" height=\"400\" alt=\"Tall storm clouds with sunset gradient colors of dark red to yellow\">\n",
+				"content_text": "Colors after the storm. \n\n<img src=\"https://cdn.uploads.micro.blog/5332/2024/1354ef5ff3.jpg\" width=\"600\" height=\"400\" alt=\"Tall storm clouds with sunset gradient colors of dark red to yellow\">\n",
 				"date_published": "2024-06-28T21:41:10-04:00",
 				"url": "https://blog.gregmoore.me/2024/06/28/colors-after-the.html",
 				"tags": ["photos","journal"]
@@ -46,7 +82,7 @@
 				"id": "http://gregmoore.micro.blog/2024/06/25/the-most-intense.html",
 				
 				"content_html": "<p>The most intense sunset colors lasted less than a minute but I managed to catch them.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "The most intense sunset colors lasted less than a minute but I managed to catch them.\n\n<img src=\"uploads/2024/b3f6fb56b8.jpg\" width=\"600\" height=\"400\" alt=\"Silhouettes of trees with Intense sunset colors behind them \">\n",
+				"content_text": "The most intense sunset colors lasted less than a minute but I managed to catch them.\n\n<img src=\"https://cdn.uploads.micro.blog/5332/2024/b3f6fb56b8.jpg\" width=\"600\" height=\"400\" alt=\"Silhouettes of trees with Intense sunset colors behind them \">\n",
 				"date_published": "2024-06-25T15:46:39-04:00",
 				"url": "https://blog.gregmoore.me/2024/06/25/the-most-intense.html",
 				"tags": ["photos"]
