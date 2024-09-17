@@ -7,6 +7,33 @@
 	"items": [
 		
 			{
+				"id": "http://gregmoore.micro.blog/2024/09/17/we-visited-the.html",
+				
+				"content_html": "<p>We visited the outside of the newly renovated  <strong>Michigan Central Station</strong>. We wanted to visit the inside too but Ford has decided to make it totally private.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "We visited the outside of the newly renovated  **Michigan Central Station**. We wanted to visit the inside too but Ford has decided to make it totally private.\n\n<img src=\"uploads/2024/795501e742.jpg\" width=\"400\" height=\"600\" alt=\"\">\n",
+				"date_published": "2024-09-17T14:46:36-04:00",
+				"url": "https://blog.gregmoore.me/2024/09/17/we-visited-the.html",
+				"tags": ["photos"]
+			},
+			{
+				"id": "http://gregmoore.micro.blog/2024/09/11/my-wife-surprised.html",
+				
+				"content_html": "<p>My wife surprised us with absolutely fantastic Spicy Tori Ramen at <a href=\"https://imanoodles.com\">ima</a> in midtown Detroit. I spent a good deal of the meal with my eyes closed, wishing the flavors would never end.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "My wife surprised us with absolutely fantastic Spicy Tori Ramen at [ima](https://imanoodles.com) in midtown Detroit. I spent a good deal of the meal with my eyes closed, wishing the flavors would never end.\n\n<img src=\"uploads/2024/67d0388990.jpg\" width=\"450\" height=\"600\" alt=\"Bowl of Spicy Tori Ramen with a red soup spoon on a wooden table\">\n",
+				"date_published": "2024-09-11T17:38:23-04:00",
+				"url": "https://blog.gregmoore.me/2024/09/11/my-wife-surprised.html",
+				"tags": ["photos","journal"]
+			},
+			{
+				"id": "http://gregmoore.micro.blog/2024/09/07/new-skill-unlocked.html",
+				
+				"content_html": "<p>New skill unlocked</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "New skill unlocked\n\n<img src=\"uploads/2024/23e79116ec.jpg\" width=\"600\" height=\"450\" alt=\"Hand axe with its blade sunk into the middle of a wooden board with a blue painted target rings \">\n",
+				"date_published": "2024-09-07T22:11:08-04:00",
+				"url": "https://blog.gregmoore.me/2024/09/07/new-skill-unlocked.html",
+				"tags": ["photos","journal"]
+			},
+			{
 				"id": "http://gregmoore.micro.blog/2024/09/07/the-air-is.html",
 				
 				"content_html": "<p>The air is crisp and the evenings are more colorful as autumn arrives. 🍂</p>\n<!-- raw HTML omitted -->\n",
