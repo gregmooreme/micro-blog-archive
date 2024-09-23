@@ -7,6 +7,33 @@
 	"items": [
 		
 			{
+				"id": "http://gregmoore.micro.blog/2024/09/23/it-was-meatball.html",
+				
+				"content_html": "<p>It was meatball lamp night and it was good.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "It was meatball lamp night and it was good.\n\n<img src=\"uploads/2024/36f1cf009d.jpg\" width=\"600\" height=\"450\" alt=\"Yellow IKEA building corner with a red light entrance sign against a darkening sunset sky gradient of blue to orange\">\n",
+				"date_published": "2024-09-23T08:56:51-04:00",
+				"url": "https://blog.gregmoore.me/2024/09/23/it-was-meatball.html",
+				"tags": ["photos","journal"]
+			},
+			{
+				"id": "http://gregmoore.micro.blog/2024/09/20/happy-that-i.html",
+				
+				"content_html": "<p>Happy that I somehow managed to capture the moon with my camera setup that was totally not prepared to do so.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Happy that I somehow managed to capture the moon with my camera setup that was totally not prepared to do so.\n\n<img src=\"uploads/2024/df16af5ca3.jpg\" width=\"600\" height=\"400\" alt=\"Closeup of the moon on a black background\">\n",
+				"date_published": "2024-09-20T11:13:02-04:00",
+				"url": "https://blog.gregmoore.me/2024/09/20/happy-that-i.html",
+				"tags": ["photos"]
+			},
+			{
+				"id": "http://gregmoore.micro.blog/2024/09/18/i-added-three.html",
+				
+				"content_html": "<p>I  added three new albums to my <a href=\"https://albumwhale.com/gregmoore/summer-2024\">music of summer 2024</a> playlist but, sadly, something has broken the RSS display on my site. Hopefully I can find and fix the error soon.</p>\n",
+				"content_text": "I  added three new albums to my [music of summer 2024](https://albumwhale.com/gregmoore/summer-2024) playlist but, sadly, something has broken the RSS display on my site. Hopefully I can find and fix the error soon.\n",
+				"date_published": "2024-09-18T09:19:35-04:00",
+				"url": "https://blog.gregmoore.me/2024/09/18/i-added-three.html",
+				"tags": ["WebsiteTinkering","music"]
+			},
+			{
 				"id": "http://gregmoore.micro.blog/2024/09/17/we-visited-the.html",
 				
 				"content_html": "<p>We visited the outside of the newly renovated  <strong>Michigan Central Station</strong>. We wanted to visit the inside too but Ford has decided to make it totally private.</p>\n<!-- raw HTML omitted -->\n",
