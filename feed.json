@@ -7,6 +7,33 @@
 	"items": [
 		
 			{
+				"id": "http://gregmoore.micro.blog/2024/09/30/making-my-way.html",
+				
+				"content_html": "<p>Making my way downtown</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Making my way downtown \n\n<img src=\"uploads/2024/b71132c4f0.jpg\" width=\"600\" height=\"399\" alt=\"Rusty, red steel manhole cover inset into new concrete. Engraved into the cover are the words City of Detroit water & sewage department \">\n",
+				"date_published": "2024-09-30T07:27:23-04:00",
+				"url": "https://blog.gregmoore.me/2024/09/30/making-my-way.html",
+				"tags": ["photos"]
+			},
+			{
+				"id": "http://gregmoore.micro.blog/2024/09/27/quick-my-wifes.html",
+				
+				"content_html": "<p><em>“Quick!”</em> my wife’s text message read, “<em>Run outside and look at the sky. It’s on fire.</em>”</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "_“Quick!”_ my wife’s text message read, “_Run outside and look at the sky. It’s on fire._”\n\n<img src=\"uploads/2024/c1db6560c6.jpg\" width=\"600\" height=\"450\" alt=\"Sunset over black, silhouetted trees where half of the sky is a cold steel grey and the bottom half is  extremely saturated red clouds.\">\n",
+				"date_published": "2024-09-27T23:32:56-04:00",
+				"url": "https://blog.gregmoore.me/2024/09/27/quick-my-wifes.html",
+				"tags": ["photos"]
+			},
+			{
+				"id": "http://gregmoore.micro.blog/2024/09/25/fall-weather-encourages.html",
+				
+				"content_html": "<p>Fall weather encourages exploration, even when it’s an urban view of the Ambassador Bridge.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Fall weather encourages exploration, even when it’s an urban view of the Ambassador Bridge.\n\n<img src=\"uploads/2024/10fbbd0929.jpg\" width=\"600\" height=\"400\" alt=\"Side view of the Ambassador Bridge from Detroit with tall yellow plants covering the bottom third of the image.\">\n",
+				"date_published": "2024-09-25T16:29:12-04:00",
+				"url": "https://blog.gregmoore.me/2024/09/25/fall-weather-encourages.html",
+				"tags": ["photos"]
+			},
+			{
 				"id": "http://gregmoore.micro.blog/2024/09/23/it-was-meatball.html",
 				
 				"content_html": "<p>It was meatball lamp night and it was good.</p>\n<!-- raw HTML omitted -->\n",
