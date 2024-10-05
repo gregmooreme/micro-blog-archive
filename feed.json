@@ -7,6 +7,60 @@
 	"items": [
 		
 			{
+				"id": "http://gregmoore.micro.blog/2024/10/05/finally-got-to.html",
+				
+				"content_html": "<p>Finally got to see Young Frankenstein in a proper old theater. There’s nothing like laughing with so many people.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Finally got to see Young Frankenstein in a proper old theater. There’s nothing like laughing with so many people.\n\n<img src=\"uploads/2024/65e6076123.jpg\" width=\"449\" height=\"600\" alt=\"Sunset light shining across the front of a small theater named PENN in large red letters across the top of its facade. The marquis in front reads Young Frankenstein October 3 and 4\">\n",
+				"date_published": "2024-10-05T11:22:25-04:00",
+				"url": "https://blog.gregmoore.me/2024/10/05/finally-got-to.html",
+				"tags": ["photos","journal"]
+			},
+			{
+				"id": "http://gregmoore.micro.blog/2024/10/04/inktober-day-boots.html",
+				
+				"content_html": "<p>Inktober 2024 - Day 3 - Boots</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Inktober 2024 - Day 3 - Boots\n\n<img src=\"uploads/2024/72ff0b9e3d.jpg\" width=\"449\" height=\"600\" alt=\"Dragonborn standing on one leg pulling up a boot on his other foot\">\n",
+				"date_published": "2024-10-04T23:50:18-04:00",
+				"url": "https://blog.gregmoore.me/2024/10/04/inktober-day-boots.html",
+				"tags": ["photos","drawing","Inktober-2024"]
+			},
+			{
+				"id": "http://gregmoore.micro.blog/2024/10/04/inktober-day-exotic.html",
+				
+				"content_html": "<p>Inktober 2024 - Day 4 - Exotic</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Inktober 2024 - Day 4 - Exotic\n\n<img src=\"uploads/2024/1859d5eab8.jpg\" width=\"450\" height=\"600\" alt=\"Dragonborn using a straw to drink from a cup labeled as exotic blend \">\n",
+				"date_published": "2024-10-04T23:47:27-04:00",
+				"url": "https://blog.gregmoore.me/2024/10/04/inktober-day-exotic.html",
+				"tags": ["photos","drawing","Inktober-2024"]
+			},
+			{
+				"id": "http://gregmoore.micro.blog/2024/10/02/inktober-day-discover.html",
+				
+				"content_html": "<p>Inktober 2024 - Day 2 - Discover</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Inktober 2024 - Day 2 - Discover\n\n<img src=\"uploads/2024/8ab99e9afd.jpg\" width=\"450\" height=\"600\" alt=\"Dragonborn squatting on the ground closely inspecting a small, humanoid-looking mushroom at the bottom of a log while another humanoid mushroom observes him from on top of the log\">\n",
+				"date_published": "2024-10-02T20:17:59-04:00",
+				"url": "https://blog.gregmoore.me/2024/10/02/inktober-day-discover.html",
+				"tags": ["photos","drawing","Inktober-2024"]
+			},
+			{
+				"id": "http://gregmoore.micro.blog/2024/10/01/inktober-day-backpack.html",
+				
+				"content_html": "<p>Inktober 2024 - Day 1 - Backpack</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Inktober 2024 - Day 1 - Backpack\n\n<img src=\"uploads/2024/476c0fc3f1.jpg\" width=\"450\" height=\"600\" alt=\"Black and white drawing of a Dragonborn looking back over his shoulder and pointing his thumb at a backpack he is wearing\">\n",
+				"date_published": "2024-10-01T22:11:32-04:00",
+				"url": "https://blog.gregmoore.me/2024/10/01/inktober-day-backpack.html",
+				"tags": ["photos"]
+			},
+			{
+				"id": "http://gregmoore.micro.blog/2024/10/01/alright-lets-see.html",
+				
+				"content_html": "<p>Alright, let’s see if I still have what it takes to do <a href=\"https://inktober.com/rules\">Inktober</a> this year.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Alright, let’s see if I still have what it takes to do [Inktober](https://inktober.com/rules) this year.\n\n<img src=\"uploads/2024/2743e8e8d6.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"date_published": "2024-10-01T08:10:02-04:00",
+				"url": "https://blog.gregmoore.me/2024/10/01/alright-lets-see.html",
+				"tags": ["photos","drawing","Inktober-2024"]
+			},
+			{
 				"id": "http://gregmoore.micro.blog/2024/09/30/making-my-way.html",
 				
 				"content_html": "<p>Making my way downtown</p>\n<!-- raw HTML omitted -->\n",
