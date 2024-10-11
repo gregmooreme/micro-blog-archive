@@ -7,6 +7,51 @@
 	"items": [
 		
 			{
+				"id": "http://gregmoore.micro.blog/2024/10/11/my-inktober-progress.html",
+				
+				"content_html": "<p>My Inktober progress was halted by… a different art deadline. I will have to play catch up tonight before I fall too far behind!</p>\n",
+				"content_text": "My Inktober progress was halted by… a different art deadline. I will have to play catch up tonight before I fall too far behind!\n",
+				"date_published": "2024-10-11T18:57:11-04:00",
+				"url": "https://blog.gregmoore.me/2024/10/11/my-inktober-progress.html",
+				"tags": ["Inktober-2024"]
+			},
+			{
+				"id": "http://gregmoore.micro.blog/2024/10/08/inktober-day-hike.html",
+				
+				"content_html": "<p>Inktober 2024 - Day 8 - Hike</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Inktober 2024 - Day 8 - Hike\n\n<img src=\"uploads/2024/bb61920f1d.jpg\" width=\"450\" height=\"600\" alt=\"Black and white drawing of a forest of trees with dramatic light shining through them diagonally from the upper left\">\n",
+				"date_published": "2024-10-08T23:26:12-04:00",
+				"url": "https://blog.gregmoore.me/2024/10/08/inktober-day-hike.html",
+				"tags": ["photos","drawing","Inktober-2024"]
+			},
+			{
+				"id": "http://gregmoore.micro.blog/2024/10/08/inktober-day-passport.html",
+				
+				"content_html": "<p>Inktober 2024 - Day 7 - Passport</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Inktober 2024 - Day 7 - Passport\n\n<img src=\"uploads/2024/1ac6dc3c09.jpg\" width=\"450\" height=\"600\" alt=\"Drawing of an old medieval guard holding up his helmet mask to look at a passport of a Dragonborn who is standing in front of him with his hands on his hips waiting\">\n",
+				"date_published": "2024-10-08T00:11:20-04:00",
+				"url": "https://blog.gregmoore.me/2024/10/08/inktober-day-passport.html",
+				"tags": ["photos","drawing","Inktober-2024"]
+			},
+			{
+				"id": "http://gregmoore.micro.blog/2024/10/06/inktober-day-trek.html",
+				
+				"content_html": "<p>Inktober 2024 - Day 6 - Trek</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Inktober 2024 - Day 6 - Trek\n\n<img src=\"uploads/2024/f6f9eed26d.jpg\" width=\"450\" height=\"600\" alt=\"Drawing of an exterior railed staircase curving down to the right with a figure at the bottom and at the top a soldier standing guard along a balcony\">\n",
+				"date_published": "2024-10-06T23:45:44-04:00",
+				"url": "https://blog.gregmoore.me/2024/10/06/inktober-day-trek.html",
+				"tags": ["photos","drawing","Inktober-2024"]
+			},
+			{
+				"id": "http://gregmoore.micro.blog/2024/10/05/inktober-day-binoculars.html",
+				
+				"content_html": "<p>Inktober 2024 - Day 5 - Binoculars</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Inktober 2024 - Day 5 - Binoculars\n\n<img src=\"uploads/2024/70a536106d.jpg\" width=\"450\" height=\"600\" alt=\"Dragonborn squatting down holding binoculars up to his eyes\">\n",
+				"date_published": "2024-10-05T22:54:39-04:00",
+				"url": "https://blog.gregmoore.me/2024/10/05/inktober-day-binoculars.html",
+				"tags": ["photos","drawing","Inktober-2024"]
+			},
+			{
 				"id": "http://gregmoore.micro.blog/2024/10/05/finally-got-to.html",
 				
 				"content_html": "<p>Finally got to see Young Frankenstein in a proper old theater. There’s nothing like laughing with so many people.</p>\n<!-- raw HTML omitted -->\n",
