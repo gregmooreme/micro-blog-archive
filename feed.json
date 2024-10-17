@@ -7,6 +7,33 @@
 	"items": [
 		
 			{
+				"id": "http://gregmoore.micro.blog/2024/10/16/theres-no-accident.html",
+				
+				"content_html": "<blockquote>\n<p>There&rsquo;s no accident that there&rsquo;s a lot of overlap between the book banners and the people who want to automate creativity using fake AI. The creative process is full of trial, uncertainty, and error in dialogue with other artists. That is basically antithetical to certainty and authority.</p>\n</blockquote>\n<ul>\n<li>Charlie Jane Anders, <a href=\"https://xoxofest.com/2024/videos/charlie-jane-anders/\">Community is made out of the ephemeral</a>,  XOXO 2024</li>\n</ul>\n",
+				"content_text": "> There's no accident that there's a lot of overlap between the book banners and the people who want to automate creativity using fake AI. The creative process is full of trial, uncertainty, and error in dialogue with other artists. That is basically antithetical to certainty and authority.\n\n- Charlie Jane Anders, [Community is made out of the ephemeral](https://xoxofest.com/2024/videos/charlie-jane-anders/),  XOXO 2024\n",
+				"date_published": "2024-10-16T15:36:20-04:00",
+				"url": "https://blog.gregmoore.me/2024/10/16/theres-no-accident.html",
+				"tags": ["quotes"]
+			},
+			{
+				"id": "http://gregmoore.micro.blog/2024/10/16/its-the-most.html",
+				
+				"content_html": "<p>It’s the most wonderful time of the year.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "It’s the most wonderful time of the year.\n\n<img src=\"uploads/2024/7d1e6dc272.jpg\" width=\"450\" height=\"600\" alt=\"Photograph of sunrise through red and green autumn trees\">\n",
+				"date_published": "2024-10-16T10:30:27-04:00",
+				"url": "https://blog.gregmoore.me/2024/10/16/its-the-most.html",
+				"tags": ["photos"]
+			},
+			{
+				"id": "http://gregmoore.micro.blog/2024/10/14/creative-challenges.html",
+				"title": "Creative Challenges",
+				"content_html": "<p>Apparently, I needed another smack-to-the-head reminder that October is the <em>worst</em> month to commit myself to a daily creative challenge like <a href=\"https://blog.gregmoore.me/categories/inktober-2024/\">Inktober</a>. I only made it eight days before life broke my streak and now I&rsquo;m more than five days behind. I would normally feel bad about it but, unlike previous years, I didn&rsquo;t put all of my creative irons into Inktober&rsquo;s unforgiving fire. In fact, I&rsquo;ve never been on more of a hot streak, pushing my creative boundaries further and outputting more varied work than before. (I&rsquo;m especially proud of the poster I just finished as a present for my weekly D&amp;D group.)</p>\n<p>Turns out, I&rsquo;ve learned (yet again) that I am more creative making one-off pieces for actual humans than strangers on the internet. When it really comes down to it, creative work is all about connecting with people. Creative work connects us with others and isn&rsquo;t about productivity, fake internet points, or any other trappings that hustle-culture tries to hang on it.</p>\n",
+				"content_text": "Apparently, I needed another smack-to-the-head reminder that October is the _worst_ month to commit myself to a daily creative challenge like [Inktober](https://blog.gregmoore.me/categories/inktober-2024/). I only made it eight days before life broke my streak and now I'm more than five days behind. I would normally feel bad about it but, unlike previous years, I didn't put all of my creative irons into Inktober's unforgiving fire. In fact, I've never been on more of a hot streak, pushing my creative boundaries further and outputting more varied work than before. (I'm especially proud of the poster I just finished as a present for my weekly D&D group.)\n\nTurns out, I've learned (yet again) that I am more creative making one-off pieces for actual humans than strangers on the internet. When it really comes down to it, creative work is all about connecting with people. Creative work connects us with others and isn't about productivity, fake internet points, or any other trappings that hustle-culture tries to hang on it.\n",
+				"date_published": "2024-10-14T08:57:32-04:00",
+				"url": "https://blog.gregmoore.me/2024/10/14/creative-challenges.html",
+				"tags": ["journal","Inktober-2024"]
+			},
+			{
 				"id": "http://gregmoore.micro.blog/2024/10/11/my-inktober-progress.html",
 				
 				"content_html": "<p>My Inktober progress was halted by… a different art deadline. I will have to play catch up tonight before I fall too far behind!</p>\n",
