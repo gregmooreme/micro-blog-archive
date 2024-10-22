@@ -7,6 +7,51 @@
 	"items": [
 		
 			{
+				"id": "http://gregmoore.micro.blog/2024/10/21/we-are-fortunate.html",
+				
+				"content_html": "<p>We are fortunate to have one of the oldest, and therefore largest, trees in our tiny development. I appreciate the hell out of it and take daily breaks to stand under its welcoming branches, enjoying the colors. I love this tree.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "We are fortunate to have one of the oldest, and therefore largest, trees in our tiny development. I appreciate the hell out of it and take daily breaks to stand under its welcoming branches, enjoying the colors. I love this tree.\n\n<img src=\"uploads/2024/bf3e009625.jpg\" width=\"400\" height=\"600\" alt=\"Maple tree with red fall leaves, the sun is shining from behind it causing rays of light to illuminate it from within \">\n",
+				"date_published": "2024-10-21T13:44:46-04:00",
+				"url": "https://blog.gregmoore.me/2024/10/21/we-are-fortunate.html",
+				"tags": ["photos","journal"]
+			},
+			{
+				"id": "http://gregmoore.micro.blog/2024/10/20/a-day-of.html",
+				
+				"content_html": "<p>A day of apple picking, a corn maze, and other fall favorites.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "A day of apple picking, a corn maze, and other fall favorites.\n\n<img src=\"uploads/2024/b9cf7e4997.jpg\" width=\"600\" height=\"399\" alt=\"Photo of a rural dirt road with fall colored trees on both sides and a red farmhouse and silver grain silo on the left\">\n",
+				"date_published": "2024-10-20T12:31:26-04:00",
+				"url": "https://blog.gregmoore.me/2024/10/20/a-day-of.html",
+				"tags": ["photos","journal"]
+			},
+			{
+				"id": "http://gregmoore.micro.blog/2024/10/18/now-that-i.html",
+				
+				"content_html": "<p>Now that I finally found the DVD, the family enjoyed a new fall tradition of watching <a href=\"https://en.wikipedia.org/wiki/Over_the_Garden_Wall\">Over the Garden Wall</a> together.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Now that I finally found the DVD, the family enjoyed a new fall tradition of watching [Over the Garden Wall](https://en.wikipedia.org/wiki/Over_the_Garden_Wall) together.\n\n<img src=\"uploads/2024/59dbd78bb9.jpg\" width=\"600\" height=\"312\" alt=\"The animated characters Beatrice, Wirt, Greg, and Jason Funderberker run through an autumn wood\">\n",
+				"date_published": "2024-10-18T23:05:07-04:00",
+				"url": "https://blog.gregmoore.me/2024/10/18/now-that-i.html",
+				"tags": ["photos","journal"]
+			},
+			{
+				"id": "http://gregmoore.micro.blog/2024/10/17/i-know-its.html",
+				
+				"content_html": "<p>I know it’s trite but, having lived away from real seasons for so many years, the fall color changes are still a magical time of year.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "I know it’s trite but, having lived away from real seasons for so many years, the fall color changes are still a magical time of year.\n\n<img src=\"uploads/2024/b568b2aa36.jpg\" width=\"600\" height=\"400\" alt=\"Photograph of green maple leaves turning red at their edges and stems\">\n",
+				"date_published": "2024-10-17T10:45:30-04:00",
+				"url": "https://blog.gregmoore.me/2024/10/17/i-know-its.html",
+				"tags": ["photos"]
+			},
+			{
+				"id": "http://gregmoore.micro.blog/2024/10/17/i-have-to.html",
+				
+				"content_html": "<p>I have to face the fact that I&rsquo;ve given up on this year&rsquo;s Inktober. I am far more creative making one-off pieces for actual humans than doing challenges for strangers on the internet.</p>\n",
+				"content_text": "I have to face the fact that I've given up on this year's Inktober. I am far more creative making one-off pieces for actual humans than doing challenges for strangers on the internet.\n",
+				"date_published": "2024-10-17T09:18:35-04:00",
+				"url": "https://blog.gregmoore.me/2024/10/17/i-have-to.html",
+				"tags": ["journal","Inktober-2024"]
+			},
+			{
 				"id": "http://gregmoore.micro.blog/2024/10/16/theres-no-accident.html",
 				
 				"content_html": "<blockquote>\n<p>There&rsquo;s no accident that there&rsquo;s a lot of overlap between the book banners and the people who want to automate creativity using fake AI. The creative process is full of trial, uncertainty, and error in dialogue with other artists. That is basically antithetical to certainty and authority.</p>\n</blockquote>\n<ul>\n<li>Charlie Jane Anders, <a href=\"https://xoxofest.com/2024/videos/charlie-jane-anders/\">Community is made out of the ephemeral</a>,  XOXO 2024</li>\n</ul>\n",
