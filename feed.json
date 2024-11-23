@@ -7,13 +7,31 @@
 	"items": [
 		
 			{
+				"id": "http://gregmoore.micro.blog/2024/11/23/happy-caturday.html",
+				
+				"content_html": "<p>Happy Caturday</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Happy Caturday\n\n<img src=\"uploads/2024/c96d2fc4b2.jpg\" width=\"450\" height=\"600\" alt=\"Closeup photograph of a green eyed tabby cat’s face from below\">\n",
+				"date_published": "2024-11-23T11:25:06-05:00",
+				"url": "https://blog.gregmoore.me/2024/11/23/happy-caturday.html",
+				"tags": ["photos","cats"]
+			},
+			{
+				"id": "http://gregmoore.micro.blog/2024/11/21/but-we-didnt.html",
+				
+				"content_html": "<blockquote>\n<p>But we didn’t take any photos of that bullock. You rarely do, when something comes of nowhere and flabbergasts you with its simplistic beauty. Everything moves on, a different picture moves in to occupy the frame, as the rules of the universe dictate, and it’s often in those moments, directly after the flabbergasting, beautiful thing has been witnessed, when the bittersweet fact of that seems most apparent.</p>\n</blockquote>\n<ul>\n<li>Tom Cox, <a href=\"https://tomcox.substack.com/p/the-man-who-lived-with-a-bull\">The Man With A Bull In His Living Room</a></li>\n</ul>\n",
+				"content_text": "> But we didn’t take any photos of that bullock. You rarely do, when something comes of nowhere and flabbergasts you with its simplistic beauty. Everything moves on, a different picture moves in to occupy the frame, as the rules of the universe dictate, and it’s often in those moments, directly after the flabbergasting, beautiful thing has been witnessed, when the bittersweet fact of that seems most apparent.\n\n- Tom Cox, [The Man With A Bull In His Living Room](https://tomcox.substack.com/p/the-man-who-lived-with-a-bull)\n",
+				"date_published": "2024-11-21T15:33:56-05:00",
+				"url": "https://blog.gregmoore.me/2024/11/21/but-we-didnt.html",
+				"tags": ["quotes"]
+			},
+			{
 				"id": "http://gregmoore.micro.blog/2024/11/18/when-things-feel.html",
 				
-				"content_html": "<p>When things feel bleak, remember to look out for all the small good things that are still happening out there.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "When things feel bleak, remember to look out for all the small good things that are still happening out there.\n\n<img src=\"uploads/2024/13a3498d0f.jpg\" width=\"450\" height=\"600\" alt=\"Closeup photo of a paper origami dragon placed on top of a steel power outlet box with a bright yellow painted wall behind it\">\n",
+				"content_html": "<p>When things feel bleak, remember to look out for all the small, good things that are still happening out there.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "When things feel bleak, remember to look out for all the small, good things that are still happening out there.\n\n<img src=\"uploads/2024/13a3498d0f.jpg\" width=\"450\" height=\"600\" alt=\"Closeup photo of a paper origami dragon placed on top of a steel power outlet box with a bright yellow painted wall behind it\">\n",
 				"date_published": "2024-11-18T10:16:32-05:00",
 				"url": "https://blog.gregmoore.me/2024/11/18/when-things-feel.html",
-				"tags": ["photos","journal"]
+				"tags": ["photos"]
 			},
 			{
 				"id": "http://gregmoore.micro.blog/2024/11/14/one-of-my.html",
@@ -46,7 +64,7 @@
 				"id": "http://gregmoore.micro.blog/2024/11/13/beauty-above-the.html",
 				
 				"content_html": "<p>Beauty above the supermarket parking lot.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Beauty above the supermarket parking lot.\n\n<img src=\"uploads/2024/d1e9b08c1f.jpg\" width=\"600\" height=\"450\" alt=\"Sunset sky of purple to pink with scattered cloud wisps in front\">\n",
+				"content_text": "Beauty above the supermarket parking lot.\n\n<img src=\"https://cdn.uploads.micro.blog/5332/2024/d1e9b08c1f.jpg\" width=\"600\" height=\"450\" alt=\"Sunset sky of purple to pink with scattered cloud wisps in front\">\n",
 				"date_published": "2024-11-13T07:44:14-05:00",
 				"url": "https://blog.gregmoore.me/2024/11/13/beauty-above-the.html",
 				"tags": ["photos"]
