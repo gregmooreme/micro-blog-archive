@@ -7,6 +7,24 @@
 	"items": [
 		
 			{
+				"id": "http://gregmoore.micro.blog/2024/12/02/the-cat-will.html",
+				
+				"content_html": "<p>The cat will now live in her heated bed until spring and just like that, it’s treadmill season for me.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "The cat will now live in her heated bed until spring and just like that, it’s treadmill season for me.\n\n<img src=\"uploads/2024/b716065dd9.jpg\" width=\"600\" height=\"400\" alt=\"Photograph from inside a house of snow falling outside of the window with a cat’s head silhouetted in the foreground\">\n",
+				"date_published": "2024-12-02T15:25:39-05:00",
+				"url": "https://blog.gregmoore.me/2024/12/02/the-cat-will.html",
+				"tags": ["photos","journal","cats"]
+			},
+			{
+				"id": "http://gregmoore.micro.blog/2024/11/25/in-the-cold.html",
+				
+				"content_html": "<p>In the cold of winter,<br>\nwith tree limbs now bare,<br>\nalong the dark road,<br>\nstands a beast who stares.</p>\n<p>A star in his paw<br>\nfor a tree made of light,<br>\nhe waves as you pass,<br>\nturn home, don’t turn right.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "In the cold of winter,  \nwith tree limbs now bare,  \nalong the dark road,  \nstands a beast who stares.\n\nA star in his paw  \nfor a tree made of light,  \nhe waves as you pass,  \nturn home, don’t turn right.\n\n<img src=\"uploads/2024/95eaceb837.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"date_published": "2024-11-25T14:25:17-05:00",
+				"url": "https://blog.gregmoore.me/2024/11/25/in-the-cold.html",
+				"tags": ["photos","journal"]
+			},
+			{
 				"id": "http://gregmoore.micro.blog/2024/11/23/happy-caturday.html",
 				
 				"content_html": "<p>Happy Caturday</p>\n<!-- raw HTML omitted -->\n",
@@ -37,7 +55,7 @@
 				"id": "http://gregmoore.micro.blog/2024/11/14/one-of-my.html",
 				
 				"content_html": "<p>One of my favorite stop lights to get stuck at is because of this view.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "One of my favorite stop lights to get stuck at is because of this view.\n\n<img src=\"uploads/2024/b5cafefc2c.jpg\" width=\"600\" height=\"449\" alt=\"Sunset photograph of a greenhouse building and brick smoke stack within trees\">\n",
+				"content_text": "One of my favorite stop lights to get stuck at is because of this view.\n\n<img src=\"https://cdn.uploads.micro.blog/5332/2024/b5cafefc2c.jpg\" width=\"600\" height=\"449\" alt=\"Sunset photograph of a greenhouse building and brick smoke stack within trees\">\n",
 				"date_published": "2024-11-14T18:52:17-05:00",
 				"url": "https://blog.gregmoore.me/2024/11/14/one-of-my.html",
 				"tags": ["photos","journal"]
@@ -46,7 +64,7 @@
 				"id": "http://gregmoore.micro.blog/2024/11/13/133558.html",
 				
 				"content_html": "<!-- raw HTML omitted -->\n<ul>\n<li><a href=\"https://www.honest-broker.com/p/why-is-the-tesla-cybertruck-so-depressingly\">Ted Gioia</a></li>\n</ul>\n",
-				"content_text": "<img src=\"uploads/2024/raw-poison.jpg\" width=\"491\" height=\"600\" alt=\"Raw assertions of power are everywhere in our culture—and arts and creativity are inescapably poisoned by them.\">\n\n- [Ted Gioia](https://www.honest-broker.com/p/why-is-the-tesla-cybertruck-so-depressingly)\n",
+				"content_text": "<img src=\"https://cdn.uploads.micro.blog/5332/2024/raw-poison.jpg\" width=\"491\" height=\"600\" alt=\"Raw assertions of power are everywhere in our culture—and arts and creativity are inescapably poisoned by them.\">\n\n- [Ted Gioia](https://www.honest-broker.com/p/why-is-the-tesla-cybertruck-so-depressingly)\n",
 				"date_published": "2024-11-13T13:35:58-05:00",
 				"url": "https://blog.gregmoore.me/2024/11/13/133558.html",
 				"tags": ["photos"]
