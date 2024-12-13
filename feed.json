@@ -7,6 +7,41 @@
 	"items": [
 		
 			{
+				"id": "http://gregmoore.micro.blog/2024/12/13/appreciating-the-sunset.html",
+				
+				"content_html": "<p>Appreciating the sunset through the snow.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Appreciating the sunset through the snow.\n\n<img src=\"uploads/2024/6e8161fdd7.jpg\" width=\"600\" height=\"400\" alt=\"Closeup of snow, a large clump glows orange from the light of sunset shining through it while the surrounding snow is blue from being in shadow\">\n",
+				"date_published": "2024-12-13T17:10:51-05:00",
+				"url": "https://blog.gregmoore.me/2024/12/13/appreciating-the-sunset.html",
+				"tags": ["photos","journal"]
+			},
+			{
+				"id": "http://gregmoore.micro.blog/2024/12/12/i-was-delighted.html",
+				
+				"content_html": "<p>I was delighted when the morning greeted me with beautiful blue skies and newly fallen snow. I’d rather be hiking in it than sitting in this morning meeting.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "I was delighted when the morning greeted me with beautiful blue skies and newly fallen snow. I’d rather be hiking in it than sitting in this morning meeting.\n\n<img src=\"uploads/2024/699cce02ae.jpg\" width=\"450\" height=\"600\" alt=\"Photograph of a snow covered yard with raking sunlight and long shadows a large Christmas decoration shaped like a deer is in the top left corner posed like it is eating the snow\">\n",
+				"date_published": "2024-12-12T09:25:19-05:00",
+				"url": "https://blog.gregmoore.me/2024/12/12/i-was-delighted.html",
+				"tags": ["photos","journal"]
+			},
+			{
+				"id": "http://gregmoore.micro.blog/2024/12/10/greg-what-is.html",
+				
+				"content_html": "<p>Greg! What is best in life?</p>\n<p>To snuggle your kitties - see them sleeping before you, and hear the purring through their snores.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Greg! What is best in life?\n\nTo snuggle your kitties - see them sleeping before you, and hear the purring through their snores.\n\n<img src=\"uploads/2024/0dcf518125.jpg\" width=\"450\" height=\"600\" alt=\"Photograph of a cat sleeping across the legs of someone wearing black socks and pajama pants who is sitting on a grey couch and holding a cup of coffee in the foreground\">\n",
+				"date_published": "2024-12-10T09:49:47-05:00",
+				"url": "https://blog.gregmoore.me/2024/12/10/greg-what-is.html",
+				"tags": ["photos","cats"]
+			},
+			{
+				"id": "http://gregmoore.micro.blog/2024/12/09/link-in-bio.html",
+				
+				"content_html": "<p>“<a href=\"https://www.anildash.com//2019/12/10/link-in-bio-is-how-they-tried-to-kill-the-web/\">Link in bio</a>” is your one phone call in prison.</p>\n",
+				"content_text": "“[Link in bio](https://www.anildash.com//2019/12/10/link-in-bio-is-how-they-tried-to-kill-the-web/)” is your one phone call in prison. \n",
+				"date_published": "2024-12-09T08:34:19-05:00",
+				"url": "https://blog.gregmoore.me/2024/12/09/link-in-bio.html"
+			},
+			{
 				"id": "http://gregmoore.micro.blog/2024/12/08/i-was-hanging.html",
 				
 				"content_html": "<p>I was hanging Christmas lights to add some color to our dark evenings and the sky absolutely showed me up. Those colors aren’t boosted, they were that saturated in real life. I couldn’t help but repeatedly stop working to stare in awe.</p>\n<!-- raw HTML omitted -->\n",
@@ -28,7 +63,7 @@
 				"id": "http://gregmoore.micro.blog/2024/12/02/the-cat-will.html",
 				
 				"content_html": "<p>The cat will now live in her heated bed until spring and just like that, it’s treadmill season for me.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "The cat will now live in her heated bed until spring and just like that, it’s treadmill season for me.\n\n<img src=\"uploads/2024/b716065dd9.jpg\" width=\"600\" height=\"400\" alt=\"Photograph from inside a house of snow falling outside of the window with a cat’s head silhouetted in the foreground\">\n",
+				"content_text": "The cat will now live in her heated bed until spring and just like that, it’s treadmill season for me.\n\n<img src=\"https://cdn.uploads.micro.blog/5332/2024/b716065dd9.jpg\" width=\"600\" height=\"400\" alt=\"Photograph from inside a house of snow falling outside of the window with a cat’s head silhouetted in the foreground\">\n",
 				"date_published": "2024-12-02T15:25:39-05:00",
 				"url": "https://blog.gregmoore.me/2024/12/02/the-cat-will.html",
 				"tags": ["photos","journal","cats"]
@@ -37,7 +72,7 @@
 				"id": "http://gregmoore.micro.blog/2024/11/25/in-the-cold.html",
 				
 				"content_html": "<p>In the cold of winter,<br>\nwith tree limbs now bare,<br>\nalong the dark road,<br>\nstands a beast who stares.</p>\n<p>A star in his paw<br>\nfor a tree made of light,<br>\nhe waves as you pass,<br>\nturn home, don’t turn right.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "In the cold of winter,  \nwith tree limbs now bare,  \nalong the dark road,  \nstands a beast who stares.\n\nA star in his paw  \nfor a tree made of light,  \nhe waves as you pass,  \nturn home, don’t turn right.\n\n<img src=\"uploads/2024/95eaceb837.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_text": "In the cold of winter,  \nwith tree limbs now bare,  \nalong the dark road,  \nstands a beast who stares.\n\nA star in his paw  \nfor a tree made of light,  \nhe waves as you pass,  \nturn home, don’t turn right.\n\n<img src=\"https://cdn.uploads.micro.blog/5332/2024/95eaceb837.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2024-11-25T14:25:17-05:00",
 				"url": "https://blog.gregmoore.me/2024/11/25/in-the-cold.html",
 				"tags": ["photos","journal"]
@@ -46,7 +81,7 @@
 				"id": "http://gregmoore.micro.blog/2024/11/23/happy-caturday.html",
 				
 				"content_html": "<p>Happy Caturday</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Happy Caturday\n\n<img src=\"uploads/2024/c96d2fc4b2.jpg\" width=\"450\" height=\"600\" alt=\"Closeup photograph of a green eyed tabby cat’s face from below\">\n",
+				"content_text": "Happy Caturday\n\n<img src=\"https://cdn.uploads.micro.blog/5332/2024/c96d2fc4b2.jpg\" width=\"450\" height=\"600\" alt=\"Closeup photograph of a green eyed tabby cat’s face from below\">\n",
 				"date_published": "2024-11-23T11:25:06-05:00",
 				"url": "https://blog.gregmoore.me/2024/11/23/happy-caturday.html",
 				"tags": ["photos","cats"]
