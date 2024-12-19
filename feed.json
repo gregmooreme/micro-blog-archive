@@ -7,6 +7,33 @@
 	"items": [
 		
 			{
+				"id": "http://gregmoore.micro.blog/2024/12/17/my-brother-inlaw.html",
+				
+				"content_html": "<p>My brother in-law just shared the best portrait of me.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "My brother in-law just shared the best portrait of me.\n\n<img src=\"uploads/2024/6084937d9c.jpg\" width=\"450\" height=\"600\" alt=\"Photograph of a man indoors wearing a navy blue shirt sitting at a table checking his phone with a hanging purple star decoration obscuring his face\">\n",
+				"date_published": "2024-12-17T11:43:41-05:00",
+				"url": "https://blog.gregmoore.me/2024/12/17/my-brother-inlaw.html",
+				"tags": ["photos"]
+			},
+			{
+				"id": "http://gregmoore.micro.blog/2024/12/16/i-think-probably.html",
+				
+				"content_html": "<blockquote>\n<p>I think, probably, the amount of delight we experience is directly related to the amount of control we’re willing to <strong>not</strong> have.</p>\n</blockquote>\n<ul>\n<li>Annie Mueller, <a href=\"https://anniemueller.com/posts/i-will-trade-you-this-muddy-shitball-for-that-shiny-marble\">I will trade you this muddy shitball for that shiny marble</a></li>\n</ul>\n<p>I feel like this is particularly fantastic advice for being delighted by music, movies, tv, games, books, and other creative media. Delight can only surprise you when you&rsquo;re chasing what interests you and not following the reviews of algorithms and strangers.</p>\n",
+				"content_text": "> I think, probably, the amount of delight we experience is directly related to the amount of control we’re willing to **not** have.\n\n- Annie Mueller, [I will trade you this muddy shitball for that shiny marble](https://anniemueller.com/posts/i-will-trade-you-this-muddy-shitball-for-that-shiny-marble)\n\nI feel like this is particularly fantastic advice for being delighted by music, movies, tv, games, books, and other creative media. Delight can only surprise you when you're chasing what interests you and not following the reviews of algorithms and strangers.\n",
+				"date_published": "2024-12-16T10:46:47-05:00",
+				"url": "https://blog.gregmoore.me/2024/12/16/i-think-probably.html",
+				"tags": ["quotes"]
+			},
+			{
+				"id": "http://gregmoore.micro.blog/2024/12/16/is-being-able.html",
+				
+				"content_html": "<p>45 is being able to regularly drink a pot of black coffee with zero issues but, having one can of coke and a slice of cake at my daughter’s birthday makes my body feel like I’m that much closer to death. The sugar hits differently.</p>\n",
+				"content_text": "45 is being able to regularly drink a pot of black coffee with zero issues but, having one can of coke and a slice of cake at my daughter’s birthday makes my body feel like I’m that much closer to death. The sugar hits differently.\n",
+				"date_published": "2024-12-16T08:04:25-05:00",
+				"url": "https://blog.gregmoore.me/2024/12/16/is-being-able.html",
+				"tags": ["journal"]
+			},
+			{
 				"id": "http://gregmoore.micro.blog/2024/12/13/appreciating-the-sunset.html",
 				
 				"content_html": "<p>Appreciating the sunset through the snow.</p>\n<!-- raw HTML omitted -->\n",
@@ -28,7 +55,7 @@
 				"id": "http://gregmoore.micro.blog/2024/12/10/greg-what-is.html",
 				
 				"content_html": "<p>Greg! What is best in life?</p>\n<p>To snuggle your kitties - see them sleeping before you, and hear the purring through their snores.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Greg! What is best in life?\n\nTo snuggle your kitties - see them sleeping before you, and hear the purring through their snores.\n\n<img src=\"uploads/2024/0dcf518125.jpg\" width=\"450\" height=\"600\" alt=\"Photograph of a cat sleeping across the legs of someone wearing black socks and pajama pants who is sitting on a grey couch and holding a cup of coffee in the foreground\">\n",
+				"content_text": "Greg! What is best in life?\n\nTo snuggle your kitties - see them sleeping before you, and hear the purring through their snores.\n\n<img src=\"https://cdn.uploads.micro.blog/5332/2024/0dcf518125.jpg\" width=\"450\" height=\"600\" alt=\"Photograph of a cat sleeping across the legs of someone wearing black socks and pajama pants who is sitting on a grey couch and holding a cup of coffee in the foreground\">\n",
 				"date_published": "2024-12-10T09:49:47-05:00",
 				"url": "https://blog.gregmoore.me/2024/12/10/greg-what-is.html",
 				"tags": ["photos","cats"]
@@ -45,7 +72,7 @@
 				"id": "http://gregmoore.micro.blog/2024/12/08/i-was-hanging.html",
 				
 				"content_html": "<p>I was hanging Christmas lights to add some color to our dark evenings and the sky absolutely showed me up. Those colors aren’t boosted, they were that saturated in real life. I couldn’t help but repeatedly stop working to stare in awe.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "I was hanging Christmas lights to add some color to our dark evenings and the sky absolutely showed me up. Those colors aren’t boosted, they were that saturated in real life. I couldn’t help but repeatedly stop working to stare in awe.\n\n<img src=\"uploads/2024/4cbe854585.jpg\" width=\"600\" height=\"450\" alt=\"Highly saturated sunset sky of deep blue with orange and pink clouds swirling towards the horizon \">\n",
+				"content_text": "I was hanging Christmas lights to add some color to our dark evenings and the sky absolutely showed me up. Those colors aren’t boosted, they were that saturated in real life. I couldn’t help but repeatedly stop working to stare in awe.\n\n<img src=\"https://cdn.uploads.micro.blog/5332/2024/4cbe854585.jpg\" width=\"600\" height=\"450\" alt=\"Highly saturated sunset sky of deep blue with orange and pink clouds swirling towards the horizon \">\n",
 				"date_published": "2024-12-08T08:31:07-05:00",
 				"url": "https://blog.gregmoore.me/2024/12/08/i-was-hanging.html",
 				"tags": ["photos","journal"]
