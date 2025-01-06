@@ -7,6 +7,24 @@
 	"items": [
 		
 			{
+				"id": "http://gregmoore.micro.blog/2025/01/04/a-simulacra-of-human-virtuosity.html",
+				
+				"content_html": "<blockquote>\n<p>A simulacra of human virtuosity is not what we need. We need each other. We need signs of life about us. We need to know that we are not alone. And this is something we must consider not just in relation to the singular artifact, but also in relation to our environment. In a time of acute loneliness, the proliferation of AI-generated content seems not unlike an act of pollution, compromising the integrity of the social ecosystem.</p>\n</blockquote>\n<ul>\n<li>L. M. Sacasas, <a href=\"https://theconvivialsociety.substack.com/p/the-cat-in-the-tree-why-ai-content\">The Cat in the Tree: Why AI Content Leaves Us Cold</a></li>\n</ul>\n",
+				"content_text": "> A simulacra of human virtuosity is not what we need. We need each other. We need signs of life about us. We need to know that we are not alone. And this is something we must consider not just in relation to the singular artifact, but also in relation to our environment. In a time of acute loneliness, the proliferation of AI-generated content seems not unlike an act of pollution, compromising the integrity of the social ecosystem.\n\n- L. M. Sacasas, [The Cat in the Tree: Why AI Content Leaves Us Cold](https://theconvivialsociety.substack.com/p/the-cat-in-the-tree-why-ai-content)\n",
+				"date_published": "2025-01-04T21:25:09-05:00",
+				"url": "https://blog.gregmoore.me/2025/01/04/a-simulacra-of-human-virtuosity.html",
+				"tags": ["quotes"]
+			},
+			{
+				"id": "http://gregmoore.micro.blog/2025/01/02/staying-warm-with-lots-of.html",
+				
+				"content_html": "<p>Staying warm with lots of family at the New Year’s Day party at the farm.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Staying warm with lots of family at the New Year’s Day party at the farm.\n\n<img src=\"uploads/2025/6f8b16f85f.jpg\" width=\"600\" height=\"450\" alt=\"Photograph at night of a white farmhouse covered in snow with glowing warm lights on the porch and windows\">\n",
+				"date_published": "2025-01-02T08:24:57-05:00",
+				"url": "https://blog.gregmoore.me/2025/01/02/staying-warm-with-lots-of.html",
+				"tags": ["photos","journal"]
+			},
+			{
 				"id": "http://gregmoore.micro.blog/2024/12/30/one-of-my-favorite-gifts.html",
 				
 				"content_html": "<p>One of my favorite gifts this Christmas.</p>\n<!-- raw HTML omitted -->\n",
@@ -37,7 +55,7 @@
 				"id": "http://gregmoore.micro.blog/2024/12/17/my-brother-inlaw.html",
 				
 				"content_html": "<p>My brother in-law just shared the best portrait of me.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "My brother in-law just shared the best portrait of me.\n\n<img src=\"uploads/2024/6084937d9c.jpg\" width=\"450\" height=\"600\" alt=\"Photograph of a man indoors wearing a navy blue shirt sitting at a table checking his phone with a hanging purple star decoration obscuring his face\">\n",
+				"content_text": "My brother in-law just shared the best portrait of me.\n\n<img src=\"https://cdn.uploads.micro.blog/5332/2024/6084937d9c.jpg\" width=\"450\" height=\"600\" alt=\"Photograph of a man indoors wearing a navy blue shirt sitting at a table checking his phone with a hanging purple star decoration obscuring his face\">\n",
 				"date_published": "2024-12-17T11:43:41-05:00",
 				"url": "https://blog.gregmoore.me/2024/12/17/my-brother-inlaw.html",
 				"tags": ["photos"]
@@ -367,8 +385,8 @@
 			{
 				"id": "http://gregmoore.micro.blog/2024/10/11/my-inktober-progress.html",
 				
-				"content_html": "<p>My Inktober progress was halted by… a different art deadline. I will have to play catch up tonight before I fall too far behind!</p>\n",
-				"content_text": "My Inktober progress was halted by… a different art deadline. I will have to play catch up tonight before I fall too far behind!\n",
+				"content_html": "<p>My Inktober progress was halted by… a different art deadline. I will have to play catch up tonight before I fall too far behind!</p>\n<p>(Spoiler: I felll too far behind.)</p>\n",
+				"content_text": "My Inktober progress was halted by… a different art deadline. I will have to play catch up tonight before I fall too far behind!\n\n(Spoiler: I felll too far behind.)\n",
 				"date_published": "2024-10-11T17:57:11-05:00",
 				"url": "https://blog.gregmoore.me/2024/10/11/my-inktober-progress.html",
 				"tags": ["Inktober-2024"]
