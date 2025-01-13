@@ -7,6 +7,33 @@
 	"items": [
 		
 			{
+				"id": "http://gregmoore.micro.blog/2025/01/13/we-need-to-break-the.html",
+				
+				"content_html": "<blockquote>\n<p>We need to break the notion of “discovery” away from the myth that some system will find interesting stuff and hand it to us without us having to do any work.</p>\n</blockquote>\n<ul>\n<li>Pete Brown, <a href=\"https://explodingcomma.com/2025/01/13/we-need-to-stop-talking.html\">We need to stop talking about discovery</a></li>\n</ul>\n<p>As the Internet continues to increasingly mirror how things work in the real world, we have to abandon the idea that good things will come to us on an endless conveyer belt. Unlike spam calls, junk mail, and advertisements the things that we actually care about require us to find them and are not produced at a constant rate.</p>\n",
+				"content_text": "> We need to break the notion of “discovery” away from the myth that some system will find interesting stuff and hand it to us without us having to do any work.\r\n\r\n- Pete Brown, [We need to stop talking about discovery](https://explodingcomma.com/2025/01/13/we-need-to-stop-talking.html)\r\n\r\nAs the Internet continues to increasingly mirror how things work in the real world, we have to abandon the idea that good things will come to us on an endless conveyer belt. Unlike spam calls, junk mail, and advertisements the things that we actually care about require us to find them and are not produced at a constant rate.\r\n",
+				"date_published": "2025-01-13T11:58:21-05:00",
+				"url": "https://blog.gregmoore.me/2025/01/13/we-need-to-break-the.html",
+				"tags": ["quotes"]
+			},
+			{
+				"id": "http://gregmoore.micro.blog/2025/01/09/i-enjoyed-watching-the-steams.html",
+				
+				"content_html": "<p>I enjoyed watching the steam’s colorful glow in this morning’s 8° sunrise.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "I enjoyed watching the steam’s colorful glow in this morning’s 8° sunrise.\n\n<img src=\"uploads/2025/940dc0dfca.jpg\" width=\"600\" height=\"400\" alt=\"Photograph of a rooftop covered in frost, a single steam pipe sticking up \">\n",
+				"date_published": "2025-01-09T11:32:20-05:00",
+				"url": "https://blog.gregmoore.me/2025/01/09/i-enjoyed-watching-the-steams.html",
+				"tags": ["photos","journal"]
+			},
+			{
+				"id": "http://gregmoore.micro.blog/2025/01/08/we-are-not-uplifted-by.html",
+				
+				"content_html": "<blockquote>\n<p>We are not uplifted by competing to achieve superior speed and efficiency. The sales pitch of GenAI is that the technology provides a shortcut to writing a song, making a movie, understanding a book, but these promises are illusions.</p>\n</blockquote>\n<ul>\n<li>John Warner, <a href=\"https://biblioracle.substack.com/p/weve-been-consumed\">We’ve Been Consumed</a></li>\n</ul>\n",
+				"content_text": "> We are not uplifted by competing to achieve superior speed and efficiency. The sales pitch of GenAI is that the technology provides a shortcut to writing a song, making a movie, understanding a book, but these promises are illusions.\n\n- John Warner, [We’ve Been Consumed](https://biblioracle.substack.com/p/weve-been-consumed)\n",
+				"date_published": "2025-01-08T20:53:33-05:00",
+				"url": "https://blog.gregmoore.me/2025/01/08/we-are-not-uplifted-by.html",
+				"tags": ["quotes"]
+			},
+			{
 				"id": "http://gregmoore.micro.blog/2025/01/04/a-simulacra-of-human-virtuosity.html",
 				
 				"content_html": "<blockquote>\n<p>A simulacra of human virtuosity is not what we need. We need each other. We need signs of life about us. We need to know that we are not alone. And this is something we must consider not just in relation to the singular artifact, but also in relation to our environment. In a time of acute loneliness, the proliferation of AI-generated content seems not unlike an act of pollution, compromising the integrity of the social ecosystem.</p>\n</blockquote>\n<ul>\n<li>L. M. Sacasas, <a href=\"https://theconvivialsociety.substack.com/p/the-cat-in-the-tree-why-ai-content\">The Cat in the Tree: Why AI Content Leaves Us Cold</a></li>\n</ul>\n",
@@ -28,7 +55,7 @@
 				"id": "http://gregmoore.micro.blog/2024/12/30/one-of-my-favorite-gifts.html",
 				
 				"content_html": "<p>One of my favorite gifts this Christmas.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "One of my favorite gifts this Christmas.\n\n<img src=\"uploads/2024/d9ad96eeba.jpg\" width=\"450\" height=\"600\" alt=\"Photograph of a white towel stitched with a decorative “May Godzilla destroy this home last” \">\n",
+				"content_text": "One of my favorite gifts this Christmas.\n\n<img src=\"https://cdn.uploads.micro.blog/5332/2024/d9ad96eeba.jpg\" width=\"450\" height=\"600\" alt=\"Photograph of a white towel stitched with a decorative “May Godzilla destroy this home last” \">\n",
 				"date_published": "2024-12-30T19:26:17-05:00",
 				"url": "https://blog.gregmoore.me/2024/12/30/one-of-my-favorite-gifts.html",
 				"tags": ["photos"]
@@ -37,7 +64,7 @@
 				"id": "http://gregmoore.micro.blog/2024/12/26/merry-toothmas-to-all-who.html",
 				
 				"content_html": "<p>Merry Toothmas to all who celebrate 🦷</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Merry Toothmas to all who celebrate 🦷\n\n<img src=\"uploads/2024/579ef7832c.jpg\" width=\"450\" height=\"600\" alt=\"Photo of a Christmas tree made out of large, white plastic teeth glowing with lights from within\">\n",
+				"content_text": "Merry Toothmas to all who celebrate 🦷\n\n<img src=\"https://cdn.uploads.micro.blog/5332/2024/579ef7832c.jpg\" width=\"450\" height=\"600\" alt=\"Photo of a Christmas tree made out of large, white plastic teeth glowing with lights from within\">\n",
 				"date_published": "2024-12-26T10:02:19-05:00",
 				"url": "https://blog.gregmoore.me/2024/12/26/merry-toothmas-to-all-who.html",
 				"tags": ["photos"]
@@ -46,7 +73,7 @@
 				"id": "http://gregmoore.micro.blog/2024/12/22/waking-to-a.html",
 				
 				"content_html": "<p>Waking to a winter wonderland.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Waking to a winter wonderland.\n\n<img src=\"uploads/2024/b37d7130c2.jpg\" width=\"600\" height=\"400\" alt=\"Photograph of a white plastic seasonal yard light shaped like a snowman with actual snow on its head in front of a dark green bush covered in snow\">\n",
+				"content_text": "Waking to a winter wonderland.\n\n<img src=\"https://cdn.uploads.micro.blog/5332/2024/b37d7130c2.jpg\" width=\"600\" height=\"400\" alt=\"Photograph of a white plastic seasonal yard light shaped like a snowman with actual snow on its head in front of a dark green bush covered in snow\">\n",
 				"date_published": "2024-12-22T10:08:01-05:00",
 				"url": "https://blog.gregmoore.me/2024/12/22/waking-to-a.html",
 				"tags": ["photos","journal"]
