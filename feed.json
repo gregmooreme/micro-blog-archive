@@ -7,6 +7,42 @@
 	"items": [
 		
 			{
+				"id": "http://gregmoore.micro.blog/2025/02/19/the-things-that-i-have.html",
+				
+				"content_html": "<blockquote>\n<p>The things that I have made over the years of my life have taught me so much, and in so many different ways. They have different lessons depending on the period of my life that I’m engaging with them and they change over time to me. There are many pieces in this building that have also changed over time so, to me, that is a bit of a kind of a life. There is a bit of something alive in that intersection.</p>\n</blockquote>\n<ul>\n<li>Adam Savage on remaining engaged with the art he made in his early 20’s, <a href=\"https://www.youtube.com/watch?v=jHfQQ7UQ_3A\">YouTube</a></li>\n</ul>\n",
+				"content_text": "> The things that I have made over the years of my life have taught me so much, and in so many different ways. They have different lessons depending on the period of my life that I’m engaging with them and they change over time to me. There are many pieces in this building that have also changed over time so, to me, that is a bit of a kind of a life. There is a bit of something alive in that intersection.\r\n\r\n- Adam Savage on remaining engaged with the art he made in his early 20’s, [YouTube](https://www.youtube.com/watch?v=jHfQQ7UQ_3A)\r\n",
+				"date_published": "2025-02-19T14:00:50-05:00",
+				"url": "https://blog.gregmoore.me/2025/02/19/the-things-that-i-have.html",
+				"tags": ["quotes"]
+			},
+			{
+				"id": "http://gregmoore.micro.blog/2025/02/18/its-so-cold-today-that.html",
+				
+				"content_html": "<p>It’s so cold today that it looks like somebody spilled glitter all over the snow.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "It’s so cold today that it looks like somebody spilled glitter all over the snow.\n\n<img src=\"uploads/2025/5607fd6455.jpg\" width=\"400\" height=\"600\" alt=\"\">\n",
+				"date_published": "2025-02-18T09:04:07-05:00",
+				"url": "https://blog.gregmoore.me/2025/02/18/its-so-cold-today-that.html",
+				"tags": ["photos","journal"]
+			},
+			{
+				"id": "http://gregmoore.micro.blog/2025/02/16/the-whole-family-came-along.html",
+				
+				"content_html": "<p>The whole family came along for a hike through the newly fallen snow today.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "The whole family came along for a hike through the newly fallen snow today.\n\n<img src=\"uploads/2025/479775d136.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"date_published": "2025-02-16T11:37:52-05:00",
+				"url": "https://blog.gregmoore.me/2025/02/16/the-whole-family-came-along.html",
+				"tags": ["photos","journal"]
+			},
+			{
+				"id": "http://gregmoore.micro.blog/2025/02/14/yesterday-i-waxed-poetic-about.html",
+				
+				"content_html": "<p>Yesterday I waxed poetic about walking in the snow but today it is 8° and I’m not doing that to myself.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Yesterday I waxed poetic about walking in the snow but today it is 8° and I’m not doing that to myself.\n\n<img src=\"uploads/2025/bc8927e1ea.jpg\" width=\"600\" height=\"400\" alt=\"\">\n",
+				"date_published": "2025-02-14T08:40:02-05:00",
+				"url": "https://blog.gregmoore.me/2025/02/14/yesterday-i-waxed-poetic-about.html",
+				"tags": ["photos","journal"]
+			},
+			{
 				"id": "http://gregmoore.micro.blog/2025/02/13/a-morning-snow-walk.html",
 				"title": "A Morning Snow Walk",
 				"content_html": "<p>I don’t often take walks in the morning but, when I do, it’s because of snow. Today was a real treat as I lucked into making the first tracks in last night’s snowfall ahead of the plow man.</p>\n<p>I wish I had enough of a writers brain to properly express the profound feelings that cross me when I stand alone in the muffled quiet of a thick snowfall. We were formed to appreciate such things and it feels right when I connect with a wonder of life such as this.</p>\n<!-- raw HTML omitted -->\n",
@@ -55,7 +91,7 @@
 				"id": "http://gregmoore.micro.blog/2025/02/02/celebrating-the-snow-at-the.html",
 				
 				"content_html": "<p>Celebrating the snow at the downtown ice festival.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Celebrating the snow at the downtown ice festival.\n\n<img src=\"uploads/2025/b80f8d881a.jpg\" width=\"450\" height=\"600\" alt=\"Auto-generated description: A detailed ice sculpture of a dragon stands outdoors against a backdrop of trees and a building.\">\n",
+				"content_text": "Celebrating the snow at the downtown ice festival.\n\n<img src=\"https://cdn.uploads.micro.blog/5332/2025/b80f8d881a.jpg\" width=\"450\" height=\"600\" alt=\"Auto-generated description: A detailed ice sculpture of a dragon stands outdoors against a backdrop of trees and a building.\">\n",
 				"date_published": "2025-02-02T22:36:55-05:00",
 				"url": "https://blog.gregmoore.me/2025/02/02/celebrating-the-snow-at-the.html",
 				"tags": ["photos","journal"]
