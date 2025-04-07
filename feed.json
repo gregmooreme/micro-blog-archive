@@ -7,6 +7,24 @@
 	"items": [
 		
 			{
+				"id": "http://gregmoore.micro.blog/2025/04/04/more-symmetry-from-the-emu.html",
+				
+				"content_html": "<p>More symmetry from the EMU library.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "More symmetry from the EMU library.\n\n<img src=\"uploads/2025/4967ea0355.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"date_published": "2025-04-04T09:59:03-04:00",
+				"url": "https://blog.gregmoore.me/2025/04/04/more-symmetry-from-the-emu.html",
+				"tags": ["photos"]
+			},
+			{
+				"id": "http://gregmoore.micro.blog/2025/04/03/finished-reading-the-last-command.html",
+				
+				"content_html": "<p><img src=\"https://blog.gregmoore.me/uploads/2024/8e8916afc2.jpg\" alt=\"Thrawn Trilogy by Timothy Zahn\"></p>\n<p>Before Disney, before David Filoni, and even before the prequel movies Star Wars fans had the <strong>Thrawn Trilogy</strong> by Timothy Zahn. Having just finished the trilogy, they live up to the hype and were very fun reads I&rsquo;d recommend to any fan.📚</p>\n<ol>\n<li><a href=\"https://micro.blog/books/9780307796103\">Heir to the Empire</a></li>\n<li><a href=\"https://micro.blog/books/9780307796189\">Dark Force Rising</a></li>\n<li><a href=\"https://micro.blog/books/9780553564921\">The Last Command</a></li>\n</ol>\n",
+				"content_text": "![Thrawn Trilogy by Timothy Zahn](https://blog.gregmoore.me/uploads/2024/8e8916afc2.jpg)\n\nBefore Disney, before David Filoni, and even before the prequel movies Star Wars fans had the **Thrawn Trilogy** by Timothy Zahn. Having just finished the trilogy, they live up to the hype and were very fun reads I'd recommend to any fan.📚\n\n1. [Heir to the Empire](https://micro.blog/books/9780307796103)\n2. [Dark Force Rising](https://micro.blog/books/9780307796189)\n3. [The Last Command](https://micro.blog/books/9780553564921)\n",
+				"date_published": "2025-04-03T07:54:22-04:00",
+				"url": "https://blog.gregmoore.me/2025/04/03/finished-reading-the-last-command.html",
+				"tags": ["books"]
+			},
+			{
 				"id": "http://gregmoore.micro.blog/2025/03/31/symmetry-at-eastern-michigan-universitys.html",
 				
 				"content_html": "<p>Symmetry at Eastern Michigan University’s library.</p>\n<!-- raw HTML omitted -->\n",
@@ -37,7 +55,7 @@
 				"id": "http://gregmoore.micro.blog/2025/03/24/the-new-cathedrals.html",
 				
 				"content_html": "<p>The new cathedrals</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "The new cathedrals\n\n<img src=\"uploads/2025/746da26eda.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_text": "The new cathedrals\n\n<img src=\"https://cdn.uploads.micro.blog/5332/2025/746da26eda.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2025-03-24T14:29:27-04:00",
 				"url": "https://blog.gregmoore.me/2025/03/24/the-new-cathedrals.html",
 				"tags": ["photos"]
