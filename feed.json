@@ -7,10 +7,28 @@
 	"items": [
 		
 			{
+				"id": "http://gregmoore.micro.blog/2025/04/11/moonlight-shining-through-the-snow.html",
+				
+				"content_html": "<p>Moonlight shining through the snow covered skylight.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Moonlight shining through the snow covered skylight.\n\n<img src=\"uploads/2025/d6309381ed.jpg\" width=\"450\" height=\"600\" alt=\"View from below a rectangular skylight covered in snow with moonlight shining through it\">\n",
+				"date_published": "2025-04-11T08:45:40-04:00",
+				"url": "https://blog.gregmoore.me/2025/04/11/moonlight-shining-through-the-snow.html",
+				"tags": ["photos","journal"]
+			},
+			{
+				"id": "http://gregmoore.micro.blog/2025/04/07/im-fascinated-whenever-i-visibly.html",
+				
+				"content_html": "<p>I’m fascinated whenever I visibly pass through the space between the floors at my local IKEA. It’s two real spaces sandwiching a manmade liminal space that’s fun to overthink.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "I’m fascinated whenever I visibly pass through the space between the floors at my local IKEA. It’s two real spaces sandwiching a manmade liminal space that’s fun to overthink.\n\n<img src=\"uploads/2025/f519e26031.jpg\" width=\"600\" height=\"202\" alt=\"Black and white view of the ceiling between floors of a large IKEA retail store.\">\n",
+				"date_published": "2025-04-07T13:52:41-04:00",
+				"url": "https://blog.gregmoore.me/2025/04/07/im-fascinated-whenever-i-visibly.html",
+				"tags": ["photos","journal"]
+			},
+			{
 				"id": "http://gregmoore.micro.blog/2025/04/04/more-symmetry-from-the-emu.html",
 				
 				"content_html": "<p>More symmetry from the EMU library.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "More symmetry from the EMU library.\n\n<img src=\"uploads/2025/4967ea0355.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_text": "More symmetry from the EMU library.\n\n<img src=\"uploads/2025/4967ea0355.jpg\" width=\"450\" height=\"600\" alt=\"Auto-generated description: Looking up at a symmetrical architectural ceiling featuring intersecting beams and columns.\">\n",
 				"date_published": "2025-04-04T09:59:03-04:00",
 				"url": "https://blog.gregmoore.me/2025/04/04/more-symmetry-from-the-emu.html",
 				"tags": ["photos"]
@@ -28,7 +46,7 @@
 				"id": "http://gregmoore.micro.blog/2025/03/31/symmetry-at-eastern-michigan-universitys.html",
 				
 				"content_html": "<p>Symmetry at Eastern Michigan University’s library.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Symmetry at Eastern Michigan University’s library.\n\n<img src=\"uploads/2025/1492169e6c.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_text": "Symmetry at Eastern Michigan University’s library.\n\n<img src=\"uploads/2025/1492169e6c.jpg\" width=\"450\" height=\"600\" alt=\"Auto-generated description: A spacious atrium with high ceilings, modern architecture, and symmetrical arrangement of columns and seating areas.\">\n",
 				"date_published": "2025-03-31T18:09:10-04:00",
 				"url": "https://blog.gregmoore.me/2025/03/31/symmetry-at-eastern-michigan-universitys.html",
 				"tags": ["photos"]
@@ -46,7 +64,7 @@
 				"id": "http://gregmoore.micro.blog/2025/03/25/ticket-windows-of-michigan-central.html",
 				
 				"content_html": "<p>Ticket windows of Michigan Central Station</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Ticket windows of Michigan Central Station\n\n<img src=\"uploads/2025/f1426bc35d.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_text": "Ticket windows of Michigan Central Station\n\n<img src=\"https://cdn.uploads.micro.blog/5332/2025/f1426bc35d.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2025-03-25T08:21:17-04:00",
 				"url": "https://blog.gregmoore.me/2025/03/25/ticket-windows-of-michigan-central.html",
 				"tags": ["photos"]
