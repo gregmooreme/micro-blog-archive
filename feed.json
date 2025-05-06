@@ -7,6 +7,24 @@
 	"items": [
 		
 			{
+				"id": "http://gregmoore.micro.blog/2025/05/06/spring-is-happening-despite-the.html",
+				
+				"content_html": "<p>Spring is happening, despite the odds.</p>\n<p><img src=\"https://blog.gregmoore.me/uploads/2025/image-20250506-121747-3efab937.jpg\" alt=\"Saturated blue and pink sky with a large flowering plant silhouetted in the foreground \"></p>\n",
+				"content_text": "Spring is happening, despite the odds.\n\n![Saturated blue and pink sky with a large flowering plant silhouetted in the foreground ](https://blog.gregmoore.me/uploads/2025/image-20250506-121747-3efab937.jpg)\n",
+				"date_published": "2025-05-06T12:17:50-04:00",
+				"url": "https://blog.gregmoore.me/2025/05/06/spring-is-happening-despite-the.html",
+				"tags": ["photos","journal"]
+			},
+			{
+				"id": "http://gregmoore.micro.blog/2025/04/29/oh-lawd-she-closin.html",
+				
+				"content_html": "<p>Oh lawd, she closin’</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Oh lawd, she closin’ \n\n<img src=\"uploads/2025/c1daf1c3a8.jpg\" width=\"600\" height=\"450\" alt=\"A JOANN fabric and craft store displays a &quot;CLOSING&quot; banner at its entrance.\">\n",
+				"date_published": "2025-04-29T10:12:45-04:00",
+				"url": "https://blog.gregmoore.me/2025/04/29/oh-lawd-she-closin.html",
+				"tags": ["photos","journal"]
+			},
+			{
 				"id": "http://gregmoore.micro.blog/2025/04/27/the-next-time-you-use.html",
 				
 				"content_html": "<blockquote>\n<p>The next time you use something that works so well you barely notice it, remember that somewhere, a designer solved a problem so thoroughly that both the problem and its solution became invisible. That designer might not be famous, might not have thousands of followers, might not be invited to speak at conferences — but they’ve achieved something remarkable: greatness through invisibility.</p>\n</blockquote>\n<ul>\n<li>Christopher Butler, <a href=\"https://www.chrbutler.com/you-can-be-a-great-designer-and-be-completely-unknown\">You Can Be a Great Designer and Be Completely Unknown</a></li>\n</ul>\n",
