@@ -7,10 +7,19 @@
 	"items": [
 		
 			{
+				"id": "http://gregmoore.micro.blog/2026/01/30/even-thought-this-is-a.html",
+				
+				"content_html": "<p>Even thought this is a dark time, I’ve been thinking about how we need to continue making light.</p>\n<p>A lie that darkness uses to scare us is that it’s tangible but really, it’s nothing but a lack of light. Light can reach. Light can touch.<br>\nDarkness cannot drive out light.</p>\n",
+				"content_text": "Even thought this is a dark time, I’ve been thinking about how we need to continue making light.\n\nA lie that darkness uses to scare us is that it’s tangible but really, it’s nothing but a lack of light. Light can reach. Light can touch.  \nDarkness cannot drive out light.\n",
+				"date_published": "2026-01-30T21:25:07-05:00",
+				"url": "https://blog.gregmoore.me/2026/01/30/even-thought-this-is-a.html",
+				"tags": ["journal"]
+			},
+			{
 				"id": "http://gregmoore.micro.blog/2026/01/15/frozen-lace.html",
 				
 				"content_html": "<p>Frozen Lace</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Frozen Lace\n\n<img src=\"uploads/2026/4adb3d0638.jpg\" width=\"600\" height=\"400\" alt=\"A silhouette of bare trees is set against a dusky sky with scattered clouds.\">\n",
+				"content_text": "Frozen Lace\n\n<img src=\"https://cdn.uploads.micro.blog/5332/2026/4adb3d0638.jpg\" width=\"600\" height=\"400\" alt=\"A silhouette of bare trees is set against a dusky sky with scattered clouds.\">\n",
 				"date_published": "2026-01-15T10:00:47-05:00",
 				"url": "https://blog.gregmoore.me/2026/01/15/frozen-lace.html",
 				"tags": ["photos"]
@@ -19,7 +28,7 @@
 				"id": "http://gregmoore.micro.blog/2026/01/08/traces-of-humans-through-the.html",
 				
 				"content_html": "<p>Traces of humans through the snow and fog.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Traces of humans through the snow and fog. \n\n<img src=\"uploads/2026/8a4f8f7d4f.jpg\" width=\"449\" height=\"600\" alt=\"A foggy day with a view of a snow covered hill with leafless trees\">\n",
+				"content_text": "Traces of humans through the snow and fog. \n\n<img src=\"https://cdn.uploads.micro.blog/5332/2026/8a4f8f7d4f.jpg\" width=\"449\" height=\"600\" alt=\"A foggy day with a view of a snow covered hill with leafless trees\">\n",
 				"date_published": "2026-01-08T15:28:32-05:00",
 				"url": "https://blog.gregmoore.me/2026/01/08/traces-of-humans-through-the.html",
 				"tags": ["photos"]
@@ -46,7 +55,7 @@
 				"id": "http://gregmoore.micro.blog/2025/11/23/fall-may-be-giving-way.html",
 				
 				"content_html": "<p>Fall may be giving way to winter but there’s still enjoyable ends to a beautiful weekends.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Fall may be giving way to winter but there’s still enjoyable ends to a beautiful weekends.\n\n<img src=\"uploads/2025/134785f49b.jpg\" width=\"600\" height=\"450\" alt=\"A vibrant sunset with fiery orange and red clouds dominates the sky above silhouetted trees and power lines.\">\n",
+				"content_text": "Fall may be giving way to winter but there’s still enjoyable ends to a beautiful weekends.\n\n<img src=\"https://cdn.uploads.micro.blog/5332/2025/134785f49b.jpg\" width=\"600\" height=\"450\" alt=\"A vibrant sunset with fiery orange and red clouds dominates the sky above silhouetted trees and power lines.\">\n",
 				"date_published": "2025-11-23T19:59:57-05:00",
 				"url": "https://blog.gregmoore.me/2025/11/23/fall-may-be-giving-way.html",
 				"tags": ["photos"]
@@ -64,7 +73,7 @@
 				"id": "http://gregmoore.micro.blog/2025/10/20/spending-time-under-an-old.html",
 				
 				"content_html": "<p>Spending time under an old friend.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Spending time under an old friend.\n\n<img src=\"uploads/2025/4bd54a0225.jpg\" width=\"600\" height=\"450\" alt=\"Colorful autumn leaves in shades of red, yellow, and green cover the branches of a maple tree against a clear blue sky.\">\n",
+				"content_text": "Spending time under an old friend.\n\n<img src=\"https://cdn.uploads.micro.blog/5332/2025/4bd54a0225.jpg\" width=\"600\" height=\"450\" alt=\"Colorful autumn leaves in shades of red, yellow, and green cover the branches of a maple tree against a clear blue sky.\">\n",
 				"date_published": "2025-10-20T16:31:36-05:00",
 				"url": "https://blog.gregmoore.me/2025/10/20/spending-time-under-an-old.html",
 				"tags": ["photos","journal"]
@@ -9054,15 +9063,6 @@
 				"tags": ["photos"]
 			},
 			{
-				"id": "http://gregmoore.micro.blog/2020/05/06/comfy-morning.html",
-				
-				"content_html": "<p>Comfy Morning</p>\n<p><img src=\"https://gregmoore.micro.blog/uploads/2020/ca23a6abac.jpg\" alt=\"7E224082-F5B3-4B71-B6D7-7F430041E8DA.jpg\"></p>\n",
-				"content_text": "Comfy Morning\n\n![7E224082-F5B3-4B71-B6D7-7F430041E8DA.jpg](https://gregmoore.micro.blog/uploads/2020/ca23a6abac.jpg)\n",
-				"date_published": "2020-05-06T07:47:00-05:00",
-				"url": "https://blog.gregmoore.me/2020/05/06/comfy-morning.html",
-				"tags": ["photos","cats"]
-			},
-			{
 				"id": "http://gregmoore.micro.blog/2020/05/05/garden-color-explosion.html",
 				
 				"content_html": "<p>Garden Color Explosion</p>\n<p><img src=\"https://gregmoore.micro.blog/uploads/2020/bb07bbfe25.jpg\" alt=\"6CAE6A4E-58FD-4205-BE75-57257E7D767D.jpg\"></p>\n",
@@ -9147,7 +9147,7 @@
 				"id": "http://gregmoore.micro.blog/2020/04/26/reading-nook.html",
 				
 				"content_html": "<p>Reading Nook</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "Reading Nook\n\n<a href=\"https://gregmoore.micro.blog/uploads/2020/851425e703.jpg\"><img src=\"https://gregmoore.micro.blog/uploads/2020/851425e703.jpg\" width=\"400\" height=\"600\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n",
+				"content_text": "Reading Nook\n\n<a href=\"https://gregmoore.micro.blog/uploads/2020/851425e703.jpg\"><img src=\"uploads/2020/851425e703.jpg\" width=\"400\" height=\"600\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n",
 				"date_published": "2020-04-26T16:21:00-05:00",
 				"url": "https://blog.gregmoore.me/2020/04/26/reading-nook.html",
 				"tags": ["photos"]
@@ -9156,7 +9156,7 @@
 				"id": "http://gregmoore.micro.blog/2020/04/25/still-raining.html",
 				
 				"content_html": "<p>Still raining</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "Still raining\n\n<a href=\"https://gregmoore.micro.blog/uploads/2020/f24959625f.jpg\"><img src=\"https://gregmoore.micro.blog/uploads/2020/f24959625f.jpg\" width=\"600\" height=\"399\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\n",
+				"content_text": "Still raining\n\n<a href=\"https://gregmoore.micro.blog/uploads/2020/f24959625f.jpg\"><img src=\"uploads/2020/f24959625f.jpg\" width=\"600\" height=\"399\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\n",
 				"date_published": "2020-04-25T20:04:44-05:00",
 				"url": "https://blog.gregmoore.me/2020/04/25/still-raining.html",
 				"tags": ["photos"]
@@ -9165,7 +9165,7 @@
 				"id": "http://gregmoore.micro.blog/2020/04/24/rainy-day-mood.html",
 				
 				"content_html": "<p>Rainy Day Mood</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "Rainy Day Mood\n\n<a href=\"https://gregmoore.micro.blog/uploads/2020/fe943099a1.jpg\"><img src=\"https://gregmoore.micro.blog/uploads/2020/fe943099a1.jpg\" width=\"600\" height=\"399\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\n",
+				"content_text": "Rainy Day Mood\n\n<a href=\"https://gregmoore.micro.blog/uploads/2020/fe943099a1.jpg\"><img src=\"uploads/2020/fe943099a1.jpg\" width=\"600\" height=\"399\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\n",
 				"date_published": "2020-04-24T15:03:34-05:00",
 				"url": "https://blog.gregmoore.me/2020/04/24/rainy-day-mood.html",
 				"tags": ["photos"]
@@ -9174,7 +9174,7 @@
 				"id": "http://gregmoore.micro.blog/2020/04/23/a-spring-with.html",
 				
 				"content_html": "<p>A spring with no cars</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "A spring with no cars\n\n<a href=\"https://gregmoore.micro.blog/uploads/2020/ce1d58c4e7.jpg\"><img src=\"https://gregmoore.micro.blog/uploads/2020/ce1d58c4e7.jpg\" width=\"400\" height=\"600\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\n",
+				"content_text": "A spring with no cars\n\n<a href=\"https://gregmoore.micro.blog/uploads/2020/ce1d58c4e7.jpg\"><img src=\"uploads/2020/ce1d58c4e7.jpg\" width=\"400\" height=\"600\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\n",
 				"date_published": "2020-04-23T07:37:04-05:00",
 				"url": "https://blog.gregmoore.me/2020/04/23/a-spring-with.html",
 				"tags": ["photos"]
@@ -9183,7 +9183,7 @@
 				"id": "http://gregmoore.micro.blog/2020/04/22/grocery-processing-station.html",
 				
 				"content_html": "<p>Grocery Processing Station</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "Grocery Processing Station\n\n<a href=\"https://gregmoore.micro.blog/uploads/2020/ecf66c8c2a.jpg\"><img src=\"https://gregmoore.micro.blog/uploads/2020/ecf66c8c2a.jpg\" width=\"399\" height=\"600\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\n",
+				"content_text": "Grocery Processing Station\n\n<a href=\"https://gregmoore.micro.blog/uploads/2020/ecf66c8c2a.jpg\"><img src=\"uploads/2020/ecf66c8c2a.jpg\" width=\"399\" height=\"600\" alt=\"\" style=\"height: auto;\" class=\"sunlit_image\" /></a>\n\n",
 				"date_published": "2020-04-22T08:36:04-05:00",
 				"url": "https://blog.gregmoore.me/2020/04/22/grocery-processing-station.html",
 				"tags": ["photos"]
@@ -9233,7 +9233,7 @@
 				"id": "http://gregmoore.micro.blog/2018/08/16/it-doesnt-get.html",
 				
 				"content_html": "<p>It doesn’t get much more relaxing than this.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "It doesn’t get much more relaxing than this.\n\n<img src=\"https://gregmoore.micro.blog/uploads/2018/c9c9ecb822.jpg\" width=\"600\" height=\"450\" />\n",
+				"content_text": "It doesn’t get much more relaxing than this.\n\n<img src=\"uploads/2018/c9c9ecb822.jpg\" width=\"600\" height=\"450\" />\n",
 				"date_published": "2018-08-16T09:42:00-05:00",
 				"url": "https://blog.gregmoore.me/2018/08/16/it-doesnt-get.html",
 				"tags": ["photos","journal","cats"]
@@ -9242,7 +9242,7 @@
 				"id": "http://gregmoore.micro.blog/2018/08/15/still-a-favorite.html",
 				
 				"content_html": "<p>Still a favorite from my Colorado trip.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Still a favorite from my Colorado trip.\n\n<img src=\"https://gregmoore.micro.blog/uploads/2018/3aab99ad1f.jpg\" width=\"600\" height=\"400\" />\n",
+				"content_text": "Still a favorite from my Colorado trip.\n\n<img src=\"uploads/2018/3aab99ad1f.jpg\" width=\"600\" height=\"400\" />\n",
 				"date_published": "2018-08-15T07:57:49-05:00",
 				"url": "https://blog.gregmoore.me/2018/08/15/still-a-favorite.html",
 				"tags": ["photos"]
