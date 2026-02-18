@@ -7,6 +7,24 @@
 	"items": [
 		
 			{
+				"id": "http://gregmoore.micro.blog/2026/02/18/the-melting-mountains-of-the.html",
+				
+				"content_html": "<p>The melting mountains of the winter streets.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "The melting mountains of the winter streets.\n\n<img src=\"uploads/2026/2ccd9536aa.jpg\" width=\"600\" height=\"232\" alt=\"A large mound of snow casts a shadow on the ground, reflecting in a nearby puddle under a partly cloudy sky.\">\n",
+				"date_published": "2026-02-18T14:28:23-05:00",
+				"url": "https://blog.gregmoore.me/2026/02/18/the-melting-mountains-of-the.html",
+				"tags": ["photos"]
+			},
+			{
+				"id": "http://gregmoore.micro.blog/2026/02/13/winters-texture-at-sunrise.html",
+				
+				"content_html": "<p>Winter’s texture at sunrise</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Winter’s texture at sunrise\n\n<img src=\"uploads/2026/d627d60cf7.jpg\" width=\"450\" height=\"600\" alt=\"Delicate ice crystals form intricate patterns on a glass surface.\">\n",
+				"date_published": "2026-02-13T22:48:50-05:00",
+				"url": "https://blog.gregmoore.me/2026/02/13/winters-texture-at-sunrise.html",
+				"tags": ["photos"]
+			},
+			{
 				"id": "http://gregmoore.micro.blog/2026/02/11/every-time-a-dd-campaign.html",
 				
 				"content_html": "<p>Every time a D&amp;D campaign ends, I get a miniature of my character printed and paint them. This campaign was the sequel to an earlier one so I got to dust off the same character and upgrade him. It’s so fun to develop him in new directions.</p>\n<p>Both campaigns take place in the frozen north so I used our recent snowfall to photograph him.</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
@@ -37,7 +55,7 @@
 				"id": "http://gregmoore.micro.blog/2026/01/15/frozen-lace.html",
 				
 				"content_html": "<p>Frozen Lace</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Frozen Lace\n\n<img src=\"uploads/2026/4adb3d0638.jpg\" width=\"600\" height=\"400\" alt=\"A silhouette of bare trees is set against a dusky sky with scattered clouds.\">\n",
+				"content_text": "Frozen Lace\n\n<img src=\"https://cdn.uploads.micro.blog/5332/2026/4adb3d0638.jpg\" width=\"600\" height=\"400\" alt=\"A silhouette of bare trees is set against a dusky sky with scattered clouds.\">\n",
 				"date_published": "2026-01-15T10:00:47-05:00",
 				"url": "https://blog.gregmoore.me/2026/01/15/frozen-lace.html",
 				"tags": ["photos"]
