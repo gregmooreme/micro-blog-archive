@@ -7,6 +7,15 @@
 	"items": [
 		
 			{
+				"id": "http://gregmoore.micro.blog/2026/02/22/the-snow-returned-so-a.html",
+				
+				"content_html": "<p>The snow returned so a tranquil hike was in order.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "The snow returned so a tranquil hike was in order.\n\n<img src=\"uploads/2026/8e983e63cb.jpg\" width=\"400\" height=\"600\" alt=\"A tranquil creek meanders through a snowy, leafless forest on a winter day.\">\n",
+				"date_published": "2026-02-22T12:22:22-05:00",
+				"url": "https://blog.gregmoore.me/2026/02/22/the-snow-returned-so-a.html",
+				"tags": ["photos"]
+			},
+			{
 				"id": "http://gregmoore.micro.blog/2026/02/20/thunderer-by-david-henderson.html",
 				
 				"content_html": "<p><em>Thunderer</em> by David Henderson, 2008</p>\n<!-- raw HTML omitted -->\n",
