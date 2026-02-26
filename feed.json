@@ -7,6 +7,15 @@
 	"items": [
 		
 			{
+				"id": "http://gregmoore.micro.blog/2026/02/26/teetering.html",
+				
+				"content_html": "<p>Teetering</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Teetering\n\n<img src=\"uploads/2026/d7a6d165b1.jpg\" width=\"400\" height=\"600\" alt=\"A sculpture of a person walking on a long beam protrudes from the edge of a building under a clear blue sky.\">\n",
+				"date_published": "2026-02-26T08:20:41-05:00",
+				"url": "https://blog.gregmoore.me/2026/02/26/teetering.html",
+				"tags": ["photos"]
+			},
+			{
 				"id": "http://gregmoore.micro.blog/2026/02/22/the-snow-returned-so-a.html",
 				
 				"content_html": "<p>The snow returned so a tranquil hike was in order.</p>\n<!-- raw HTML omitted -->\n",
