@@ -7,6 +7,15 @@
 	"items": [
 		
 			{
+				"id": "http://gregmoore.micro.blog/2026/02/26/the-ice-cave-was-foreboding.html",
+				
+				"content_html": "<p>The ice cave was foreboding enough without him saying the entrance looked like a mouth.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "The ice cave was foreboding enough without him saying the entrance looked like a mouth.\n\n<img src=\"uploads/2026/579e11c652.jpg\" width=\"600\" height=\"449\" alt=\"A layer of ice resembling a cave formation, with icicles hanging from it, sits on a rough ground surface.\">\n",
+				"date_published": "2026-02-26T17:25:45-05:00",
+				"url": "https://blog.gregmoore.me/2026/02/26/the-ice-cave-was-foreboding.html",
+				"tags": ["photos"]
+			},
+			{
 				"id": "http://gregmoore.micro.blog/2026/02/26/teetering.html",
 				
 				"content_html": "<p>Teetering</p>\n<!-- raw HTML omitted -->\n",
@@ -46,7 +55,7 @@
 				"id": "http://gregmoore.micro.blog/2026/02/13/winters-texture-at-sunrise.html",
 				
 				"content_html": "<p>Winter’s texture at sunrise</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Winter’s texture at sunrise\n\n<img src=\"uploads/2026/d627d60cf7.jpg\" width=\"450\" height=\"600\" alt=\"Delicate ice crystals form intricate patterns on a glass surface.\">\n",
+				"content_text": "Winter’s texture at sunrise\n\n<img src=\"https://cdn.uploads.micro.blog/5332/2026/d627d60cf7.jpg\" width=\"450\" height=\"600\" alt=\"Delicate ice crystals form intricate patterns on a glass surface.\">\n",
 				"date_published": "2026-02-13T22:48:50-05:00",
 				"url": "https://blog.gregmoore.me/2026/02/13/winters-texture-at-sunrise.html",
 				"tags": ["photos"]
@@ -55,7 +64,7 @@
 				"id": "http://gregmoore.micro.blog/2026/02/11/every-time-a-dd-campaign.html",
 				
 				"content_html": "<p>Every time a D&amp;D campaign ends, I get a miniature of my character printed and paint them. This campaign was the sequel to an earlier one so I got to dust off the same character and upgrade him. It’s so fun to develop him in new directions.</p>\n<p>Both campaigns take place in the frozen north so I used our recent snowfall to photograph him.</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "Every time a D&D campaign ends, I get a miniature of my character printed and paint them. This campaign was the sequel to an earlier one so I got to dust off the same character and upgrade him. It’s so fun to develop him in new directions. \n\nBoth campaigns take place in the frozen north so I used our recent snowfall to photograph him.\n\n<img src=\"uploads/2026/4faf682eb4.jpg\" width=\"400\" height=\"600\" alt=\"A dungeons and dragons miniature of a warforged in blue armor is posed holding a sword, standing on snow.\"><img src=\"uploads/2026/d1f0b5fc9b.jpg\" width=\"600\" height=\"400\" alt=\"A dungeons and dragons miniature of a warforged holding a sword, stands on a snowy surface.\">\n",
+				"content_text": "Every time a D&D campaign ends, I get a miniature of my character printed and paint them. This campaign was the sequel to an earlier one so I got to dust off the same character and upgrade him. It’s so fun to develop him in new directions. \n\nBoth campaigns take place in the frozen north so I used our recent snowfall to photograph him.\n\n<img src=\"https://cdn.uploads.micro.blog/5332/2026/4faf682eb4.jpg\" width=\"400\" height=\"600\" alt=\"A dungeons and dragons miniature of a warforged in blue armor is posed holding a sword, standing on snow.\"><img src=\"https://cdn.uploads.micro.blog/5332/2026/d1f0b5fc9b.jpg\" width=\"600\" height=\"400\" alt=\"A dungeons and dragons miniature of a warforged holding a sword, stands on a snowy surface.\">\n",
 				"date_published": "2026-02-11T07:59:20-05:00",
 				"url": "https://blog.gregmoore.me/2026/02/11/every-time-a-dd-campaign.html",
 				"tags": ["photos","RPG"]
@@ -64,7 +73,7 @@
 				"id": "http://gregmoore.micro.blog/2026/02/10/my-favorite-sculpture-from-our.html",
 				
 				"content_html": "<p>My favorite sculpture from our local ice festival this year.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "My favorite sculpture from our local ice festival this year.\n\n<img src=\"uploads/2026/61483345c2.jpg\" width=\"600\" height=\"450\" alt=\"A textured ice sculpture shaped like a sphere is set against a snowy and tree-lined background.\">\n",
+				"content_text": "My favorite sculpture from our local ice festival this year.\n\n<img src=\"https://cdn.uploads.micro.blog/5332/2026/61483345c2.jpg\" width=\"600\" height=\"450\" alt=\"A textured ice sculpture shaped like a sphere is set against a snowy and tree-lined background.\">\n",
 				"date_published": "2026-02-10T09:34:45-05:00",
 				"url": "https://blog.gregmoore.me/2026/02/10/my-favorite-sculpture-from-our.html",
 				"tags": ["photos"]
@@ -91,7 +100,7 @@
 				"id": "http://gregmoore.micro.blog/2026/01/08/traces-of-humans-through-the.html",
 				
 				"content_html": "<p>Traces of humans through the snow and fog.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Traces of humans through the snow and fog. \n\n<img src=\"uploads/2026/8a4f8f7d4f.jpg\" width=\"449\" height=\"600\" alt=\"A foggy day with a view of a snow covered hill with leafless trees\">\n",
+				"content_text": "Traces of humans through the snow and fog. \n\n<img src=\"https://cdn.uploads.micro.blog/5332/2026/8a4f8f7d4f.jpg\" width=\"449\" height=\"600\" alt=\"A foggy day with a view of a snow covered hill with leafless trees\">\n",
 				"date_published": "2026-01-08T15:28:32-05:00",
 				"url": "https://blog.gregmoore.me/2026/01/08/traces-of-humans-through-the.html",
 				"tags": ["photos"]
