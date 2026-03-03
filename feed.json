@@ -7,6 +7,24 @@
 	"items": [
 		
 			{
+				"id": "http://gregmoore.micro.blog/2026/03/03/sunset-snowmelt-revealing-the-icy.html",
+				
+				"content_html": "<p>Sunset snow-melt revealing the icy structures beneath.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Sunset snow-melt revealing the icy structures beneath.\n\n<img src=\"uploads/2026/e7e55df11b.jpg\" width=\"600\" height=\"450\" alt=\"Snow-covered ground with patches of ice in a shadowy area.\">\n",
+				"date_published": "2026-03-03T16:49:03-05:00",
+				"url": "https://blog.gregmoore.me/2026/03/03/sunset-snowmelt-revealing-the-icy.html",
+				"tags": ["photos"]
+			},
+			{
+				"id": "http://gregmoore.micro.blog/2026/03/03/we-have-been-a-technological.html",
+				
+				"content_html": "<blockquote>\n<p>We have been a technological civilization, in any meaningful sense, for only around 200 years. We are, statistically speaking, at the very beginning of the most vulnerable period of our existence.</p>\n</blockquote>\n<ul>\n<li><a href=\"https://phys.org/news/2026-03-civilizations.html\">How long do civilizations last?</a></li>\n</ul>\n",
+				"content_text": "> We have been a technological civilization, in any meaningful sense, for only around 200 years. We are, statistically speaking, at the very beginning of the most vulnerable period of our existence.\n\n- [How long do civilizations last?](https://phys.org/news/2026-03-civilizations.html)\n",
+				"date_published": "2026-03-03T08:02:23-05:00",
+				"url": "https://blog.gregmoore.me/2026/03/03/we-have-been-a-technological.html",
+				"tags": ["quotes"]
+			},
+			{
 				"id": "http://gregmoore.micro.blog/2026/02/26/the-ice-cave-was-foreboding.html",
 				
 				"content_html": "<p>The ice cave was foreboding enough without him saying the entrance looked like a mouth.</p>\n<!-- raw HTML omitted -->\n",
@@ -46,7 +64,7 @@
 				"id": "http://gregmoore.micro.blog/2026/02/18/the-melting-mountains-of-the.html",
 				
 				"content_html": "<p>The melting mountains of the winter streets.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "The melting mountains of the winter streets.\n\n<img src=\"uploads/2026/2ccd9536aa.jpg\" width=\"600\" height=\"232\" alt=\"A large mound of snow casts a shadow on the ground, reflecting in a nearby puddle under a partly cloudy sky.\">\n",
+				"content_text": "The melting mountains of the winter streets.\n\n<img src=\"https://cdn.uploads.micro.blog/5332/2026/2ccd9536aa.jpg\" width=\"600\" height=\"232\" alt=\"A large mound of snow casts a shadow on the ground, reflecting in a nearby puddle under a partly cloudy sky.\">\n",
 				"date_published": "2026-02-18T14:28:23-05:00",
 				"url": "https://blog.gregmoore.me/2026/02/18/the-melting-mountains-of-the.html",
 				"tags": ["photos"]
