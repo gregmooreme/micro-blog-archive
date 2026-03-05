@@ -7,6 +7,15 @@
 	"items": [
 		
 			{
+				"id": "http://gregmoore.micro.blog/2026/03/04/when-youre-living-in-a.html",
+				
+				"content_html": "<p>When you’re living in a <a href=\"https://www.simonstalenhag.se/\">Simon Stalenhag</a> painting.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "When you’re living in a [Simon Stalenhag](https://www.simonstalenhag.se/) painting.\n\n<img src=\"uploads/2026/bbbb7f2621.jpg\" width=\"449\" height=\"600\" alt=\"Raindrops on a window blur the view of a snowy street with trees and distant cars.\">\n",
+				"date_published": "2026-03-04T11:18:14-05:00",
+				"url": "https://blog.gregmoore.me/2026/03/04/when-youre-living-in-a.html",
+				"tags": ["photos"]
+			},
+			{
 				"id": "http://gregmoore.micro.blog/2026/03/03/sunset-snowmelt-revealing-the-icy.html",
 				
 				"content_html": "<p>Sunset snow-melt revealing the icy structures beneath.</p>\n<!-- raw HTML omitted -->\n",
@@ -55,7 +64,7 @@
 				"id": "http://gregmoore.micro.blog/2026/02/20/thunderer-by-david-henderson.html",
 				
 				"content_html": "<p><em>Thunderer</em> by David Henderson, 2008</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "_Thunderer_ by David Henderson, 2008\n\n<img src=\"uploads/2026/47e7de0d37.jpg\" width=\"400\" height=\"600\" alt=\"A large blue abstract sculpture stands on a snowy outdoor plaza surrounded by bare trees.\">\n",
+				"content_text": "_Thunderer_ by David Henderson, 2008\n\n<img src=\"https://cdn.uploads.micro.blog/5332/2026/47e7de0d37.jpg\" width=\"400\" height=\"600\" alt=\"A large blue abstract sculpture stands on a snowy outdoor plaza surrounded by bare trees.\">\n",
 				"date_published": "2026-02-20T16:30:46-05:00",
 				"url": "https://blog.gregmoore.me/2026/02/20/thunderer-by-david-henderson.html",
 				"tags": ["photos"]
