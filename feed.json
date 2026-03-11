@@ -7,11 +7,29 @@
 	"items": [
 		
 			{
+				"id": "http://gregmoore.micro.blog/2026/03/11/the-first-spring-bird-of.html",
+				
+				"content_html": "<p>The first spring bird of this year sang atop our chimney, filling the house with its happy sound.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "The first spring bird of this year sang atop our chimney, filling the house with its happy sound.\n\n<img src=\"uploads/2026/6e7b8625d2.jpg\" width=\"600\" height=\"400\" alt=\"Bare branches with droplets of rain are silhouetted against the blurred background of a house.\">\n",
+				"date_published": "2026-03-11T08:52:14-04:00",
+				"url": "https://blog.gregmoore.me/2026/03/11/the-first-spring-bird-of.html",
+				"tags": ["photos"]
+			},
+			{
+				"id": "http://gregmoore.micro.blog/2026/03/10/producing-training-data-means-working.html",
+				
+				"content_html": "<blockquote>\n<p>Producing training data means working toward your own obsolescence. While the number of people doing data work may continue to rise, any particular gig will last only as long as it takes for the machines to successfully mimic it. It takes years for a human to develop expertise, and sooner or later, they’re going to run out of skills to sell.</p>\n</blockquote>\n<ul>\n<li>Josh Dzieza, writing for <a href=\"https://www.theverge.com/cs/features/877388/white-collar-workers-training-ai-mercor\">The Verge</a> about another depressing &ldquo;business&rdquo; created to exploit people.</li>\n</ul>\n",
+				"content_text": "> Producing training data means working toward your own obsolescence. While the number of people doing data work may continue to rise, any particular gig will last only as long as it takes for the machines to successfully mimic it. It takes years for a human to develop expertise, and sooner or later, they’re going to run out of skills to sell.\n\n- Josh Dzieza, writing for [The Verge](https://www.theverge.com/cs/features/877388/white-collar-workers-training-ai-mercor) about another depressing \"business\" created to exploit people.\n",
+				"date_published": "2026-03-10T16:47:03-04:00",
+				"url": "https://blog.gregmoore.me/2026/03/10/producing-training-data-means-working.html",
+				"tags": ["quotes"]
+			},
+			{
 				"id": "http://gregmoore.micro.blog/2026/03/09/the-sun-spot-has-begun.html",
 				
 				"content_html": "<p>The sun spot has begun its triumphant return.</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "The sun spot has begun its triumphant return.\n\n<img src=\"uploads/2026/b0320af479.jpg\" width=\"600\" height=\"450\" alt=\"A cat sits on a carpeted floor, partially illuminated by a beam of sunlight.\">\n",
-				"date_published": "2026-03-09T19:02:57-05:00",
+				"date_published": "2026-03-09T20:02:57-04:00",
 				"url": "https://blog.gregmoore.me/2026/03/09/the-sun-spot-has-begun.html",
 				"tags": ["photos","cats"]
 			},
@@ -20,7 +38,7 @@
 				
 				"content_html": "<p>My wife gives the best gifts.</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "My wife gives the best gifts.\n\n<img src=\"uploads/2026/555153287b.jpg\" width=\"600\" height=\"450\" alt=\"A brown leather keychain and several stickers, all featuring the word Ranalah, are displayed on a white surface.\">\n",
-				"date_published": "2026-03-08T13:24:36-05:00",
+				"date_published": "2026-03-08T14:24:36-04:00",
 				"url": "https://blog.gregmoore.me/2026/03/08/my-wife-gives-the-best.html",
 				"tags": ["photos","journal"]
 			},
@@ -29,7 +47,7 @@
 				
 				"content_html": "<p>Hard to believe this many fall leaves survived such a snowy winter. I welcome their color as gloomy rains begin to take over the season.</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "Hard to believe this many fall leaves survived such a snowy winter. I welcome their color as gloomy rains begin to take over the season.\n\n<img src=\"uploads/2026/4729fc29ee.jpg\" width=\"450\" height=\"600\" alt=\"A tree with vibrant orange-red foliage stands next to evergreen trees on a grassy area.\">\n",
-				"date_published": "2026-03-07T10:49:16-05:00",
+				"date_published": "2026-03-07T11:49:16-04:00",
 				"url": "https://blog.gregmoore.me/2026/03/07/hard-to-believe-this-many.html",
 				"tags": ["photos"]
 			},
@@ -38,7 +56,7 @@
 				
 				"content_html": "<p>Textures and colors of a dark and rainy day.</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "Textures and colors of a dark and rainy day.\n\n<img src=\"uploads/2026/8e0a6d9676.jpg\" width=\"400\" height=\"600\" alt=\"A tree with bare branches adorned with droplets of water stands against the backdrop of evergreen trees.\">\n",
-				"date_published": "2026-03-05T16:49:21-05:00",
+				"date_published": "2026-03-05T17:49:21-04:00",
 				"url": "https://blog.gregmoore.me/2026/03/05/textures-and-colors-of-a.html",
 				"tags": ["photos"]
 			},
@@ -46,7 +64,7 @@
 				"id": "http://gregmoore.micro.blog/2026/03/04/when-youre-living-in-a.html",
 				
 				"content_html": "<p>When you’re living in a <a href=\"https://www.simonstalenhag.se/\">Simon Stalenhag</a> painting.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "When you’re living in a [Simon Stalenhag](https://www.simonstalenhag.se/) painting.\n\n<img src=\"uploads/2026/bbbb7f2621.jpg\" width=\"449\" height=\"600\" alt=\"Raindrops on a window blur the view of a snowy street with trees and distant cars.\">\n",
+				"content_text": "When you’re living in a [Simon Stalenhag](https://www.simonstalenhag.se/) painting.\n\n<img src=\"https://cdn.uploads.micro.blog/5332/2026/bbbb7f2621.jpg\" width=\"449\" height=\"600\" alt=\"Raindrops on a window blur the view of a snowy street with trees and distant cars.\">\n",
 				"date_published": "2026-03-04T11:18:14-05:00",
 				"url": "https://blog.gregmoore.me/2026/03/04/when-youre-living-in-a.html",
 				"tags": ["photos"]
