@@ -7,6 +7,24 @@
 	"items": [
 		
 			{
+				"id": "http://gregmoore.micro.blog/2026/03/21/rest-in-peace-chuck.html",
+				
+				"content_html": "<p>Rest in peace, Chuck.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Rest in peace, Chuck.\n\n<img src=\"uploads/2026/6a0c1c8bb1.jpg\" width=\"450\" height=\"600\" alt=\"A theater marquee displays a humorous message referencing Death and Chuck Norris.\">\n",
+				"date_published": "2026-03-21T11:15:20-04:00",
+				"url": "https://blog.gregmoore.me/2026/03/21/rest-in-peace-chuck.html",
+				"tags": ["photos"]
+			},
+			{
+				"id": "http://gregmoore.micro.blog/2026/03/18/finished-rereading-neuromancer-by-william.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n<p>Finished Re-reading: <a href=\"https://micro.blog/books/9780441007462\">Neuromancer</a> by William Gibson 📚</p>\n<p>It&rsquo;s still incredible to read just how many futuristic things Gibson accurately described way back in 1982 but the accuracy that stood out most in this read is how thoroughly wealth can destroy peoples' humanity.</p>\n",
+				"content_text": "<img src=\"https://cdn.micro.blog/books/9780441007462/cover.jpg\" align=\"left\" class=\"microblog_book\" style=\"max-width: 60px; margin-right: 20px; margin-top: 0px; padding-top: 0px;\">\n\nFinished Re-reading: [Neuromancer](https://micro.blog/books/9780441007462) by William Gibson 📚\n\nIt's still incredible to read just how many futuristic things Gibson accurately described way back in 1982 but the accuracy that stood out most in this read is how thoroughly wealth can destroy peoples' humanity.\n",
+				"date_published": "2026-03-18T09:10:14-04:00",
+				"url": "https://blog.gregmoore.me/2026/03/18/finished-rereading-neuromancer-by-william.html",
+				"tags": ["books"]
+			},
+			{
 				"id": "http://gregmoore.micro.blog/2026/03/16/the-kid-who-tries-to.html",
 				
 				"content_html": "<blockquote>\n<p>“The kid who tries to run Blender on a Chromebook doesn’t learn that his machine can’t handle it. He learns that Google decided he’s not allowed to. Those are completely different lessons.”</p>\n</blockquote>\n<ul>\n<li>Sam Henri Gold, <a href=\"https://samhenri.gold/blog/20260312-this-is-not-the-computer-for-you/\">This Is Not The Computer For You</a></li>\n</ul>\n<p>I read this thinking of my daughter’s untaught hatred for her school Chromebook and how quickly she figured out the school forms to drop it for an ancient MacBook Air that she <em>still</em> refuses to let me replace.</p>\n",
