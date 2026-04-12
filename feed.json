@@ -7,6 +7,15 @@
 	"items": [
 		
 			{
+				"id": "http://gregmoore.micro.blog/2026/04/12/everything-has-five-stars-but.html",
+				
+				"content_html": "<p>Everything has five stars but it’s worse and costs more money.</p>\n",
+				"content_text": "Everything has five stars but it’s worse and costs more money.\n",
+				"date_published": "2026-04-12T11:38:30-04:00",
+				"url": "https://blog.gregmoore.me/2026/04/12/everything-has-five-stars-but.html",
+				"tags": ["journal"]
+			},
+			{
 				"id": "http://gregmoore.micro.blog/2026/04/09/spring-sunrise-over-the-high.html",
 				
 				"content_html": "<p>Spring sunrise over the high school football fields.</p>\n<!-- raw HTML omitted -->\n",
