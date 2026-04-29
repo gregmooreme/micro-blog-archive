@@ -7,6 +7,33 @@
 	"items": [
 		
 			{
+				"id": "http://gregmoore.micro.blog/2026/04/28/the-drive-home.html",
+				
+				"content_html": "<p>The drive home.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "The drive home.\n\n<img src=\"uploads/2026/deb9acaffc.jpg\" width=\"600\" height=\"400\" alt=\"A vibrant sunset illuminates the sky with deep orange and red hues, silhouetting power lines and trees in the foreground.\">\n",
+				"date_published": "2026-04-28T21:29:15-04:00",
+				"url": "https://blog.gregmoore.me/2026/04/28/the-drive-home.html",
+				"tags": ["photos"]
+			},
+			{
+				"id": "http://gregmoore.micro.blog/2026/04/22/a-really-great-grate.html",
+				
+				"content_html": "<p>A really great grate.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "A really great grate.\n\n<img src=\"uploads/2026/dedf52db3b.jpg\" width=\"449\" height=\"600\" alt=\"An ornate, rectangular wrought iron grate with intricate gold embellishments is mounted on a stone wall.\">\n",
+				"date_published": "2026-04-22T09:20:10-04:00",
+				"url": "https://blog.gregmoore.me/2026/04/22/a-really-great-grate.html",
+				"tags": ["photos"]
+			},
+			{
+				"id": "http://gregmoore.micro.blog/2026/04/21/my-new-routine-every-day.html",
+				
+				"content_html": "<p>My new routine: Every day, when my daughter is gone at school, my brain forces me to face the fact that her being gone will soon be my new normal.<br>\nI hate this new routine.</p>\n",
+				"content_text": "My new routine: Every day, when my daughter is gone at school, my brain forces me to face the fact that her being gone will soon be my new normal.  \nI hate this new routine.\n",
+				"date_published": "2026-04-21T14:18:50-04:00",
+				"url": "https://blog.gregmoore.me/2026/04/21/my-new-routine-every-day.html",
+				"tags": ["journal"]
+			},
+			{
 				"id": "http://gregmoore.micro.blog/2026/04/21/we-are-very-easily-taken.html",
 				
 				"content_html": "<blockquote>\n<p>…we are very easily taken in by the promise that buying or upgrading to some new thing will measurably improve our lives. I propose that, if we learned how to fully use what we already had better, such depth of knowledge and skill would have a far greater and more lasting impact.</p>\n</blockquote>\n<ul>\n<li>Patrick Rhone, <a href=\"https://minimalmac.com/post/34081675157/the-best-upgrade-is-you\">The Best Upgrade Is You</a></li>\n</ul>\n<p>I absolutely love the (almost secret) positivity in Patrick’s advice here: You bought a thing. A really cool thing! Learn how to really use it so your enjoyment can last longer than the afterglow of the purchase.</p>\n",
@@ -37,7 +64,7 @@
 				"id": "http://gregmoore.micro.blog/2026/04/17/some-welcome-color-for-the.html",
 				
 				"content_html": "<p>Some welcome color for the season.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Some welcome color for the season.\n\n<img src=\"uploads/2026/01f781ecb1.jpg\" width=\"600\" height=\"400\" alt=\"A vibrant bouquet features white bell-shaped flowers surrounded by colorful blooms, including pink, yellow, and red flowers.\">\n",
+				"content_text": "Some welcome color for the season.\n\n<img src=\"https://cdn.uploads.micro.blog/5332/2026/01f781ecb1.jpg\" width=\"600\" height=\"400\" alt=\"A vibrant bouquet features white bell-shaped flowers surrounded by colorful blooms, including pink, yellow, and red flowers.\">\n",
 				"date_published": "2026-04-17T08:12:42-04:00",
 				"url": "https://blog.gregmoore.me/2026/04/17/some-welcome-color-for-the.html",
 				"tags": ["photos"]
@@ -46,7 +73,7 @@
 				"id": "http://gregmoore.micro.blog/2026/04/16/i-think-its-time-for.html",
 				
 				"content_html": "<p>I think it’s time for a haircut when I start looking like Egon Spengler from The Real Ghostbusters cartoon.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "I think it’s time for a haircut when I start looking like Egon Spengler from The Real Ghostbusters cartoon.\n\n<img src=\"uploads/2026/f7bdd98a89.jpg\" width=\"600\" height=\"296\" alt=\"A person with curly hair and glasses is pictured alongside an animated character with similar features.\">\n",
+				"content_text": "I think it’s time for a haircut when I start looking like Egon Spengler from The Real Ghostbusters cartoon.\n\n<img src=\"https://cdn.uploads.micro.blog/5332/2026/f7bdd98a89.jpg\" width=\"600\" height=\"296\" alt=\"A person with curly hair and glasses is pictured alongside an animated character with similar features.\">\n",
 				"date_published": "2026-04-16T13:57:48-04:00",
 				"url": "https://blog.gregmoore.me/2026/04/16/i-think-its-time-for.html",
 				"tags": ["photos","journal"]
@@ -55,7 +82,7 @@
 				"id": "http://gregmoore.micro.blog/2026/04/15/i-am-tron-devoured-of.html",
 				
 				"content_html": "<p>I am TRON, devoured of quarters. Look upon my difficulty and despair.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "I am TRON, devoured of quarters. Look upon my difficulty and despair.\n\n<img src=\"uploads/2026/086058da70.jpg\" width=\"450\" height=\"600\" alt=\"An arcade machine for the classic video game Tron features neon lights and a joystick, surrounded by a retro gaming atmosphere.\">\n",
+				"content_text": "I am TRON, devoured of quarters. Look upon my difficulty and despair.\n\n<img src=\"https://cdn.uploads.micro.blog/5332/2026/086058da70.jpg\" width=\"450\" height=\"600\" alt=\"An arcade machine for the classic video game Tron features neon lights and a joystick, surrounded by a retro gaming atmosphere.\">\n",
 				"date_published": "2026-04-15T11:56:44-04:00",
 				"url": "https://blog.gregmoore.me/2026/04/15/i-am-tron-devoured-of.html",
 				"tags": ["photos"]
