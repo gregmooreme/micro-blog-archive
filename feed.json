@@ -7,6 +7,15 @@
 	"items": [
 		
 			{
+				"id": "http://gregmoore.micro.blog/2026/05/02/warren-ave-detroit.html",
+				
+				"content_html": "<p>Warren Ave., Detroit</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Warren Ave., Detroit\n\n<img src=\"uploads/2026/6cb3e788b0.jpg\" width=\"600\" height=\"301\" alt=\"Several people are sitting or standing at a colorful bus shelter during sunset, with buildings visible in the background.\">\n",
+				"date_published": "2026-05-02T08:04:32-04:00",
+				"url": "https://blog.gregmoore.me/2026/05/02/warren-ave-detroit.html",
+				"tags": ["photos"]
+			},
+			{
 				"id": "http://gregmoore.micro.blog/2026/04/28/the-drive-home.html",
 				
 				"content_html": "<p>The drive home.</p>\n<!-- raw HTML omitted -->\n",
@@ -55,7 +64,7 @@
 				"id": "http://gregmoore.micro.blog/2026/04/20/with-the-beautiful-flowers-and.html",
 				
 				"content_html": "<p>With the beautiful flowers and clear blue skies, you’d never know it’s 30° out today.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "With the beautiful flowers and clear blue skies, you’d never know it’s 30° out today.\n\n<img src=\"uploads/2026/1dfe0e5f41.jpg\" width=\"400\" height=\"600\" alt=\"A tree with a rough trunk is adorned with clusters of pink blossoms set against a green backdrop.\">\n",
+				"content_text": "With the beautiful flowers and clear blue skies, you’d never know it’s 30° out today.\n\n<img src=\"https://cdn.uploads.micro.blog/5332/2026/1dfe0e5f41.jpg\" width=\"400\" height=\"600\" alt=\"A tree with a rough trunk is adorned with clusters of pink blossoms set against a green backdrop.\">\n",
 				"date_published": "2026-04-20T10:21:08-04:00",
 				"url": "https://blog.gregmoore.me/2026/04/20/with-the-beautiful-flowers-and.html",
 				"tags": ["photos"]
