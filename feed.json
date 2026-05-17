@@ -7,6 +7,24 @@
 	"items": [
 		
 			{
+				"id": "http://gregmoore.micro.blog/2026/05/16/the-coolest-playground-at-bonnet.html",
+				
+				"content_html": "<p>🦉 The coolest playground at Bonnet Springs park, FL.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "🦉 The coolest playground at Bonnet Springs park, FL.\n\n<img src=\"uploads/2026/5cdfa4aab1.jpg\" width=\"450\" height=\"600\" alt=\"A large wooden owl sculpture is nestled among trees in a sunlit Bonnet Springs park setting.\">\n",
+				"date_published": "2026-05-16T22:37:58-04:00",
+				"url": "https://blog.gregmoore.me/2026/05/16/the-coolest-playground-at-bonnet.html",
+				"tags": ["photos"]
+			},
+			{
+				"id": "http://gregmoore.micro.blog/2026/05/11/downtown-in-bloom.html",
+				
+				"content_html": "<p>Downtown in bloom</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Downtown in bloom\n\n<img src=\"uploads/2026/6a68eea808.jpg\" width=\"600\" height=\"400\" alt=\"Downtown Detroit featuring a prominent art-deco building in the background, with a street sign labeled Cass and a vibrant blossoming tree in the foreground.\">\n",
+				"date_published": "2026-05-11T22:09:16-04:00",
+				"url": "https://blog.gregmoore.me/2026/05/11/downtown-in-bloom.html",
+				"tags": ["photos"]
+			},
+			{
 				"id": "http://gregmoore.micro.blog/2026/05/11/meanwhile-the-barons-of-the.html",
 				
 				"content_html": "<blockquote>\n<p>Meanwhile, the barons of the private sector have likewise backed down from even superficial concern for equality, and now demand such extreme fealty to their enterprises that only someone with no caretaking responsibilities whatsoever—with no care at all, not even for themselves—could possibly meet them.</p>\n</blockquote>\n<ul>\n<li>Mandy Brown, <a href=\"https://aworkinglibrary.com/writing/into-the-gap\">Into The Gap</a></li>\n</ul>\n",
@@ -37,7 +55,7 @@
 				"id": "http://gregmoore.micro.blog/2026/05/02/warren-ave-detroit.html",
 				
 				"content_html": "<p>Warren Ave., Detroit</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Warren Ave., Detroit\n\n<img src=\"uploads/2026/6cb3e788b0.jpg\" width=\"600\" height=\"301\" alt=\"Several people are sitting or standing at a colorful bus shelter during sunset, with buildings visible in the background.\">\n",
+				"content_text": "Warren Ave., Detroit\n\n<img src=\"https://cdn.uploads.micro.blog/5332/2026/6cb3e788b0.jpg\" width=\"600\" height=\"301\" alt=\"Several people are sitting or standing at a colorful bus shelter during sunset, with buildings visible in the background.\">\n",
 				"date_published": "2026-05-02T08:04:32-04:00",
 				"url": "https://blog.gregmoore.me/2026/05/02/warren-ave-detroit.html",
 				"tags": ["photos"]
@@ -46,7 +64,7 @@
 				"id": "http://gregmoore.micro.blog/2026/04/28/the-drive-home.html",
 				
 				"content_html": "<p>The drive home.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "The drive home.\n\n<img src=\"uploads/2026/deb9acaffc.jpg\" width=\"600\" height=\"400\" alt=\"A vibrant sunset illuminates the sky with deep orange and red hues, silhouetting power lines and trees in the foreground.\">\n",
+				"content_text": "The drive home.\n\n<img src=\"https://cdn.uploads.micro.blog/5332/2026/deb9acaffc.jpg\" width=\"600\" height=\"400\" alt=\"A vibrant sunset illuminates the sky with deep orange and red hues, silhouetting power lines and trees in the foreground.\">\n",
 				"date_published": "2026-04-28T21:29:15-04:00",
 				"url": "https://blog.gregmoore.me/2026/04/28/the-drive-home.html",
 				"tags": ["photos"]
