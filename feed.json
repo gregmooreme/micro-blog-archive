@@ -7,6 +7,15 @@
 	"items": [
 		
 			{
+				"id": "http://gregmoore.micro.blog/2026/06/17/i-always-marvel-at-the.html",
+				
+				"content_html": "<p>I always marvel at the well observed moments that sculptors are able to capture. I almost felt like I was intruding on this woman’s quiet moment.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "I always marvel at the well observed moments that sculptors are able to capture. I almost felt like I was intruding on this woman’s quiet moment.\n\n\n<img src=\"uploads/2026/56fd69abbe.jpg\" width=\"600\" height=\"400\" alt=\"A bronze statue of a girl with long hair drinking from a shell\">\n",
+				"date_published": "2026-06-17T10:03:19-04:00",
+				"url": "https://blog.gregmoore.me/2026/06/17/i-always-marvel-at-the.html",
+				"tags": ["photos"]
+			},
+			{
 				"id": "http://gregmoore.micro.blog/2026/06/16/twelve-years-ago-we-took.html",
 				
 				"content_html": "<p>Twelve years ago, we took our then kindergartener for pancakes before her first day of school. Today, we’re celebrating her graduation from high school and, like all parents, dumbfounded in the realization that our child has become an adult right under our noses. We couldn’t be more proud.</p>\n<!-- raw HTML omitted -->\n",
@@ -46,7 +55,7 @@
 				"id": "http://gregmoore.micro.blog/2026/05/26/quality-time-with-other-humans.html",
 				
 				"content_html": "<p>Quality time with other humans all pretending to not be human.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Quality time with other humans all pretending to not be human.\n\n<img src=\"uploads/2026/f6a1d6b80a.jpg\" width=\"600\" height=\"449\" alt=\"A tabletop game setup features various miniature figures arranged on a grid.\">\n",
+				"content_text": "Quality time with other humans all pretending to not be human.\n\n<img src=\"https://cdn.uploads.micro.blog/5332/2026/f6a1d6b80a.jpg\" width=\"600\" height=\"449\" alt=\"A tabletop game setup features various miniature figures arranged on a grid.\">\n",
 				"date_published": "2026-05-26T10:05:33-04:00",
 				"url": "https://blog.gregmoore.me/2026/05/26/quality-time-with-other-humans.html",
 				"tags": ["photos","journal","RPG"]
