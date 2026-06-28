@@ -7,6 +7,24 @@
 	"items": [
 		
 			{
+				"id": "http://gregmoore.micro.blog/2026/06/28/your-local-caffeine-dealer-the.html",
+				
+				"content_html": "<p>”Your local caffeine dealer”</p>\n<p>The most appropriately advertised coffee shop.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "”Your local caffeine dealer”\n\nThe most appropriately advertised coffee shop.\n\n<img src=\"uploads/2026/cac139b6e9.jpg\" width=\"600\" height=\"450\" alt=\"A person stands at the entrance of a green building with a sign that reads YOUR LOCAL CAFFEINE DEALER, next to outdoor seating with picnic tables and umbrellas.\">\n",
+				"date_published": "2026-06-28T00:29:23-04:00",
+				"url": "https://blog.gregmoore.me/2026/06/28/your-local-caffeine-dealer-the.html",
+				"tags": ["photos","journal"]
+			},
+			{
+				"id": "http://gregmoore.micro.blog/2026/06/27/star-dream-fountain-marshall-m.html",
+				
+				"content_html": "<p><em>Star Dream Fountain</em><br>\n<a href=\"https://en.wikipedia.org/wiki/Marshall_Fredericks\">Marshall M. Fredricks</a>, 1908-1998</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "*Star Dream Fountain*  \n[Marshall M. Fredricks](https://en.wikipedia.org/wiki/Marshall_Fredericks), 1908-1998\n\n<img src=\"uploads/2026/3cdde0b75b.jpg\" width=\"449\" height=\"600\" alt=\"A green statue of a man holding a woman above his head stands on a geometric pedestal in an outdoor park in Royal Oak, Michigan with trees and buildings in the background.\">\n",
+				"date_published": "2026-06-27T00:23:04-04:00",
+				"url": "https://blog.gregmoore.me/2026/06/27/star-dream-fountain-marshall-m.html",
+				"tags": ["photos"]
+			},
+			{
 				"id": "http://gregmoore.micro.blog/2026/06/26/if-anyone-wants-to-hire.html",
 				
 				"content_html": "<p>If anyone wants to hire me, I’ve really got my finger on the pulse of middle-aged white guys trying to get their hair cuts at the least busy time of day who end up all going at the same time.</p>\n",
@@ -37,7 +55,7 @@
 				"id": "http://gregmoore.micro.blog/2026/06/22/fortress-of-higher-learning.html",
 				
 				"content_html": "<p>Fortress of higher learning.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Fortress of higher learning.\n\n<img src=\"uploads/2026/197050b13e.jpg\" width=\"600\" height=\"450\" alt=\"University of Toledo Center for Visual Arts. A large, modern building with curved and angular dark stone walls is situated on a grassy hill under a cloudy sky.\">\n",
+				"content_text": "Fortress of higher learning.\n\n<img src=\"https://cdn.uploads.micro.blog/5332/2026/197050b13e.jpg\" width=\"600\" height=\"450\" alt=\"University of Toledo Center for Visual Arts. A large, modern building with curved and angular dark stone walls is situated on a grassy hill under a cloudy sky.\">\n",
 				"date_published": "2026-06-22T11:34:33-04:00",
 				"url": "https://blog.gregmoore.me/2026/06/22/fortress-of-higher-learning.html",
 				"tags": ["photos"]
