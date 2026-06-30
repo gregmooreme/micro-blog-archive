@@ -7,6 +7,24 @@
 	"items": [
 		
 			{
+				"id": "http://gregmoore.micro.blog/2026/06/29/ascension.html",
+				
+				"content_html": "<p>Ascension</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Ascension\n\n<img src=\"uploads/2026/40e860d543.jpg\" width=\"495\" height=\"600\" alt=\"A curved staircase with a metal railing is positioned in a bright, airy interior featuring arched stained glass windows and ornate architectural details.\">\n",
+				"date_published": "2026-06-29T22:59:35-04:00",
+				"url": "https://blog.gregmoore.me/2026/06/29/ascension.html",
+				"tags": ["photos"]
+			},
+			{
+				"id": "http://gregmoore.micro.blog/2026/06/28/sacred-doorway.html",
+				
+				"content_html": "<p>Sacred Doorway</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Sacred Doorway\n\n<img src=\"uploads/2026/a1544e8b22.jpg\" width=\"400\" height=\"600\" alt=\"A hallway leads to a wooden double door with an arched top, set beneath a golden dome adorned with small crosses.\">\n",
+				"date_published": "2026-06-28T21:26:24-04:00",
+				"url": "https://blog.gregmoore.me/2026/06/28/sacred-doorway.html",
+				"tags": ["photos"]
+			},
+			{
 				"id": "http://gregmoore.micro.blog/2026/06/28/your-local-caffeine-dealer-the.html",
 				
 				"content_html": "<p>”Your local caffeine dealer”</p>\n<p>The most appropriately advertised coffee shop.</p>\n<!-- raw HTML omitted -->\n",
