@@ -7,6 +7,15 @@
 	"items": [
 		
 			{
+				"id": "http://gregmoore.micro.blog/2026/07/14/the-gate-swings-open-and.html",
+				
+				"content_html": "<p>The gate swings open and the dungeon reveals itself before you…</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "The gate swings open and the dungeon reveals itself before you…\n\n<img src=\"uploads/2026/c62dac17f0.jpg\" width=\"450\" height=\"600\" alt=\"A tabby cat is sitting inside a pink and black pet carrier with the door open.\">\n",
+				"date_published": "2026-07-14T16:49:11-04:00",
+				"url": "https://blog.gregmoore.me/2026/07/14/the-gate-swings-open-and.html",
+				"tags": ["photos","cats"]
+			},
+			{
 				"id": "http://gregmoore.micro.blog/2026/07/09/the-number-of-personal-projects.html",
 				
 				"content_html": "<p>The number of personal projects that AI has killed continues unabated.</p>\n",
@@ -46,7 +55,7 @@
 				"id": "http://gregmoore.micro.blog/2026/06/29/ascension.html",
 				
 				"content_html": "<p>Ascension</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Ascension\n\n<img src=\"uploads/2026/40e860d543.jpg\" width=\"495\" height=\"600\" alt=\"A curved staircase with a metal railing is positioned in a bright, airy interior featuring arched stained glass windows and ornate architectural details.\">\n",
+				"content_text": "Ascension\n\n<img src=\"https://cdn.uploads.micro.blog/5332/2026/40e860d543.jpg\" width=\"495\" height=\"600\" alt=\"A curved staircase with a metal railing is positioned in a bright, airy interior featuring arched stained glass windows and ornate architectural details.\">\n",
 				"date_published": "2026-06-29T22:59:35-04:00",
 				"url": "https://blog.gregmoore.me/2026/06/29/ascension.html",
 				"tags": ["photos"]
