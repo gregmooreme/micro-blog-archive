@@ -7,6 +7,15 @@
 	"items": [
 		
 			{
+				"id": "http://gregmoore.micro.blog/2026/07/23/these-cooling-winds-are-quite.html",
+				
+				"content_html": "<p>These cooling winds are quite welcome in July.</p>\n<img src=\"uploads/2026/889831c688.jpg\" width=\"450\" height=\"600\" alt=\"A sky filled with wispy clouds illuminated by soft hues of pink and orange during sunset or sunrise.\">\n",
+				"content_text": "These cooling winds are quite welcome in July.\n\n<img src=\"uploads/2026/889831c688.jpg\" width=\"450\" height=\"600\" alt=\"A sky filled with wispy clouds illuminated by soft hues of pink and orange during sunset or sunrise.\">\n",
+				"date_published": "2026-07-23T07:49:33-04:00",
+				"url": "https://blog.gregmoore.me/2026/07/23/these-cooling-winds-are-quite.html",
+				"tags": ["photos"]
+			},
+			{
 				"id": "http://gregmoore.micro.blog/2026/07/20/if-we-allow-these-ai.html",
 				
 				"content_html": "<blockquote>\n<p>If we allow these [AI] tools to dictate our visual culture, we must accept that it will be vitrified by machines which consider a few billion webpages equivalent to the sum total of human existence. I don’t accept that. How dare we abandon so many countless traditions and people and ideas and nuances, simply because they are under­represented in the training data?</p>\n</blockquote>\n<ul>\n<li>Rutherford Craze, <a href=\"https://mass-driver.com/article/from-human-hands\">From Human Hands</a></li>\n</ul>\n",
@@ -45,8 +54,8 @@
 			{
 				"id": "http://gregmoore.micro.blog/2026/07/08/backyard-bounty.html",
 				
-				"content_html": "<p>Backyard Bounty</p>\n<img src=\"uploads/2026/e4af968958.jpg\" width=\"600\" height=\"600\" alt=\"A clear glass bowl contains a mix of ripe red and unripe green cherry tomatoes on a granite countertop.\">\n",
-				"content_text": "Backyard Bounty\n\n<img src=\"uploads/2026/e4af968958.jpg\" width=\"600\" height=\"600\" alt=\"A clear glass bowl contains a mix of ripe red and unripe green cherry tomatoes on a granite countertop.\">\n",
+				"content_html": "<p>Backyard Bounty</p>\n<img src=\"https://cdn.uploads.micro.blog/5332/2026/e4af968958.jpg\" width=\"600\" height=\"600\" alt=\"A clear glass bowl contains a mix of ripe red and unripe green cherry tomatoes on a granite countertop.\">\n",
+				"content_text": "Backyard Bounty\n\n<img src=\"https://cdn.uploads.micro.blog/5332/2026/e4af968958.jpg\" width=\"600\" height=\"600\" alt=\"A clear glass bowl contains a mix of ripe red and unripe green cherry tomatoes on a granite countertop.\">\n",
 				"date_published": "2026-07-08T17:38:50-04:00",
 				"url": "https://blog.gregmoore.me/2026/07/08/backyard-bounty.html",
 				"tags": ["photos"]
