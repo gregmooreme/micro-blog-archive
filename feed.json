@@ -7,6 +7,15 @@
 	"items": [
 		
 			{
+				"id": "http://gregmoore.micro.blog/2026/07/26/after-decades-of-being-buried.html",
+				
+				"content_html": "<p>After decades of being buried beneath a shitty parking lot, like a lifted curse, the failed racetrack’s demolition has finally allowed the river to rejoin the world.</p>\n<img src=\"uploads/2026/a2f2e290cf.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_text": "After decades of being buried beneath a shitty parking lot, like a lifted curse, the failed racetrack’s demolition has finally allowed the river to rejoin the world.\n\n\n<img src=\"uploads/2026/a2f2e290cf.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"date_published": "2026-07-26T23:52:04-04:00",
+				"url": "https://blog.gregmoore.me/2026/07/26/after-decades-of-being-buried.html",
+				"tags": ["photos"]
+			},
+			{
 				"id": "http://gregmoore.micro.blog/2026/07/24/it-wouldve-been-a-hugely.html",
 				
 				"content_html": "<blockquote>\n<p>It would’ve been a hugely valuable lesson years ago, to realize that it’s not simply that my journals and sketchpads don’t <em>need</em> to be perfect. It’s best when they’re not!</p>\n</blockquote>\n<ul>\n<li>Chuck Jordan, <a href=\"https://spectrecollie.com/2026/06/10/semi-precious-paper/\">Semi-Precious Paper</a></li>\n</ul>\n<p>I love Chuck’s attitude towards keeping unfocused and messy journals. Much like the photos I share on this blog, the process is the whole point.</p>\n",
@@ -45,8 +54,8 @@
 			{
 				"id": "http://gregmoore.micro.blog/2026/07/14/the-gate-swings-open-and.html",
 				
-				"content_html": "<p>The gate swings open and the dungeon reveals itself before you…</p>\n<img src=\"uploads/2026/c62dac17f0.jpg\" width=\"450\" height=\"600\" alt=\"A tabby cat is sitting inside a pink and black pet carrier with the door open.\">\n",
-				"content_text": "The gate swings open and the dungeon reveals itself before you…\n\n<img src=\"uploads/2026/c62dac17f0.jpg\" width=\"450\" height=\"600\" alt=\"A tabby cat is sitting inside a pink and black pet carrier with the door open.\">\n",
+				"content_html": "<p>The gate swings open and the dungeon reveals itself before you…</p>\n<img src=\"https://cdn.uploads.micro.blog/5332/2026/c62dac17f0.jpg\" width=\"450\" height=\"600\" alt=\"A tabby cat is sitting inside a pink and black pet carrier with the door open.\">\n",
+				"content_text": "The gate swings open and the dungeon reveals itself before you…\n\n<img src=\"https://cdn.uploads.micro.blog/5332/2026/c62dac17f0.jpg\" width=\"450\" height=\"600\" alt=\"A tabby cat is sitting inside a pink and black pet carrier with the door open.\">\n",
 				"date_published": "2026-07-14T16:49:11-04:00",
 				"url": "https://blog.gregmoore.me/2026/07/14/the-gate-swings-open-and.html",
 				"tags": ["photos","cats"]
