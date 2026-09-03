@@ -7,6 +7,15 @@
 	"items": [
 		
 			{
+				"id": "http://gregmoore.micro.blog/2026/09/03/a-wicked-storm-shot-passed.html",
+				
+				"content_html": "<p>A wicked storm shot passed us last night, filling the sky with so much lightening that I was able to catch a few. I had no clue what settings I should use but my very old camera and I made the best of it.</p>\n<img src=\"uploads/2026/f11ac304-ef98-496d-9fc4-a012cc531b8a.jpg\" width=\"600\" height=\"399\" alt=\"A dark sky is illuminated by a lightning strike partially obscured by clouds.\">\n",
+				"content_text": "A wicked storm shot passed us last night, filling the sky with so much lightening that I was able to catch a few. I had no clue what settings I should use but my very old camera and I made the best of it.\n\n<img src=\"uploads/2026/f11ac304-ef98-496d-9fc4-a012cc531b8a.jpg\" width=\"600\" height=\"399\" alt=\"A dark sky is illuminated by a lightning strike partially obscured by clouds.\">\n",
+				"date_published": "2026-09-03T07:38:50-04:00",
+				"url": "https://blog.gregmoore.me/2026/09/03/a-wicked-storm-shot-passed.html",
+				"tags": ["photos","journal"]
+			},
+			{
 				"id": "http://gregmoore.micro.blog/2026/08/31/we-somehow-managed-to-find.html",
 				
 				"content_html": "<p>We somehow managed to find ways to carefully store 12+ years of our daughter’s art but all we’ve really done is buy ourselves time to figure out where even more are going to go when she brings them home.</p>\n<img src=\"uploads/2026/125b1e03-44e9-49c4-8a1a-4c534b0bd583.jpg\" width=\"600\" height=\"450\" alt=\"A vibrant cloud formation tinged with pink and orange hues is set against a clear sky above silhouetted tree tops and the roof of a house at sunset.\">\n",
@@ -45,8 +54,8 @@
 			{
 				"id": "http://gregmoore.micro.blog/2026/08/20/view-atop-sleeping-bear-dunes.html",
 				
-				"content_html": "<p>View atop Sleeping Bear Dunes. The edge of that sand drops waaaaaaaay down to a, “it will cost you a $3,000 rescue helicopter ride if you can’t walk back up yourself” beach.</p>\n<img src=\"uploads/2026/60dbb70f6e.jpg\" width=\"400\" height=\"600\" alt=\"A sandy path at Sleeping Bear Dunes bordered by green trees leads down to a vast, calm body of blue water with a small boat floating in the distance.\">\n",
-				"content_text": "View atop Sleeping Bear Dunes. The edge of that sand drops waaaaaaaay down to a, “it will cost you a $3,000 rescue helicopter ride if you can’t walk back up yourself” beach.\n\n<img src=\"uploads/2026/60dbb70f6e.jpg\" width=\"400\" height=\"600\" alt=\"A sandy path at Sleeping Bear Dunes bordered by green trees leads down to a vast, calm body of blue water with a small boat floating in the distance.\">\n",
+				"content_html": "<p>View atop Sleeping Bear Dunes. The edge of that sand drops waaaaaaaay down to a, “it will cost you a $3,000 rescue helicopter ride if you can’t walk back up yourself” beach.</p>\n<img src=\"https://cdn.uploads.micro.blog/5332/2026/60dbb70f6e.jpg\" width=\"400\" height=\"600\" alt=\"A sandy path at Sleeping Bear Dunes bordered by green trees leads down to a vast, calm body of blue water with a small boat floating in the distance.\">\n",
+				"content_text": "View atop Sleeping Bear Dunes. The edge of that sand drops waaaaaaaay down to a, “it will cost you a $3,000 rescue helicopter ride if you can’t walk back up yourself” beach.\n\n<img src=\"https://cdn.uploads.micro.blog/5332/2026/60dbb70f6e.jpg\" width=\"400\" height=\"600\" alt=\"A sandy path at Sleeping Bear Dunes bordered by green trees leads down to a vast, calm body of blue water with a small boat floating in the distance.\">\n",
 				"date_published": "2026-08-20T18:43:32-04:00",
 				"url": "https://blog.gregmoore.me/2026/08/20/view-atop-sleeping-bear-dunes.html",
 				"tags": ["photos","journal"]
