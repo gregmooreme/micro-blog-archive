@@ -7,6 +7,24 @@
 	"items": [
 		
 			{
+				"id": "http://gregmoore.micro.blog/2026/10/07/you-encounter-some-spooky-characters.html",
+				
+				"content_html": "<p>You encounter some spooky characters on the night’s last haunted train ride at Greenfield Village.</p>\n<img src=\"uploads/2026/06f30e54-d440-4197-a9a9-55207cb131bd.jpg\" width=\"400\" height=\"600\" alt=\"A silhouette of a woman stands in bright yellow-orange smoke at a dark, outdoor train stop.\">\n",
+				"content_text": "You encounter some spooky characters on the night’s last haunted train ride at Greenfield Village.\n\n<img src=\"uploads/2026/06f30e54-d440-4197-a9a9-55207cb131bd.jpg\" width=\"400\" height=\"600\" alt=\"A silhouette of a woman stands in bright yellow-orange smoke at a dark, outdoor train stop.\">\n",
+				"date_published": "2026-10-07T09:42:50-04:00",
+				"url": "https://blog.gregmoore.me/2026/10/07/you-encounter-some-spooky-characters.html",
+				"tags": ["photos","journal"]
+			},
+			{
+				"id": "http://gregmoore.micro.blog/2026/10/06/a-lot-of-people-who.html",
+				
+				"content_html": "<blockquote>\n<p>A lot of people who are less good characters often are just very compassionate, which makes them wonderful people, because <strong>they’re not thermostats, they&rsquo;re thermometers</strong>, they kind of reflect the temperature of the room.</p>\n</blockquote>\n<ul>\n<li>David Perell, <a href=\"https://podcasts.apple.com/us/podcast/how-i-write/id1700171470\">How I Write podcast</a></li>\n</ul>\n",
+				"content_text": "> A lot of people who are less good characters often are just very compassionate, which makes them wonderful people, because **they’re not thermostats, they're thermometers**, they kind of reflect the temperature of the room.\n\n- David Perell, [How I Write podcast](https://podcasts.apple.com/us/podcast/how-i-write/id1700171470)\n",
+				"date_published": "2026-10-06T12:22:59-04:00",
+				"url": "https://blog.gregmoore.me/2026/10/06/a-lot-of-people-who.html",
+				"tags": ["quotes"]
+			},
+			{
 				"id": "http://gregmoore.micro.blog/2026/10/05/so-happy-to-have-a.html",
 				
 				"content_html": "<p>So happy to have a physical copy of both the <em>Over The Garden Wall</em> series and now the soundtrack. I’ll be spinning this all October long.</p>\n<img src=\"uploads/2026/000273a0-61bb-4dbc-bef3-34264f9e3e02.jpg\" width=\"600\" height=\"450\" alt=\"A CD titled Over the Garden Wall, original soundtrack, is partially inserted in a case featuring an illustration of two silhouetted figures inside a lantern against a forest background. \">\n",
@@ -45,8 +63,8 @@
 			{
 				"id": "http://gregmoore.micro.blog/2026/09/21/i-welcom-the-fall-colors.html",
 				
-				"content_html": "<p>I welcome the fall colors and temperatures with open arms.</p>\n<img src=\"uploads/2026/bf774a85-9779-43d0-92eb-8ae5b586629a.jpg\" alt=\"A vibrant sunset sky with pink and purple clouds stretches over silhouetted trees and rooftops.\">\n",
-				"content_text": "I welcome the fall colors and temperatures with open arms.\n\n<img src=\"uploads/2026/bf774a85-9779-43d0-92eb-8ae5b586629a.jpg\" alt=\"A vibrant sunset sky with pink and purple clouds stretches over silhouetted trees and rooftops.\">\n",
+				"content_html": "<p>I welcome the fall colors and temperatures with open arms.</p>\n<img src=\"https://cdn.uploads.micro.blog/5332/2026/bf774a85-9779-43d0-92eb-8ae5b586629a.jpg\" alt=\"A vibrant sunset sky with pink and purple clouds stretches over silhouetted trees and rooftops.\">\n",
+				"content_text": "I welcome the fall colors and temperatures with open arms.\n\n<img src=\"https://cdn.uploads.micro.blog/5332/2026/bf774a85-9779-43d0-92eb-8ae5b586629a.jpg\" alt=\"A vibrant sunset sky with pink and purple clouds stretches over silhouetted trees and rooftops.\">\n",
 				"date_published": "2026-09-21T11:43:38-04:00",
 				"url": "https://blog.gregmoore.me/2026/09/21/i-welcom-the-fall-colors.html",
 				"tags": ["photos"]
