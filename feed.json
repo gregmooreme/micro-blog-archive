@@ -7,6 +7,24 @@
 	"items": [
 		
 			{
+				"id": "http://gregmoore.micro.blog/2026/10/13/these-woods-are-no-place.html",
+				
+				"content_html": "<p>These woods are no place for children.</p>\n<img src=\"uploads/2026/9518566d-8b29-46c4-b713-7652a25f1d9c.jpg\" width=\"400\" height=\"600\" alt=\"A windmill stands silhouetted against the night sky with a single illuminated window.\">\n",
+				"content_text": "These woods are no place for children.\n\n<img src=\"uploads/2026/9518566d-8b29-46c4-b713-7652a25f1d9c.jpg\" width=\"400\" height=\"600\" alt=\"A windmill stands silhouetted against the night sky with a single illuminated window.\">\n",
+				"date_published": "2026-10-13T08:10:06-04:00",
+				"url": "https://blog.gregmoore.me/2026/10/13/these-woods-are-no-place.html",
+				"tags": ["photos"]
+			},
+			{
+				"id": "http://gregmoore.micro.blog/2026/10/10/some-days-are-like-jittery.html",
+				
+				"content_html": "<blockquote>\n<p>Some days are like jittery, malicious clockwork — sometimes things freeze mid-movement and we age several years in a few seconds.</p>\n</blockquote>\n<ul>\n<li>Simon Stålenhag, <a href=\"https://simonstalenhag.se/tftl.html\">Tales from The Loop</a></li>\n</ul>\n",
+				"content_text": "> Some days are like jittery, malicious clockwork — sometimes things freeze mid-movement and we age several years in a few seconds.\n\n- Simon Stålenhag, [Tales from The Loop](https://simonstalenhag.se/tftl.html)\n",
+				"date_published": "2026-10-10T12:41:21-04:00",
+				"url": "https://blog.gregmoore.me/2026/10/10/some-days-are-like-jittery.html",
+				"tags": ["quotes"]
+			},
+			{
 				"id": "http://gregmoore.micro.blog/2026/10/09/my-camera-sensor-couldnt-handle.html",
 				
 				"content_html": "<p>My camera sensor couldn’t handle this morning’s sunrise with my maple tree in full autumnal glory. Wonderfully happy accidents.</p>\n<img src=\"uploads/2026/c55dd832-d732-4bd5-a325-06b9685b7352.jpg\" width=\"600\" height=\"450\" alt=\"A large tree silhouette stands against a colorful sky transitioning from purple to orange at sunset.\">\n",
@@ -45,8 +63,8 @@
 			{
 				"id": "http://gregmoore.micro.blog/2026/10/05/so-happy-to-have-a.html",
 				
-				"content_html": "<p>So happy to have a physical copy of both the <em>Over The Garden Wall</em> series and now the soundtrack. I’ll be spinning this all October long.</p>\n<img src=\"uploads/2026/000273a0-61bb-4dbc-bef3-34264f9e3e02.jpg\" width=\"600\" height=\"450\" alt=\"A CD titled Over the Garden Wall, original soundtrack, is partially inserted in a case featuring an illustration of two silhouetted figures inside a lantern against a forest background. \">\n",
-				"content_text": "So happy to have a physical copy of both the _Over The Garden Wall_ series and now the soundtrack. I’ll be spinning this all October long.\n\n\n<img src=\"uploads/2026/000273a0-61bb-4dbc-bef3-34264f9e3e02.jpg\" width=\"600\" height=\"450\" alt=\"A CD titled Over the Garden Wall, original soundtrack, is partially inserted in a case featuring an illustration of two silhouetted figures inside a lantern against a forest background. \">\n",
+				"content_html": "<p>So happy to have a physical copy of both the <em>Over The Garden Wall</em> series and now the soundtrack. I’ll be spinning this all October long.</p>\n<img src=\"https://cdn.uploads.micro.blog/5332/2026/000273a0-61bb-4dbc-bef3-34264f9e3e02.jpg\" width=\"600\" height=\"450\" alt=\"A CD titled Over the Garden Wall, original soundtrack, is partially inserted in a case featuring an illustration of two silhouetted figures inside a lantern against a forest background. \">\n",
+				"content_text": "So happy to have a physical copy of both the _Over The Garden Wall_ series and now the soundtrack. I’ll be spinning this all October long.\n\n\n<img src=\"https://cdn.uploads.micro.blog/5332/2026/000273a0-61bb-4dbc-bef3-34264f9e3e02.jpg\" width=\"600\" height=\"450\" alt=\"A CD titled Over the Garden Wall, original soundtrack, is partially inserted in a case featuring an illustration of two silhouetted figures inside a lantern against a forest background. \">\n",
 				"date_published": "2026-10-05T19:12:56-04:00",
 				"url": "https://blog.gregmoore.me/2026/10/05/so-happy-to-have-a.html",
 				"tags": ["photos","journal"]
@@ -81,8 +99,8 @@
 			{
 				"id": "http://gregmoore.micro.blog/2026/09/21/i-welcom-the-fall-colors.html",
 				
-				"content_html": "<p>I welcome the fall colors and temperatures with open arms.</p>\n<img src=\"https://cdn.uploads.micro.blog/5332/2026/bf774a85-9779-43d0-92eb-8ae5b586629a.jpg\" alt=\"A vibrant sunset sky with pink and purple clouds stretches over silhouetted trees and rooftops.\">\n",
-				"content_text": "I welcome the fall colors and temperatures with open arms.\n\n<img src=\"https://cdn.uploads.micro.blog/5332/2026/bf774a85-9779-43d0-92eb-8ae5b586629a.jpg\" alt=\"A vibrant sunset sky with pink and purple clouds stretches over silhouetted trees and rooftops.\">\n",
+				"content_html": "<p>I welcome the fall colors and temperatures with open arms.</p>\n<img src=\"uploads/2026/bf774a85-9779-43d0-92eb-8ae5b586629a.jpg\" alt=\"A vibrant sunset sky with pink and purple clouds stretches over silhouetted trees and rooftops.\">\n",
+				"content_text": "I welcome the fall colors and temperatures with open arms.\n\n<img src=\"uploads/2026/bf774a85-9779-43d0-92eb-8ae5b586629a.jpg\" alt=\"A vibrant sunset sky with pink and purple clouds stretches over silhouetted trees and rooftops.\">\n",
 				"date_published": "2026-09-21T11:43:38-04:00",
 				"url": "https://blog.gregmoore.me/2026/09/21/i-welcom-the-fall-colors.html",
 				"tags": ["photos"]
