@@ -7,6 +7,15 @@
 	"items": [
 		
 			{
+				"id": "http://gregmoore.micro.blog/2026/10/22/ikea-has-this-empty-funhouse.html",
+				
+				"content_html": "<p>Ikea has this empty, funhouse booth set up for some kind of Xbox cross promotion. My wife asked, “Why is it empty?!”<br>\nI cheekily replied, “Maybe Microsoft laid off their products too?”</p>\n<img src=\"uploads/2026/c3d2da1a-1049-4654-9314-8a13bef2e4a5.jpg\" width=\"450\" height=\"600\" alt=\"A person wearing a checkered shirt is taking a photo in a room filled with vertical green neon lights and multiple mirrors that create infinite reflections.\">\n",
+				"content_text": "Ikea has this empty, funhouse booth set up for some kind of Xbox cross promotion. My wife asked, “Why is it empty?!”  \nI cheekily replied, “Maybe Microsoft laid off their products too?”\n\n<img src=\"uploads/2026/c3d2da1a-1049-4654-9314-8a13bef2e4a5.jpg\" width=\"450\" height=\"600\" alt=\"A person wearing a checkered shirt is taking a photo in a room filled with vertical green neon lights and multiple mirrors that create infinite reflections.\">\n",
+				"date_published": "2026-10-22T22:43:42-04:00",
+				"url": "https://blog.gregmoore.me/2026/10/22/ikea-has-this-empty-funhouse.html",
+				"tags": ["photos","journal"]
+			},
+			{
 				"id": "http://gregmoore.micro.blog/2026/10/20/lorch-hall-in-the-fall.html",
 				
 				"content_html": "<p>Lorch Hall, in the fall, showing the beauty of it all.</p>\n<img src=\"uploads/2026/beccd1ae-a50d-4d3d-a5e1-5e085c918374.jpg\" width=\"600\" height=\"450\" alt=\"A stone building with Gothic architectural elements is set against a clear blue sky, surrounded by green grass, street lamps, and autumn trees with red and orange leaves.\">\n",
@@ -54,8 +63,8 @@
 			{
 				"id": "http://gregmoore.micro.blog/2026/10/09/my-camera-sensor-couldnt-handle.html",
 				
-				"content_html": "<p>My camera sensor couldn’t handle this morning’s sunrise with my maple tree in full autumnal glory. Wonderfully happy accidents.</p>\n<img src=\"uploads/2026/c55dd832-d732-4bd5-a325-06b9685b7352.jpg\" width=\"600\" height=\"450\" alt=\"A large tree silhouette stands against a colorful sky transitioning from purple to orange at sunset.\">\n",
-				"content_text": "My camera sensor couldn’t handle this morning’s sunrise with my maple tree in full autumnal glory. Wonderfully happy accidents.\n\n<img src=\"uploads/2026/c55dd832-d732-4bd5-a325-06b9685b7352.jpg\" width=\"600\" height=\"450\" alt=\"A large tree silhouette stands against a colorful sky transitioning from purple to orange at sunset.\">\n",
+				"content_html": "<p>My camera sensor couldn’t handle this morning’s sunrise with my maple tree in full autumnal glory. Wonderfully happy accidents.</p>\n<img src=\"https://cdn.uploads.micro.blog/5332/2026/c55dd832-d732-4bd5-a325-06b9685b7352.jpg\" width=\"600\" height=\"450\" alt=\"A large tree silhouette stands against a colorful sky transitioning from purple to orange at sunset.\">\n",
+				"content_text": "My camera sensor couldn’t handle this morning’s sunrise with my maple tree in full autumnal glory. Wonderfully happy accidents.\n\n<img src=\"https://cdn.uploads.micro.blog/5332/2026/c55dd832-d732-4bd5-a325-06b9685b7352.jpg\" width=\"600\" height=\"450\" alt=\"A large tree silhouette stands against a colorful sky transitioning from purple to orange at sunset.\">\n",
 				"date_published": "2026-10-09T21:46:08-04:00",
 				"url": "https://blog.gregmoore.me/2026/10/09/my-camera-sensor-couldnt-handle.html",
 				"tags": ["photos","journal"]
@@ -126,8 +135,8 @@
 			{
 				"id": "http://gregmoore.micro.blog/2026/09/21/i-welcom-the-fall-colors.html",
 				
-				"content_html": "<p>I welcome the fall colors and temperatures with open arms.</p>\n<img src=\"uploads/2026/bf774a85-9779-43d0-92eb-8ae5b586629a.jpg\" alt=\"A vibrant sunset sky with pink and purple clouds stretches over silhouetted trees and rooftops.\">\n",
-				"content_text": "I welcome the fall colors and temperatures with open arms.\n\n<img src=\"uploads/2026/bf774a85-9779-43d0-92eb-8ae5b586629a.jpg\" alt=\"A vibrant sunset sky with pink and purple clouds stretches over silhouetted trees and rooftops.\">\n",
+				"content_html": "<p>I welcome the fall colors and temperatures with open arms.</p>\n<img src=\"https://cdn.uploads.micro.blog/5332/2026/bf774a85-9779-43d0-92eb-8ae5b586629a.jpg\" alt=\"A vibrant sunset sky with pink and purple clouds stretches over silhouetted trees and rooftops.\">\n",
+				"content_text": "I welcome the fall colors and temperatures with open arms.\n\n<img src=\"https://cdn.uploads.micro.blog/5332/2026/bf774a85-9779-43d0-92eb-8ae5b586629a.jpg\" alt=\"A vibrant sunset sky with pink and purple clouds stretches over silhouetted trees and rooftops.\">\n",
 				"date_published": "2026-09-21T11:43:38-04:00",
 				"url": "https://blog.gregmoore.me/2026/09/21/i-welcom-the-fall-colors.html",
 				"tags": ["photos"]
