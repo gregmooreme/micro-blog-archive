@@ -7,6 +7,33 @@
 	"items": [
 		
 			{
+				"id": "http://gregmoore.micro.blog/2026/10/28/was-that-a-wolf-howling.html",
+				
+				"content_html": "<p>Was that a wolf howling in the distance?</p>\n<p><img src=\"uploads/2026/08c398f1-5d6e-430f-a985-f0932d6faea6.jpg\" width=\"600\" height=\"400\" alt=\"A bright full moon shines through a dark sky with the silhouette of a small branch and leaves in the foreground.\"><img src=\"uploads/2026/89a745b2-e3ae-4d61-8f14-7e3aae65c14c.jpg\" width=\"600\" height=\"400\" alt=\"\"></p>\n",
+				"content_text": "Was that a wolf howling in the distance?\n\n\n<img src=\"uploads/2026/08c398f1-5d6e-430f-a985-f0932d6faea6.jpg\" width=\"600\" height=\"400\" alt=\"A bright full moon shines through a dark sky with the silhouette of a small branch and leaves in the foreground.\"><img src=\"uploads/2026/89a745b2-e3ae-4d61-8f14-7e3aae65c14c.jpg\" width=\"600\" height=\"400\" alt=\"\">\n",
+				"date_published": "2026-10-28T07:21:47-04:00",
+				"url": "https://blog.gregmoore.me/2026/10/28/was-that-a-wolf-howling.html",
+				"tags": ["photos"]
+			},
+			{
+				"id": "http://gregmoore.micro.blog/2026/10/26/i-see-the-moon-and.html",
+				
+				"content_html": "<p>I see the moon and the moon sees me, underneath the old maple tree.</p>\n<img src=\"uploads/2026/5b106069-5c02-4a7f-9e16-e309482694a3.jpg\" width=\"600\" height=\"399\" alt=\"A large, bright full moon is visible in the clear evening sky above the silhouette of tree branches.\">\n",
+				"content_text": "I see the moon and the moon sees me, underneath the old maple tree.\n\n<img src=\"uploads/2026/5b106069-5c02-4a7f-9e16-e309482694a3.jpg\" width=\"600\" height=\"399\" alt=\"A large, bright full moon is visible in the clear evening sky above the silhouette of tree branches.\">\n",
+				"date_published": "2026-10-26T20:34:56-04:00",
+				"url": "https://blog.gregmoore.me/2026/10/26/i-see-the-moon-and.html",
+				"tags": ["photos"]
+			},
+			{
+				"id": "http://gregmoore.micro.blog/2026/10/26/it-might-be-time-to.html",
+				
+				"content_html": "<blockquote>\n<p>It might be time to recognize that we have solved some software problems, and the reason why all this stuff gets redesigned repeatedly is simply because companies don’t know what to do if these things have been solved already.</p>\n</blockquote>\n<ul>\n<li>Louie Mantia, <a href=\"https://lmnt.me/blog/nothing-left-to-solve.html\">Nothing Left to Solve</a></li>\n</ul>\n",
+				"content_text": "> It might be time to recognize that we have solved some software problems, and the reason why all this stuff gets redesigned repeatedly is simply because companies don’t know what to do if these things have been solved already.\n\n- Louie Mantia, [Nothing Left to Solve](https://lmnt.me/blog/nothing-left-to-solve.html)\n",
+				"date_published": "2026-10-26T16:05:26-04:00",
+				"url": "https://blog.gregmoore.me/2026/10/26/it-might-be-time-to.html",
+				"tags": ["quotes"]
+			},
+			{
 				"id": "http://gregmoore.micro.blog/2026/10/26/the-neighbors-might-be-very.html",
 				
 				"content_html": "<p>The neighbors might be very old but they sure are welcoming.</p>\n<img src=\"uploads/2026/98c04b98-d1da-4ed8-9d86-11b6a1e56860.jpg\" width=\"600\" height=\"400\" alt=\"A charming two-story house with a large front porch is surrounded by autumn trees and shrubbery. Two skeletons sit on the porch, waving.\">\n",
@@ -27,8 +54,8 @@
 			{
 				"id": "http://gregmoore.micro.blog/2026/10/20/lorch-hall-in-the-fall.html",
 				
-				"content_html": "<p>Lorch Hall, in the fall, showing the beauty of it all.</p>\n<img src=\"uploads/2026/beccd1ae-a50d-4d3d-a5e1-5e085c918374.jpg\" width=\"600\" height=\"450\" alt=\"A stone building with Gothic architectural elements is set against a clear blue sky, surrounded by green grass, street lamps, and autumn trees with red and orange leaves.\">\n",
-				"content_text": "Lorch Hall, in the fall, showing the beauty of it all.\n\n<img src=\"uploads/2026/beccd1ae-a50d-4d3d-a5e1-5e085c918374.jpg\" width=\"600\" height=\"450\" alt=\"A stone building with Gothic architectural elements is set against a clear blue sky, surrounded by green grass, street lamps, and autumn trees with red and orange leaves.\">\n",
+				"content_html": "<p>Lorch Hall, in the fall, showing the beauty of it all.</p>\n<img src=\"https://cdn.uploads.micro.blog/5332/2026/beccd1ae-a50d-4d3d-a5e1-5e085c918374.jpg\" width=\"600\" height=\"450\" alt=\"A stone building with Gothic architectural elements is set against a clear blue sky, surrounded by green grass, street lamps, and autumn trees with red and orange leaves.\">\n",
+				"content_text": "Lorch Hall, in the fall, showing the beauty of it all.\n\n<img src=\"https://cdn.uploads.micro.blog/5332/2026/beccd1ae-a50d-4d3d-a5e1-5e085c918374.jpg\" width=\"600\" height=\"450\" alt=\"A stone building with Gothic architectural elements is set against a clear blue sky, surrounded by green grass, street lamps, and autumn trees with red and orange leaves.\">\n",
 				"date_published": "2026-10-20T17:38:36-04:00",
 				"url": "https://blog.gregmoore.me/2026/10/20/lorch-hall-in-the-fall.html",
 				"tags": ["photos"]
@@ -36,8 +63,8 @@
 			{
 				"id": "http://gregmoore.micro.blog/2026/10/17/autumns-beauty-continues-to-fill.html",
 				
-				"content_html": "<p>Autumn’s beauty continues to fill my walks with joy.</p>\n<img src=\"uploads/2026/50245929-ce59-4903-9778-a83c1da3d142.jpg\" width=\"400\" height=\"600\" alt=\"A quiet suburban street is lined with trees displaying vibrant autumn foliage under a cloudy sky.\">\n",
-				"content_text": "Autumn’s beauty continues to fill my walks with joy.\n\n<img src=\"uploads/2026/50245929-ce59-4903-9778-a83c1da3d142.jpg\" width=\"400\" height=\"600\" alt=\"A quiet suburban street is lined with trees displaying vibrant autumn foliage under a cloudy sky.\">\n",
+				"content_html": "<p>Autumn’s beauty continues to fill my walks with joy.</p>\n<img src=\"https://cdn.uploads.micro.blog/5332/2026/50245929-ce59-4903-9778-a83c1da3d142.jpg\" width=\"400\" height=\"600\" alt=\"A quiet suburban street is lined with trees displaying vibrant autumn foliage under a cloudy sky.\">\n",
+				"content_text": "Autumn’s beauty continues to fill my walks with joy.\n\n<img src=\"https://cdn.uploads.micro.blog/5332/2026/50245929-ce59-4903-9778-a83c1da3d142.jpg\" width=\"400\" height=\"600\" alt=\"A quiet suburban street is lined with trees displaying vibrant autumn foliage under a cloudy sky.\">\n",
 				"date_published": "2026-10-17T16:16:48-04:00",
 				"url": "https://blog.gregmoore.me/2026/10/17/autumns-beauty-continues-to-fill.html",
 				"tags": ["photos","journal"]
